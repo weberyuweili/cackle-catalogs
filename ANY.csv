@@ -3,7 +3,7 @@
 3S600AU,Eaton 3S 600VA / 360W Standby Powerboard UPS,Eaton 3S 600VA / 360W Standby Powerboard UPS,0,150,Eaton,UPS,3S600AU,7.43172E+24
 3S850AU,Eaton 3S 850VA / 510W Standby Powerboard UPS,Eaton 3S 850VA / 510W Standby Powerboard UPS,0,173,Eaton,UPS,3S850AU,7.43172E+11
 5E1200UIAU,"Eaton 5E Gen 2, UPS 1200VA/660W 3 x ANZ OUTLETS, Fan","Eaton 5E Gen 2, UPS 1200VA/660W 3 x ANZ OUTLETS, Fan",3,171,Eaton,UPS,5E1200UIAU,3.55334E+12
-5E1600UIAU,"Eaton 5E Gen 2, UPS 1600VA/900W 3 x ANZ OUTLETS, Fan","Eaton 5E Gen 2, UPS 1600VA/900W 3 x ANZ OUTLETS, Fan",0,214.99,Eaton,UPS,5E1600UIAU,3.55334E+12
+5E1600UIAU,"Eaton 5E Gen 2, UPS 1600VA/900W 3 x ANZ OUTLETS, Fan","Eaton 5E Gen 2, UPS 1600VA/900W 3 x ANZ OUTLETS, Fan",2,214.99,Eaton,UPS,5E1600UIAU,3.55334E+12
 5E700UIAU,"Eaton 5E Gen 2, UPS 700VA/360W 2 x ANZ OUTLETS, no Fan","Eaton 5E Gen 2, UPS 700VA/360W 2 x ANZ OUTLETS, no Fan",3,86,Eaton,UPS,5E700UIAU,3.55334E+12
 5E900UIAU,"Eaton 5E Gen 2 UPS 900VA/480W 2 x ANZ OUTLETS, no Fan","Eaton 5E Gen 2 UPS 900VA/480W 2 x ANZ OUTLETS, no Fan",2,106,Eaton,UPS,5E900UIAU,3.55334E+12
 5P850AU,Eaton 5P 850VA / 600W Tower UPS with LCD,Eaton 5P 850VA / 600W Tower UPS with LCD,1,706,Eaton,UPS,5P850AU,7.43172E+11
@@ -80,13 +80,13 @@ BT-LCD201,2 Piece LCD Wall Mount Vesa 75mm/100mm up to 33 Kg,2 Piece LCD Wall Mo
 BT-LCDT9,Dual (2) LCD Monitor Table Stand w/Arm & Desk Clamp Up to 23 Black,Dual (2) LCD Monitor Table Stand w/Arm & Desk Clamp Up to 23 Black,71,78.5,LUMI,VIDEO PRODUCTS,LCD-T9,9.34176E+12
 BT-LDT02-C012,"Single Flexi Arm Monitor Mount Up to 27""","Single Flexi Arm Monitor Mount Up to 27""",2,63.3,LUMI,Audio and Visual Products,LCD-LDT02-C012,9.34176E+12
 BT-LDT02-C024,"Elegant Aluminum Dual Monitor Arm to 13""-27"" ","Elegant Aluminum Dual Monitor Arm to 13""-27"" ",97,79.4,LUMI,Audio and Visual Products,LCD-LDT02-C024,9.34176E+12
-BT-LDT06-C02,"Outstanding Dual LCD Desk Mounts with Desk Clamp VESA 75/100mm Up to 27""","Outstanding Dual LCD Desk Mounts with Desk Clamp VESA 75/100mm Up to 27""",123,81.4,LUMI,ACCESSORIES,LDT06-C02,9.34176E+12
+BT-LDT06-C02,"Outstanding Dual LCD Desk Mounts with Desk Clamp VESA 75/100mm Up to 27""","Outstanding Dual LCD Desk Mounts with Desk Clamp VESA 75/100mm Up to 27""",122,81.4,LUMI,ACCESSORIES,LDT06-C02,9.34176E+12
 BT-LDT06-C03,"TV desk mount, black+silver. Fit for most 13""-27"" LCD monitors and screens","TV desk mount, black+silver. Fit for most 13""-27"" LCD monitors and screens",0,90,LUMI,Audio and Visual Products,LDT06-C03,9.34176E+12
 BT-LDT08-T01,"Essential Single Monitor Desktop Stand. Fit for most 13""-27"" LCD monitors and screens","Essential Single Monitor Desktop Stand. Fit for most 13""-27"" LCD monitors and screens",102,50.5,LUMI,Audio and Visual Products,LDT08-T01,9.34176E+12
 BT-LDT10-C012,Single Aluminium Interactive Counterbalance Single Monitor Arm 13’’-32’’,Single Aluminium Interactive Counterbalance Single Monitor Arm 13’’-32’’,31,62.1,LUMI,ACCESSORIES,LDT10-C012,9.34176E+12
-BT-LDT10-C024,Dual Aluminum Interactive Counterbalance Monitor Arm for most 13-32 LCD Monitors,Dual Aluminum Interactive Counterbalance Monitor Arm for most 13-32 LCD Monitors,181,102,LUMI,ACCESSORIES,DTM10-C024,9.34176E+12
+BT-LDT10-C024,Dual Aluminum Interactive Counterbalance Monitor Arm for most 13-32 LCD Monitors,Dual Aluminum Interactive Counterbalance Monitor Arm for most 13-32 LCD Monitors,179,102,LUMI,ACCESSORIES,DTM10-C024,9.34176E+12
 BT-LDT11-C012,"Aluminum LCD VESA Desk Mounts for LCD Screen Size 13""-27""","Aluminum LCD VESA Desk Mounts for LCD Screen Size 13""-27""",0,49.95,LUMI,Audio and Visual Products,LDT11-C012,9.34176E+12
-BT-LDT11-C024,"Aluminum LCD VESA Desk Mounts for LCD Screen Size 13""-27"" (dual)","Aluminum LCD VESA Desk Mounts for LCD Screen Size 13""-27"" (dual)",390,57,LUMI,Audio and Visual Products,LDT11-C024,9.34176E+12
+BT-LDT11-C024,"Aluminum LCD VESA Desk Mounts for LCD Screen Size 13""-27"" (dual)","Aluminum LCD VESA Desk Mounts for LCD Screen Size 13""-27"" (dual)",383,57,LUMI,Audio and Visual Products,LDT11-C024,9.34176E+12
 BT-LDT12-C024N,Economy Dual Monitor Steel Monitor Arm 13’’-32’’,Economy Dual Monitor Steel Monitor Arm 13’’-32’’,956,59.8,LUMI,ACCESSORIES,LDT12-C024N,9.34176E+12
 BT-LDT12-C048N,Economy Quad Monitor Steel Monitor Arm 13´+¢´+¢-32´+¢´+¢,Economy Quad Monitor Steel Monitor Arm 13´+¢´+¢-32´+¢´+¢,92,40.5,LUMI,ACCESSORIES,DTM12-C048N,9.42007E+12
 BT-LDT16-C024,"Gas Spring Dual Monitor Arm for 17""-32""","Gas Spring Dual Monitor Arm for 17""-32""",79,99,LUMI,ACCESSORIES,LDT16-C024,9.34176E+12
@@ -198,7 +198,7 @@ CFAN-ANT-VO240,Antec Vortex 240 ARGB  water cooling system,Antec Vortex 240 ARG
 CFAN-ANT-VO360,"
 Antec Vortex 360 ARGB  water cooling system","
 Antec Vortex 360 ARGB  water cooling system",6,177.3,Antec,Cooling - Water Cooling,CFAN-ANT-VO360,"0-761345-74047-0,0761345740470"
-CFAN-ARGB-CONTROLLER,Deepcool ARGB Controller with remote ARGB control,Deepcool ARGB Controller with remote ARGB control,42,11,DEEPCOOL,Cooling - Cooling Fan,DP-MG-CTR-A-RGB-RMT,6.93341E+12
+CFAN-ARGB-CONTROLLER,Deepcool ARGB Controller with remote ARGB control,Deepcool ARGB Controller with remote ARGB control,41,11,DEEPCOOL,Cooling - Cooling Fan,DP-MG-CTR-A-RGB-RMT,6.93341E+12
 CFAN-CASTLE240EX-ARGB,Deepcool Castle 240EX A-RGB  V2 AIO Liquid Cooler,Deepcool Castle 240EX A-RGB  V2 AIO Liquid Cooler,28,138,DEEPCOOL,Cooling - Water Cooling,DP-GS-H12W-CSL240EX-AR,6.93341E+12
 CFAN-CASTLE360EX-ARGB-WH,Deepcool Castle 360EX A-RGB AIO Liquid Cooler White,Deepcool Castle 360EX A-RGB AIO Liquid Cooler White,0,165.6,DEEPCOOL,Cooling - CPU Cooling,DP-GS-H12W-CSL360EX-AR-WH,6.93341E+12
 CFAN-CF120PLUS-3P,"Deepcool CF120  Plus 3 In 1 Customisable Dual Ring RGB LED Fans, 120mm (3-Pack)","Deepcool CF120  Plus 3 In 1 Customisable Dual Ring RGB LED Fans, 120mm (3-Pack)",0,74.1,DEEPCOOL,ACCESSORIES,DP-F12-AR-CF120P-3P,6.93341E+12
@@ -263,7 +263,7 @@ GC-HDMIDVI,HDMI Female to DVI-D Male Adapter,HDMI Female to DVI-D Male Adapter,1
 GC-MDPHDMI,Mini DisplayPort to HDMI Adapter Cable L=20CM,Mini DisplayPort to HDMI Adapter Cable L=20CM,9,7.2,8WARE,Audio and Visual Products,GC-MDPHDMI,9.34176E+12
 GEA-HS1-THSSIL-01,Thermaltake ARGENT HS1 Headset Stand,Thermaltake ARGENT HS1 Headset Stand,2,142.83,THERMALTAKE,ACCESSORIES,GEA-HS1-THSSIL-01,4.71323E+12
 GHT-THF-ANECBK-30,Thermaltake Argent H5 PC/XB1/PS4 Headset,Thermaltake Argent H5 PC/XB1/PS4 Headset,87,90.7,THERMALTAKE,ACCESSORIES,GHT-THF-ANECBK-30,4.71323E+12
-HFUD032-1U1BA,HP MicroSD U1 32GB,HP MicroSD U1 32GB,25,10.42,HP,Storage,HFUD032-1U1BA,4.71285E+12
+HFUD032-1U1BA,HP MicroSD U1 32GB,HP MicroSD U1 32GB,0,10.42,HP,Storage,HFUD032-1U1BA,4.71285E+12
 HFUD064-1U1BA,HP MicroSD U1 64GB,HP MicroSD U1 64GB,24,18.26,HP,Storage,HFUD064-1U1BA,4.71285E+12
 HFUD128-1U1BA,HP MicroSD U1 128GB,HP MicroSD U1 128GB,9,31.3,HP,Storage,HFUD128-1U1BA,4.71285E+12
 HO-1060PLUS,"Huion 1060plus Black Graphic Tablet 10"" x 6.25""","Huion 1060plus Black Graphic Tablet 10"" x 6.25""",4,110,No Manufacturer,Tablet,1060plus,91t38sh04267
@@ -664,13 +664,13 @@ MB-DOCK-SA01,mbeat USB-C Gaming Dock for Steam Deck & ROG Ally,mbeat USB-C Gamin
 MB-EGE-G59GRY,Edge Go Multifunction USB- C Hub for Microsoft Surface Go Tablet,Edge Go Multifunction USB- C Hub for Microsoft Surface Go Tablet,8,32.8,mbeat,ACCESSORIES,MB-EGE-G59GRY,9.3464E+12
 MB-EGE-P68GRY,Edge Pro P68 Multifunction Hub for Microsoft Surface Pro Gen 5 & Gen 6,Edge Pro P68 Multifunction Hub for Microsoft Surface Pro Gen 5 & Gen 6,7,38.8,mbeat,ACCESSORIES,MB-EGE-P68GRY,9.3464E+12
 MB-FILT-AP01,Mbeat Air Purifer HEPA Replacement Filter,Mbeat Air Purifer HEPA Replacement Filter,17,32.2,mbeat,ACCESSORIES,MB-FILT-AP01,9.3464E+12
-MB-HCR518,mbeat Portable USB 3.0 Hub and Card Reader,mbeat Portable USB 3.0 Hub and Card Reader,26,32,mbeat,HUBS AND CARDREADERS,HCR518,9.3464E+12
+MB-HCR518,mbeat Portable USB 3.0 Hub and Card Reader,mbeat Portable USB 3.0 Hub and Card Reader,24,32,mbeat,HUBS AND CARDREADERS,HCR518,9.3464E+12
 MB-HDMISW41S,mbeat 4 Port Powered HDMI Switch with Remote Control,mbeat 4 Port Powered HDMI Switch with Remote Control,2,29,mbeat,KVM PRODUCTS - KVM,HDMI-SW41S,9.3464E+12
 MB-HPS-01S,"mbeat ""ZACK"" Aluminium Headphone Stand with 3.0 Hub and Audio","mbeat ""ZACK"" Aluminium Headphone Stand with 3.0 Hub and Audio",49,24.9,mbeat,ACCESSORIES,MB-HPS-01S,9.3464E+12
 MB-HUB-E04,mbeat Mountable 4-Port USB-C Hub USB-A X4 with USB-C TO USB-A Adapter,mbeat Mountable 4-Port USB-C Hub USB-A X4 with USB-C TO USB-A Adapter,0,29.3,mbeat,ADAPTORS / CONVERTERS,MB-HUB-E04,9.3464E+12
 MB-HUB-E05,mbeat Mountable 5-Port USB-C Hub USB 3.0 X 2 USB-C X1 USB-C PD X 1 HDMI X1,mbeat Mountable 5-Port USB-C Hub USB 3.0 X 2 USB-C X1 USB-C PD X 1 HDMI X1,20,43.4,mbeat,HUBS AND CARDREADERS,MB-HUB-E05,9.3464E+12
 MB-HUB33E,"mbeat® ""HAMILTON"" 3 Port USB 3.0 Hub with Gigabit Lan for Ultrabook & Mac-Aluminium Design","mbeat® ""HAMILTON"" 3 Port USB 3.0 Hub with Gigabit Lan for Ultrabook & Mac-Aluminium Design",10,24.9,mbeat,USB AND FIREWIRE PRODUCTS,MB-HUB33E,9.3464E+12
-MB-HUB43ST,mbeat STICK4 Port USB 3.0 Hub for Ultrabook & Mac-Aluminium Design,mbeat STICK4 Port USB 3.0 Hub for Ultrabook & Mac-Aluminium Design,18,33.5,mbeat,USB AND FIREWIRE PRODUCTS,MB-HUB43ST,9.3464E+12
+MB-HUB43ST,mbeat STICK4 Port USB 3.0 Hub for Ultrabook & Mac-Aluminium Design,mbeat STICK4 Port USB 3.0 Hub for Ultrabook & Mac-Aluminium Design,12,33.5,mbeat,USB AND FIREWIRE PRODUCTS,MB-HUB43ST,9.3464E+12
 MB-HUB716,mbeat® 7 Prot USB 3.0 x 1 + USB 2.0 x 6 hub with 2.1A smart charging function,mbeat® 7 Prot USB 3.0 x 1 + USB 2.0 x 6 hub with 2.1A smart charging function,6,36.1,mbeat,HUBS AND CARDREADERS,HUB-716,9.3464E+12
 MB-HUB768,mbeat® 7-Port USB 3.0 Aluminium Slim Hub with Power for PC and MAC,mbeat® 7-Port USB 3.0 Aluminium Slim Hub with Power for PC and MAC,11,62.6,mbeat,HUBS AND CARDREADERS,MB-HUB768,9.3464E+12
 MB-ICA-GLD,"mbeat® ""Toughlink"" Gold 1.2m Metal Braided MFI Lightning Cable","mbeat® ""Toughlink"" Gold 1.2m Metal Braided MFI Lightning Cable",0,67.1,mbeat,CABLES,MB-ICA-GLD,9.3464E+12
@@ -726,7 +726,7 @@ MB-USBTR08,mbeat USB Turntable and Cassette to Digital Recorder 2-in-1,mbeat USB
 MB-USBTR128,mbeat® Retro Turntable Recorder with Bluetooth & USB Direct Recording,mbeat® Retro Turntable Recorder with Bluetooth & USB Direct Recording,12,147.9,mbeat,Audio and Visual Products,MB-USBTR128,9.3464E+12
 MB-USBTR68,mbeat Ultra slim USB Turntable Recorder,mbeat Ultra slim USB Turntable Recorder,10,89.8,mbeat,ACCESSORIES,MB-USBTR68,9.3464E+12
 MB-USBTR98,mbeat® Vintage USB Turntable with Bluetooth Speaker and AM/FM Radio,mbeat® Vintage USB Turntable with Bluetooth Speaker and AM/FM Radio,11,147.9,mbeat,Audio and Visual Products,USBTR98,9.3464E+12
-MB-UTC-01,mbeat USB Type-C To USB 3.1 Adapter,mbeat USB Type-C To USB 3.1 Adapter,91,22.8,mbeat,ADAPTORS / CONVERTERS,MB-UTC-01,9.3464E+12
+MB-UTC-01,mbeat USB Type-C To USB 3.1 Adapter,mbeat USB Type-C To USB 3.1 Adapter,88,22.8,mbeat,ADAPTORS / CONVERTERS,MB-UTC-01,9.3464E+12
 MB-UTC-02,mbeat® Attaché Duo Type-C To USB 3.1 Adapter With Type-C Charging Port,mbeat® Attaché Duo Type-C To USB 3.1 Adapter With Type-C Charging Port,24,18.9,mbeat,ADAPTORS / CONVERTERS,MB-UTC-02,9.3464E+12
 MB-UWC-5K,"mbeat Multi Device Gorilla Charge Dock, Power 50W Qi Certified USB & Wireless Charging Dock","mbeat Multi Device Gorilla Charge Dock, Power 50W Qi Certified USB & Wireless Charging Dock",10,75,mbeat,POWER BOARD,MB-UWC-5K,9.3464E+12
 MB-WCS-02,Mbeat Gorilla Power 10W Wireless Car Charger with 2.4A USB Port,Mbeat Gorilla Power 10W Wireless Car Charger with 2.4A USB Port,4,55.8,mbeat,HUBS AND CARDREADERS,MB-WCS-02,9.3464E+12
@@ -842,7 +842,7 @@ PL6A-30GRY,"Cat 6a UTP Ethernet Cable, Snagless  - 30m Grey","Cat 6a UTP Ethern
 PL6A-3BLK,"Cat 6a UTP Ethernet Cable, Snagless  - Black 3M","Cat 6a UTP Ethernet Cable, Snagless  - Black 3M",62,3.2,8WARE,CABLES - CAT6 10/100/1000,PL6A-3BLK,9.34176E+12
 PL6A-3BLU,"Cat 6a UTP Ethernet Cable, Snagless  - 3m Blue","Cat 6a UTP Ethernet Cable, Snagless  - 3m Blue",28,3.2,8WARE,CABLES - CAT6 10/100/1000,PL6A-3BLU,9.34176E+12
 PL6A-3GRN,"Cat 6a UTP Ethernet Cable, Snagless  - 3m Green","Cat 6a UTP Ethernet Cable, Snagless  - 3m Green",228,3.2,8WARE,CABLES - CAT6 10/100/1000,PL6A-3GRN,9.34176E+12
-PL6A-3GRY,"Cat 6a UTP Ethernet Cable, Snagless  - 3m Grey","Cat 6a UTP Ethernet Cable, Snagless  - 3m Grey",38,3.2,8WARE,CABLES - CAT6 10/100/1000,PL6A-3GRY,9.34176E+12
+PL6A-3GRY,"Cat 6a UTP Ethernet Cable, Snagless  - 3m Grey","Cat 6a UTP Ethernet Cable, Snagless  - 3m Grey",35,3.2,8WARE,CABLES - CAT6 10/100/1000,PL6A-3GRY,9.34176E+12
 PL6A-40BLK,"Cat 6a UTP Ethernet Cable, Snagless  - Black 40M","Cat 6a UTP Ethernet Cable, Snagless  - Black 40M",162,29,8WARE,CABLES - CAT6 10/100/1000,PL6A-40BLK,9.42007E+12
 PL6A-40BLU,"Cat 6a UTP Ethernet Cable, Snagless  - Blue 40M","Cat 6a UTP Ethernet Cable, Snagless  - Blue 40M",34,29.2,8WARE,CABLES - CAT6 10/100/1000,PL6A-40BLU,9.34176E+12
 PL6A-40GRN,"Cat 6a UTP Ethernet Cable, Snagless  - 40m Green","Cat 6a UTP Ethernet Cable, Snagless  - 40m Green",69,29.2,8WARE,CABLES - CAT6 10/100/1000,PL6A-40GRN,9.34176E+12
@@ -881,7 +881,7 @@ RAPOO-M10PLUS,Rapoo M10 PLUS wireless optical mouse black,Rapoo M10 PLUS wireles
 RAPOO-M500SILENT,Rapoo M500 SILENT multi-mode Wireless Optical Mouse black,Rapoo M500 SILENT multi-mode Wireless Optical Mouse black,59,23.9,Rapoo,ACCESSORIES,M500SLIENT,6.94006E+12
 RAPOO-MT550,"Rapoo MT550 multi-mode Wireless Optical Mouse black Switch between Bluetooth 3.0, 4.0 and 2.4G","Rapoo MT550 multi-mode Wireless Optical Mouse black Switch between Bluetooth 3.0, 4.0 and 2.4G",24,45.4,Rapoo,MICE - Bluetooth,RAPOO-MT550,6.94006E+25
 RAPOO-MT750S,Rapoo MT750S multi-mode Wireless Optical Mouse black,Rapoo MT750S multi-mode Wireless Optical Mouse black,41,58.4,Rapoo,ACCESSORIES,MT750S,6.94006E+12
-RAPOO-N100,Rapoo N100 Optical Mouse black,Rapoo N100 Optical Mouse black,344,5.9,Rapoo,ACCESSORIES,N100,6.94006E+12
+RAPOO-N100,Rapoo N100 Optical Mouse black,Rapoo N100 Optical Mouse black,343,5.9,Rapoo,ACCESSORIES,N100,6.94006E+12
 RAPOO-N100-WH,Rapoo N100 Optical Mouse white,Rapoo N100 Optical Mouse white,486,5.9,Rapoo,ACCESSORIES,N100WHITE,6.94006E+12
 RAPOO-NK8800,Rapoo NK8800 Ergonomic Wired Keyboard,Rapoo NK8800 Ergonomic Wired Keyboard,0,64.8,Rapoo,KEYBOARDS - Gaming,NK8800,6.94006E+12
 RAPOO-V1,RAPOO V1 Anti-skid fabric Mouse Pad Large,RAPOO V1 Anti-skid fabric Mouse Pad Large,29,5.4,Rapoo,ACCESSORIES,RAPOO-V1,6.94006E+12
@@ -993,7 +993,7 @@ TL-ARCHERMR400,TP-Link Archer MR400 AC1350 Wireless Dual Band 4G LTE Router,TP-L
 TL-ARCHERMR600,"TP-Link OneMesh Archer MR600 4G+ LTE Cat6 Wi-Fi Router, Micro-SIM Card Slot, Cat6 Wi-Fi Router, Micr","TP-Link OneMesh Archer MR600 4G+ LTE Cat6 Wi-Fi Router, Micro-SIM Card Slot, Cat6 Wi-Fi Router, Micr",56,246,TP-LINK,NETWORKING - Wireless Router,ArcherMR600,1.7565E+35
 TL-ARCHERT2E,TP Link AC600 Dual Band Wi-Fi PCI Express Adapter,TP Link AC600 Dual Band Wi-Fi PCI Express Adapter,22,32.4,TP-LINK,NETWORKING - Wireless Adapter,Archer T2E,6.93536E+12
 TL-ARCHERT2U,TP-Link AC600 Wireless Dual Band USB Adapter Archer T2U,TP-Link AC600 Wireless Dual Band USB Adapter Archer T2U,20,40.7,TP-LINK,NETWORKING - Wireless Adapter,ArcherT2U,6.93536E+38
-TL-ARCHERT2U-NANO,TP-Link AC600 Nano Wireless USB Adapter,TP-Link AC600 Nano Wireless USB Adapter,296,36.5,TP-LINK,NETWORKING - Wireless Adapter,ArcherT2UNANO,1.52502E+34
+TL-ARCHERT2U-NANO,TP-Link AC600 Nano Wireless USB Adapter,TP-Link AC600 Nano Wireless USB Adapter,291,36.5,TP-LINK,NETWORKING - Wireless Adapter,ArcherT2UNANO,1.52502E+34
 TL-ARCHERT2U-PLUS,TP-Link AC600 plus Wireless USB Adapter,TP-Link AC600 plus Wireless USB Adapter,8,40.7,TP-LINK,NETWORKING - Wireless Adapter,Archer T2U Plus,6.93536E+12
 TL-ARCHERT3U,TP-LINK T3U AC1300 Mini Wireless MU-MIMO USB Adapter,TP-LINK T3U AC1300 Mini Wireless MU-MIMO USB Adapter,20,42.2,TP-LINK,NETWORKING - Wireless Adapter,Archer T3U,6.93536E+12
 TL-ARCHERT3U-PLUS,TP-Link AC1300 High Gain Wireless Dual Band USB Adapter,TP-Link AC1300 High Gain Wireless Dual Band USB Adapter,2,44.8,TP-LINK,NETWORKING - Wireless Adapter,Archer T3U Plus,6.93536E+12
@@ -1014,14 +1014,16 @@ TL-CPE220,TP-LINK CPE220 2.4GHz 300Mbps 12dBi Outdoor CPE,TP-LINK CPE220 2.4GHz 
 TL-CPE510,TP-Link CPE510 5GHz 300Mbps 13dBi Outdoor CPE,TP-Link CPE510 5GHz 300Mbps 13dBi Outdoor CPE,7,99,TP-LINK,NETWORKING - Wireless AP,CPE510,6.93536E+12
 TL-CPE610,TP-Link CPE610 5GHz 300Mbps 29dB Outdoor CPE,TP-Link CPE610 5GHz 300Mbps 29dB Outdoor CPE,3,133.42,TP-LINK,NETWORKING - Wireless AP,CPE610,6.93536E+12
 TL-DECO VOICE X20-2P,"TP LINK Deco Voice X20(2-pack), AX1800 Mesh Wi-Fi 6 System with Alexa Built-In","TP LINK Deco Voice X20(2-pack), AX1800 Mesh Wi-Fi 6 System with Alexa Built-In",59,540,TP-LINK,NETWORKING - Wireless Router,Deco Voice X20(2-pack),6.93536E+12
+TL-DECOBE65-1P,"TP-Link Deco BE65, BE11000 Whole Home Mesh Wi-Fi 7 System / Router - 1 Pack","TP-Link Deco BE65, BE11000 Whole Home Mesh Wi-Fi 7 System / Router - 1 Pack",0,580.5,TP-LINK,NETWORKING - Wireless Router,Deco BE65(1-pack),4.8971E+12
+TL-DECOBE65-2P,"TP-Link Deco BE65, BE11000 Whole Home Mesh Wi-Fi 7 System / Router - 2 Pack","TP-Link Deco BE65, BE11000 Whole Home Mesh Wi-Fi 7 System / Router - 2 Pack",0,1079,TP-LINK,NETWORKING - Wireless Router,Deco BE65(2-pack),4.8971E+12
 TL-DECOBE65-3P,"TP-Link Deco BE65, BE11000 Whole Home Mesh Wi-Fi 7 System - 3 Pack","TP-Link Deco BE65, BE11000 Whole Home Mesh Wi-Fi 7 System - 3 Pack",0,1495,TP-LINK,NETWORKING - Wireless Router,Deco BE65(3-pack),4.8971E+12
 TL-DECOBE85-3P,TP LINK BE22000 Whole Home Mesh Wi-Fi 7 System(Tri-Band) - 3 Pack,TP LINK BE22000 Whole Home Mesh Wi-Fi 7 System(Tri-Band) - 3 Pack,0,2909,TP-LINK,NETWORKING - Wireless Router,Deco BE85(3-pack),4.8971E+12
 TL-DECOE4-2P,TP-Link Deco E4 AC1200 (2-Pack) Mesh Wi-Fi System,TP-Link Deco E4 AC1200 (2-Pack) Mesh Wi-Fi System,49,148.8,TP-LINK,NETWORKING - Wireless Router,TL-DECOE4-2P,6.93536E+12
 TL-DECOE4-3P,TP-Link Deco E4 AC1200 (3-Pack) Mesh Wi-Fi System,TP-Link Deco E4 AC1200 (3-Pack) Mesh Wi-Fi System,56,207,TP-LINK,NETWORKING - Wireless Router,DecoE4(3-pack),6.93536E+12
-TL-DECOM4-1P,TP-Link Deco M4 AC1200 (1-Pack) Mesh Wi-Fi System,TP-Link Deco M4 AC1200 (1-Pack) Mesh Wi-Fi System,18,107.2,TP-LINK,ACCESSORIES,DecoM4(1-pack),6.93536E+12
+TL-DECOM4-1P,TP-Link Deco M4 AC1200 (1-Pack) Mesh Wi-Fi System,TP-Link Deco M4 AC1200 (1-Pack) Mesh Wi-Fi System,16,107.2,TP-LINK,ACCESSORIES,DecoM4(1-pack),6.93536E+12
 TL-DECOM4-2P,TP-Link Deco M4 AC1200 (2-Pack) Mesh Wi-Fi System,TP-Link Deco M4 AC1200 (2-Pack) Mesh Wi-Fi System,35,190.2,TP-LINK,ACCESSORIES,Deco M4(2-pack),6.93536E+22
 TL-DECOM4-3P,TP-Link Deco M4 AC1200 (3-Pack) Mesh Wi-Fi System,TP-Link Deco M4 AC1200 (3-Pack) Mesh Wi-Fi System,124,248.4,TP-LINK,NETWORKING - Wireless Router,DecoM4(3-pack),6.93536E+12
-TL-DECOM5-1P,TP-Link Deco M5 (1-Pack) Whole-Home Mesh Wi-Fi,TP-Link Deco M5 (1-Pack) Whole-Home Mesh Wi-Fi,11,123.8,TP-LINK,NETWORKING - Wireless Router,DecoM5(1-pack),1.50503E+21
+TL-DECOM5-1P,TP-Link Deco M5 (1-Pack) Whole-Home Mesh Wi-Fi,TP-Link Deco M5 (1-Pack) Whole-Home Mesh Wi-Fi,10,123.8,TP-LINK,NETWORKING - Wireless Router,DecoM5(1-pack),1.50503E+21
 TL-DECOM5-2P,TP-Link Deco M5 (2-Pack) Mesh Wi-Fi System,TP-Link Deco M5 (2-Pack) Mesh Wi-Fi System,239,190.34,TP-LINK,ACCESSORIES,DecoM5(2-pack),1.50503E+31
 TL-DECOM5-3P,TP-Link Deco M5 (3-Pack) Whole-Home Mesh Wi-Fi,TP-Link Deco M5 (3-Pack) Whole-Home Mesh Wi-Fi,189,273.04,TP-LINK,NETWORKING - Wireless Router,DecoM5(3-pack),6.93536E+22
 TL-DECOM9-1P,TP-Link Deco M9 AC2200 (1-Pack) Mesh Wi-Fi System,TP-Link Deco M9 AC2200 (1-Pack) Mesh Wi-Fi System,7,190.2,TP-LINK,ACCESSORIES,DecoM9(1-pack),6.93536E+22
@@ -1031,7 +1033,7 @@ TL-DECOPX50-3P,TP LINK Deco PX50 AX3000 + G1500 Whole Home Powerline Mesh WiFi 6
 TL-DECOX20-1P,"TP-Link Deco X20 Wi-Fi 6 Whole-Home Mesh System - 1 Pack, MU-MIMO, Dual-Band AC1800, Parental Controls, Antivirus, QOS","TP-Link Deco X20 Wi-Fi 6 Whole-Home Mesh System - 1 Pack, MU-MIMO, Dual-Band AC1800, Parental Controls, Antivirus, QOS",1,165.3,TP-LINK,NETWORKING - Wireless Router,TL-DECOX20-1P,6.93536E+12
 TL-DECOX20-2P,TP-Link Deco X20 Wi-Fi 6 Whole-Home Mesh System - 2 Pack,TP-Link Deco X20 Wi-Fi 6 Whole-Home Mesh System - 2 Pack,0,290,TP-LINK,NETWORKING - Wireless Router,DecoX20(2-pack),6.93536E+12
 TL-DECOX20-3P,"TP-Link Deco X20 Wi-Fi 6 Whole-Home Mesh System - 3 Pack, MU-MIMO, Dual-Band AC1800, Parental Controls, Antivirus, QOS","TP-Link Deco X20 Wi-Fi 6 Whole-Home Mesh System - 3 Pack, MU-MIMO, Dual-Band AC1800, Parental Controls, Antivirus, QOS",0,373,TP-LINK,NETWORKING - Wireless Router,Deco X20(3-pack),1.50503E+21
-TL-DECOX20-DSL-2P,"TP Link Deco X20-DSL(2-pack), AX1800 VDSL Whole Home Mesh WiFi 6 System","TP Link Deco X20-DSL(2-pack), AX1800 VDSL Whole Home Mesh WiFi 6 System",43,456,TP-LINK,NETWORKING - Wireless Router,Deco X20-DSL(2-pack),4.8971E+12
+TL-DECOX20-DSL-2P,"TP Link Deco X20-DSL(2-pack), AX1800 VDSL Whole Home Mesh WiFi 6 System","TP Link Deco X20-DSL(2-pack), AX1800 VDSL Whole Home Mesh WiFi 6 System",33,456,TP-LINK,NETWORKING - Wireless Router,Deco X20-DSL(2-pack),4.8971E+12
 TL-DECOX50-4G-1P,TP LINK Deco X50 4G+ AX3000 Whole Home Mesh WiFi 6 Gateway - 1 Pack,TP LINK Deco X50 4G+ AX3000 Whole Home Mesh WiFi 6 Gateway - 1 Pack,0,373.5,TP-LINK,NETWORKING - Wireless Router,Deco X50-4G(1-pack),4.8971E+12
 TL-DECOX50-DSL-1P,TP LINK Deco X50-DSL AX3000 VDSL Whole Home Mesh WiFi 6 Router,TP LINK Deco X50-DSL AX3000 VDSL Whole Home Mesh WiFi 6 Router,0,290,TP-LINK,NETWORKING - Wireless Router,Deco X50-DSL(1-pack),4.8971E+12
 TL-DECOX50-DSL-3P,TP LINK Deco X50-DSL AX3000 VDSL Whole Home Mesh WiFi 6 Router - 3 Pack,TP LINK Deco X50-DSL AX3000 VDSL Whole Home Mesh WiFi 6 Router - 3 Pack,0,539,TP-LINK,NETWORKING - Wireless Router,Deco X50-DSL(3-pack),4.89525E+12
@@ -1039,6 +1041,8 @@ TL-DECOX50-OUTDOOR-1P,"TP-Link Deco X50-Outdoor(1-pack), AX3000 Outdoor / Indoor
 TL-DECOX50-POE-1P,TP LINK Deco X50-POE AX3000 Whole Home Mesh WiFi 6 System with PoE - 1-Pack,TP LINK Deco X50-POE AX3000 Whole Home Mesh WiFi 6 System with PoE - 1-Pack,3,248.5,TP-LINK,NETWORKING - Wireless Router,Deco X50-PoE(1-pack),4.8971E+12
 TL-DECOX50-POE-2P,TP LINK Deco X50-POE AX3000 Whole Home Mesh WiFi 6 System with PoE - 2-Pack,TP LINK Deco X50-POE AX3000 Whole Home Mesh WiFi 6 System with PoE - 2-Pack,6,481,TP-LINK,NETWORKING - Wireless Router,Deco X50-PoE(2-pack),4.8971E+12
 TL-DECOX50-POE-3P,"TP LINK Deco X50-PoE Archer AX55 Pro, AX3000 Multi-Gigabit Wi-Fi 6 Router with 2.5G Port - 3 Pack","TP LINK Deco X50-PoE Archer AX55 Pro, AX3000 Multi-Gigabit Wi-Fi 6 Router with 2.5G Port - 3 Pack",35,665,TP-LINK,NETWORKING - Wireless Router,Deco X50-PoE(3-pack),4.8971E+12
+TL-DECOX50PRO-1P,TP-Link Deco X50 Pro AX3000 Whole Home Mesh Wi-Fi 6 System / Router - 1 Pack,TP-Link Deco X50 Pro AX3000 Whole Home Mesh Wi-Fi 6 System / Router - 1 Pack,0,248,TP-LINK,NETWORKING - Wireless Router,Deco X50 Pro(1-pack),4.89525E+12
+TL-DECOX50PRO-2P,TP-Link Deco X50 Pro AX3000 Whole Home Mesh Wi-Fi 6 System / Router - 2 Pack,TP-Link Deco X50 Pro AX3000 Whole Home Mesh Wi-Fi 6 System / Router - 2 Pack,0,414.5,TP-LINK,NETWORKING - Wireless Router,Deco X50 Pro(2-pack),4.89525E+12
 TL-DECOX50PRO-3P,TP LINK Deco X50 Pro AX3000 Whole Home Mesh WiFi 6 System - 3 Pack,TP LINK Deco X50 Pro AX3000 Whole Home Mesh WiFi 6 System - 3 Pack,10,539,TP-LINK,NETWORKING - Wireless Router,Deco X50 Pro(3-pack),4.89525E+12
 TL-DECOX55-1P,TP Link AX3000 Whole Home Mesh WiFi 6 System Deco X55(1-pack),TP Link AX3000 Whole Home Mesh WiFi 6 System Deco X55(1-pack),0,224,TP-LINK,NETWORKING - Wireless Router,Deco X55(1-pack),4.8971E+12
 TL-DECOX55-2P,TP Link AX3000 Whole Home Mesh WiFi 6 System Deco X55(2-pack),TP Link AX3000 Whole Home Mesh WiFi 6 System Deco X55(2-pack),0,354,TP-LINK,NETWORKING - Wireless Router,Deco X55(2-pack),4.8971E+12
@@ -1049,7 +1053,7 @@ TL-DECOX60-3P,TP-Link Deco X60 AX5400 Whole Home Mesh Wi-Fi 6 System - 3 Pack,TP
 TL-DECOX68-1P,TP Link Deco X68 AX3600 Whole Home Mesh WiFi 6 Router 1-Pack,TP Link Deco X68 AX3600 Whole Home Mesh WiFi 6 Router 1-Pack,3,240.2,TP-LINK,NETWORKING - Wireless Router,Deco X68(1-pack),6.93536E+12
 TL-DECOX75-1P,TP LINK Deco X75 AX5400 Tri-Band Mesh Wi-Fi 6 System 1-pack,TP LINK Deco X75 AX5400 Tri-Band Mesh Wi-Fi 6 System 1-pack,0,273.5,TP-LINK,NETWORKING - Wireless Router,Deco X75(1-pack),4.8971E+12
 TL-DECOX75-2P,"TP LINK Deco X75 AX5400 Tri-Band Mesh Wi-Fi 6 System, 2-pack","TP LINK Deco X75 AX5400 Tri-Band Mesh Wi-Fi 6 System, 2-pack",0,523,TP-LINK,NETWORKING - Wireless Router,Deco X75(2-pack),4.8971E+12
-TL-DECOX75-3P,"TP LINK Deco X75 AX5400 Tri-Band Mesh Wi-Fi 6 System, 3-pack","TP LINK Deco X75 AX5400 Tri-Band Mesh Wi-Fi 6 System, 3-pack",7,748,TP-LINK,NETWORKING - Wireless Router,Deco X75(3-pack),4.8971E+12
+TL-DECOX75-3P,"TP LINK Deco X75 AX5400 Tri-Band Mesh Wi-Fi 6 System, 3-pack","TP LINK Deco X75 AX5400 Tri-Band Mesh Wi-Fi 6 System, 3-pack",0,748,TP-LINK,NETWORKING - Wireless Router,Deco X75(3-pack),4.8971E+12
 TL-DECOX95-1P,TP LINK Deco X95 AX7800 Tri-Band Mesh WiFi 6 System - 1 Pack,TP LINK Deco X95 AX7800 Tri-Band Mesh WiFi 6 System - 1 Pack,2,374,TP-LINK,NETWORKING - Wireless Router,Deco X95(1-pack),4.8971E+12
 TL-DECOX95-2P,TP LINK AX7800 Tri-Band Mesh WiFi 6 System Deco X95(2-pack),TP LINK AX7800 Tri-Band Mesh WiFi 6 System Deco X95(2-pack),0,665,TP-LINK,NETWORKING - Wireless Router,Deco X95(2-pack),4.8971E+12
 TL-DECOXE200-1P,TP Link Deco XE200 AXE11000 Whole Home Mesh Wi-Fi 6E System - 1 Pack,TP Link Deco XE200 AXE11000 Whole Home Mesh Wi-Fi 6E System - 1 Pack,6,705.9,TP-LINK,NETWORKING - Wireless Router,Deco XE200(1-pack),4.8971E+12
@@ -1123,7 +1127,7 @@ TL-RACKMOUNTKIT-19,TP LINK 19-inch Switches Rack Mount Kit,TP LINK 19-inch Switc
 TL-RE205,"TP-LINK AC750 Wi-Fi Range Extender, Wall Plugged, 2 external antennas","TP-LINK AC750 Wi-Fi Range Extender, Wall Plugged, 2 external antennas",9,54,TP-LINK,NETWORKING - Wireless Adapter,RE205,6.93536E+12
 TL-RE300,TP-Link RE300 AC1200 Wi-Fi Range Extender,TP-Link RE300 AC1200 Wi-Fi Range Extender,17,81.8,TP-LINK,NETWORKING - Wireless AP,RE300,1.535E+21
 TL-RE450,TP-Link RE450 AC1750 Wi-Fi Range Extender,TP-Link RE450 AC1750 Wi-Fi Range Extender,12,107.2,TP-LINK,ACCESSORIES,RE450,6.93536E+22
-TL-RE500X,TP Link AX1500 Wi-Fi 6 Range Extender,TP Link AX1500 Wi-Fi 6 Range Extender,44,123.5,TP-LINK,NETWORKING - Wireless Router,RE500X,4.8971E+12
+TL-RE500X,TP Link AX1500 Wi-Fi 6 Range Extender,TP Link AX1500 Wi-Fi 6 Range Extender,43,123.5,TP-LINK,NETWORKING - Wireless Router,RE500X,4.8971E+12
 TL-RE605X,TP-Link AX1800 Wi-Fi Range Extender,TP-Link AX1800 Wi-Fi Range Extender,0,140.5,TP-LINK,NETWORKING - Wireless AP,RE605X,6.93536E+12
 TL-RE650,TP-Link RE650 AC2600 Wi-Fi Range Extender,TP-Link RE650 AC2600 Wi-Fi Range Extender,45,165.4,TP-LINK,NETWORKING - Wireless AP,RE650,1.535E+34
 TL-RE705X,TP LINK RE705X AX3000 Mesh WiFi 6 Extender,TP LINK RE705X AX3000 Mesh WiFi 6 Extender,0,165.5,TP-LINK,NETWORKING - Wireless Router,RE705X,4.8971E+12
@@ -1240,6 +1244,8 @@ TL-TAPOL530B-4P,"TP LINK Smart Wi-Fi Light Bulb, Multicolor 4-pack","TP LINK Sma
 TL-TAPOL530E,"TP-Link Tapo L530e  Smart Wi-Fi Light Bulb, Multicolor E27","TP-Link Tapo L530e  Smart Wi-Fi Light Bulb, Multicolor E27",31,15,TP-LINK,LED Lighting,Tapo L530E,6.93536E+12
 TL-TAPOL530E-2P,"TP LINK Tapo L530E(2-Pack) Smart Wi-Fi Light Bulb, Multicolor 2-pack","TP LINK Tapo L530E(2-Pack) Smart Wi-Fi Light Bulb, Multicolor 2-pack",30,29,TP-LINK,LED Lighting,Tapo L530E(2-Pack),6.93536E+12
 TL-TAPOL530E-4P,"TP LINKSmart Wi-Fi Light Bulb, Multicolor 4-pack","TP LINKSmart Wi-Fi Light Bulb, Multicolor 4-pack",0,61.4,TP-LINK,LED Lighting,Tapo L530E(4-Pack),4.8971E+12
+TL-TAPOL535B,"TP-Link Tapo L535B Smart WiFi Light Bulb, Multicolour","TP-Link Tapo L535B Smart WiFi Light Bulb, Multicolour",0,22.4,TP-LINK,LED Lighting,Tapo L535B,4.89525E+12
+TL-TAPOL535E,"TP-Link Tapo L535E Smart WiFi Light Bulb, Multicolour","TP-Link Tapo L535E Smart WiFi Light Bulb, Multicolour",0,22.4,TP-LINK,LED Lighting,Tapo L535E,4.89525E+12
 TL-TAPOL900-10,TP LINK Tapo L900-10 Smart Wi-Fi Light Strip (2x5m strips),TP LINK Tapo L900-10 Smart Wi-Fi Light Strip (2x5m strips),45,82.2,TP-LINK,LED Lighting,Tapo L900-10,4.8971E+12
 TL-TAPOL900-5,TP Link Tapo L900-5 Smart Wi-Fi Light Strip,TP Link Tapo L900-5 Smart Wi-Fi Light Strip,5,49,TP-LINK,LED Lighting,Tapo L900-5,4.8971E+12
 TL-TAPOL920-5,"TP Link Tapo L920-5, Smart Wi-Fi Light Strip, Multicolour","TP Link Tapo L920-5, Smart Wi-Fi Light Strip, Multicolour",19,68.1,TP-LINK,LED Lighting,Tapo L920-5,4.8971E+12
@@ -1248,6 +1254,7 @@ TL-TAPOL930-5,"TP LINK Tapo L930-5, Smart Wi-Fi Light Strip, Multicolour","TP LI
 TL-TAPOP100,"TP-LINK Tapo P100 Wi-Fi 2.4G(1T1R), BT Onboarding, Tapo APP, Alexa & Google assistant supported, 1-pack","TP-LINK Tapo P100 Wi-Fi 2.4G(1T1R), BT Onboarding, Tapo APP, Alexa & Google assistant supported, 1-pack",0,24.1,TP-LINK,ACCESSORIES,Tapo P100(1-pack),4.8971E+12
 TL-TAPOP100-4P,"TP LINK Tapo P100(4-pack), Mini Smart Wi-Fi Socket multi-pack version","TP LINK Tapo P100(4-pack), Mini Smart Wi-Fi Socket multi-pack version",41,75,TP-LINK,NETWORKING - Switch & Adapter,Tapo P100(4-pack),4.8971E+12
 TL-TAPOP110,"TP LINK Mini Smart Wi-Fi Socket, Energy Monitoring","TP LINK Mini Smart Wi-Fi Socket, Energy Monitoring",0,26.6,TP-LINK,POWER BOARD,Tapo P110,4.8971E+12
+TL-TAPOP110M,"TP-Link Tapo P110M, Mini Smart Wi-Fi Plug, Energy Monitoring","TP-Link Tapo P110M, Mini Smart Wi-Fi Plug, Energy Monitoring",0,29.9,TP-LINK,POWER BOARD,Tapo P110M,4.89525E+12
 TL-TAPOP300,"TP Link Smart Wi-Fi Power Strip, 3-Outlets","TP Link Smart Wi-Fi Power Strip, 3-Outlets",0,69.9,TP-LINK,POWER SUPPLIES,Tapo P300,
 TL-TAPORV30,"TP-Link Tapo RV30, LiDAR Navigation Robot Vacuum & Mop","TP-Link Tapo RV30, LiDAR Navigation Robot Vacuum & Mop",5,746,TP-LINK,ACCESSORIES,Tapo RV30,4.8971E+12
 TL-TAPORV30C,TP Link Tapo RV30C LiDAR Navigation Robot Vacuum,TP Link Tapo RV30C LiDAR Navigation Robot Vacuum,0,580,TP-LINK,ACCESSORIES,Tapo RV30C,4.89525E+12
@@ -1268,7 +1275,7 @@ TL-UE300,TP-LINK USB 3.0 to Gigabit Ethernet Adapter,TP-LINK USB 3.0 to Gigabit 
 TL-UE300C,TP-LINK USB 3.0 Type-C to Gigabit Ethernet Network Adapter,TP-LINK USB 3.0 Type-C to Gigabit Ethernet Network Adapter,0,25.5,TP-LINK,NETWORKING - Switch & Adapter,UE300C,6.93536E+12
 TL-UE330,TP-Link UE330 USB 3.0 3-Port Hub & Gigabit Ethernet Adapter,TP-Link UE330 USB 3.0 3-Port Hub & Gigabit Ethernet Adapter,16,40.7,TP-LINK,ADAPTORS / CONVERTERS,UE330,6.93536E+12
 TL-UH400,TP-LINK UH400 USB 3.0 4-Port Portable Hub,TP-LINK UH400 USB 3.0 4-Port Portable Hub,93,27.6,TP-LINK,HUBS AND CARDREADERS,UH400,6.93536E+12
-TL-UH700,TP-Link UH700 USB 3.0 7-Port Hub,TP-Link UH700 USB 3.0 7-Port Hub,75,65.5,TP-LINK,HUBS AND CARDREADERS,UH700,6.93536E+25
+TL-UH700,TP-Link UH700 USB 3.0 7-Port Hub,TP-Link UH700 USB 3.0 7-Port Hub,74,65.5,TP-LINK,HUBS AND CARDREADERS,UH700,6.93536E+25
 TL-UH720,TP-LINK UH720 USB 3.0 7-Port Hub with 2 Charging Ports,TP-LINK UH720 USB 3.0 7-Port Hub with 2 Charging Ports,12,73.8,TP-LINK,HUBS AND CARDREADERS,UH720,6.93536E+12
 TL-VIGIC220I(2.8MM),TP Link VIGI C220I (2.8mm) VIGI 2MP IR Dome Network Camera,TP Link VIGI C220I (2.8mm) VIGI 2MP IR Dome Network Camera,12,59,TP-LINK,SURVEILLANCE CAMERA,VIGI C220I(2.8mm),4.8971E+12
 TL-VIGIC230(2.8MM),TP Link VIGI C230 (2.8mm) VIGI 3MP Full-Color Dome Network Camera,TP Link VIGI C230 (2.8mm) VIGI 3MP Full-Color Dome Network Camera,11,79,TP-LINK,SURVEILLANCE CAMERA,VIGI C230(2.8mm),4.8971E+12
@@ -1378,12 +1385,10 @@ UG-11608,UGREEN DVI(24+1) male to male cable gold-plated 5M,UGREEN DVI(24+1) mal
 UG-20118,UGREEN DVI male to HDMI female adapter cable,UGREEN DVI male to HDMI female adapter cable,33,6.6,UGREEN,CABLES - VGA/DVI/HDMI/DP,UG-20118,6.9573E+12
 UG-20123,UGREEN HDMI male to DVI(24+5) Female adapter,UGREEN HDMI male to DVI(24+5) Female adapter,182,4.5,UGREEN,CABLES - VGA/DVI/HDMI/DP,UG-20123,6.9573E+12
 UG-20224,UGREEN USB to DB25 Parallel Printer Cable 2m,UGREEN USB to DB25 Parallel Printer Cable 2m,1,13.1,UGREEN,ADAPTORS / CONVERTERS,UG-20224,6.9573E+12
-UG-20250,UGREEN 2 in 1 USB 3.0 Card Reader 15cm without OTG,UGREEN 2 in 1 USB 3.0 Card Reader 15cm without OTG,0,12.5,UGREEN,ADAPTORS / CONVERTERS,UG-20250,6.9573E+12
 UG-20255,UGREEN USB3.0 Giga Lan Card--ABS case   white ABS  10CM,UGREEN USB3.0 Giga Lan Card--ABS case   white ABS  10CM,126,25,UGREEN,ADAPTORS / CONVERTERS,UG-20255,6.9573E+12
 UG-20316,UGREEN Wall Plate Frame,UGREEN Wall Plate Frame,63,2.7,UGREEN,ACCESSORIES,UG-20316,6.9573E+12
 UG-20318,UGREEN HDMI Socket Panel (White),UGREEN HDMI Socket Panel (White),11,5.5,UGREEN,POWER BOARD,UG-20318,6.9573E+12
 UG-20405,UGREEN DisplayPort male to DVI female converter 15CM,UGREEN DisplayPort male to DVI female converter 15CM,26,15.4,UGREEN,CABLES - VGA/DVI/HDMI/DP,UG-20405,6.9573E+12
-UG-20816,UGREEN 3.5mm Male to 2 Female Audio Cable 25cm (Black),UGREEN 3.5mm Male to 2 Female Audio Cable 25cm (Black),0,5.7,UGREEN,CABLES - Audio/Video Cables,UG-20816,6.9573E+12
 UG-20818,UGREEN Outdoor Running Waist Belt Pack (Black),UGREEN Outdoor Running Waist Belt Pack (Black),64,15.4,UGREEN,ACCESSORIES,UG-20818,6.9573E+12
 UG-20846,UGREEN USB 2.0 AM to BM print cable gold-plated 1M,UGREEN USB 2.0 AM to BM print cable gold-plated 1M,26,3.5,UGREEN,CABLES - USB 2 Cables,UG-20846,6.9573E+12
 UG-30285,UGREEN Adjustable Portable Stand Multi-Angle (White),UGREEN Adjustable Portable Stand Multi-Angle (White),129,6.6,UGREEN,ACCESSORIES,UG-30285,6.9573E+12
@@ -1414,7 +1419,6 @@ UG-50706,UGREEN USB-C TF + SD Card Reader with USB Power,UGREEN USB-C TF + SD Ca
 UG-60161,UGREEN Alu Case Braided Lightning Cable 1m (Silver),UGREEN Alu Case Braided Lightning Cable 1m (Silver),21,25,UGREEN,CABLES,UG-60161,6.9573E+12
 UG-60351,UGREEN Type C to Mini DP converter Gray,UGREEN Type C to Mini DP converter Gray,10,28.8,UGREEN,CABLES - VGA/DVI/HDMI/DP,UG-60351,6.9573E+12
 UG-60643,UGREEN Vertical Laptop Stand (Dual-slot),UGREEN Vertical Laptop Stand (Dual-slot),24,37.8,UGREEN,ACCESSORIES,UG-60643,"SN2200100512875,6957303866434"
-UG-60712,UGREEN Car Charger with Dual USB Ports Single Extension Socket (PD 20W),UGREEN Car Charger with Dual USB Ports Single Extension Socket (PD 20W),0,23.4,UGREEN,ACCESSORIES,UG-60712,6.9573E+12
 UG-70301,UGREEN USB-C to HDMI+DP+VGA+2xUSB3.0+RJ45(Gigabit)+SD/TF+USB-C PD (5G&4K 60Hz),UGREEN USB-C to HDMI+DP+VGA+2xUSB3.0+RJ45(Gigabit)+SD/TF+USB-C PD (5G&4K 60Hz),70,154.3,UGREEN,ADAPTORS / CONVERTERS,UG-70301,6.9573E+12
 UG-70336,UGREEN USB-C 3.0 To 4 Ports HUB,UGREEN USB-C 3.0 To 4 Ports HUB,87,22.9,UGREEN,POWER SUPPLIES,UG-70336,6.9573E+12
 UG-70423,UGREEN Cat 6 UPT 24 Port Integrated Ethernet cable management rack Black,UGREEN Cat 6 UPT 24 Port Integrated Ethernet cable management rack Black,9,49.9,UGREEN,CABLES - CAT6 10/100/1000,UG-70423,6.9573E+12
@@ -1430,7 +1434,7 @@ UG-80651,UGREEN HiTune T1 True Wireless Earbuds (Black),UGREEN HiTune T1 True Wi
 UG-80829,UGREEN Cat 6 8-Core U/UTP Ethernet 1m (Red),UGREEN Cat 6 8-Core U/UTP Ethernet 1m (Red),9,2,UGREEN,CABLES - CAT6 10/100/1000,UG-80829,6.9573E+12
 UG-80832,UGREEN Cat 6 8-Core U/UTP Cable Orange 2m,UGREEN Cat 6 8-Core U/UTP Cable Orange 2m,35,2.5,UGREEN,CABLES - CAT6 10/100/1000,UG-80832,6.9573E+12
 UG-80938,UGREEN Foldable Multifunctional Car Trunk Organizer,UGREEN Foldable Multifunctional Car Trunk Organizer,8,49,UGREEN,ACCESSORIES,UG-80938,6.9573E+12
-USB-IP5,USB Lightning Charging / Sync Cable for Apple Devices,USB Lightning Charging / Sync Cable for Apple Devices,196,3.5,8WARE,MobilePhone/Tablet Accessories,USB-IP5,5.95622E+37
+USB-IP5,USB Lightning Charging / Sync Cable for Apple Devices,USB Lightning Charging / Sync Cable for Apple Devices,186,3.5,8WARE,MobilePhone/Tablet Accessories,USB-IP5,5.95622E+37
 VC-920,ATEN VC920 Mini DisplayPort to VGA adapter,ATEN VC920 Mini DisplayPort to VGA adapter,1,33.5,ATEN,KVM PRODUCTS - KVM,VC920-AT,6.72792E+11
 VC-925,Aten VanCryst DisplayPort (M) to VGA (F) Adapter,Aten VanCryst DisplayPort (M) to VGA (F) Adapter,2,34.6,ATEN,ADAPTORS / CONVERTERS,VC925-AT,4.71926E+12
 VC-960,Aten VanCryst MiniDisplayPort Mini DisplayPort to DVI Adapter,Aten VanCryst MiniDisplayPort Mini DisplayPort to DVI Adapter,1,24.1,ATEN,KVM PRODUCTS - KVM,VC-960,4.71042E+12
