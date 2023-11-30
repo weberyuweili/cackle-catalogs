@@ -850,7 +850,7 @@ MELIC-MX67C-SDW-7Y,Meraki MX67C Secure SD-WAN Plus License,Meraki MX67C Secure S
 MELIC-MX67C-SEC-10YR,Meraki MX67C Advanced Security License a,Meraki MX67C Advanced Security License and Support  10YR,LIC-MX67C-SEC-10YR,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,5368.61,5368.61,,$11002.65,0,,Y,N
 MELIC-MX67C-SEC-1D,Meraki MX67C Advanced Security License a,Meraki MX67C Advanced Security License and Support-1 Day,LIC-MX67C-SEC-1D,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,2.49,2.49,,$5.07,0,,Y,N
 MELIC-MX67C-SEC-1YR,Meraki MX67C Advanced Security License a,Meraki MX67C Advanced Security License and Support  1YR,LIC-MX67C-SEC-1YR,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,715.76,715.76,,$1466.90,0,,N,N
-MELIC-MX67C-SEC-3YR,Meraki MX67C Advanced Security License a,Meraki MX67C Advanced Security License and Support  3YR,LIC-MX67C-SEC-3YR,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,1610.68,1610.68,,$3300.97,0,,N,N
+MELIC-MX67C-SEC-3YR,Meraki MX67C Advanced Security License a,Meraki MX67C Advanced Security License and Support  3YR,LIC-MX67C-SEC-3YR,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,1610.68,1610.68,,$3300.97,-1,,N,N
 MELIC-MX67C-SEC-5YR,Meraki MX67C Advanced Security License a,Meraki MX67C Advanced Security License and Support  5YR,LIC-MX67C-SEC-5YR,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,2683.88,2683.88,,$5500.44,0,,N,N
 MELIC-MX67C-SEC-7YR,Meraki MX67C Advanced Security License a,Meraki MX67C Advanced Security License and Support  7YR,LIC-MX67C-SEC-7YR,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,3757.97,3757.97,,$7701.68,0,,Y,N
 MELIC-MX67-ENT-10YR,Meraki MX67 Enterprise License and Suppo,Meraki MX67 Enterprise License and Support  10YR,LIC-MX67-ENT-10YR,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,2209.3,2209.3,,$4527.80,0,,Y,N
@@ -1097,7 +1097,7 @@ MEMA-PWR-50WAC,Meraki 50WAC Power Adapter,Meraki 50WAC Power Adapter,MA-PWR-50WA
 MEMA-PWR-640WAC,Meraki 640WAC PSU,Meraki 640WAC PSU,MA-PWR-640WAC,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,1253.26,0,,$1973.79,2,,N,N
 MEMA-PWR-715WAC,Meraki MS390 715W AC Power Supply,Meraki MS390 715W AC Power Supply,MA-PWR-715WAC,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,1649.02,0,,$2597.09,0,,N,N
 MEMA-PWR-90WAC,Meraki MS120-8LP/MX65 Replacement Power,Meraki MS120-8LP/MX65 Replacement Power Adapter (90 WAC),MA-PWR-90WAC,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,211.07,0,,$332.43,0,,N,N
-MEMA-PWR-CORD-AU,Meraki AC Power Cord for MX and MS (AU P,Meraki AC Power Cord for MX and MS (AU Plug),MA-PWR-CORD-AU,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,25.07,0,,$39.47,-20,,N,N
+MEMA-PWR-CORD-AU,Meraki AC Power Cord for MX and MS (AU P,Meraki AC Power Cord for MX and MS (AU Plug),MA-PWR-CORD-AU,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,25.07,0,,$39.47,-21,,N,N
 MEMA-PWR-CORD-EU,Meraki AC Power Cord for MX and MS (EU P,Meraki AC Power Cord for MX and MS (EU Plug),MA-PWR-CORD-EU,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,25.07,0,,$39.47,0,,N,N
 MEMA-PWR-CORD-UK,Meraki AC Power Cord for MX and MS (UK P,Meraki AC Power Cord for MX and MS (UK Plug),MA-PWR-CORD-UK,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,25.07,0,,$39.47,0,,N,N
 MEMA-PWR-ETH,Meraki Ethernet adapter for MV2 + MT,Meraki Ethernet adapter for MV2 + MT,MA-PWR-ETH,CISCO MERAKI,,CI - MERAKI MV,,,,0,0,196.56,0,,$309.57,0,,Y,N
@@ -1187,10 +1187,10 @@ MEMS450-12-HW,Meraki MS450-L3 Stack Cld-Mngd 12x40GE A,Meraki MS450-L3 Stack Cld
 MEMT10-HW,Meraki MT10 Indoor Temperature and Humid,Meraki MT10 Indoor Temperature and Humidity Sensor,MT10-HW,CISCO MERAKI,,CI - MERAKI MT,,,,0,0,190.38,190.38,,$439.54,0,,N,N
 MEMT11-HW,Meraki Probe Sensor,Meraki Probe Sensor,MT11-HW,CISCO MERAKI,,CI - MERAKI MT,,,,0,0,190.38,190.38,,$439.54,0,,N,N
 MEMT12-HW,Meraki MT12 Indoor Water Leak Sensor,Meraki MT12 Indoor Water Leak Sensor,MT12-HW,CISCO MERAKI,,CI - MERAKI MT,,,,0,0,190.38,190.38,,$439.54,0,,N,N
-MEMT14-HW,Meraki MT14 Indoor Air Quality Sensor,Meraki MT14 Indoor Air Quality Sensor,MT14-HW,CISCO MERAKI,,CI - MERAKI MT,,,,0,0,305.07,305.07,,$704.32,0,,N,N
-MEMT20-HW,Meraki MT20 Indoor Door Open/Close Senso,Meraki MT20 Indoor Door Open/Close Sensor,MT20-HW,CISCO MERAKI,,CI - MERAKI MT,,,,0,0,190.38,190.38,,$439.54,0,,N,N
+MEMT14-HW,Meraki MT14 Indoor Air Quality Sensor,Meraki MT14 Indoor Air Quality Sensor,MT14-HW,CISCO MERAKI,,CI - MERAKI MT,,,,0,0,305.07,305.07,,$704.32,-2,,N,N
+MEMT20-HW,Meraki MT20 Indoor Door Open/Close Senso,Meraki MT20 Indoor Door Open/Close Sensor,MT20-HW,CISCO MERAKI,,CI - MERAKI MT,,,,0,0,190.38,190.38,,$439.54,-1,,N,N
 MEMV12N-HW,Meraki Narrow Angle MV12 Mini Dome HD Ca,Meraki Narrow Angle MV12 Mini Dome HD Camera - 256GB Storage,MV12N-HW,CISCO MERAKI,,CI - MERAKI MV,,,,0,0,1161.94,1161.94,,$2381.29,0,,N,N
-MEMV12WE-HW,Meraki Wide Angle MV12 Mini Dome HD Came,Meraki Wide Angle MV12 Mini Dome HD Camera - 128GB Storage,MV12WE-HW,CISCO MERAKI,,CI - MERAKI MV,,,,0,0,989.67,989.67,,$2028.24,0,,N,N
+MEMV12WE-HW,Meraki Wide Angle MV12 Mini Dome HD Came,Meraki Wide Angle MV12 Mini Dome HD Camera - 128GB Storage,MV12WE-HW,CISCO MERAKI,,CI - MERAKI MV,,,,0,0,989.67,989.67,,$2028.24,-1,,N,N
 MEMV12W-HW,Meraki Wide Angle MV12 Mini Dome HD Came,Meraki Wide Angle MV12 Mini Dome HD Camera - 256GB Storage,MV12W-HW,CISCO MERAKI,,CI - MERAKI MV,,,,0,0,1161.94,1161.94,,$2381.29,0,,N,N
 MEMV22-HW,Meraki Varifocal MV22 Indoor HD Dome Cam,Meraki Varifocal MV22 Indoor HD Dome Camera - 256GB Storage,MV22-HW,CISCO MERAKI,,CI - MERAKI MV,,,,0,0,1549.51,1549.51,,$3175.64,-4,,N,N
 MEMV22X-HW,Meraki Varifocal MV22 Indoor HD Dome Cam,Meraki Varifocal MV22 Indoor HD Dome Camera - 512GB Storage,MV22X-HW,CISCO MERAKI,,CI - MERAKI MV,,,,0,0,1894.05,1894.05,,$3881.73,0,,N,N
@@ -1206,10 +1206,10 @@ MEMX100-HW,EOS Meraki MX100 Router/Security Applian,EOS Meraki MX100 Router/Secu
 MEMX105-HW,Meraki MX105 Router/Security Appliance,Meraki MX105 Router/Security Appliance,MX105-HW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,9887.48,0,,$15572.14,0,,N,N
 MEMX250-HW,Meraki MX250 Router/Security Appliance,Meraki MX250 Router/Security Appliance,MX250-HW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,14636.65,0,,$23051.76,-2,,N,N
 MEMX450-HW,Meraki MX450 Router/Security Appliance,Meraki MX450 Router/Security Appliance,MX450-HW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,29279.89,0,,$46113.89,0,,N,N
-MEMX67C-HW-WW,Meraki MX67C LTE Router/Security Applian,Meraki MX67C LTE Router/Security Appliance - Worldwide,MX67C-HW-WW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,1259.82,1259.82,,$2908.74,0,,N,N
+MEMX67C-HW-WW,Meraki MX67C LTE Router/Security Applian,Meraki MX67C LTE Router/Security Appliance - Worldwide,MX67C-HW-WW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,1259.82,1259.82,,$2908.74,-1,,N,N
 MEMX67-HW,Meraki MX67 Router/Security Appliance,Meraki MX67 Router/Security Appliance,MX67-HW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,625.42,625.42,,$1443.99,0,,N,N
 MEMX67W-HW,Meraki MX67W Router/Security Appliance w,Meraki MX67W Router/Security Appliance with 802.11ac,MX67W-HW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,967.36,967.36,,$2233.50,0,,N,N
-MEMX68CW-HW-WW,Meraki MX68CW LTE & 802.11ac Router/Secu,Meraki MX68CW LTE & 802.11ac Router/Security Appliance - WW,MX68CW-HW-WW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,1745.75,1745.75,,$4030.68,0,,N,N
+MEMX68CW-HW-WW,Meraki MX68CW LTE & 802.11ac Router/Secu,Meraki MX68CW LTE & 802.11ac Router/Security Appliance - WW,MX68CW-HW-WW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,1745.75,1745.75,,$4030.68,-1,,N,N
 MEMX68-HW,Meraki MX68 Router/Security Appliance,Meraki MX68 Router/Security Appliance,MX68-HW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,895.38,895.38,,$2067.29,0,,N,N
 MEMX68W-HW,Meraki MX68W Router/Security Appliance w,Meraki MX68W Router/Security Appliance with 802.11ac,MX68W-HW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,1259.82,1259.82,,$2908.74,0,,N,N
 MEMX75-HW,Meraki MX75 Router/Security Appliance,Meraki MX75 Router/Security Appliance,MX75-HW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,1795.25,1795.25,,$4144.96,0,,N,N
