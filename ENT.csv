@@ -173,7 +173,7 @@ AC6930009,DAC MP-8 MOUSE PAD BLACK,DAC MP-8 MOUSE PAD BLACK,6930009,ACCO - TECHN
 AC72324,KTG PROFIT WIRELESS KEYBOARD & MOUSE SET,KTG PROFIT WIRELESS KEYBOARD & MOUSE SET,72324,ACCO - TECHNOLOGY PRODUCTS,,AC - KEYBOARD AND MICE SETS,,,,0,0,55.39,55.39,,$86.78,11,,N,N
 AC72327,KTG SLIMBLADE WIRED TRACKBALL,KTG SLIMBLADE WIRED TRACKBALL,72327,ACCO - TECHNOLOGY PRODUCTS,,AC - TRACK BALLS,,,,0,0,156.46,156.46,,$245.12,0,,Y,N
 AC72337,KTG ORBIT WIRED TRACKBALL,KTG ORBIT WIRED TRACKBALL,72337,ACCO - TECHNOLOGY PRODUCTS,,AC - TRACK BALLS,,,,0,0,54.1,54.1,,$84.75,0,,Y,N
-AC72352,KTG ORBIT WIRELESS MOBILE TRACKBALL,KTG ORBIT WIRELESS MOBILE TRACKBALL,72352,ACCO - TECHNOLOGY PRODUCTS,,AC - TRACK BALLS,,,,0,0,62.5,62.5,,$108.52,5,,N,N
+AC72352,KTG ORBIT WIRELESS MOBILE TRACKBALL,KTG ORBIT WIRELESS MOBILE TRACKBALL,72352,ACCO - TECHNOLOGY PRODUCTS,,AC - TRACK BALLS,,,,0,0,62.5,62.5,,$108.52,4,,N,N
 AC72354,KTG PRO FIT WIRELESS MID SIZE MOUSE,KTG PRO FIT WIRELESS MID SIZE MOUSE,72354,ACCO - TECHNOLOGY PRODUCTS,,AC - MICE,,,,0,0,35.71,35.71,,$55.95,0,,N,N
 AC72355,KTG PRO FIT WIRED MID SIZE MOUSE,KTG PRO FIT WIRED MID SIZE MOUSE,72355,ACCO - TECHNOLOGY PRODUCTS,,AC - MICE,,,,0,0,21.99,21.99,,$34.45,0,,N,N
 AC72357,KTG SLIM TYPE FULL SIZE WIRED KEYBOARD,KTG SLIM TYPE FULL SIZE WIRED KEYBOARD,72357,ACCO - TECHNOLOGY PRODUCTS,,AC - KEYBOARDS,,,,0,0,48.21,48.21,,$75.53,6,,N,N
@@ -453,7 +453,7 @@ MELIC-MG41-ENT-7Y,Meraki MG41 Enterprise License and Suppo,Meraki MG41 Enterpris
 MELIC-MI-L-1YR,Meraki Insight License for 1 Year (Large,Meraki Insight License for 1 Year (Large  Up to 5 Gbps),LIC-MI-L-1YR,CISCO MERAKI,,CI - MERAKI MI,,,,0,0,5604.13,0,,$8826.13,0,,Y,N
 MELIC-MI-L-3YR,Meraki Insight License for 3 Years (Larg,Meraki Insight License for 3 Years (Large  Up to 5Gbps),LIC-MI-L-3YR,CISCO MERAKI,,CI - MERAKI MI,,,,0,0,11208.24,0,,$17652.25,0,,Y,N
 MELIC-MI-L-5YR,Meraki Insight License for 5 Years (Larg,Meraki Insight License for 5 Years (Large  Up to 5 Gbps),LIC-MI-L-5YR,CISCO MERAKI,,CI - MERAKI MI,,,,0,0,16812.37,0,,$26478.38,0,,Y,N
-MELIC-MI-M-1YR,Meraki Insight License for 1 Year (Mediu,Meraki Insight License for 1 Year (Medium  Up to 750 Mbps),LIC-MI-M-1YR,CISCO MERAKI,,CI - MERAKI MI,,,,0,0,1120.83,0,,$1765.23,-1,,N,N
+MELIC-MI-M-1YR,Meraki Insight License for 1 Year (Mediu,Meraki Insight License for 1 Year (Medium  Up to 750 Mbps),LIC-MI-M-1YR,CISCO MERAKI,,CI - MERAKI MI,,,,0,0,1120.83,0,,$1765.23,0,,N,N
 MELIC-MI-M-3YR,Meraki Insight License for 3 Years (Medi,Meraki Insight License for 3 Years (Medium  Up to 750 Mbps),LIC-MI-M-3YR,CISCO MERAKI,,CI - MERAKI MI,,,,0,0,2241.64,0,,$3530.45,0,,N,N
 MELIC-MI-M-5YR,Meraki Insight License for 5 Years (Medi,Meraki Insight License for 5 Years (Medium  Up to 750 Mbps),LIC-MI-M-5YR,CISCO MERAKI,,CI - MERAKI MI,,,,0,0,3362.47,0,,$5295.68,0,,Y,N
 MELIC-MI-S-1YR,Meraki Insight License for 1 Year (Small,Meraki Insight License for 1 Year (Small  Up to 450 Mbps),LIC-MI-S-1YR,CISCO MERAKI,,CI - MERAKI MI,,,,0,0,448.33,0,,$706.09,0,,Y,N
@@ -478,8 +478,8 @@ MELIC-MS120-24-5YR,Meraki MS120-24 Enterprise License and S,Meraki MS120-24 Ente
 MELIC-MS120-24-7YR,Meraki MS120-24 Enterprise License and S,Meraki MS120-24 Enterprise License and Support  7 Year,LIC-MS120-24-7YR,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,522.89,522.89,,$983.23,0,,Y,N
 MELIC-MS120-24P-10YR,Meraki MS120-24P Enterprise License and,Meraki MS120-24P Enterprise License and Support  10 Year,LIC-MS120-24P-10YR,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,1204.41,1204.41,,$2264.78,0,,Y,N
 MELIC-MS120-24P-1D,Meraki MS120-24P Enterprise License and,Meraki MS120-24P Enterprise License and Support-1 Day,LIC-MS120-24P-1D,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,0.56,0.56,,$1.04,0,,Y,N
-MELIC-MS120-24P-1YR,Meraki MS120-24P Enterprise License and,Meraki MS120-24P Enterprise License and Support  1 Year,LIC-MS120-24P-1YR,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,160.55,160.55,,$301.85,-1,,N,N
-MELIC-MS120-24P-3YR,Meraki MS120-24P Enterprise License and,Meraki MS120-24P Enterprise License and Support  3 Year,LIC-MS120-24P-3YR,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,361.43,361.43,,$679.61,-2,,N,N
+MELIC-MS120-24P-1YR,Meraki MS120-24P Enterprise License and,Meraki MS120-24P Enterprise License and Support  1 Year,LIC-MS120-24P-1YR,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,160.55,160.55,,$301.85,0,,N,N
+MELIC-MS120-24P-3YR,Meraki MS120-24P Enterprise License and,Meraki MS120-24P Enterprise License and Support  3 Year,LIC-MS120-24P-3YR,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,361.43,361.43,,$679.61,-1,,N,N
 MELIC-MS120-24P-5YR,Meraki MS120-24P Enterprise License and,Meraki MS120-24P Enterprise License and Support  5 Year,LIC-MS120-24P-5YR,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,601.75,601.75,,$1131.51,0,13-07-2023,N,N
 MELIC-MS120-24P-7YR,Meraki MS120-24P Enterprise License and,Meraki MS120-24P Enterprise License and Support  7 Year,LIC-MS120-24P-7YR,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,842.98,842.98,,$1585.17,0,,N,N
 MELIC-MS120-48-10YR,Meraki MS120-48 Enterprise License and S,Meraki MS120-48 Enterprise License and Support  10 Year,LIC-MS120-48-10YR,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,1365.88,1365.88,,$2568.40,0,,Y,N
@@ -575,12 +575,12 @@ MELIC-MS210-48LP-5YR,Meraki MS210-48LP Enterprise License and,Meraki MS210-48LP 
 MELIC-MS210-48LP-7YR,Meraki MS210-48LP Enterprise License and,Meraki MS210-48LP Enterprise License and Support  7 Year,LIC-MS210-48LP-7YR,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,1887.82,1887.82,,$3549.87,0,,Y,N
 MELIC-MS220-24-1YR,EOS Meraki MS220-24 Enterprise License a,EOS Meraki MS220-24 Enterprise License and Support  1YR,LIC-MS220-24-1YR,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,158.02,0,,$248.90,0,,N,N
 MELIC-MS220-24-3YR,EOS Meraki MS220-24 Enterprise License a,EOS Meraki MS220-24 Enterprise License and Support  3YR,LIC-MS220-24-3YR,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,355.3,0,,$559.58,0,,Y,N
-MELIC-MS220-24P-1YR,EOS Meraki MS220-24P Enterprise License,EOS Meraki MS220-24P Enterprise License and Support  1YR,LIC-MS220-24P-1YR,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,210.71,0,,$331.86,-1,,N,N
+MELIC-MS220-24P-1YR,EOS Meraki MS220-24P Enterprise License,EOS Meraki MS220-24P Enterprise License and Support  1YR,LIC-MS220-24P-1YR,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,210.71,0,,$331.86,0,,N,N
 MELIC-MS220-24P-3YR,EOS Meraki MS220-24P Enterprise License,EOS Meraki MS220-24P Enterprise License and Support  3YR,LIC-MS220-24P-3YR,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,474.1,0,,$746.69,0,,N,N
 MELIC-MS220-48-1YR,EOS Meraki MS220-48 Enterprise License a,EOS Meraki MS220-48 Enterprise License and Support  1YR,LIC-MS220-48-1YR,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,276.84,0,,$436.01,0,,N,N
 MELIC-MS220-48-3YR,EOS Meraki MS220-48 Enterprise License a,EOS Meraki MS220-48 Enterprise License and Support  3YR,LIC-MS220-48-3YR,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,623.18,0,,$981.47,0,,N,N
 MELIC-MS220-48FP-1YR,EOS Meraki MS220-48FP Enterprise License,EOS Meraki MS220-48FP Enterprise License and Support  1YR,LIC-MS220-48FP-1YR,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,434.88,0,,$684.91,0,,N,N
-MELIC-MS220-48LP-1YR,EOS Meraki MS220-48LP Enterprise License,EOS Meraki MS220-48LP Enterprise License and Support  1YR,LIC-MS220-48LP-1YR,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,369.87,0,,$582.52,-2,,N,N
+MELIC-MS220-48LP-1YR,EOS Meraki MS220-48LP Enterprise License,EOS Meraki MS220-48LP Enterprise License and Support  1YR,LIC-MS220-48LP-1YR,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,369.87,0,,$582.52,0,,N,N
 MELIC-MS220-48LP-3YR,EOS Meraki MS220-48LP Enterprise License,EOS Meraki MS220-48LP Enterprise License and Support  3YR,LIC-MS220-48LP-3YR,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,832.76,0,,$1311.56,0,,N,N
 MELIC-MS220-8-10YR,EOS Meraki MS220-8 Enterprise License an,EOS Meraki MS220-8 Enterprise License and Support  10YR,LIC-MS220-8-10YR,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,458.11,458.11,,$861.43,0,,Y,N
 MELIC-MS220-8-1YR,EOS Meraki MS220-8 Enterprise License an,EOS Meraki MS220-8 Enterprise License and Support  1YR,LIC-MS220-8-1YR,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,61.02,61.02,,$114.74,0,,Y,N
@@ -588,7 +588,7 @@ MELIC-MS220-8-3YR,EOS Meraki MS220-8 Enterprise License an,EOS Meraki MS220-8 En
 MELIC-MS220-8-5YR,EOS Meraki MS220-8 Enterprise License an,EOS Meraki MS220-8 Enterprise License and Support  5YR,LIC-MS220-8-5YR,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,229.06,229.06,,$430.71,0,,Y,N
 MELIC-MS220-8-7YR,EOS Meraki MS220-8 Enterprise License an,EOS Meraki MS220-8 Enterprise License and Support  7YR,LIC-MS220-8-7YR,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,320.11,320.11,,$601.94,0,,Y,N
 MELIC-MS220-8P-10YR,EOS Meraki MS220-8P Enterprise License a,EOS Meraki MS220-8P Enterprise License and Support  10YR,LIC-MS220-8P-10YR,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,577.33,577.33,,$1085.61,0,,Y,N
-MELIC-MS220-8P-1YR,EOS Meraki MS220-8P Enterprise License a,EOS Meraki MS220-8P Enterprise License and Support  1YR,LIC-MS220-8P-1YR,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,76.96,76.96,,$144.75,-2,,N,N
+MELIC-MS220-8P-1YR,EOS Meraki MS220-8P Enterprise License a,EOS Meraki MS220-8P Enterprise License and Support  1YR,LIC-MS220-8P-1YR,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,76.96,76.96,,$144.75,0,,N,N
 MELIC-MS220-8P-3YR,EOS Meraki MS220-8P Enterprise License a,EOS Meraki MS220-8P Enterprise License and Support  3YR,LIC-MS220-8P-3YR,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,173.68,173.68,,$326.57,2,,N,N
 MELIC-MS220-8P-5YR,EOS Meraki MS220-8P Enterprise License a,EOS Meraki MS220-8P Enterprise License and Support  5YR,LIC-MS220-8P-5YR,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,289.13,289.13,,$543.69,0,,N,N
 MELIC-MS220-8P-7YR,EOS Meraki MS220-8P Enterprise License a,EOS Meraki MS220-8P Enterprise License and Support  7YR,LIC-MS220-8P-7YR,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,404.61,404.61,,$760.81,0,,Y,N
@@ -731,7 +731,7 @@ MELIC-MV-CA90-5YR,Meraki MV 90 Day Cloud Archive License ,Meraki MV 90 Day Cloud
 MELIC-MV-SEN-1YR,Meraki MV Sense License  1YR,Meraki MV Sense License  1YR,LIC-MV-SEN-1YR,CISCO MERAKI,,CI - MERAKI MV,,,,0,0,164.77,0,,$259.49,0,,N,N
 MELIC-MV-SEN-3YR,Meraki MV Sense License  3YR,Meraki MV Sense License  3YR,LIC-MV-SEN-3YR,CISCO MERAKI,,CI - MERAKI MV,,,,0,0,369.87,0,,$582.52,0,,Y,N
 MELIC-MV-SEN-5YR,Meraki MV Sense License  5YR,Meraki MV Sense License  5YR,LIC-MV-SEN-5YR,CISCO MERAKI,,CI - MERAKI MV,,,,0,0,617.58,0,,$972.64,0,,Y,N
-MELIC-MX100-ENT-1YR,EOS Meraki MX100 Enterprise License and,EOS Meraki MX100 Enterprise License and Support  1YR,LIC-MX100-ENT-1YR,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,2739.31,0,,$4314.21,-1,,N,N
+MELIC-MX100-ENT-1YR,EOS Meraki MX100 Enterprise License and,EOS Meraki MX100 Enterprise License and Support  1YR,LIC-MX100-ENT-1YR,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,2739.31,0,,$4314.21,0,,N,N
 MELIC-MX100-ENT-3YR,EOS Meraki MX100 Enterprise License and,EOS Meraki MX100 Enterprise License and Support  3YR,LIC-MX100-ENT-3YR,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,6163.41,0,,$9706.97,0,,N,N
 MELIC-MX100-ENT-5YR,EOS Meraki MX100 Enterprise License and,EOS Meraki MX100 Enterprise License and Support  5YR,LIC-MX100-ENT-5YR,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,10272.36,0,,$16178.29,0,,N,N
 MELIC-MX100-SEC-1YR,EOS Meraki MX100 Advanced Security Licen,EOS Meraki MX100 Advanced Security License and Support  1YR,LIC-MX100-SEC-1YR,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,5479.7,0,,$8630.19,0,,N,N
@@ -853,7 +853,7 @@ MELIC-MX67C-SEC-7YR,Meraki MX67C Advanced Security License a,Meraki MX67C Advanc
 MELIC-MX67-ENT-10YR,Meraki MX67 Enterprise License and Suppo,Meraki MX67 Enterprise License and Support  10YR,LIC-MX67-ENT-10YR,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,2209.3,2209.3,,$4527.80,0,,Y,N
 MELIC-MX67-ENT-1D,Meraki MX67 Enterprise License and Suppo,Meraki MX67 Enterprise License and Support-1 Day,LIC-MX67-ENT-1D,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,1.02,1.02,,$2.08,0,,Y,N
 MELIC-MX67-ENT-1YR,Meraki MX67 Enterprise License and Suppo,Meraki MX67 Enterprise License and Support  1YR,LIC-MX67-ENT-1YR,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,294.58,294.58,,$603.71,9,,N,N
-MELIC-MX67-ENT-3YR,Meraki MX67 Enterprise License and Suppo,Meraki MX67 Enterprise License and Support  3YR,LIC-MX67-ENT-3YR,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,663.21,663.21,,$1359.22,0,15-12-2023,N,N
+MELIC-MX67-ENT-3YR,Meraki MX67 Enterprise License and Suppo,Meraki MX67 Enterprise License and Support  3YR,LIC-MX67-ENT-3YR,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,663.21,663.21,,$1359.22,0,,N,N
 MELIC-MX67-ENT-5YR,Meraki MX67 Enterprise License and Suppo,Meraki MX67 Enterprise License and Support  5YR,LIC-MX67-ENT-5YR,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,1105.08,1105.08,,$2264.78,0,,Y,N
 MELIC-MX67-ENT-7YR,Meraki MX67 Enterprise License and Suppo,Meraki MX67 Enterprise License and Support  7YR,LIC-MX67-ENT-7YR,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,1546.92,1546.92,,$3170.34,0,,Y,N
 MELIC-MX67-SDW-10Y,Meraki MX67 Secure SD-WAN Plus License a,Meraki MX67 Secure SD-WAN Plus License and Support  10YR,LIC-MX67-SDW-10Y,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,6247.17,6247.17,,$12803.18,0,,Y,N
@@ -866,7 +866,7 @@ MELIC-MX67-SEC-10YR,Meraki MX67 Advanced Security License an,Meraki MX67 Advance
 MELIC-MX67-SEC-1D,Meraki MX67 Advanced Security License an,Meraki MX67 Advanced Security License and Support-1 Day,LIC-MX67-SEC-1D,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,2.05,2.05,,$4.17,0,,Y,N
 MELIC-MX67-SEC-1YR,Meraki MX67 Advanced Security License an,Meraki MX67 Advanced Security License and Support  1YR,LIC-MX67-SEC-1YR,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,589.14,589.14,,$1207.41,1,,N,N
 MELIC-MX67-SEC-3YR,Meraki MX67 Advanced Security License an,Meraki MX67 Advanced Security License and Support  3YR,LIC-MX67-SEC-3YR,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,1325.6,1325.6,,$2716.68,6,,N,N
-MELIC-MX67-SEC-5YR,Meraki MX67 Advanced Security License an,Meraki MX67 Advanced Security License and Support  5YR,LIC-MX67-SEC-5YR,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,2209.3,2209.3,,$4527.80,0,,N,N
+MELIC-MX67-SEC-5YR,Meraki MX67 Advanced Security License an,Meraki MX67 Advanced Security License and Support  5YR,LIC-MX67-SEC-5YR,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,2209.3,2209.3,,$4527.80,-1,,N,N
 MELIC-MX67-SEC-7YR,Meraki MX67 Advanced Security License an,Meraki MX67 Advanced Security License and Support  7YR,LIC-MX67-SEC-7YR,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,3093.03,3093.03,,$6338.92,0,,Y,N
 MELIC-MX67W-ENT-10YR,Meraki MX67W Enterprise License and Supp,Meraki MX67W Enterprise License and Support  10YR,LIC-MX67W-ENT-10YR,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,2371.23,2371.23,,$4859.66,0,,Y,N
 MELIC-MX67W-ENT-1D,Meraki MX67W Enterprise License and Supp,Meraki MX67W Enterprise License and Support-1 Day,LIC-MX67W-ENT-1D,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,1.11,1.11,,$2.24,0,,Y,N
@@ -984,7 +984,7 @@ MELIC-MX85-SEC-3Y,Meraki MX85 Advanced Security License an,Meraki MX85 Advanced 
 MELIC-MX85-SEC-5Y,Meraki MX85 Advanced Security License an,Meraki MX85 Advanced Security License and Support  5YR,LIC-MX85-SEC-5Y,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,8603.6,8603.6,,$16178.29,0,,Y,N
 MELIC-MX85-SEC-7Y,Meraki MX85 Advanced Security License an,Meraki MX85 Advanced Security License and Support  7YR,LIC-MX85-SEC-7Y,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,12045.03,12045.03,,$22649.60,0,,Y,N
 MELIC-MX95-ENT-1Y,Meraki MX95 Enterprise License and Suppo,Meraki MX95 Enterprise License and Support  1YR,LIC-MX95-ENT-1Y,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,2739.31,0,,$4314.21,0,,Y,N
-MELIC-MX95-ENT-3Y,Meraki MX95 Enterprise License and Suppo,Meraki MX95 Enterprise License and Support  3YR,LIC-MX95-ENT-3Y,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,6163.41,0,,$9706.97,0,,Y,N
+MELIC-MX95-ENT-3Y,Meraki MX95 Enterprise License and Suppo,Meraki MX95 Enterprise License and Support  3YR,LIC-MX95-ENT-3Y,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,6163.41,0,,$9706.97,-1,,Y,N
 MELIC-MX95-ENT-5Y,Meraki MX95 Enterprise License and Suppo,Meraki MX95 Enterprise License and Support  5YR,LIC-MX95-ENT-5Y,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,10272.36,0,,$16178.29,0,,Y,N
 MELIC-MX95-SDW-1Y,Meraki MX95 Secure SD-WAN Plus License a,Meraki MX95 Secure SD-WAN Plus License and Support  1YR,LIC-MX95-SDW-1Y,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,7562.21,0,,$11909.97,0,,Y,N
 MELIC-MX95-SDW-3Y,Meraki MX95 Secure SD-WAN Plus License a,Meraki MX95 Secure SD-WAN Plus License and Support  3YR,LIC-MX95-SDW-3Y,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,17015.25,0,,$26797.88,0,,N,N
@@ -1118,7 +1118,7 @@ MEMG21-HW-WW,Meraki MG21 Cellular Gateway - Worldwide,Meraki MG21 Cellular Gatew
 MEMG41E-HW,Meraki MG41 Cellular Gateway External An,Meraki MG41 Cellular Gateway External Antennas,MG41E-HW,CISCO MERAKI,,CI - MERAKI MG,,,,0,0,762.72,762.72,,$2898.36,0,,Y,N
 MEMG41-HW,Meraki MG41 Cellular Gateway,Meraki MG41 Cellular Gateway,MG41-HW,CISCO MERAKI,,CI - MERAKI MG,,,,0,0,708.03,708.03,,$2690.59,0,,N,N
 MEMR36H-HW,Meraki MR36H Wi-Fi 6 Cloud Managed AP,Meraki MR36H Wi-Fi 6 Cloud Managed AP,MR36H-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,1055.36,0,,$1662.14,0,,N,N
-MEMR36-HW,Meraki MR36 Wi-Fi 6 Indoor AP,Meraki MR36 Wi-Fi 6 Indoor AP,MR36-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,688.55,688.55,,$1411.13,-2,,N,N
+MEMR36-HW,Meraki MR36 Wi-Fi 6 Indoor AP,Meraki MR36 Wi-Fi 6 Indoor AP,MR36-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,688.55,688.55,,$1411.13,-1,,N,N
 MEMR44-HW,Meraki MR44 WiFi 6 Indoor AP,Meraki MR44 WiFi 6 Indoor AP,MR44-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,1317.9,1317.9,,$2700.97,0,,N,N
 MEMR46E-HW,Meraki MR46E Wi-Fi 6 Indoor AP w Externa,Meraki MR46E Wi-Fi 6 Indoor AP w External Antenna Connectors,MR46E-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,1616.98,1616.98,,$3313.89,0,,N,N
 MEMR46-HW,Meraki MR46 Wi-Fi 6 Indoor AP,Meraki MR46 Wi-Fi 6 Indoor AP,MR46-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,1616.98,1616.98,,$3313.89,0,,N,N
@@ -1131,7 +1131,7 @@ MEMR78-HW,Meraki MR78 Wi-Fi 6 Outdoor AP,Meraki MR78 Wi-Fi 6 Outdoor AP,MR78-HW,
 MEMR84-HW,EOS Meraki MR84 Cloud Managed AP,EOS Meraki MR84 Cloud Managed AP,MR84-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,3164.78,0,,$4984.32,0,,N,N
 MEMR86-HW,Meraki MR86 Wi-Fi 6 Outdoor AP,Meraki MR86 Wi-Fi 6 Outdoor AP,MR86-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,3232.06,0,,$5090.29,0,,N,N
 MEMS120-24-HW,Meraki MS120-24 1G L2 Cloud Managed 24x,Meraki MS120-24 1G L2 Cloud Managed 24x GigE Switch,MS120-24-HW,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,1723.41,1723.41,,$3532.04,0,,N,N
-MEMS120-24P-HW,Meraki MS120-24P 1G L2 Cld -Mngd 24x Gig,Meraki MS120-24P 1G L2 Cld -Mngd 24x GigE 370W PoE Switch,MS120-24P-HW,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,2676.38,2676.38,,$5485.05,-2,25-07-2023,N,N
+MEMS120-24P-HW,Meraki MS120-24P 1G L2 Cld -Mngd 24x Gig,Meraki MS120-24P 1G L2 Cld -Mngd 24x GigE 370W PoE Switch,MS120-24P-HW,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,2676.38,2676.38,,$5485.05,-1,25-07-2023,N,N
 MEMS120-48FP-HW,Meraki MS120-48FP 1G L2 Cld Managed 48x,Meraki MS120-48FP 1G L2 Cld Managed 48x GigE 740W PoE Switch,MS120-48FP-HW,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,4932.02,4932.02,,$10107.87,0,25-07-2023,N,N
 MEMS120-48-HW,Meraki MS120-48 1G L2 Cloud Managed 48x,Meraki MS120-48 1G L2 Cloud Managed 48x GigE Switch,MS120-48-HW,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,3086.95,3086.95,,$6326.51,0,,N,N
 MEMS120-48LP-HW,Meraki MS120-48LP 1G L2 Cld Managed 48x,Meraki MS120-48LP 1G L2 Cld Managed 48x GigE 370W PoE Switch,MS120-48LP-HW,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,4176.75,4176.75,,$8560.00,0,,N,N
@@ -1199,13 +1199,13 @@ MEMX105-HW,Meraki MX105 Router/Security Appliance,Meraki MX105 Router/Security A
 MEMX250-HW,Meraki MX250 Router/Security Appliance,Meraki MX250 Router/Security Appliance,MX250-HW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,14636.65,0,,$23051.76,0,,N,N
 MEMX450-HW,Meraki MX450 Router/Security Appliance,Meraki MX450 Router/Security Appliance,MX450-HW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,29279.89,0,,$46113.89,0,,N,N
 MEMX67C-HW-WW,Meraki MX67C LTE Router/Security Applian,Meraki MX67C LTE Router/Security Appliance - Worldwide,MX67C-HW-WW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,1259.82,1259.82,,$2908.74,-2,,N,N
-MEMX67-HW,Meraki MX67 Router/Security Appliance,Meraki MX67 Router/Security Appliance,MX67-HW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,625.42,625.42,,$1443.99,0,15-12-2023,N,N
+MEMX67-HW,Meraki MX67 Router/Security Appliance,Meraki MX67 Router/Security Appliance,MX67-HW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,625.42,625.42,,$1443.99,-1,,N,N
 MEMX67W-HW,Meraki MX67W Router/Security Appliance w,Meraki MX67W Router/Security Appliance with 802.11ac,MX67W-HW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,967.36,967.36,,$2233.50,0,,N,N
 MEMX68CW-HW-WW,Meraki MX68CW LTE & 802.11ac Router/Secu,Meraki MX68CW LTE & 802.11ac Router/Security Appliance - WW,MX68CW-HW-WW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,1745.75,1745.75,,$4030.68,0,,N,N
 MEMX68-HW,Meraki MX68 Router/Security Appliance,Meraki MX68 Router/Security Appliance,MX68-HW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,895.38,895.38,,$2067.29,0,,N,N
 MEMX68W-HW,Meraki MX68W Router/Security Appliance w,Meraki MX68W Router/Security Appliance with 802.11ac,MX68W-HW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,1259.82,1259.82,,$2908.74,0,,N,N
 MEMX75-HW,Meraki MX75 Router/Security Appliance,Meraki MX75 Router/Security Appliance,MX75-HW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,1795.25,1795.25,,$4144.96,0,,N,N
 MEMX85-HW,Meraki MX85 Router/Security Appliance,Meraki MX85 Router/Security Appliance,MX85-HW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,3291.44,0,,$5183.80,0,,N,N
-MEMX95-HW,Meraki MX95 Router/Security Appliance,Meraki MX95 Router/Security Appliance,MX95-HW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,6589.46,0,,$10377.97,0,,N,N
+MEMX95-HW,Meraki MX95 Router/Security Appliance,Meraki MX95 Router/Security Appliance,MX95-HW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,6589.46,0,,$10377.97,-1,,N,N
 MEZ3C-HW-WW,Meraki Z3C LTE Teleworker Gateway - Worl,Meraki Z3C LTE Teleworker Gateway - Worldwide,Z3C-HW-WW,CISCO MERAKI,,CI - MERAKI Z,,,,0,0,927.61,927.61,,$1901.08,0,,N,N
 MEZ3-HW,Meraki Z3 Cloud Managed Teleworker Gatew,Meraki Z3 Cloud Managed Teleworker Gateway,Z3-HW,CISCO MERAKI,,CI - MERAKI Z,,,,0,0,501.84,501.84,,$1028.46,0,,N,N
