@@ -6,7 +6,7 @@ Product Code,Name,Description,Main,Price,Brand,Category Code,Supplier Product Co
 5S1200AU,Eaton 5S 1200VA/720W Line Interactive UPS LCD,Eaton 5S 1200VA/720W Line Interactive UPS LCD,1,338,Eaton,UPS,5S1200AU,743172436580
 5S1600AU,Eaton 5S 1600VA/960W Line Interactive UPS LCD,Eaton 5S 1600VA/960W Line Interactive UPS LCD,2,451,Eaton,UPS,5S1600AU,743172436658
 5S550AU,Eaton 5S 550VA/330W Line Interactive UPS LED,Eaton 5S 550VA/330W Line Interactive UPS LED,1,169,Eaton,UPS,5S550AU,743172436276
-5S700AU,Eaton 5S 700VA/420W Line Interactive UPS LED,Eaton 5S 700VA/420W Line Interactive UPS LED,1,210,Eaton,UPS,5S700AU,000743172436
+5S700AU,Eaton 5S 700VA/420W Line Interactive UPS LED,Eaton 5S 700VA/420W Line Interactive UPS LED,0,210,Eaton,UPS,5S700AU,000743172436
 5S850AU,Eaton 5S 850VA/510W Line Interactive UPS LCD,Eaton 5S 850VA/510W Line Interactive UPS LCD,2,241,Eaton,UPS,5S850AU,743172436277
 6IN1-TYPEC-HDMI-GR,ROCK 6 in 1 Type C Hub With HDMI Port Space Grey,ROCK 6 in 1 Type C Hub With HDMI Port Space Grey,10,59.6,ROCK,HUBS AND CARDREADERS,6I1-TYPECHDMI-GR,661021751090
 8WD-L6097,8ware Solid Locking Station for Laptop,8ware Solid Locking Station for Laptop,25,70.2,8WARE,ACCESSORIES,8WD-L6097,9341756006535
@@ -106,6 +106,8 @@ CASE-ANT-AX20,Antec AX20 Mid-Tower Case with 3 x 120mm RGB Fans,Antec AX20 Mid-T
 CASE-ANT-AX61,Antec AX61 Elite mid tower gaming case ARGB fan x 4  320mm GPU clearance,Antec AX61 Elite mid tower gaming case ARGB fan x 4  320mm GPU clearance,0,79.2,Antec,PC CASES,0-761345-10069-4,0761345100694
 CASE-ANT-AX81,Antec AX81 Elite mid tower gaming case ARGB fan x 4  365mm GPU clearence,Antec AX81 Elite mid tower gaming case ARGB fan x 4  365mm GPU clearence,60,89.1,Antec,PC CASES,0-761345-10085-4,0761345100854
 CASE-ANT-AX90,Antec AX90  Mid-Tower Case with 4 x 120mm ARGB Fans,Antec AX90  Mid-Tower Case with 4 x 120mm ARGB Fans,0,101.7,Antec,PC CASES,CASE-ANT-AX90,"0-761345-10063-2,761345100632,0761345100632"
+CASE-ANT-C8,Antec Constellation C8 Full-View E-ATX 440mm GPU PC Case,Antec Constellation C8 Full-View E-ATX 440mm GPU PC Case,0,139,Antec,PC CASES,0-761345-10019-9,0761345100199
+CASE-ANT-C8W,Antec Constellation C8 Full-View E-ATX 440mm GPU PC Case White,Antec Constellation C8 Full-View E-ATX 440mm GPU PC Case White,0,139,Antec,PC CASES,0-761345-10021-2,0761345100212
 CASE-ANT-CANNON,Antec Cannon Gaming Case,Antec Cannon Gaming Case,1,702,Antec,PC CASES,0-761345-91400-0,0-761345-91400-0
 CASE-ANT-DARKCUBE,Antec Dark Cube MATX case with dual front Panel Aluminum Alloy Body,Antec Dark Cube MATX case with dual front Panel Aluminum Alloy Body,3,273,Antec,PC CASES,0-761345-80034-1,0761345800341
 CASE-ANT-NX200M-RGB,Antec NX200M RGB fan x 3 M-ATX case,Antec NX200M RGB fan x 3 M-ATX case,0,70.1,Antec,PC CASES,0-761345-81021-0,"0-761345-81021-0,761345810210,0761345810210"
@@ -135,7 +137,7 @@ CASE-MACUBE110-GR,Deepcool MACUBE 110 MATX temper glass case Green,Deepcool MACU
 CASE-MACUBE110-PK,Deepcool MACUBE 110 MATX temper glass case Pink,Deepcool MACUBE 110 MATX temper glass case Pink,0,77.44,DEEPCOOL,PC CASES,R-MACUBE110 -PRNGM1N-A-1,6933412714620
 CASE-MACUBE110-WH,Deepcool MACUBE 110 MATX temper glass case White,Deepcool MACUBE 110 MATX temper glass case White,0,72.12,DEEPCOOL,PC CASES,R-MACUBE110 -WHNGM1N-G-1,6933412714392
 CASE-MATREXX30,Deepcool Matrexx 30 MATX Tempered Glass Case,Deepcool Matrexx 30 MATX Tempered Glass Case,0,44.76,DEEPCOOL,PC CASES,DP-ATX-MATREXX30,6933412713715
-CASE-MATREXX50-ADDRGB-4F,Deepcool MATREXX 50 CASE with addressable RGB FAN x 4,Deepcool MATREXX 50 CASE with addressable RGB FAN x 4,123,108.6,DEEPCOOL,PC CASES,DP-ATX-MATREXX50-AR-4F-NE,6933412714040
+CASE-MATREXX50-ADDRGB-4F,Deepcool MATREXX 50 CASE with addressable RGB FAN x 4,Deepcool MATREXX 50 CASE with addressable RGB FAN x 4,107,108.6,DEEPCOOL,PC CASES,DP-ATX-MATREXX50-AR-4F-NE,6933412714040
 CASE-MATREXX55-MESH-4F,Deepcool MATREXX 55 Mesh CASE with addressable RGB FAN x 4,Deepcool MATREXX 55 Mesh CASE with addressable RGB FAN x 4,35,153.4,DEEPCOOL,PC CASES,DP-ATX-MATREXX55-MESH-ARGB-4F,6933412714149
 CASE-MATREXX55-RGB3F,Deepcool Matrexx 55 ATXTempered Glass Case with addressable RGB fan x 3,Deepcool Matrexx 55 ATXTempered Glass Case with addressable RGB fan x 3,0,128.36,DEEPCOOL,PC CASES,MATREXX55-RGB-3F,6933412713982
 CASE-MATREXX70-RGB3F,Deepcool Matrexx 70 RGB fan x3 ATX Minimalist Tempered Glass Case,Deepcool Matrexx 70 RGB fan x3 ATX Minimalist Tempered Glass Case,4,148.12,DEEPCOOL,PC CASES,MATREXX70-BK-3F,6933412713876
@@ -144,7 +146,7 @@ CASE-VSK3000B-U3,Antec VSK3000B USB3.0 Micro ATX  Case Black,Antec VSK3000B USB3
 CASE-VSK4000B-U3,Antec VSK4000B USB3.0 Mid Tower  Case Black,Antec VSK4000B USB3.0 Mid Tower  Case Black,42,53,Antec,PC CASES,VSK4000BU3,0761345920445
 CASE-WAVE-V2,Deepcool MicroTower Black/ No PSU w/ USB 3.0,Deepcool MicroTower Black/ No PSU w/ USB 3.0,35,36.4,DEEPCOOL,PC CASES,WAVEV2,6933412713050
 CAT5-ES100,"8ware CAT5-ES100, Cat5E Solid Cable with Dispenser, 100m, Blue","8ware CAT5-ES100, Cat5E Solid Cable with Dispenser, 100m, Blue",18,75.8,8WARE,CABLES,CAT5-ES100,9341756009697
-CAT6-305,Category 6 Stranded Cable 305m Roll,Category 6 Stranded Cable 305m Roll,34,199,8WARE,CABLES - CAT6 10/100/1000,CAT6-305,"7502585799018,9341756009680"
+CAT6-305,Category 6 Stranded Cable 305m Roll,Category 6 Stranded Cable 305m Roll,32,199,8WARE,CABLES - CAT6 10/100/1000,CAT6-305,"7502585799018,9341756009680"
 CAT6A-EXT350BLK,8ware CAT6A-EXT350BLK CAT6A UTP LAN Network Cable Roll on a Reel Black 350m,8ware CAT6A-EXT350BLK CAT6A UTP LAN Network Cable Roll on a Reel Black 350m,9,259,8WARE,CABLES,CAT6A-EXT350BLK,
 CAT6-EXT350BLU,"8Ware CAT6-EXT350BLU, 350m, Cat6 Cable Roll Blue Bare Copper Twisted Core PVC Jacket","8Ware CAT6-EXT350BLU, 350m, Cat6 Cable Roll Blue Bare Copper Twisted Core PVC Jacket",20,259,8WARE,CABLES,CAT6-EXT350BLU,9341756016923
 CAT6THINBL-305M,8ware CAT6 Ulta Thin Slim Cable 305m - Blue Color Premium RJ45 Ethernet Network LAN UTP Patch Cord 26AWG,8ware CAT6 Ulta Thin Slim Cable 305m - Blue Color Premium RJ45 Ethernet Network LAN UTP Patch Cord 26AWG,20,214.9,8WARE,CABLES,CAT6THINBL-305M,
@@ -176,6 +178,7 @@ CFAN-ANT-VO360,"
 Antec Vortex 360 ARGB  water cooling system","
 Antec Vortex 360 ARGB  water cooling system",23,177.3,Antec,Cooling - Water Cooling,CFAN-ANT-VO360,0761345740470
 CFAN-ARGB-CONTROLLER,Deepcool ARGB Controller with remote ARGB control,Deepcool ARGB Controller with remote ARGB control,32,11,DEEPCOOL,Cooling - Cooling Fan,DP-MG-CTR-A-RGB-RMT,6933412796176
+CFAN-AT-IGPUH-L100-PRSM-BK,Antec AT-IGPUH-L100-PRSM-BK GPU Bracket,Antec AT-IGPUH-L100-PRSM-BK GPU Bracket,0,10,Antec,PC CASES,0-761345-77803-9,0761345778039
 CFAN-CASTLE240EX-ARGB,Deepcool Castle 240EX A-RGB  V2 AIO Liquid Cooler,Deepcool Castle 240EX A-RGB  V2 AIO Liquid Cooler,21,138,DEEPCOOL,Cooling - Water Cooling,DP-GS-H12W-CSL240EX-AR,6933412727262
 CFAN-CF120PLUS-3P,"Deepcool CF120  Plus 3 In 1 Customisable Dual Ring RGB LED Fans, 120mm (3-Pack)","Deepcool CF120  Plus 3 In 1 Customisable Dual Ring RGB LED Fans, 120mm (3-Pack)",0,72.12,DEEPCOOL,ACCESSORIES,DP-F12-AR-CF120P-3P,6933412710509
 CFAN-DP-AG300,DEEPCOOL AG300 CPU Cooler,DEEPCOOL AG300 CPU Cooler,35,23,DEEPCOOL,Cooling - CPU Cooling,R-AG300-BKNNMN-G,6933412727897
@@ -194,7 +197,7 @@ CFAN-DP-FK120,DeepCool FK120 High-Performance 120mm PWM fan,DeepCool FK120 High-
 CFAN-DP-FK120-3P,DeepCool FK120-3 IN 1  High-Performance 120mm PWM fan,DeepCool FK120-3 IN 1  High-Performance 120mm PWM fan,1,55.4,DEEPCOOL,Cooling - Cooling Fan,R-FK120-BKNPF3-G-1,6933412710615
 CFAN-DP-LE300,Deepcool LE300 120mm LED Liquid CPU Cooler,Deepcool LE300 120mm LED Liquid CPU Cooler,5,81.9,DEEPCOOL,Cooling - CPU Cooling,R-LE300-BKLNMC-G-1,6933412727545
 CFAN-DP-LE500,Deepcool LE500 120mm LED Liquid CPU Cooler,Deepcool LE500 120mm LED Liquid CPU Cooler,0,91.2,DEEPCOOL,Cooling - CPU Cooling,R-LE500-BKLNMC-G-1,6933412727552
-CFAN-DP-LS520,DeepCool LS520 premium liquid CPU cooler,DeepCool LS520 premium liquid CPU cooler,95,171.68,DEEPCOOL,Cooling - Cooling Fan,R-LS520-BKAMNT-G-1,6933412727484
+CFAN-DP-LS520,DeepCool LS520 premium liquid CPU cooler,DeepCool LS520 premium liquid CPU cooler,86,171.68,DEEPCOOL,Cooling - Cooling Fan,R-LS520-BKAMNT-G-1,6933412727484
 CFAN-DP-LS520WH,Deepcool LS520 WH  premium liquid CPU cooler,Deepcool LS520 WH  premium liquid CPU cooler,2,168.1,DEEPCOOL,Cooling - CPU Cooling,R-LS520-WHAMNT-G-1,6933412727651
 CFAN-DP-LS720,DeepCool LS720 premium liquid CPU cooler,DeepCool LS720 premium liquid CPU cooler,4,195.7,DEEPCOOL,Cooling - Cooling Fan,R-LS720-BKAMNT-G-1,6933412727477
 CFAN-DP-LS720WH,Deepcool LS720 WH  premium liquid CPU cooler,Deepcool LS720 WH  premium liquid CPU cooler,0,207.2,DEEPCOOL,Cooling - CPU Cooling,R-LS720-WHAMNT-G-1,"	6933412727644,6933412727644"
@@ -219,7 +222,7 @@ CFAN-LE720,Deepcool LE720 360mm ARGB Liquid Cooler,Deepcool LE720 360mm ARGB Liq
 CFAN-LE720WH,Deepcool LE720WH 360mm ARGB Liquid Cooler White,Deepcool LE720WH 360mm ARGB Liquid Cooler White,0,165.77,DEEPCOOL,Cooling - Water Cooling,R-LE720-WHAMMN-G-1,
 CFAN-RGB100-RD,Deepcool strip light 30cm red with magnet,Deepcool strip light 30cm red with magnet,213,9.04,DEEPCOOL,Cooling - Cooling Fan,CFAN-RGB100-RD,6933412795636
 CFAN-RGB-CONTROLLER,Deepcool RGB Controller with remote RGB control,Deepcool RGB Controller with remote RGB control,56,13.6,DEEPCOOL,Cooling - Cooling Fan,DP-MG-CTR-RGB-RMT,6933412796169
-CIR2001-AN ,Circle Home Plus - Parental Controls,Circle Home Plus - Parental Controls,140,145,CIRCLE,NETWORKING - Wireless Router,CIR2001-AN ,"856696007096,0856696007096"
+CIR2001-AN ,Circle Home Plus - Parental Controls,Circle Home Plus - Parental Controls,90,145,CIRCLE,NETWORKING - Wireless Router,CIR2001-AN ,"856696007096,0856696007096"
 CM-CMC-WLXXMB-US,Tt eSPORTS Commander Combo V2 Keyboard & Mouse,Tt eSPORTS Commander Combo V2 Keyboard & Mouse,4,44.65,THERMALTAKE,KEYBOARDS - Keypad,CM-CMC-WLXXMB-US,4713227523196
 DP-GM800,Deepcool GM800 Premium Cloth gaming mouse pad 320x270mm,Deepcool GM800 Premium Cloth gaming mouse pad 320x270mm,44,15.9,DEEPCOOL,MICE - Mouse Pad,R-GM800-BKNNNM-G,6933412796244
 DP-GM810,Deepcool GM810 Premium Cloth gaming mouse pad 450x400mm,Deepcool GM810 Premium Cloth gaming mouse pad 450x400mm,24,19.9,DEEPCOOL,MICE - Mouse Pad,R-GM810-BKNNNL-G,6933412796251
@@ -780,8 +783,8 @@ MB-UCD-01,"mbeat ""Elite"" USB Type-C Multifunction Dock","mbeat ""Elite"" USB T
 MB-UCD32-U7,"mbeat ""Elite"" 7-in-1 Multi-Port USB-C 3.2 Hub with 8K HDMI Video, 10Gbps Data, Space Grey","mbeat ""Elite"" 7-in-1 Multi-Port USB-C 3.2 Hub with 8K HDMI Video, 10Gbps Data, Space Grey",0,79.75,mbeat,HUBS AND CARDREADERS,MB-UCD32-U7,9346396003395
 MB-UCD-P6,mbeat Elite Mini P6 4-in-1 USB-C Portable Hub,mbeat Elite Mini P6 4-in-1 USB-C Portable Hub,11,53.14,mbeat,USB AND FIREWIRE PRODUCTS,MB-UCD-P6,9346396002626
 MB-UCD-P8,mbeat Elite Mini P8 6-in-1 Dual HDMI USB-C Hub,mbeat Elite Mini P8 6-in-1 Dual HDMI USB-C Hub,29,76.06,mbeat,USB AND FIREWIRE PRODUCTS,MB-UCD-P8,9346396002633
-MB-UCD-X11,mbeat Elite X11 Dual HDMI USB-C Docking Station (Space Grey) ,mbeat Elite X11 Dual HDMI USB-C Docking Station (Space Grey) ,1,124.1,mbeat,HUBS AND CARDREADERS,MB-UCD-X11,9346396002695
-MB-UCD-X15,"mbeat 15-IN-1 Triple Display USB-C Dock, HDMI x 2, DP x 1, 10G Data (Space Grey)","mbeat 15-IN-1 Triple Display USB-C Dock, HDMI x 2, DP x 1, 10G Data (Space Grey)",3,177.32,mbeat,HUBS AND CARDREADERS,MB-UCD-X15,9346396003401
+MB-UCD-X11,mbeat Elite X11 Dual HDMI USB-C Docking Station (Space Grey) ,mbeat Elite X11 Dual HDMI USB-C Docking Station (Space Grey) ,0,124.1,mbeat,HUBS AND CARDREADERS,MB-UCD-X11,9346396002695
+MB-UCD-X15,"mbeat 15-IN-1 Triple Display USB-C Dock, HDMI x 2, DP x 1, 10G Data (Space Grey)","mbeat 15-IN-1 Triple Display USB-C Dock, HDMI x 2, DP x 1, 10G Data (Space Grey)",2,177.32,mbeat,HUBS AND CARDREADERS,MB-UCD-X15,9346396003401
 MB-UCD-X6,"Mbeat Elite X6 6-in-1 Multifunction USB-C Hub with USB-C PD 60W,  HDMI, SD, MicroSD and USB 3.0","Mbeat Elite X6 6-in-1 Multifunction USB-C Hub with USB-C PD 60W,  HDMI, SD, MicroSD and USB 3.0",2,62.01,mbeat,HUBS AND CARDREADERS,MB-UCD-X6,9346396002275
 MB-UCD-X9,"Mbeat X9 Elite 9-in-1 USB-C Docking Station with USB-C PD 100W,  HDMI, VGA, SD/MicroSD and USB 3.0","Mbeat X9 Elite 9-in-1 USB-C Docking Station with USB-C PD 100W,  HDMI, VGA, SD/MicroSD and USB 3.0",23,106.36,mbeat,HUBS AND CARDREADERS,MB-UCD-X9,9346396002602
 MB-UCH32-2A2C,Mbeat 4-Port 10Gbps USB-C 3.2 Gen 2 Hub (2A+2C),Mbeat 4-Port 10Gbps USB-C 3.2 Gen 2 Hub (2A+2C),5,26.53,mbeat,HUBS AND CARDREADERS,MB-UCH32-2A2C,9346396003425
@@ -856,11 +859,11 @@ MER-MR60X,"MERCUSYS MR60X, AX1500 WiFi 6 Router","MERCUSYS MR60X, AX1500 WiFi 6 
 MER-MR70X,Mercusys AX1800 Dual-Band Wi-Fi 6 Router,Mercusys AX1800 Dual-Band Wi-Fi 6 Router,3,98.8,MERCUSYS,NETWORKING - Wireless Router,MR70X,6957939000509
 MER-MR80X,Mercusys AX3000 Dual-Band Wi-Fi 6 Router,Mercusys AX3000 Dual-Band Wi-Fi 6 Router,22,123.7,MERCUSYS,NETWORKING - Wireless Router,MR80X(EU),6957939000646
 MER-MR90X,Mercusys MR90X AX6000 8-Stream Wi-Fi 6 Router,Mercusys MR90X AX6000 8-Stream Wi-Fi 6 Router,3,190.2,MERCUSYS,SURVEILLANCE CAMERA,MR90X(EU),6957939000875
-MER-MS105G,Mercusys 5-Port 10/100/1000Mbps Desktop Switch ,Mercusys 5-Port 10/100/1000Mbps Desktop Switch ,29,19.9,MERCUSYS,NETWORKING - Switch & Adapter,MS105G,6935364099619
-MER-MS105GP,"Mercusys MS105GP, 5-Port Gigabit Desktop Switch with 4-Port PoE+","Mercusys MS105GP, 5-Port Gigabit Desktop Switch with 4-Port PoE+",18,49,MERCUSYS,NETWORKING - POE & EOP,MS105GP,6957939001186
-MER-MS105GS,Mercusys 5-Port Gigabit Desktop Switch,Mercusys 5-Port Gigabit Desktop Switch,17,23.8,MERCUSYS,SWITCHES,MS105GS,6957939001315
+MER-MS105G,Mercusys 5-Port 10/100/1000Mbps Desktop Switch ,Mercusys 5-Port 10/100/1000Mbps Desktop Switch ,0,19.9,MERCUSYS,NETWORKING - Switch & Adapter,MS105G,6935364099619
+MER-MS105GP,"Mercusys MS105GP, 5-Port Gigabit Desktop Switch with 4-Port PoE+","Mercusys MS105GP, 5-Port Gigabit Desktop Switch with 4-Port PoE+",0,49,MERCUSYS,NETWORKING - POE & EOP,MS105GP,6957939001186
+MER-MS105GS,Mercusys 5-Port Gigabit Desktop Switch,Mercusys 5-Port Gigabit Desktop Switch,0,23.8,MERCUSYS,SWITCHES,MS105GS,6957939001315
 MER-MS108G,Mercusys 8-Port 10/100/1000Mbps Desktop Switch,Mercusys 8-Port 10/100/1000Mbps Desktop Switch,169,29.1,MERCUSYS,NETWORKING - Switch & Adapter,MS108G,6935364099626
-MER-MS108GP,MERCUSYS MS108GP 8-Port Gigabit Desktop Switch with 7-Port PoE+,MERCUSYS MS108GP 8-Port Gigabit Desktop Switch with 7-Port PoE+,7,57.3,MERCUSYS,SWITCHES,MS108GP,6957939001209
+MER-MS108GP,MERCUSYS MS108GP 8-Port Gigabit Desktop Switch with 7-Port PoE+,MERCUSYS MS108GP 8-Port Gigabit Desktop Switch with 7-Port PoE+,6,57.3,MERCUSYS,SWITCHES,MS108GP,6957939001209
 MER-MS108GS,Mercusys 8-Port Gigabit Desktop Switch,Mercusys 8-Port Gigabit Desktop Switch,7,40.7,MERCUSYS,SWITCHES,MS108GS,6957939001339
 MER-MS110P,"Mercusys MS110P, 10-Port 10/100Mbps Desktop Switch with 8-Port PoE+","Mercusys MS110P, 10-Port 10/100Mbps Desktop Switch with 8-Port PoE+",0,53.1,MERCUSYS,NETWORKING - POE & EOP,MS110P,6957939001162
 MER-MU6H,Mercusys AC650 High Gain Wireless Dual Band USB Adapter,Mercusys AC650 High Gain Wireless Dual Band USB Adapter,7,19.9,MERCUSYS,ADAPTORS / CONVERTERS,MU6H,6935364088064
@@ -870,7 +873,7 @@ NB-DP-SE460,Deepcool SE460 compact laptop stand,Deepcool SE460 compact laptop st
 NB-MULTICOREX6,"Deepcool Multi Core X6 Notebook Cooler With 2x140mm, 2x100mm Fans, Step Switch & 2 USB Ports","Deepcool Multi Core X6 Notebook Cooler With 2x140mm, 2x100mm Fans, Step Switch & 2 USB Ports",0,32.6,DEEPCOOL,Cooling - Notebook Cooling,MULTICOREX6,6933412725220
 NB-MULTICOREX8,"Deepcool Multi Core X8 17"" Notebook Cooler With 4x100mm Fans, Step Switch & 2 USB Ports","Deepcool Multi Core X8 17"" Notebook Cooler With 4x100mm Fans, Step Switch & 2 USB Ports",6,51.4,DEEPCOOL,Cooling - Notebook Cooling,MULTICOREX8,6933412775249
 NB-N200,"Deepcool Notebook Cooler Pad Up to 15.6"" Black Aluminium Mesh with 120mm Fan","Deepcool Notebook Cooler Pad Up to 15.6"" Black Aluminium Mesh with 120mm Fan",0,12.9,DEEPCOOL,Cooling - Notebook Cooling,TNP08346,6933412703266
-NB-N8B,Deepcool N8 Notebook Cooler Pad Black,Deepcool N8 Notebook Cooler Pad Black,4,34,DEEPCOOL,Cooling - Notebook Cooling,N8Black,6933412706786
+NB-N8B,Deepcool N8 Notebook Cooler Pad Black,Deepcool N8 Notebook Cooler Pad Black,3,34,DEEPCOOL,Cooling - Notebook Cooling,N8Black,6933412706786
 NB-N9,"Deepcool N9 Notebook Cooler (Up To 17""), Angle Adjustable, Antislip, Silver Aluminium, 18cm Fan, 3x USB ","Deepcool N9 Notebook Cooler (Up To 17""), Angle Adjustable, Antislip, Silver Aluminium, 18cm Fan, 3x USB ",0,46.28,DEEPCOOL,Cooling - Notebook Cooling,N9,6933412708629
 NB-UPAL,Deepcool U channel notebook cooler with 14cm fan,Deepcool U channel notebook cooler with 14cm fan,28,25,DEEPCOOL,Cooling - Notebook Cooling,UPAL,6933412775607
 NW-800,NW-800 Professional Studio Broadcasting & Recording Microphone Set- Silver,NW-800 Professional Studio Broadcasting & Recording Microphone Set- Silver,15,14.4,Generic,Speaker and Headset,NW-800,1909071743320
@@ -984,7 +987,7 @@ RC-3078AU,Power Cable (Wall - PC 240V) 1.8m,Power Cable (Wall - PC 240V) 1.8m,14
 RC-3078C5-OEM,3 Core Light Duty Power Cable 2m,3 Core Light Duty Power Cable 2m,2251,3,8WARE,CABLES - Power Cables,RC-3078C5-OEM,9341756009727
 RC-3078C7-OEM,2 Core Light Duty Appliance Power Cable OEM Pack (Appliance -Wall),2 Core Light Duty Appliance Power Cable OEM Pack (Appliance -Wall),90,2.9,8WARE,CABLES - Power Cables,RC-3078C7-OEM,9341756005538
 RC-3USBDP-2,8Ware USB Type-C to Display Port (version 1.2) M/M Black - 2m,8Ware USB Type-C to Display Port (version 1.2) M/M Black - 2m,146,19.9,8WARE,CABLES - USB3 Cables,RC-3USBDP-2,9341756016800
-RC-3USBHDMI-2,8Ware USB Type-C to HDMI Cable M/M White - 2m,8Ware USB Type-C to HDMI Cable M/M White - 2m,332,32,8WARE,CABLES - USB3 Cables,RC-3USBHDMI-2,9341756016794
+RC-3USBHDMI-2,8Ware USB Type-C to HDMI Cable M/M White - 2m,8Ware USB Type-C to HDMI Cable M/M White - 2m,328,32,8WARE,CABLES - USB3 Cables,RC-3USBHDMI-2,9341756016794
 RC-5052,Molex Serial ATA Power Cable Converter 12cm,Molex Serial ATA Power Cable Converter 12cm,201,0.99,8WARE,CABLES - SATA/ESATA Cables,RC-5052,9341756007440
 RC-CART-UC30S,30 Device USB Charging Station by Rock,30 Device USB Charging Station by Rock,1,640,ROCK,MobilePhone/Tablet Accessories,UC30S,
 RC-DP2,DisplayPort Cable M-M 2m,DisplayPort Cable M-M 2m,0,7.4,8WARE,CABLES - VGA/DVI/HDMI/DP,RC-DP2,"9341756009765,389G0187LAAM02----1715300866"
@@ -994,13 +997,13 @@ RC-HDMIDVI-2,High Speed HDMI Cable Male to DVI-D Male Cable 1.8m,High Speed HDMI
 RC-HDMI-OEM,HDMI Cable Male to Male 1.8m OEM,HDMI Cable Male to Male 1.8m OEM,284,3.1,8WARE,CABLES - VGA/DVI/HDMI/DP,RC-HDMI-OEM,9341756006627
 RC-HDMIVGA-2,HDMI to VGA Converter Cable - 1.8m,HDMI to VGA Converter Cable - 1.8m,116,22.7,8WARE,CABLES - VGA/DVI/HDMI/DP,RC-HDMIVGA-2,9341756002612
 RC-MDPDP-2,Mini DisplayPort to DisplayPort Cable M-M 2m,Mini DisplayPort to DisplayPort Cable M-M 2m,686,8.1,8WARE,CABLES - VGA/DVI/HDMI/DP,RC-MDPDP-2,9341756010112
-RC-MDPDVI-2,"8ware Mini Display Port to DVI Cable, 2m","8ware Mini Display Port to DVI Cable, 2m",384,12.5,8WARE,CABLES - VGA/DVI/HDMI/DP,RC-MDPDVI-2,9420066900280
+RC-MDPDVI-2,"8ware Mini Display Port to DVI Cable, 2m","8ware Mini Display Port to DVI Cable, 2m",382,12.5,8WARE,CABLES - VGA/DVI/HDMI/DP,RC-MDPDVI-2,9420066900280
 RC-MDPHDMI-2,"Mini Display Port to HDMI Cable, 2m","Mini Display Port to HDMI Cable, 2m",449,12.6,8WARE,CABLES - VGA/DVI/HDMI/DP,RC-MDPHDMI-2,9341756005552
 RC-MHDMIM-3,Mini HDMI Male to Mini HDMI Male Cable 3M,Mini HDMI Male to Mini HDMI Male Cable 3M,16,14,8WARE,CABLES - VGA/DVI/HDMI/DP,MINIHDMI,
 RJC-01,RJ45 Plug for Stranded Cable (10pcs per unit),RJ45 Plug for Stranded Cable (10pcs per unit),0,3.9,8WARE,NETWORKING PRODUCTS,P2060,
 RJC-02,RJ45 in Line Coupler,RJ45 in Line Coupler,0,2.1,8WARE,NETWORKING PRODUCTS,RJC-02,
 RL-823CEILING,REOLINK 823 Ceiling Bracket,REOLINK 823 Ceiling Bracket,7,30.5,Reolink,ACCESSORIES,823 Ceiling Bracket,6975253980925
-RL-ARGUS-ECO,"Reolink Argus ECO wire-free outdoor camera, rechargeable battery up to 180 days, 1080p 100 view angle, MicroSD, PIR, WIFI, IR","Reolink Argus ECO wire-free outdoor camera, rechargeable battery up to 180 days, 1080p 100 view angle, MicroSD, PIR, WIFI, IR",7,130.6,Reolink,SURVEILLANCE CAMERA,ARGUSECO,"0725423889703,725423889703,X000Z64RHJ,6972489770320"
+RL-ARGUS-ECO,"Reolink Argus ECO wire-free outdoor camera, rechargeable battery up to 180 days, 1080p 100 view angle, MicroSD, PIR, WIFI, IR","Reolink Argus ECO wire-free outdoor camera, rechargeable battery up to 180 days, 1080p 100 view angle, MicroSD, PIR, WIFI, IR",4,130.6,Reolink,SURVEILLANCE CAMERA,ARGUSECO,"0725423889703,725423889703,X000Z64RHJ,6972489770320"
 RL-BRA-842CEILING,Reolink RLC-842A Ceiling Bracket,Reolink RLC-842A Ceiling Bracket,1,21,Reolink,ACCESSORIES,RL-BRA-842CEILING,6975253980932
 RL-DUO-4G,Reolink 4G Mobile 2K 4MP  Dual-Lens Security Camera with Spotlights with AI Solar or Battery Powered,Reolink 4G Mobile 2K 4MP  Dual-Lens Security Camera with Spotlights with AI Solar or Battery Powered,46,592.6,Reolink,SURVEILLANCE CAMERA,RL-DUO-4G,6972489776407
 RL-LIDS,Reolink Waterproof Lid (2-Pack),Reolink Waterproof Lid (2-Pack),16,15.6,Reolink,SURVEILLANCE CAMERA,RL-LIDS,
@@ -1097,7 +1100,7 @@ TL-DECOBE85-2P,TP-Link Deco BE85 BE22000 Tri-Band Whole Home Mesh Wi-Fi 7 System
 TL-DECOBE85-3P,TP LINK BE22000 Whole Home Mesh Wi-Fi 7 System(Tri-Band) - 3 Pack,TP LINK BE22000 Whole Home Mesh Wi-Fi 7 System(Tri-Band) - 3 Pack,12,2920.9,TP-LINK,NETWORKING - Wireless Router,Deco BE85(3-pack),4897098686904
 TL-DECOE4-2P,TP-Link Deco E4 AC1200 (2-Pack) Mesh Wi-Fi System,TP-Link Deco E4 AC1200 (2-Pack) Mesh Wi-Fi System,27,148.8,TP-LINK,NETWORKING - Wireless Router,TL-DECOE4-2P,6935364085278
 TL-DECOE4-3P,TP-Link Deco E4 AC1200 (3-Pack) Mesh Wi-Fi System,TP-Link Deco E4 AC1200 (3-Pack) Mesh Wi-Fi System,26,207,TP-LINK,NETWORKING - Wireless Router,DecoE4(3-pack),6935364086794
-TL-DECOM4-1P,TP-Link Deco M4 AC1200 (1-Pack) Mesh Wi-Fi System,TP-Link Deco M4 AC1200 (1-Pack) Mesh Wi-Fi System,1287,107.2,TP-LINK,ACCESSORIES,DecoM4(1-pack),6935364084394
+TL-DECOM4-1P,TP-Link Deco M4 AC1200 (1-Pack) Mesh Wi-Fi System,TP-Link Deco M4 AC1200 (1-Pack) Mesh Wi-Fi System,1286,107.2,TP-LINK,ACCESSORIES,DecoM4(1-pack),6935364084394
 TL-DECOM4-2P,TP-Link Deco M4 AC1200 (2-Pack) Mesh Wi-Fi System,TP-Link Deco M4 AC1200 (2-Pack) Mesh Wi-Fi System,89,190.2,TP-LINK,ACCESSORIES,Deco M4(2-pack),"6935364084189,0150502727"
 TL-DECOM4-3P,TP-Link Deco M4 AC1200 (3-Pack) Mesh Wi-Fi System,TP-Link Deco M4 AC1200 (3-Pack) Mesh Wi-Fi System,88,248.4,TP-LINK,NETWORKING - Wireless Router,DecoM4(3-pack),6935364085179
 TL-DECOM5-1P,TP-Link Deco M5 (1-Pack) Whole-Home Mesh Wi-Fi,TP-Link Deco M5 (1-Pack) Whole-Home Mesh Wi-Fi,1,123.8,TP-LINK,NETWORKING - Wireless Router,DecoM5(1-pack),"0150502654,6935364080822"
@@ -1232,7 +1235,7 @@ TL-SG1005LP,TP-Link TL-SG1005LP 5-Port Gigabit Desktop Switch With 4-Port PoE,TP
 TL-SG1005P,TP-Link TL-SG1005P 5-Port Gigabit Desktop Switch With 4-Port PoE,TP-Link TL-SG1005P 5-Port Gigabit Desktop Switch With 4-Port PoE,59,85.86,TP-LINK,ACCESSORIES,TL-SG1005P,"6935364083212,1760500048"
 TL-SG1005P-PD,TP Link 5-Port Gigabit Desktop PoE+ Switch with 1-Port PoE++ In and 4-Port PoE+Out ,TP Link 5-Port Gigabit Desktop PoE+ Switch with 1-Port PoE++ In and 4-Port PoE+Out ,3,66.4,TP-LINK,SWITCHES,TL-SG1005P-PD,4895252501117
 TL-SG1006PP,TP LINK 6-Port Gigabit Desktop Switch with 3-Port PoE+ and 1-Port PoE++,TP LINK 6-Port Gigabit Desktop Switch with 3-Port PoE+ and 1-Port PoE++,3,149,TP-LINK,SWITCHES,TL-SG1006PP,4895252500325
-TL-SG1008D,TP-Link 8 Port Gigabit Switch (10/100/1000) Plastic,TP-Link 8 Port Gigabit Switch (10/100/1000) Plastic,129,33.2,TP-LINK,NETWORKING - Switch & Adapter,TL-SG1008D,"6935364020262,6935364092313,1730502113"
+TL-SG1008D,TP-Link 8 Port Gigabit Switch (10/100/1000) Plastic,TP-Link 8 Port Gigabit Switch (10/100/1000) Plastic,128,33.2,TP-LINK,NETWORKING - Switch & Adapter,TL-SG1008D,"6935364020262,6935364092313,1730502113"
 TL-SG1008MP,"TP-LINK TL-SG1008MP 8-port Gigabit PoE+ Switch, PoE+ for All 8 Ports, 124W PoE power supply","TP-LINK TL-SG1008MP 8-port Gigabit PoE+ Switch, PoE+ for All 8 Ports, 124W PoE power supply",8,158.66,TP-LINK,NETWORKING - Switch & Adapter,TL-SG1008MP,"6935364086770,1760500073"
 TL-SG1008P,TP-LINK TL-SG1008P 8-Port Gigabit Desktop Switch with 4-Port PoE (53W),TP-LINK TL-SG1008P 8-Port Gigabit Desktop Switch with 4-Port PoE (53W),20,93.86,TP-LINK,NETWORKING - Switch & Adapter,TL-SG1008P,"6935364021160,1760500034"
 TL-SG1016,"TP-Link 16 Port Gigabit Switch (10/100/1000) Metal 19"" Rackmountable (Brackets Included)","TP-Link 16 Port Gigabit Switch (10/100/1000) Metal 19"" Rackmountable (Brackets Included)",16,115.91,TP-LINK,NETWORKING - Switch & Adapter,TL-SG1016,"6935364020095,1730502104"
@@ -1353,7 +1356,7 @@ TL-TXM431-LR,"TP-LINK 10Gbase-LR SFP+ LC Transceiver, 1310nm Single-mode, LC Dup
 TL-UB400,"TP-LINK Bluetooth 4.0 Nano USB Adapter, Nano Size, USB 2.0","TP-LINK Bluetooth 4.0 Nano USB Adapter, Nano Size, USB 2.0",213,11.6,TP-LINK,HUBS AND CARDREADERS,UB400,6935364099664
 TL-UB500,TP Link Bluetooth 5.0 Nano USB Adapter,TP Link Bluetooth 5.0 Nano USB Adapter,207,14.1,TP-LINK,ADAPTORS / CONVERTERS,UB500,4897098683446
 TL-UE200,TP-LINK UE200 USB 2.0 To 100Mbps Ethernet Network Adapter,TP-LINK UE200 USB 2.0 To 100Mbps Ethernet Network Adapter,5,19.9,TP-LINK,NETWORKING - Wireless Adapter,UE200,6935364094614
-TL-UE300,TP-LINK USB 3.0 to Gigabit Ethernet Adapter,TP-LINK USB 3.0 to Gigabit Ethernet Adapter,3,24.9,TP-LINK,NETWORKING - Switch & Adapter,UE300,"0101502019,6935364091743"
+TL-UE300,TP-LINK USB 3.0 to Gigabit Ethernet Adapter,TP-LINK USB 3.0 to Gigabit Ethernet Adapter,2,24.9,TP-LINK,NETWORKING - Switch & Adapter,UE300,"0101502019,6935364091743"
 TL-UE300C,TP-LINK USB 3.0 Type-C to Gigabit Ethernet Network Adapter,TP-LINK USB 3.0 Type-C to Gigabit Ethernet Network Adapter,10,25.5,TP-LINK,NETWORKING - Switch & Adapter,UE300C,6935364072599
 TL-UE330,TP-Link UE330 USB 3.0 3-Port Hub & Gigabit Ethernet Adapter,TP-Link UE330 USB 3.0 3-Port Hub & Gigabit Ethernet Adapter,9,40.7,TP-LINK,ADAPTORS / CONVERTERS,UE330,6935364094553
 TL-UH400,TP-LINK UH400 USB 3.0 4-Port Portable Hub,TP-LINK UH400 USB 3.0 4-Port Portable Hub,88,27.6,TP-LINK,HUBS AND CARDREADERS,UH400,6935364091477
@@ -1431,7 +1434,7 @@ TL-WN823N,TP-LINK 300Mbps Wireless N Mini USB Adapter,TP-LINK 300Mbps Wireless N
 TL-WN881ND,"TP-Link 300Mbps Wireless N PCI Express Adapter,Atheros, 2T2R, 2 detachable antenna","TP-Link 300Mbps Wireless N PCI Express Adapter,Atheros, 2T2R, 2 detachable antenna",96,21.4,TP-LINK,NETWORKING - Wireless Adapter,TL-WN881ND,"6935364050573,0152502205"
 TL-WPA4220KIT,TP-Link 300Mbps AV500 WiFi Powerline Extender Starter Kit,TP-Link 300Mbps AV500 WiFi Powerline Extender Starter Kit,108,112.13,TP-LINK,NETWORKING - POE & EOP,TL-WPA4220KIT,"6935364032883,0165500111"
 TL-WPA8631PKIT,TP-Link TL-WPA8631P KIT AV1300 Wi-Fi Passthrough Range Extender Powerline,TP-Link TL-WPA8631P KIT AV1300 Wi-Fi Passthrough Range Extender Powerline,39,225.87,TP-LINK,ACCESSORIES,TL-WPA8631PKIT,6935364072223
-TL-WR802N,TP-LINK 300Mbps Wireless N Nano Router,TP-LINK 300Mbps Wireless N Nano Router,83,33.2,TP-LINK,NETWORKING - Wireless Router,TL-WR802N,"6935364071714,1750502285"
+TL-WR802N,TP-LINK 300Mbps Wireless N Nano Router,TP-LINK 300Mbps Wireless N Nano Router,82,33.2,TP-LINK,NETWORKING - Wireless Router,TL-WR802N,"6935364071714,1750502285"
 TL-WR841N,TP-LINK 300Mbps Wireless N Router,TP-LINK 300Mbps Wireless N Router,38,32.4,TP-LINK,NETWORKING - Wireless Router,TL-WR841N,"1750502317,6935364051242"
 TL-WR902AC,TP-Link TL-WR902AC AC750 Wireless Travel Router,TP-Link TL-WR902AC AC750 Wireless Travel Router,58,49,TP-LINK,NETWORKING - Wireless Router,TL-WR902AC,"6935364095666,22042T9004169"
 TTE-DASHER-MINISLIM,TteSports by Thermaltake Dasher Mini Slim Mouse Pad,TteSports by Thermaltake Dasher Mini Slim Mouse Pad,0,13.1,THERMALTAKE,MICE - Mouse Pad,MP-DSM-BLKSMS-01,"4717964403254,841163063064"
@@ -1444,7 +1447,7 @@ UC-2001AC,8Ware USB 2.0 Cable Type A to C M/M - 1m,8Ware USB 2.0 Cable Type A to
 UC-2002AAE,USB 2.0 Extension Cable Type A to A M/F Transparent - 2m,USB 2.0 Extension Cable Type A to A M/F Transparent - 2m,381,2.9,8WARE,CABLES - USB 2 Cables,UC-2002AAE,9341756008874
 UC-2005AAE,9341756008942 USB 2.0 Certified Extension A-A M-F Cable 5m Black,9341756008942 USB 2.0 Certified Extension A-A M-F Cable 5m Black,32,3.8,8WARE,CABLES - USB 2 Cables,UC-2005AAE,9341756008942
 UC-2005AB,USB 2.0 Certified Cable A-B 5m Black Metal Sheath UL Approved,USB 2.0 Certified Cable A-B 5m Black Metal Sheath UL Approved,174,3,8WARE,CABLES - USB 2 Cables,UC-2005AB,
-UC-2005AUB,USB 2.0 Cable Type A to Micro-USB B M/M Black - 5m,USB 2.0 Cable Type A to Micro-USB B M/M Black - 5m,26,5.4,8WARE,CABLES,UC-2005AUB,9341756007839
+UC-2005AUB,USB 2.0 Cable Type A to Micro-USB B M/M Black - 5m,USB 2.0 Cable Type A to Micro-USB B M/M Black - 5m,25,5.4,8WARE,CABLES,UC-2005AUB,9341756007839
 UC-3001AC,8Ware USB 3.1 Cable Type A to C M/M - 1m,8Ware USB 3.1 Cable Type A to C M/M - 1m,137,6.7,8WARE,CABLES - USB3 Cables,UC-3001AC,9341756011904
 UC-3001AUB,USB 3.0 Cable Type A to Micro-USB B M/M Blue - 1m,USB 3.0 Cable Type A to Micro-USB B M/M Blue - 1m,88,5.2,8WARE,CABLES - USB3 Cables,UC-3001AUB,9341756008393
 UC-3001CC,8Ware USB 3.1 Cable Type C to C M/M - 1m,8Ware USB 3.1 Cable Type C to C M/M - 1m,303,8.3,8WARE,CABLES - USB3 Cables,UC-3001CC,"0754523500607,9341756011881,754523500607"
@@ -1454,7 +1457,7 @@ UG-10107,UGREEN HDMI Cable 2m (Black),UGREEN HDMI Cable 2m (Black),3,7.7,UGREEN,
 UG-10445,UGREEN Mini DP to DP Cable,UGREEN Mini DP to DP Cable,63,8.3,UGREEN,CABLES - VGA/DVI/HDMI/DP,UG-10445,6957303814459
 UG-10638,UGREEN 6.5mm Male to Male Stereo Auxiliary Aux Audio Cable 2m (Gray),UGREEN 6.5mm Male to Male Stereo Auxiliary Aux Audio Cable 2m (Gray),6,9,UGREEN,CABLES - Audio/Video Cables,UG-10638,6957303816385
 UG-10983,UGREEN Cat 8 U/FTP Ethernet Cable Pure Copper 30AWG 5m,UGREEN Cat 8 U/FTP Ethernet Cable Pure Copper 30AWG 5m,64,11.8,UGREEN,CABLES - CAT6 10/100/1000,UG-10983,6957303819836
-UG-11607,UGREEN DVI(24+1) male to male cable gold-plated 3M,UGREEN DVI(24+1) male to male cable gold-plated 3M,12,14.2,UGREEN,CABLES - VGA/DVI/HDMI/DP,UG-11607,6957303866076
+UG-11607,UGREEN DVI(24+1) male to male cable gold-plated 3M,UGREEN DVI(24+1) male to male cable gold-plated 3M,11,14.2,UGREEN,CABLES - VGA/DVI/HDMI/DP,UG-11607,6957303866076
 UG-20255,UGREEN USB3.0 Giga Lan Card--ABS case   white ABS  10CM,UGREEN USB3.0 Giga Lan Card--ABS case   white ABS  10CM,125,25,UGREEN,ADAPTORS / CONVERTERS,UG-20255,6957303822553
 UG-20316,UGREEN Wall Plate Frame,UGREEN Wall Plate Frame,62,2.7,UGREEN,ACCESSORIES,UG-20316,6957303823161
 UG-20318,UGREEN HDMI Socket Panel (White),UGREEN HDMI Socket Panel (White),10,5.5,UGREEN,POWER BOARD,UG-20318,6957303823185
@@ -1578,12 +1581,12 @@ VEN-CQUBH,Vention USB 2.0 C Male to B Male 2A Cable 2M Black,Vention USB 2.0 C M
 VEN-CQVBF,Vention USB 3.0 C Male to B Male 2A Cable 1M Black,Vention USB 3.0 C Male to B Male 2A Cable 1M Black,20,6.21,Vention,CABLES - USB3 Cables,CQVBF,6922794756588
 VEN-CRCBAC,Vention Cotton Braided USB-C to HDMI-A 8K HD Cable 1.8M Black Zinc Alloy Type,Vention Cotton Braided USB-C to HDMI-A 8K HD Cable 1.8M Black Zinc Alloy Type,10,45.9,Vention,CABLES - VGA/DVI/HDMI/DP,CRCBAC,6922794775145
 VEN-CRDBC,Vention Cotton Braided USB-C to HDMI 8K Converter 0.25M Black Zinc Alloy Type,Vention Cotton Braided USB-C to HDMI 8K Converter 0.25M Black Zinc Alloy Type,10,47.7,Vention,CABLES - VGA/DVI/HDMI/DP,CRDBC,6922794775466
-VEN-CREBC,Vention Cotton Braided USB-C to HDMI 4K Converter 0.25M Black Zinc Alloy Type,Vention Cotton Braided USB-C to HDMI 4K Converter 0.25M Black Zinc Alloy Type,60,17.73,Vention,CABLES - VGA/DVI/HDMI/DP,CREBC,6922794776968
+VEN-CREBC,Vention Cotton Braided USB-C to HDMI 4K Converter 0.25M Black Zinc Alloy Type,Vention Cotton Braided USB-C to HDMI 4K Converter 0.25M Black Zinc Alloy Type,59,17.73,Vention,CABLES - VGA/DVI/HDMI/DP,CREBC,6922794776968
 VEN-CTFBF-SCB,Vention Nylon Braided USB 2.0 A Male to C Male 3A Cable 1M Black LED Type,Vention Nylon Braided USB 2.0 A Male to C Male 3A Cable 1M Black LED Type,20,4.23,Vention,CABLES - USB 2 Cables,CTFBF-SCB,6922794770324
 VEN-CTFBH-SCB,Vention Nylon Braided USB 2.0 A Male to C Male 3A Cable 2M Black LED Type,Vention Nylon Braided USB 2.0 A Male to C Male 3A Cable 2M Black LED Type,16,5.13,Vention,CABLES - USB 2 Cables,CTFBH-SCB,6922794770348
 VEN-CTHBF,Vention USB 2.0 A Male to C Male 3A Cable 1M Black,Vention USB 2.0 A Male to C Male 3A Cable 1M Black,60,2.25,Vention,CABLES - USB 2 Cables,CTHBF,6922794767478
 VEN-CTHBG,Vention USB 2.0 A Male to C Male 3A Cable 1.5M Black,Vention USB 2.0 A Male to C Male 3A Cable 1.5M Black,0,2.97,Vention,CABLES - USB 2 Cables,CTHBG,6922794767485
-VEN-CTHBH,Vention USB 2.0 A Male to C Male 3A Cable 2M Black,Vention USB 2.0 A Male to C Male 3A Cable 2M Black,62,3.6,Vention,CABLES - USB 2 Cables,CTHBH,6922794767492
+VEN-CTHBH,Vention USB 2.0 A Male to C Male 3A Cable 2M Black,Vention USB 2.0 A Male to C Male 3A Cable 2M Black,42,3.6,Vention,CABLES - USB 2 Cables,CTHBH,6922794767492
 VEN-CTHWF,Vention USB 2.0 A Male to C Male 3A Cable 1M White,Vention USB 2.0 A Male to C Male 3A Cable 1M White,100,2.25,Vention,CABLES - USB 2 Cables,CTHWF,6922794767539
 VEN-CTHWH,Vention USB 2.0 A Male to C Male 3A Cable 2M White,Vention USB 2.0 A Male to C Male 3A Cable 2M White,50,3.6,Vention,CABLES - USB 2 Cables,CTHWH,6922794767553
 VEN-CTIBH,Vention USB 2.0 A Male to Micro-B Male 2A Cable 2M Black,Vention USB 2.0 A Male to Micro-B Male 2A Cable 2M Black,29,3.15,Vention,CABLES - USB 2 Cables,CTIBH,6922794767614
