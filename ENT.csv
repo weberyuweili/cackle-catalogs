@@ -835,7 +835,7 @@ MELIC-MX67C-SDW-7Y,Meraki MX67C Secure SD-WAN Plus License,Meraki MX67C Secure S
 MELIC-MX67C-SEC-10YR,Meraki MX67C Advanced Security License a,Meraki MX67C Advanced Security License and Support 10YR,LIC-MX67C-SEC-10YR,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,5332.84,5332.84,,$10929.34,0,,Y,N
 MELIC-MX67C-SEC-1D,Meraki MX67C Advanced Security License a,Meraki MX67C Advanced Security License and Support-1 Day,LIC-MX67C-SEC-1D,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,2.47,2.47,,$5.03,0,,Y,N
 MELIC-MX67C-SEC-1YR,Meraki MX67C Advanced Security License a,Meraki MX67C Advanced Security License and Support 1YR,LIC-MX67C-SEC-1YR,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,710.99,710.99,,$1457.13,-62,,N,N
-MELIC-MX67C-SEC-3YR,Meraki MX67C Advanced Security License a,Meraki MX67C Advanced Security License and Support 3YR,LIC-MX67C-SEC-3YR,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,1599.95,1599.95,,$3278.98,0,,N,N
+MELIC-MX67C-SEC-3YR,Meraki MX67C Advanced Security License a,Meraki MX67C Advanced Security License and Support 3YR,LIC-MX67C-SEC-3YR,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,1599.95,1599.95,,$3278.98,-1,,N,N
 MELIC-MX67C-SEC-5YR,Meraki MX67C Advanced Security License a,Meraki MX67C Advanced Security License and Support 5YR,LIC-MX67C-SEC-5YR,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,2666,2666,,$5463.79,0,,N,N
 MELIC-MX67C-SEC-7YR,Meraki MX67C Advanced Security License a,Meraki MX67C Advanced Security License and Support 7YR,LIC-MX67C-SEC-7YR,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,3732.93,3732.93,,$7650.36,0,,Y,N
 MELIC-MX67-ENT-10YR,Meraki MX67 Enterprise License and Suppo,Meraki MX67 Enterprise License and Support 10YR,LIC-MX67-ENT-10YR,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,2194.58,2194.58,,$4497.63,0,,Y,N
@@ -908,7 +908,7 @@ MELIC-MX68-SEC-10YR,Meraki MX68 Advanced Security License an,Meraki MX68 Advance
 MELIC-MX68-SEC-1D,Meraki MX68 Advanced Security License an,Meraki MX68 Advanced Security License and Support-1 Day,LIC-MX68-SEC-1D,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,2.17,2.17,,$4.44,0,,Y,N
 MELIC-MX68-SEC-1YR,Meraki MX68 Advanced Security License an,Meraki MX68 Advanced Security License and Support 1YR,LIC-MX68-SEC-1YR,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,627.16,627.16,,$1285.29,-1,,N,N
 MELIC-MX68-SEC-3YR,Meraki MX68 Advanced Security License an,Meraki MX68 Advanced Security License and Support 3YR,LIC-MX68-SEC-3YR,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,1410.85,1410.85,,$2891.46,-16,,N,N
-MELIC-MX68-SEC-5YR,Meraki MX68 Advanced Security License an,Meraki MX68 Advanced Security License and Support 5YR,LIC-MX68-SEC-5YR,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,2351.99,2351.99,,$4820.27,0,,N,N
+MELIC-MX68-SEC-5YR,Meraki MX68 Advanced Security License an,Meraki MX68 Advanced Security License and Support 5YR,LIC-MX68-SEC-5YR,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,2351.99,2351.99,,$4820.27,0,06-06-2024,N,N
 MELIC-MX68-SEC-7YR,Meraki MX68 Advanced Security License an,Meraki MX68 Advanced Security License and Support 7YR,LIC-MX68-SEC-7YR,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,3292.27,3292.27,,$6747.33,0,,Y,N
 MELIC-MX68W-ENT-10YR,Meraki MX68W Enterprise License and Supp,Meraki MX68W Enterprise License and Support 10YR,LIC-MX68W-ENT-10YR,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,2823.43,2823.43,,$5786.43,0,,Y,N
 MELIC-MX68W-ENT-1D,Meraki MX68W Enterprise License and Supp,Meraki MX68W Enterprise License and Support-1 Day,LIC-MX68W-ENT-1D,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,1.32,1.32,,$2.67,0,,Y,N
@@ -975,7 +975,7 @@ MELIC-MX85-SDW-5Y,Meraki MX85 Secure SD-WAN Plus License a,Meraki MX85 Secure SD
 MELIC-MX85-SDW-7Y,Meraki MX85 Secure SD-WAN Plus License a,Meraki MX85 Secure SD-WAN Plus License and Support 7YR,LIC-MX85-SDW-7Y,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,17878.4,17878.4,,$36233.56,0,,Y,N
 MELIC-MX85-SEC-10Y,Meraki MX85 Advanced Security License an,Meraki MX85 Advanced Security License and Support 10YR,LIC-MX85-SEC-10Y,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,15859.04,15859.04,,$32140.98,0,,Y,N
 MELIC-MX85-SEC-1Y,Meraki MX85 Advanced Security License an,Meraki MX85 Advanced Security License and Support 1YR,LIC-MX85-SEC-1Y,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,2279.01,2279.01,,$4285.46,0,,N,N
-MELIC-MX85-SEC-3Y,Meraki MX85 Advanced Security License an,Meraki MX85 Advanced Security License and Support 3YR,LIC-MX85-SEC-3Y,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,5127.76,5127.76,,$9642.29,0,,N,N
+MELIC-MX85-SEC-3Y,Meraki MX85 Advanced Security License an,Meraki MX85 Advanced Security License and Support 3YR,LIC-MX85-SEC-3Y,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,5127.76,5127.76,,$9642.29,-2,,N,N
 MELIC-MX85-SEC-5Y,Meraki MX85 Advanced Security License an,Meraki MX85 Advanced Security License and Support 5YR,LIC-MX85-SEC-5Y,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,8546.27,8546.27,,$16070.49,0,,Y,N
 MELIC-MX85-SEC-7Y,Meraki MX85 Advanced Security License an,Meraki MX85 Advanced Security License and Support 7YR,LIC-MX85-SEC-7Y,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,11964.77,11964.77,,$22498.68,0,,Y,N
 MELIC-MX95-ENT-10Y,Meraki MX95 Enterprise License and Suppo,Meraki MX95 Enterprise License and Support 10YR,LIC-MX95-ENT-10Y,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,15859.04,15859.04,,$32140.98,0,,Y,N
@@ -1116,7 +1116,7 @@ MEMA-PWR-640WAC,Meraki 640WAC PSU,Meraki 640WAC PSU,MA-PWR-640WAC,CISCO MERAKI,,
 MEMA-PWR-715WAC,Meraki MS390 715W AC Power Supply,Meraki MS390 715W AC Power Supply,MA-PWR-715WAC,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,1730.81,0,,$2579.78,0,,N,N
 MEMA-PWR-90WAC,Meraki MS120-8LP/MX65 Replacement Power,Meraki MS120-8LP/MX65 Replacement Power Adapter (90 WAC),MA-PWR-90WAC,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,221.53,0,,$330.21,0,,N,N
 MEMA-PWR-C14-C15-1,Meraki Power Cord C14-C15 Connectors,Meraki Power Cord C14-C15 Connectors,MA-PWR-C14-C15-1,CISCO MERAKI,,CI - MERAKI MT,,,,0,0,34.63,0,,$51.60,0,,N,N
-MEMA-PWR-CORD-AU,Meraki AC Power Cord for MX and MS (AU P,Meraki AC Power Cord for MX and MS (AU Plug),MA-PWR-CORD-AU,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,25.76,0,,$39.21,-68,,N,N
+MEMA-PWR-CORD-AU,Meraki AC Power Cord for MX and MS (AU P,Meraki AC Power Cord for MX and MS (AU Plug),MA-PWR-CORD-AU,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,25.76,0,,$39.21,-71,,N,N
 MEMA-PWR-CORD-EU,Meraki AC Power Cord for MX and MS (EU P,Meraki AC Power Cord for MX and MS (EU Plug),MA-PWR-CORD-EU,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,26.3,0,,$39.21,0,,N,N
 MEMA-PWR-CORD-IN,Meraki AC Power Cord for MX and MS (Indi,Meraki AC Power Cord for MX and MS (India Plug),MA-PWR-CORD-IN,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,26.3,0,,$39.21,0,,Y,N
 MEMA-PWR-CORD-UK,Meraki AC Power Cord for MX and MS (UK P,Meraki AC Power Cord for MX and MS (UK Plug),MA-PWR-CORD-UK,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,26.3,0,,$39.21,0,,N,N
@@ -1243,14 +1243,14 @@ MEMX100-HW,EOS Meraki MX100 Router/Security Applian,EOS Meraki MX100 Router/Secu
 MEMX105-HW,Meraki MX105 Router/Security Appliance,Meraki MX105 Router/Security Appliance,MX105-HW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,10163.88,0,,$15468.39,0,,N,N
 MEMX250-HW,Meraki MX250 Router/Security Appliance,Meraki MX250 Router/Security Appliance,MX250-HW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,15362.55,0,,$22898.16,-5,,N,N
 MEMX450-HW,Meraki MX450 Router/Security Appliance,Meraki MX450 Router/Security Appliance,MX450-HW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,30732.04,0,,$45806.63,0,,N,N
-MEMX67C-HW-WW,Meraki MX67C LTE Router/Security Applian,Meraki MX67C LTE Router/Security Appliance - Worldwide,MX67C-HW-WW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,1251.43,1251.43,,$2889.36,0,,N,N
+MEMX67C-HW-WW,Meraki MX67C LTE Router/Security Applian,Meraki MX67C LTE Router/Security Appliance - Worldwide,MX67C-HW-WW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,1251.43,1251.43,,$2889.36,-1,,N,N
 MEMX67-HW,Meraki MX67 Router/Security Appliance,Meraki MX67 Router/Security Appliance,MX67-HW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,621.25,621.25,,$1434.37,0,,N,N
 MEMX67W-HW,Meraki MX67W Router/Security Appliance w,Meraki MX67W Router/Security Appliance with 802.11ac,MX67W-HW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,960.92,960.92,,$2218.62,0,,N,N
 MEMX68CW-HW-WW,Meraki MX68CW LTE & 802.11ac Router/Secu,Meraki MX68CW LTE & 802.11ac Router/Security Appliance - WW,MX68CW-HW-WW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,1734.12,1734.12,,$4003.82,-3,,N,N
 MEMX68-HW,Meraki MX68 Router/Security Appliance,Meraki MX68 Router/Security Appliance,MX68-HW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,889.41,889.41,,$2053.52,-24,,N,N
 MEMX68W-HW,Meraki MX68W Router/Security Appliance w,Meraki MX68W Router/Security Appliance with 802.11ac,MX68W-HW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,1251.43,1251.43,,$2889.36,-1,,N,N
 MEMX75-HW,Meraki MX75 Router/Security Appliance,Meraki MX75 Router/Security Appliance,MX75-HW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,944.78,944.78,,$3314.05,-3,,N,N
-MEMX85-HW,Meraki MX85 Router/Security Appliance,Meraki MX85 Router/Security Appliance,MX85-HW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,2230.21,2230.21,,$5149.25,0,,N,N
+MEMX85-HW,Meraki MX85 Router/Security Appliance,Meraki MX85 Router/Security Appliance,MX85-HW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,2230.21,2230.21,,$5149.25,-2,,N,N
 MEMX95-HW,Meraki MX95 Router/Security Appliance,Meraki MX95 Router/Security Appliance,MX95-HW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,4464.88,4464.88,,$10308.82,-7,,N,N
 MEPWR-C1-1100WAC-P-M,C9000 1100W AC Platinum Power Supply w/M,C9000 1100W AC Platinum Power Supply w/MERAKI,PWR-C1-1100WAC-P-M,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,2630.46,0,,$3920.74,0,,Y,N
 MEPWR-C1-715WAC-P-M,C9000 715W AC Platinum Power Supply  w/M,C9000 715W AC Platinum Power Supply  w/MERAKI,PWR-C1-715WAC-P-M,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,1677.52,0,,$2579.34,0,,Y,N
@@ -4657,7 +4657,7 @@ CICP-7800-FS=,Spare Footstand for Cisco UC Phone 7800,Spare Footstand for Cisco 
 CICP-7800-HS-CORD=,Spare Handset Cord for Cisco IP Phone 68,Spare Handset Cord for Cisco IP Phone 6800 and 7800 Series,CP-7800-HS-CORD=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,16.69,16.69,,$30.45,0,,N,N
 CICP-7800-HS-HOOK=,Spare Handset Hook for Cisco UC Phone 78,Spare Handset Hook for Cisco UC Phone 7800 Series 20 Pieces,CP-7800-HS-HOOK=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,27.83,27.83,,$50.74,0,,N,N
 CICP-7800-WMK=,Spare Wallmount Kit for Cisco UC Phone 7,Spare Wallmount Kit for Cisco UC Phone 7800 Series,CP-7800-WMK=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,80.36,80.36,,$146.55,0,,N,N
-CICP-7811-3PCC-K9=,Cisco IP Phone 7811 with Multiplatform P,Cisco IP Phone 7811 with Multiplatform Phone firmware,CP-7811-3PCC-K9=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,130.45,130.45,,$396.55,3,28-05-2024,N,N
+CICP-7811-3PCC-K9=,Cisco IP Phone 7811 with Multiplatform P,Cisco IP Phone 7811 with Multiplatform Phone firmware,CP-7811-3PCC-K9=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,130.45,130.45,,$396.55,9,28-05-2024,N,N
 CICP-7811-FS=,Spare Footstand for Cisco UC Phone 7811,Spare Footstand for Cisco UC Phone 7811,CP-7811-FS=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,42.53,42.53,,$77.59,0,,Y,N
 CICP-7811-K9=,Cisco UC Phone 7811,Cisco UC Phone 7811,CP-7811-K9=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,147.84,147.84,,$396.55,-1,,N,N
 CICP-7811-K9-RF,Cisco UC Phone 7811 REMANUFACTURED,Cisco UC Phone 7811 REMANUFACTURED,CP-7811-K9-RF,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,162.34,0,,$241.98,0,,Y,N
@@ -6075,7 +6075,7 @@ CIGLC-LH-SMD-RF,1000BASE-LX/LH SFPxcver modMMF/SMF1310nm,1000BASE-LX/LH SFPxcver
 CIGLC-LX-SM-RGD,1000Mbps Single Mode Rugged SFP,1000Mbps Single Mode Rugged SFP,GLC-LX-SM-RGD,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,998.98,998.98,,$2222.10,0,,N,N
 CIGLC-LX-SM-RGD=,1000Mbps Single Mode Rugged SFP,1000Mbps Single Mode Rugged SFP,GLC-LX-SM-RGD=,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,1218.5,1218.5,,$2222.10,-5,,N,N
 CIGLC-SX-MMD,1000BASE-SX SFP transceiver module MMF 8,1000BASE-SX SFP transceiver module MMF 850nm DOM,GLC-SX-MMD,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,556.4,556.4,,$1014.66,0,,N,N
-CIGLC-SX-MMD=,1000BASE-SX SFP transceiver module MMF 8,1000BASE-SX SFP transceiver module MMF 850nm DOM,GLC-SX-MMD=,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,433.91,433.91,,$1014.66,0,29-05-2024,N,N
+CIGLC-SX-MMD=,1000BASE-SX SFP transceiver module MMF 8,1000BASE-SX SFP transceiver module MMF 850nm DOM,GLC-SX-MMD=,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,433.91,433.91,,$1014.66,4,29-05-2024,N,N
 CIGLC-SX-MMD-RF,1000BASE-SX SFP xcver module MMF 850nm D,1000BASE-SX SFP xcver module MMF 850nm DOM REMANUFACTURED,GLC-SX-MMD-RF,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,415.29,0,,$618.97,0,,Y,N
 CIGLC-SX-MM-RGD,1000Mbps Multi-Mode Rugged SFP,1000Mbps Multi-Mode Rugged SFP,GLC-SX-MM-RGD,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,612.03,612.03,,$1116.12,0,,N,N
 CIGLC-SX-MM-RGD=,1000Mbps Multi-Mode Rugged SFP,1000Mbps Multi-Mode Rugged SFP,GLC-SX-MM-RGD=,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,612.03,612.03,,$1116.12,-3,,N,N
