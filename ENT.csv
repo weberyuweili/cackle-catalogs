@@ -3908,7 +3908,7 @@ CIC9500-48Y4C-E,Catalyst 9500 48-port x 1/10/25G + 4-por,Catalyst 9500 48-port x
 CIC9500-48Y4C-EA-3,C9500 48P25G  Essentials to Advantage Up,C9500 48P25G  Essentials to Advantage Upgrade  3 Years,C9500-48Y4C-EA-3,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,29302.58,0,,$25332.09,0,,Y,N
 CIC9500-48Y4C-EA-5,C9500 48P25G  Essentials to Advantage Up,C9500 48P25G  Essentials to Advantage Upgrade  5 Years,C9500-48Y4C-EA-5,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,45721.74,0,,$39526.43,0,,Y,N
 CIC9500-4PTH-KIT=,9500 Accessory Kit,9500 Accessory Kit,C9500-4PTH-KIT=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,121.1,0,,$104.68,0,,N,N
-CIC9500-4PT-KIT=,Extension rails and brackets for four-po,Extension rails and brackets for four-point mounting,C9500-4PT-KIT=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,605.43,0,,$523.39,0,,Y,N
+CIC9500-4PT-KIT=,Extension rails and brackets for four-po,Extension rails and brackets for four-point mounting,C9500-4PT-KIT=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,605.43,0,,$523.39,0,,N,N
 CIC9500-4PT-KIT-RF,Extensinrilsandbrcketsfrfur-pintmounting,Extensinrilsandbrcketsfrfur-pintmounting REMANUFACTURED,C9500-4PT-KIT-RF,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,483.53,0,,$418.00,0,,Y,N
 CIC9500-ACC-KIT-19I=,Accessory kit for Catalyst 9500 Series -,Accessory kit for Catalyst 9500 Series - 19 rack,C9500-ACC-KIT-19I=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,121.1,0,,$104.68,0,,Y,N
 CIC9500-ACCKITH-19I=,9500 Accessory Kit,9500 Accessory Kit,C9500-ACCKITH-19I=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,121.1,0,,$104.68,0,,N,N
@@ -4943,7 +4943,7 @@ CICS-CODEC-EQ-K9-,Cisco Codec EQ unit,Cisco Codec EQ unit,CS-CODEC-EQ-K9-,CISCO 
 CICS-CODEC-EQ-K9+,Cisco Codec EQ unit,Cisco Codec EQ unit,CS-CODEC-EQ-K9+,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
 CICS-CODEC-EQ-NRK9+,Cisco Codec EQ unit No-Radio,Cisco Codec EQ unit No-Radio,CS-CODEC-EQ-NRK9+,CISCO SYSTEMS LTD,,CI - SECURITY,,,,0,0,0,0,,$0.00,0,,Y,N
 CICS-CODEC-EQ-RCK=,Rack ears for the Codec EQ - for mountin,Rack ears for the Codec EQ - for mounting in rack,CS-CODEC-EQ-RCK=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,187.04,0,,$278.80,0,,Y,N
-CICS-CODEC-EQ-WMK,Wall Mount Kit for Codec EQ,Wall Mount Kit for Codec EQ,CS-CODEC-EQ-WMK,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,267.25,0,,$419.30,-22,24-05-2024,Y,N
+CICS-CODEC-EQ-WMK,Wall Mount Kit for Codec EQ,Wall Mount Kit for Codec EQ,CS-CODEC-EQ-WMK,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,267.25,0,,$419.30,-22,24-05-2024,N,N
 CICS-CODEC-EQ-WMK=,Wall Mount Kit for Codec EQ,Wall Mount Kit for Codec EQ,CS-CODEC-EQ-WMK=,CISCO SYSTEMS LTD,,CI - SECURITY,,,,0,0,260.66,0,,$404.88,0,08-07-2024,N,N
 CICS-CODEC-PL-NR-K7+,Cisco Webex Codec Plus - Non-radio and N,Cisco Webex Codec Plus - Non-radio and Non-encrypted,CS-CODEC-PL-NR-K7+,CISCO SYSTEMS LTD,,CI - SECURITY,,,,0,0,0,0,,$0.00,0,,Y,N
 CICS-CODEC-PL-NR-K7=,Spark Room Codec Plus Non Radio and Non,Spark Room Codec Plus Non Radio and Non Crypto (spare),CS-CODEC-PL-NR-K7=,CISCO SYSTEMS LTD,,CI - SECURITY,,,,0,0,19131.43,0,,$16539.13,0,,Y,N
@@ -4986,7 +4986,7 @@ CICS-EQX-VESA-,Room Kit EQX VESA bracket for 75 inch  a,Room Kit EQX VESA bracke
 CICS-KIT-CAB-COV=,Cable cover for Room Kit,Cable cover for Room Kit,CS-KIT-CAB-COV=,CISCO SYSTEMS LTD,,CI - SECURITY,,,,0,0,845.16,0,,$730.65,0,,N,N
 CICS-KIT-EQ-4K-K9,Cisco Room Kit EQ PTZ4K Cam,Cisco Room Kit EQ PTZ4K Cam,CS-KIT-EQ-4K-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,18201.19,18201.19,,$38603.45,0,,Y,N
 CICS-KIT-EQ-4K-NRK9,Cisco Room Kit EQ  No-Radio  PTZ4K Cam,Cisco Room Kit EQ  No-Radio  PTZ4K Cam,CS-KIT-EQ-4K-NRK9,CISCO SYSTEMS LTD,,CI - SECURITY,,,,0,0,25796.79,0,,$39260.04,0,24-05-2024,Y,N
-CICS-KIT-EQ-C-K9,Cisco Room Kit EQ  Quad Cam  Carbon Blac,Cisco Room Kit EQ  Quad Cam  Carbon Black,CS-KIT-EQ-C-K9,CISCO SYSTEMS LTD,,CI - SECURITY,,,,0,0,29138.05,0,,$44345.08,0,,Y,N
+CICS-KIT-EQ-C-K9,Cisco Room Kit EQ  Quad Cam  Carbon Blac,Cisco Room Kit EQ  Quad Cam  Carbon Black,CS-KIT-EQ-C-K9,CISCO SYSTEMS LTD,,CI - SECURITY,,,,0,0,29138.05,0,,$44345.08,0,,N,N
 CICS-KIT-EQ-K9,Cisco Room Kit EQ  Quad Cam  First Light,Cisco Room Kit EQ  Quad Cam  First Light,CS-KIT-EQ-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,20488,20488,,$44368.42,-18,,N,N
 CICS-KIT-EQX-C-K9,Cisco Room Kit EQX  Carbon Black,Cisco Room Kit EQX  Carbon Black,CS-KIT-EQX-C-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,63401.96,0,,$96491.23,0,,Y,N
 CICS-KIT-EQX-WMK-C,Cisco Room Kit EQX  Wall Mount  Carbon B,Cisco Room Kit EQX  Wall Mount  Carbon Black,CS-KIT-EQX-WMK-C,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
@@ -6127,7 +6127,7 @@ CIHS-WL-730-DSKCH-A,730 Wireless Headset Desk Charging Stand,730 Wireless Headse
 CIHS-WL-730-DSKCH-A=,730 Wireless Headset Desk Charging Stand,730 Wireless Headset Desk Charging Stand w/USB-A,HS-WL-730-DSKCH-A=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,119.1,119.1,,$241.38,0,,Y,N
 CIHS-WL-730-EC4-C=,Ear cushion spare for Headset 730 Carbon,Ear cushion spare for Headset 730 Carbon Black,HS-WL-730-EC4-C=,CISCO SYSTEMS LTD,,CI - SECURITY,,,,0,0,288.06,0,,$249.02,0,,Y,N
 CIHS-WL-730-P,700 Series Headset USB-C to USB-A Cable,700 Series Headset USB-C to USB-A Cable - Platinum,HS-WL-730-P,CISCO SYSTEMS LTD,,CI - SECURITY,,,,0,0,0,0,,$0.00,0,,Y,N
-CIHS-WL-950-BUN-C,B&O Cisco 950 True Wireless In-Ear. USB-,B&O Cisco 950 True Wireless In-Ear. USB-A Cable - Black,HS-WL-950-BUN-C,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,710.05,0,,$1058.34,20,,Y,N
+CIHS-WL-950-BUN-C,B&O Cisco 950 True Wireless In-Ear. USB-,B&O Cisco 950 True Wireless In-Ear. USB-A Cable - Black,HS-WL-950-BUN-C,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,710.05,0,,$1058.34,20,,N,N
 CIHS-WL-950-C,B&O Cisco 950 True Wireless In-Ear Earbu,B&O Cisco 950 True Wireless In-Ear Earbuds - Black,HS-WL-950-C,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,0,0,,$0.00,0,,Y,N
 CIHS-WL-980-BUNA-C,B&O Cisco 980 Wireless Over-Ear. USB-A B,B&O Cisco 980 Wireless Over-Ear. USB-A Bundle - Black,HS-WL-980-BUNA-C,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,748.64,748.64,,$1422.41,0,,Y,N
 CIHS-WL-980-BUNA-L,B&O Cisco 980 Wireless Over-Ear. USB-A B,B&O Cisco 980 Wireless Over-Ear. USB-A Bundle - First Light,HS-WL-980-BUNA-L,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,748.64,748.64,,$1422.41,0,,N,N
