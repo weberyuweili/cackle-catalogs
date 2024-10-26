@@ -553,7 +553,7 @@ MELIC-MS130-24-7Y,Meraki MS130-24 Enterprise License and S,Meraki MS130-24 Enter
 MELIC-MS130-24A-5Y,Meraki MS130-24 Advanced License and Sup,Meraki MS130-24 Advanced License and Sup,LIC-MS130-24A-5Y,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,1439.09,0,,$2145.00,0,,Y,N
 MELIC-MS130-48-10Y,Meraki MS130-48 Enterprise License and S,Meraki MS130-48 Enterprise License and Support 10 Year,LIC-MS130-48-10Y,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,2004.11,2004.11,,$3807.82,0,,Y,N
 MELIC-MS130-48-1Y,Meraki MS130-48 Enterprise License and S,Meraki MS130-48 Enterprise License and Support 1 Year,LIC-MS130-48-1Y,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,266.79,266.79,,$506.91,0,,Y,N
-MELIC-MS130-48-3Y,Meraki MS130-48 Enterprise License and S,Meraki MS130-48 Enterprise License and Support 3 Year,LIC-MS130-48-3Y,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,600.96,600.96,,$1141.83,0,,Y,N
+MELIC-MS130-48-3Y,Meraki MS130-48 Enterprise License and S,Meraki MS130-48 Enterprise License and Support 3 Year,LIC-MS130-48-3Y,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,600.96,600.96,,$1141.83,0,,N,N
 MELIC-MS130-48-5Y,Meraki MS130-48 Enterprise License and S,Meraki MS130-48 Enterprise License and Support 5 Year,LIC-MS130-48-5Y,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,1002.49,1002.49,,$1904.76,0,,Y,N
 MELIC-MS130-48-7Y,Meraki MS130-48 Enterprise License and S,Meraki MS130-48 Enterprise License and Support 7 Year,LIC-MS130-48-7Y,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,1403.14,1403.14,,$2665.98,0,,Y,N
 MELIC-MS130-CMPT-10Y,Meraki MS130-CMPT Enterprise License and,Meraki MS130-CMPT Enterprise License and Support 10 Year,LIC-MS130-CMPT-10Y,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,447.35,447.35,,$849.97,0,,Y,N
@@ -1248,7 +1248,7 @@ MEMS130-24-HW,Meraki MS130-24 Cloud Managed 24GE Switc,Meraki MS130-24 Cloud Man
 MEMS130-24P-HW,Meraki MS130-24P Cloud Managed 24GE 370W,Meraki MS130-24P Cloud Managed 24GE 370W PoE Switch,MS130-24P-HW,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,2410.16,2410.16,,$5111.79,0,,N,N
 MEMS130-24X-HW,Meraki MS130-24X Cloud Mgd. 18GE + 6x(2.,Meraki MS130-24X Cloud Mgd. 18GE + 6x(2.5GE) 370W PoE Switch,MS130-24X-HW,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,4426.01,4426.01,,$9387.27,0,,Y,N
 MEMS130-48-HW,Meraki MS130-48 Cloud Managed 48GE Switc,Meraki MS130-48 Cloud Managed 48GE Switch,MS130-48-HW,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,2655.61,2655.61,,$5632.36,-1,,Y,N
-MEMS130-48P-HW,Meraki MS130-48P Cloud Managed 48GE 740W,Meraki MS130-48P Cloud Managed 48GE 740W PoE Switch,MS130-48P-HW,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,4305.31,4305.31,,$9131.25,0,,Y,N
+MEMS130-48P-HW,Meraki MS130-48P Cloud Managed 48GE 740W,Meraki MS130-48P Cloud Managed 48GE 740W PoE Switch,MS130-48P-HW,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,4305.31,4305.31,,$9131.25,0,,N,N
 MEMS130-48X-HW,Meraki MS130-48X Cloud Mgd. 40GE + 8x(2.,Meraki MS130-48X Cloud Mgd. 40GE + 8x(2.5GE) 740W PoE Switch,MS130-48X-HW,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,6598.79,6598.79,,$13995.56,0,,Y,N
 MEMS130-8-HW,Meraki MS130-8 Cloud Managed 8GE Switch,Meraki MS130-8 Cloud Managed 8GE Switch,MS130-8-HW,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,643.8,643.8,,$1365.42,0,,Y,N
 MEMS130-8P-HW,Meraki MS130-8P Cloud Managed 8GE 120W P,Meraki MS130-8P Cloud Managed 8GE 120W PoE Switch,MS130-8P-HW,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,1106.5,1106.5,,$2346.82,0,,Y,N
@@ -1724,7 +1724,7 @@ CIAIR-ANT2566D4M-RS=,2.4GHz/5GHz 6 dBi 60 Deg. Patch Ant 4-po,2.4GHz/5GHz 6 dBi 
 CIAIR-ANT2566P4W-DS=,2.4GHz/5GHz 6 dBi Directional Ant. 4-por,2.4GHz/5GHz 6 dBi Directional Ant. 4-port DART Self ID,AIR-ANT2566P4W-DS=,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,1268.29,1268.29,,$2268.02,0,,Y,N
 CIAIR-ANT2566P4W-RS=,2.4GHz/5GHz 6 dBi Dir. Ant. 4-port RP-TN,2.4GHz/5GHz 6 dBi Dir. Ant. 4-port RP-TNC Self ID,AIR-ANT2566P4W-RS=,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,863.9,863.9,,$1544.82,0,,N,N
 CIAIR-ANT2568VG-N=,2.4 GHz 6dBi/5 GHz 8dBi Dual Band Omni A,2.4 GHz 6dBi/5 GHz 8dBi Dual Band Omni Ant. Gray  N conn.,AIR-ANT2568VG-N=,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,483.58,483.58,,$881.89,0,,Y,N
-CIAIR-ANT2568VG-NS,2.4GHz 6dBi/ 5GHz 8dBi Dual Band Omni An,2.4GHz 6dBi/ 5GHz 8dBi Dual Band Omni Antenna N Connector,AIR-ANT2568VG-NS,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,549.33,549.33,,$982.33,0,,Y,N
+CIAIR-ANT2568VG-NS,2.4GHz 6dBi/ 5GHz 8dBi Dual Band Omni An,2.4GHz 6dBi/ 5GHz 8dBi Dual Band Omni Antenna N Connector,AIR-ANT2568VG-NS,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,549.33,549.33,,$982.33,0,,N,N
 CIAIR-ANT2568VG-NS=,2.4GHz 6dBi/ 5GHz 8dBi Dual Band Omni An,2.4GHz 6dBi/ 5GHz 8dBi Dual Band Omni Antenna N Connector,AIR-ANT2568VG-NS=,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,549.33,549.33,,$982.33,0,,N,N
 CIAIR-ANT2588P3M-N=,2.4 GHz 8 dBi/5 GHz 8 dBi Directional An,2.4 GHz 8 dBi/5 GHz 8 dBi Directional Ant. 3 port N conn.,AIR-ANT2588P3M-N=,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,1155.56,1155.56,,$2107.31,0,,Y,N
 CIAIR-ANT2588P4M-NS=,Dual Band Dual-polarized directional ant,Dual Band Dual-polarized directional antenna,AIR-ANT2588P4M-NS=,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,1380.65,1380.65,,$2468.90,0,,N,N
@@ -5994,7 +5994,7 @@ CIHCI-MRX64G2RE1,64GB DDR5-4800 RDIMM 2Rx4 (16Gb),64GB DDR5-4800 RDIMM 2Rx4 (16G
 CIHS-W-321-C-RJ9,Headset 321 Wired Single On-Ear Carbon B,Headset 321 Wired Single On-Ear Carbon Black RJ9,HS-W-321-C-RJ9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,69.62,69.62,,$211.64,0,,Y,N
 CIHS-W-321-C-USB,Headset 321 Wired Single On-Ear Carbon B,Headset 321 Wired Single On-Ear Carbon Black USB-A,HS-W-321-C-USB,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,97.7,97.7,,$296.98,0,,Y,N
 CIHS-W-321-C-USBC,Headset 321 Wired Single On-Ear Carbon B,Headset 321 Wired Single On-Ear Carbon Black USB-C,HS-W-321-C-USBC,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,103.31,103.31,,$314.05,0,,Y,N
-CIHS-W-321Q-C-USB,Headset 321 Wired Single Carbon Black US,Headset 321 Wired Single Carbon Black USB-A Teams Qualified,HS-W-321Q-C-USB,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,97.7,97.7,,$296.98,2,,Y,N
+CIHS-W-321Q-C-USB,Headset 321 Wired Single Carbon Black US,Headset 321 Wired Single Carbon Black USB-A Teams Qualified,HS-W-321Q-C-USB,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,97.7,97.7,,$296.98,2,,N,N
 CIHS-W-321Q-C-USBC,Headset 321 Wired Single Carbon Black US,Headset 321 Wired Single Carbon Black USB-C Teams Qualified,HS-W-321Q-C-USBC,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,103.31,103.31,,$314.05,0,,Y,N
 CIHS-W-322-C-RJ9,Headset 322 Wired Dual On-Ear Carbon Bla,Headset 322 Wired Dual On-Ear Carbon Black RJ9,HS-W-322-C-RJ9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,94.88,94.88,,$288.45,0,,Y,N
 CIHS-W-322-C-USB,Headset 322 Wired Dual On-Ear Carbon Bla,Headset 322 Wired Dual On-Ear Carbon Black USB-A,HS-W-322-C-USB,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,122.96,122.96,,$373.78,0,,N,N
@@ -6003,7 +6003,7 @@ CIHS-W-322-C-USBC,Headset 322 Wired Dual On-Ear Carbon Bla,Headset 322 Wired Dua
 CIHS-W-322Q-C-USB,Headset 322 Wired Dual Carbon Black USB-,Headset 322 Wired Dual Carbon Black USB-A Teams Qualified,HS-W-322Q-C-USB,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,122.96,122.96,,$373.78,2,,N,N
 CIHS-W-322Q-C-USBA,Headset 322 Wired Dual Carbon Black USB-,Headset 322 Wired Dual Carbon Black USB-,HS-W-322Q-C-USBA,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
 CIHS-W-322Q-C-USBC,Headset 322 Wired Dual Carbon Black USB-,Headset 322 Wired Dual Carbon Black USB-C Teams Qualified,HS-W-322Q-C-USBC,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,128.57,128.57,,$390.85,0,,Y,N
-CIHS-WL-721-BUNA-C,Headset 721 Wireless Single On-ear Carbo,Headset 721 Wireless Single On-ear Carbon Black USBA Bundle,HS-WL-721-BUNA-C,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,305.43,305.43,,$870.46,2,,Y,N
+CIHS-WL-721-BUNA-C,Headset 721 Wireless Single On-ear Carbo,Headset 721 Wireless Single On-ear Carbon Black USBA Bundle,HS-WL-721-BUNA-C,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,305.43,305.43,,$870.46,2,,N,N
 CIHS-WL-721-BUNAS-C,Headset 721 Wireless Single+Stand Carbon,Headset 721 Wireless Single+Stand Carbon Black USBA Bundle,HS-WL-721-BUNAS-C,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,365.3,365.3,,$1041.13,0,,Y,N
 CIHS-WL-721Q-BUNA-C,Headset 721Q Wireless Single USBA Bundle,Headset 721Q Wireless Single USBA Bundle Teams Qualified,HS-WL-721Q-BUNA-C,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,305.43,305.43,,$870.46,0,,Y,N
 CIHS-WL-722-BUNA-C,Headset 722 Wireless Dual On-ear Carbon,Headset 722 Wireless Dual On-ear Carbon Black USBA Bundle,HS-WL-722-BUNA-C,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,341.36,341.36,,$972.86,2,,N,N
@@ -6022,7 +6022,7 @@ CIHS-WL-730-EC4-C=,Replacement ear cushion for Headset 730,Replacement ear cushi
 CIHS-WL-730-P,700 Series Headset USB-C to USB-A Cable,700 Series Headset USB-C to USB-A Cable,HS-WL-730-P,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
 CIHS-WL-950-BUN-C,B&O Cisco 950 True Wireless In-Ear. USB-,B&O Cisco 950 True Wireless In-Ear. USB-,HS-WL-950-BUN-C,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,446.33,0,,$989.36,5,,N,N
 CIHS-WL-950-C,B&O Cisco 950 True Wireless In-Ear Earbu,B&O Cisco 950 True Wireless In-Ear Earbu,HS-WL-950-C,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
-CIHS-WL-980-BUNA-C,B&O Cisco 980 Wireless Over-Ear. USB-A B,B&O Cisco 980 Wireless Over-Ear. USB-A B,HS-WL-980-BUNA-C,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,618.86,0,,$1371.80,2,,Y,N
+CIHS-WL-980-BUNA-C,B&O Cisco 980 Wireless Over-Ear. USB-A B,B&O Cisco 980 Wireless Over-Ear. USB-A B,HS-WL-980-BUNA-C,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,618.86,0,,$1371.80,2,,N,N
 CIHS-WL-980-BUNA-L,B&O Cisco 980 Wireless Over-Ear. USB-A B,B&O Cisco 980 Wireless Over-Ear. USB-A B,HS-WL-980-BUNA-L,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,618.86,0,,$1371.80,0,,N,N
 CIHS-WL-980-C,B&O Cisco 980 Wireless Over-ear Headset,B&O Cisco 980 Wireless Over-ear Headset,HS-WL-980-C,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
 CIHS-WL-980-L,B&O Cisco 980 Wireless Over-ear Headset,B&O Cisco 980 Wireless Over-ear Headset,HS-WL-980-L,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
