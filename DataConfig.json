@@ -3,7 +3,7 @@
 		"SupplierCode" : "1156",
 		"SupplierName" : "Atlas Gentech (NZ)",
 		"SheetName" : "AG.csv",
-		"PartNumberColumn" : "Manufacturer\'s Part Number",
+		"PartNumberColumn" : "Manufacturer's Part Number",
 		"PriceColumn" : "Buy Price",
 		"StockColumn" : "Quantity in Stock",
 		"DescriptionColumn" : "Product Name",
