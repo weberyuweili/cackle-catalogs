@@ -1,0 +1,121 @@
+[
+	{
+		"SupplierCode" : "1156",
+		"SupplierName" : "Atlas Gentech (NZ)",
+		"SheetName" : "AG.csv",
+		"PartNumberColumn" : "Manufacturer\'s Part Number",
+		"PriceColumn" : "Buy Price",
+		"StockColumn" : "Quantity in Stock",
+		"DescriptionColumn" : "Product Name",
+		"EtaColumn" : "When in stock",
+		"EanColumn" : null
+	}
+	,
+	{
+		"SupplierCode" : "1302",
+		"SupplierName" : "Computer Dynamics",
+		"SheetName" : "CDL.csv",
+		"PartNumberColumn" : "Part Code",
+		"PriceColumn" : "Dealer",
+		"StockColumn" : "Qty in stock - Total",
+		"DescriptionColumn" : "Description",
+		"EtaColumn" : null,
+		"EanColumn" : "Barcode"
+	}
+	,
+	{
+		"SupplierCode" : "Synnex",
+		"SupplierName" : "Synnex NZ",
+		"SheetName" : "SYN.csv",
+		"PartNumberColumn" : "PartNo",
+		"PriceColumn" : "Block1_Price",
+		"StockColumn" : "Stock",
+		"DescriptionColumn" : "Description",
+		"EtaColumn" : "ETA",
+		"EanColumn" : "APN"
+	}
+	,
+	{
+		"SupplierCode" : "1052",
+		"SupplierName" : "Ingram Micro NZ Limited",
+		"SheetName" : "IM.csv",
+		"PartNumberColumn" : "Vendor Part Number",
+		"PriceColumn" : "Customer Price",
+		"StockColumn" : "Available Quantity",
+		"DescriptionColumn" : "Ingram Part Description",
+		"EtaColumn" : "Backlog ETA",
+		"EanColumn" : "EANUPC Code"
+	}
+	,
+	{
+		"SupplierCode" : "1287",
+		"SupplierName" : "Dicker Data NZ Limited",
+		"SheetName" : "DD.csv",
+		"PartNumberColumn" : "VendorStockCode",
+		"PriceColumn" : "DealerEx",
+		"StockColumn" : "StockAvailable",
+		"DescriptionColumn" : "StockDescription",
+		"EtaColumn" : "ETA",
+		"EanColumn" : null
+	}
+	,
+	{
+		"SupplierCode" : "1283",
+		"SupplierName" : "Dove Electronics Limited",
+		"SheetName" : "Dove.csv",
+		"PartNumberColumn" : "Mftr Code",
+		"PriceColumn" : "Price",
+		"StockColumn" : "Qty",
+		"DescriptionColumn" : "Description",
+		"EtaColumn" : "Current Due Date",
+		"EanColumn" : "Barcode"
+	}
+	,
+	{
+		"SupplierCode" : "Entelar",
+		"SupplierName" : "Entelar",
+		"SheetName" : "ENT.csv",
+		"PartNumberColumn" : "BARCODE",
+		"PriceColumn" : "NORMAL_BUY_PRICE",
+		"StockColumn" : "ONHAND",
+		"DescriptionColumn" : "DESCRIPTION",
+		"EtaColumn" : "ETA",
+		"EanColumn" : null
+	}
+	,
+	{
+		"SupplierCode" : "1259",
+		"SupplierName" : "Snapper Network Distributors Ltd",
+		"SheetName" : "SNNT.csv",
+		"PartNumberColumn" : "Product_Code",
+		"PriceColumn" : "Reseller_Buy",
+		"StockColumn" : "Stock",
+		"DescriptionColumn" : "Description",
+		"EtaColumn" : null,
+		"EanColumn" : null
+	}
+	,
+	{
+		"SupplierCode" : "Anyware Computer Accessories (NZ) Ltd",
+		"SupplierName" : "Anyware Computer Accessories (NZ) Ltd",
+		"SheetName" : "ANY.csv",
+		"PartNumberColumn" : "Supplier Product Code",
+		"PriceColumn" : "Price",
+		"StockColumn" : "Main",
+		"DescriptionColumn" : "Description",
+		"EtaColumn" : null,
+		"EanColumn" : "Bar Code"
+	}
+	,
+	{
+		"SupplierCode" : "NSL Group Limited",
+		"SupplierName" : "NSL Group Limited",
+		"SheetName" : "NSL.csv",
+		"PartNumberColumn" : "Stockcode",
+		"PriceColumn" : "Dealer excl GST",
+		"StockColumn" : null,
+		"DescriptionColumn" : "Description",
+		"EtaColumn" : null,
+		"EanColumn" : null
+	}
+]
