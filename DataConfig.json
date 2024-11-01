@@ -118,4 +118,16 @@
 		"EtaColumn" : null,
 		"EanColumn" : null
 	}
+	,
+	{
+		"SupplierCode" : "Leading Solutions",
+		"SupplierName" : "Leading Solutions Ltd",
+		"SheetName" : "LSL.csv",
+		"PartNumberColumn" : "Supplier Code",
+		"PriceColumn" : "Wholesale NZD",
+		"StockColumn" : "SOH",
+		"DescriptionColumn" : "Product Name",
+		"EtaColumn" : null,
+		"EanColumn" : "Barcode"
+	}
 ]
