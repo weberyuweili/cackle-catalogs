@@ -4765,7 +4765,7 @@ CICS-KIT-K9,Cisco Room Kit with integrated mic speak,Cisco Room Kit with integra
 CICS-KITMIN-CAM-COV-,Camera Cover for Room Bar & Room Kit Min,Camera Cover for Room Bar & Room Kit Mini,CS-KITMIN-CAM-COV-,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
 CICS-KITMIN-CAM-COV=,Camera Cover for Room Bar & Room Kit Min,Camera Cover for Room Bar & Room Kit Mini - SPARE,CS-KITMIN-CAM-COV=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,74.42,0,,$110.94,0,,N,N
 CICS-KIT-MINI-FMK=,Screen Mount for Room Kit Mini on SAMSUN,Screen Mount for Room Kit Mini on SAMSUN,CS-KIT-MINI-FMK=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,285.2,285.2,,$500.20,0,,Y,N
-CICS-KIT-MINI-K9,Room Kit Mini with microphone array spea,Room Kit Mini with microphone array spea,CS-KIT-MINI-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,3329.9,3329.9,,$11247.65,0,03-08-2023,N,N
+CICS-KIT-MINI-K9,Room Kit Mini with microphone array spea,Room Kit Mini with microphone array spea,CS-KIT-MINI-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,3329.9,3329.9,,$11247.65,0,,N,N
 CICS-KIT-MINI-SMK-,Screen Mount Kit for the Room USB,Screen Mount Kit for the Room USB,CS-KIT-MINI-SMK-,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
 CICS-KIT-MINI-SMK=,Screen Mount Kit for the Room Kit Mini S,Screen Mount Kit for the Room Kit Mini S,CS-KIT-MINI-SMK=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,241.25,0,,$359.58,0,,N,N
 CICS-KIT-MINI-WMK-,Wall Mount for Cisco Room Kit Mini (Defa,Wall Mount for Cisco Room Kit Mini (Defa,CS-KIT-MINI-WMK-,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
@@ -4975,6 +4975,7 @@ CIDN2-CPU-I8276,Intel 8276 2.2GHz/165W 28C/38.50MB DCP D,Intel 8276 2.2GHz/165W 
 CIDN2-CPU-I8280,Intel 8280 2.7GHz/205W 28C/38.50MB DCP D,Intel 8280 2.7GHz/205W 28C/38.50MB DCP D,DN2-CPU-I8280,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,0,0,,$0.00,0,,Y,N
 CIDN2-HW-APL-LIC,Cisco Catalyst Center Appliance (Gen 2),Cisco Catalyst Center Appliance (Gen 2) License - 44 Core,DN2-HW-APL-LIC,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,0,0,,$0.00,0,,Y,N
 CIDN2-HW-APL-L-LIC,Cisco Catalyst Center Appliance (Gen 2),Cisco Catalyst Center Appliance (Gen 2) License - 56 Core,DN2-HW-APL-L-LIC,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,0,0,,$0.00,0,,Y,N
+CIDN2-HW-APL-U,Cisco Catalyst Center Appliance 44 Core,Cisco Catalyst Center Appliance 44 Core -- Upgrade (Gen 2),DN2-HW-APL-U,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,0,0,,$2448.39,1,,N,N
 CIDN2-HW-APL-XL-LIC,Cisco Catalyst Center Appliance (Gen 2),Cisco Catalyst Center Appliance (Gen 2) License - 112 Core,DN2-HW-APL-XL-LIC,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,0,0,,$0.00,0,,Y,N
 CIDN2-HW-APL-XL-U,Cisco Catalyst Center Appliance (Gen 2)-,Cisco Catalyst Center Appliance (Gen 2)- 112 Core for Promos,DN2-HW-APL-XL-U,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,394574.65,0,,$588120.33,0,,Y,N
 CIDN2-MR-X32G2RS-H,32GB DDR4-2666-MHz RDIMM/PC4-21300/dual,32GB DDR4-2666-MHz RDIMM/PC4-21300/dual rank/x4/1.2v,DN2-MR-X32G2RS-H,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,2722.5,0,,$4057.93,0,,Y,N
@@ -6876,6 +6877,7 @@ CILIC-ROOM55-MS,Cisco Webex ROOM55 MultiSite Software Fe,Cisco Webex ROOM55 Mult
 CILIC-ROOM70SG2,Cisco Webex Room 70S G2 Product ID,Cisco Webex Room 70S G2 Product ID,LIC-ROOM70SG2,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,0,0,,$0.00,0,,Y,N
 CILIC-SMP+EP,Shared Multiparty License for 1 Concurre,Shared Multiparty License for 1 Concurre,LIC-SMP+EP,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,10782.16,0,,$16071.00,0,,N,N
 CILIC-SW-EXP-K9,License Key Software Encrypted,License Key Software Encrypted,LIC-SW-EXP-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
+CILIC-SX80-MS,SX80 MultiSite Software Option,SX80 MultiSite Software Option,LIC-SX80-MS,CISCO SYSTEMS LTD,,CI - SECURITY,,,,0,0,4798.38,0,,$7528.50,1,,N,N
 CILIC-TMS-100,Cisco TMS - Additional 100 Direct Manage,Cisco TMS - Additional 100 Direct Managed Systems,LIC-TMS-100,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,25715.46,0,,$38329.34,0,,Y,N
 CILIC-TMS-10-INCL,Cisco TMS - included 10 System License,Cisco TMS - included 10 System License,LIC-TMS-10-INCL,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
 CILIC-TMS-25,Cisco TMS - Additional 25 Direct Managed,Cisco TMS - Additional 25 Direct Managed Systems,LIC-TMS-25,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,7294.13,0,,$10872.03,0,,N,N
@@ -6948,7 +6950,9 @@ CIL-M97ENTK9=,Enterprise Package License for 1 MDS9700,Enterprise Package Licens
 CIL-ME3600X-10G=,^ME3600X 10GE Upgrade License with Elect,^ME3600X 10GE Upgrade License with Electronic Delivery Spare,L-ME3600X-10G=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,4036.58,0,,$6016.59,0,,N,N
 CIL-MGMT3X-2K-K9=,Cisco Ent MGMT: PI 3.x LFAS & APIC-EM L,Cisco Ent MGMT: PI 3.x LFAS & APIC-EM L,L-MGMT3X-2K-K9=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,128.64,0,,$191.76,0,,Y,N
 CIL-MGMT3X-6K-K9,Cisco Ent MGMT: PI 3.x LFAS  1 Cat 6K,Cisco Ent MGMT: PI 3.x LFAS  1 Cat 6K,L-MGMT3X-6K-K9,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,424.56,0,,$632.80,0,,Y,N
+CIL-MGMT3X-92XX-K9,Cisco Ent MGMT: PI 3.x LF AS  1 Cat 9200,Cisco Ent MGMT: PI 3.x LF AS  1 Cat 9200 Switch,L-MGMT3X-92XX-K9,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,0,0,,$17973.30,1,,N,N
 CIL-MGMT3X-93XX-K9=,Cisco Ent MGMT: PI 3.x LFAS1 Cat 93xx,Cisco Ent MGMT: PI 3.x LFAS1 Cat 93xx,L-MGMT3X-93XX-K9=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,141.51,0,,$210.94,0,,Y,N
+CIL-MGMT3X-AP-K9,Cisco Ent MGMT: PI 3.x LF  AS   1 AP,Cisco Ent MGMT: PI 3.x LF  AS   1 AP,L-MGMT3X-AP-K9,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,0,0,,$0.00,6,,N,N
 CIL-MGMT3X-ISR3-K9,Cisco Ent MGMT: PI 3.x LF AS  1 ISR3K,Cisco Ent MGMT: PI 3.x LF AS  1 ISR3K,L-MGMT3X-ISR3-K9,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,283.02,0,,$421.86,0,,Y,N
 CIL-MX-SERIES-RM,Remote monitoring option for MX series E,Remote monitoring option for MX series Endpoints,L-MX-SERIES-RM,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,134.78,0,,$200.89,0,,N,N
 CIL-N3548-24P-UPG=,Nexus 3524 Second 24 Ports E-Delivery,Nexus 3524 Second 24 Ports E-Delivery,L-N3548-24P-UPG=,CISCO SYSTEMS LTD,,CI - DATA CENTER NETWORKING,,,,0,0,19040.33,0,,$28379.93,0,,N,N
@@ -7764,8 +7768,8 @@ CIPI-DNAC1-TRK-1Y,DNA4C1 PI LFAS Tracker SKU 0-12M,DNA4C1 PI LFAS Tracker SKU 0-
 CIPI-DNAC1-TRK-3Y,DNA4C1 PI LFAS Tracker SKU 3Y,DNA4C1 PI LFAS Tracker SKU 3Y,PI-DNAC1-TRK-3Y,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,0,0,,$0.00,0,,Y,N
 CIPI-DNAC1-TRK-5Y,DNA4C1 PI LFAS Tracker SKU 5Y,DNA4C1 PI LFAS Tracker SKU 5Y,PI-DNAC1-TRK-5Y,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,0,0,,$0.00,0,,Y,N
 CIPI-LFAS-AP-T,Prime AP Term Licenses,Prime AP Term Licenses,PI-LFAS-AP-T,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,0,0,,$0.00,0,,Y,N
-CIPI-LFAS-AP-T-3Y,PI Dev Lic for Lifecycle & Assurance Ter,PI Dev Lic for Lifecycle & Assurance Ter,PI-LFAS-T,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,0,0,,$0.00,0,,Y,N
 CIPI-LFAS-AP-T-3Y,PI Dev Lic for Lifecycle & Assurance Ter,PI Dev Lic for Lifecycle & Assurance Ter,PI-LFAS-AP-T-3Y,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,0,0,,$0.00,0,,Y,N
+CIPI-LFAS-AP-T-3Y,PI Dev Lic for Lifecycle & Assurance Ter,PI Dev Lic for Lifecycle & Assurance Ter,PI-LFAS-T,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,0,0,,$0.00,0,,Y,N
 CIPI-LFAS-AP-T-5Y,PI Dev Lic for Lifecycle & Assurance Ter,PI Dev Lic for Lifecycle & Assurance Ter,PI-LFAS-AP-T-5Y,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,0,0,,$0.00,0,,Y,N
 CIPI-LFAS-T,Prime Infrastructure Lifecycle & Assuran,Prime Infrastructure Lifecycle & Assurance Term - Smart Lic,PI-LFAS-T,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,0,0,,$0.00,0,,Y,N
 CIPIM-2X10GE-SFP+,Cisco VEDGE-2000 2x 10GE SFP+ PIM,Cisco VEDGE-2000 2x 10GE SFP+ PIM,PIM-2X10GE-SFP+,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,0,0,,$0.00,0,,Y,N
