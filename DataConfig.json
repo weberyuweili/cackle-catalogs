@@ -130,4 +130,40 @@
 		"EtaColumn" : null,
 		"EanColumn" : "Barcode"
 	}
+	,
+	{
+		"SupplierCode" : "Midwich New Zealand",
+		"SupplierName" : "Midwich New Zealand",
+		"SheetName" : "MDW.csv",
+		"PartNumberColumn" : "Part Number",
+		"PriceColumn" : " TRADE EX ",
+		"StockColumn" : null,
+		"DescriptionColumn" : "Description",
+		"EtaColumn" : null,
+		"EanColumn" : null
+	}
+	,
+	{
+		"SupplierCode" : "Amber Technology New Zealand",
+		"SupplierName" : "Amber Technology (NZ) Ltd",
+		"SheetName" : "AMB.csv",
+		"PartNumberColumn" : "Manufacturer part number",
+		"PriceColumn" : "Dealer price (ex GST)",
+		"StockColumn" : null,
+		"DescriptionColumn" : "Description",
+		"EtaColumn" : null,
+		"EanColumn" : null
+	}
+	,
+	{
+		"SupplierCode" : "Audio Visual Distributors (NZ) Ltd",
+		"SupplierName" : "Audio Visual Distributors (NZ) Ltd",
+		"SheetName" : "AVD.csv",
+		"PartNumberColumn" : "SUPPLIER CODE",
+		"PriceColumn" : "NZ DEALER EXCL",
+		"StockColumn" : null,
+		"DescriptionColumn" : "SHORT DESCRIPTION",
+		"EtaColumn" : null,
+		"EanColumn" : null
+	}
 ]
