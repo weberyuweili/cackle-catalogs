@@ -166,4 +166,16 @@
 		"EtaColumn" : null,
 		"EanColumn" : null
 	}
+	,
+	{
+		"SupplierCode" : "Merge Audio Visual NZ",
+		"SupplierName" : "Merge Communications Ltd",
+		"SheetName" : "MAV.csv",
+		"PartNumberColumn" : "Manufacture Code",
+		"PriceColumn" : "Buy Price Ex GST",
+		"StockColumn" : "Merge SOH",
+		"DescriptionColumn" : "Model Name",
+		"EtaColumn" : "Next Order ETA",
+		"EanColumn" : "Manufacturer EAN"
+	}
 ]
