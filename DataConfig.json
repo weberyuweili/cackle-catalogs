@@ -178,4 +178,16 @@
 		"EtaColumn" : "Next Order ETA",
 		"EanColumn" : "Manufacturer EAN"
 	}
+	,
+	{
+		"SupplierCode" : "Jands NZ",
+		"SupplierName" : "Jands New Zealand Ltd",
+		"SheetName" : "JND.csv",
+		"PartNumberColumn" : "SKU",
+		"PriceColumn" : "Trade Price Ex",
+		"StockColumn" : null,
+		"DescriptionColumn" : "Description",
+		"EtaColumn" : null,
+		"EanColumn" : null
+	}
 ]
