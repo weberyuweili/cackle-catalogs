@@ -1087,7 +1087,7 @@ MELIC-Z4C-ENT-5Y,Meraki Z4C Enterprise License and Suppor,Meraki Z4C Enterprise 
 MELIC-Z4C-ENT-7Y,Meraki Z4C Enterprise License and Suppor,Meraki Z4C Enterprise License and Support  7 Year,LIC-Z4C-ENT-7Y,CISCO MERAKI,,CI - MERAKI Z,,,,0,0,1299.9,1299.9,,$2634.48,0,,Y,N
 MELIC-Z4C-SEC-10Y,Meraki Z4C Secure Teleworker License and,Meraki Z4C Secure Teleworker License and Support  10 Year,LIC-Z4C-SEC-10Y,CISCO MERAKI,,CI - MERAKI Z,,,,0,0,3285.48,3285.48,,$6658.55,0,,Y,N
 MELIC-Z4C-SEC-1Y,Meraki Z4C Secure Teleworker License and,Meraki Z4C Secure Teleworker License and Support  1 Year,LIC-Z4C-SEC-1Y,CISCO MERAKI,,CI - MERAKI Z,,,,0,0,438.08,438.08,,$887.81,0,,Y,N
-MELIC-Z4C-SEC-3Y,Meraki Z4C Secure Teleworker License and,Meraki Z4C Secure Teleworker License and Support  3 Year,LIC-Z4C-SEC-3Y,CISCO MERAKI,,CI - MERAKI Z,,,,0,0,985.65,985.65,,$1997.57,0,,Y,N
+MELIC-Z4C-SEC-3Y,Meraki Z4C Secure Teleworker License and,Meraki Z4C Secure Teleworker License and Support  3 Year,LIC-Z4C-SEC-3Y,CISCO MERAKI,,CI - MERAKI Z,,,,0,0,985.65,985.65,,$1997.57,0,,N,N
 MELIC-Z4C-SEC-5Y,Meraki Z4C Secure Teleworker License and,Meraki Z4C Secure Teleworker License and Support  5 Year,LIC-Z4C-SEC-5Y,CISCO MERAKI,,CI - MERAKI Z,,,,0,0,1642.73,1642.73,,$3329.29,0,,Y,N
 MELIC-Z4C-SEC-7Y,Meraki Z4C Secure Teleworker License and,Meraki Z4C Secure Teleworker License and Support  7 Year,LIC-Z4C-SEC-7Y,CISCO MERAKI,,CI - MERAKI Z,,,,0,0,2299.83,2299.83,,$4660.99,0,,Y,N
 MELIC-Z4-ENT-10Y,Meraki Z4 Enterprise License and Support,Meraki Z4 Enterprise License and Support  10YR,LIC-Z4-ENT-10Y,CISCO MERAKI,,CI - MERAKI Z,,,,0,0,1285.63,1285.63,,$2605.52,0,,Y,N
@@ -1188,7 +1188,7 @@ MEMA-PWR-715WAC,Meraki MS390 715W AC Power Supply,Meraki MS390 715W AC Power Sup
 MEMA-PWR-90WAC,Meraki MS120-8LP/MX65 Replacement Power,Meraki MS120-8LP/MX65 Replacement Power Adapter (90 WAC),MA-PWR-90WAC,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,161.4,161.4,,$327.11,0,,N,N
 MEMA-PWR-C14-C15-1,Meraki Power Cord  C14-C15 Connectors,Meraki Power Cord  C14-C15 Connectors,MA-PWR-C14-C15-1,CISCO MERAKI,,CI - MERAKI MT,,,,0,0,25.22,25.22,,$51.12,0,,N,N
 MEMA-PWR-CORD-AU,Meraki AC Power Cord for MX and MS (AU P,Meraki AC Power Cord for MX and MS (AU Plug),MA-PWR-CORD-AU,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,18.76,18.76,,$38.84,-151,,N,N
-MEMA-PWR-CORD-CN,Meraki AC Power Cord for MX and MS (Chin,Meraki AC Power Cord for MX and MS (China Plug),MA-PWR-CORD-CN,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,19.16,19.16,,$38.84,0,,Y,N
+MEMA-PWR-CORD-CN,Meraki AC Power Cord for MX and MS (Chin,Meraki AC Power Cord for MX and MS (China Plug),MA-PWR-CORD-CN,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,19.16,19.16,,$38.84,0,,N,N
 MEMA-PWR-CORD-EU,Meraki AC Power Cord for MX and MS (EU P,Meraki AC Power Cord for MX and MS (EU Plug),MA-PWR-CORD-EU,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,19.16,19.16,,$38.84,0,,N,N
 MEMA-PWR-CORD-IN,Meraki AC Power Cord for MX and MS (Indi,Meraki AC Power Cord for MX and MS (India Plug),MA-PWR-CORD-IN,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,19.16,19.16,,$38.84,0,,Y,N
 MEMA-PWR-CORD-TW,Meraki AC Power Cord for MX and MS (Taiw,Meraki AC Power Cord for MX and MS (Taiwan Plug),MA-PWR-CORD-TW,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,19.16,19.16,,$38.84,0,,Y,N
