@@ -1948,7 +1948,7 @@ CIBE7K-TPM-M6,TPM 2.0 TCG FIPS140-2 CC EAL4+ Certified,TPM 2.0 TCG FIPS140-2 CC 
 CIBE7M-CPU-M6,Intel 6326 2.9GHz/185W 16C/24MB DDR4 320,Intel 6326 2.9GHz/185W 16C/24MB DDR4 3200MHz,BE7M-CPU-M6,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
 CIBE7M-M6-K9,Cisco Business Edition 7000M (M6) Applia,Cisco Business Edition 7000M (M6) Appliance Export Restr SW,BE7M-M6-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,39491.87,0,,$60102.53,0,,N,N
 CIBRKT-QCAM2-WMK-,Wall Mount Bracket (Carbon Black) for Qu,Wall Mount Bracket (Carbon Black) for Quad Camera,BRKT-QCAM2-WMK-,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
-CIBRKT-QCAM2-WMK=,Wall Mount Bracket (Carbon Black) for Qu,Wall Mount Bracket (Carbon Black) for Quad Camera - SPARE,BRKT-QCAM2-WMK=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,474.39,0,,$707.09,-2,20-01-2025,Y,N
+CIBRKT-QCAM2-WMK=,Wall Mount Bracket (Carbon Black) for Qu,Wall Mount Bracket (Carbon Black) for Quad Camera - SPARE,BRKT-QCAM2-WMK=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,474.39,0,,$707.09,0,20-01-2025,Y,N
 CIBRKT-QCAM-WMK-,Wall Mount Bracket for Quad Camera,Wall Mount Bracket for Quad Camera,BRKT-QCAM-WMK-,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
 CIBRKT-QCAM-WMK=,Wall Mount Bracket for Quad Camera - SPA,Wall Mount Bracket for Quad Camera - SPARE,BRKT-QCAM-WMK=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,387.73,387.73,,$707.09,0,,N,N
 CIC1000-16FP-2G-L,Catalyst 1000 16port GE Full POE 2x1G SF,Catalyst 1000 16port GE Full POE 2x1G SFP,C1000-16FP-2G-L,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,2280.11,2280.11,,$4520.59,0,,N,N
@@ -2837,7 +2837,7 @@ CIC9200L-24PXG-4X-E,C9200L 24-p 8xmGig 16x1G 4x10G PoE+ Netw,C9200L 24-p 8xmGig 
 CIC9200L-24PXG-4X-E=,C9200L 24-p 8xmGig 16x1G 4x10G PoE+ NW-E,C9200L 24-p 8xmGig 16x1G 4x10G PoE+ NW-E Service Depot,C9200L-24PXG-4X-E=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,7963.55,7963.55,,$13447.06,0,,Y,N
 CIC9200L-24T-4G-A,Catalyst 9200L 24-port data only 4 x 1G,Catalyst 9200L 24-port data only 4 x 1G Network Advantage,C9200L-24T-4G-A,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,1500.94,1500.94,,$3802.37,0,,N,N
 CIC9200L-24T-4G-A=,Catalyst 9200 24-port data only 4 x 1G N,Catalyst 9200 24-port data only 4 x 1G NW-A Spare,C9200L-24T-4G-A=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,2251.83,2251.83,,$3802.37,0,,Y,N
-CIC9200L-24T-4G-E,Catalyst 9200L 24-port data only 4 x 1G,Catalyst 9200L 24-port data only 4 x 1G Network Essentials,C9200L-24T-4G-E,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,1375.85,1375.85,,$3802.37,-6,12-01-2023,N,N
+CIC9200L-24T-4G-E,Catalyst 9200L 24-port data only 4 x 1G,Catalyst 9200L 24-port data only 4 x 1G Network Essentials,C9200L-24T-4G-E,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,1375.85,1375.85,,$3802.37,0,12-01-2023,N,N
 CIC9200L-24T-4G-E=,Catalyst 9200L 24-port data 4 x 1G NW-E,Catalyst 9200L 24-port data 4 x 1G NW-E Spare,C9200L-24T-4G-E=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,2251.83,2251.83,,$3802.37,0,,Y,N
 CIC9200L-24T-4X-A,Catalyst 9200L 24-port data only 4 x 10G,Catalyst 9200L 24-port data only 4 x 10G Network Advantage,C9200L-24T-4X-A,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,2658.56,2658.56,,$6735.02,0,,N,N
 CIC9200L-24T-4X-A=,Catalyst 9200L 24-port data only 4 x 10G,Catalyst 9200L 24-port data only 4 x 10G NW-A Spare,C9200L-24T-4X-A=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,3988.56,3988.56,,$6735.02,0,,Y,N
@@ -2998,7 +2998,7 @@ CIC9200L-P-48-OPS,Cisco DNA Premier C9200L 48P OPS,Cisco DNA Premier C9200L 48P 
 CIC9200L-P-48-SMS1,Cisco DNA Premier C9200L 48P SMS-1,Cisco DNA Premier C9200L 48P SMS-1,C9200L-P-48-SMS1,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,1.04,1.04,,$1.77,0,,Y,N
 CIC9200L-P-48-SMSK,Cisco DNA Premier C9200L 48P SMS-K,Cisco DNA Premier C9200L 48P SMS-K,C9200L-P-48-SMSK,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,1046.88,1046.88,,$1767.72,0,,Y,N
 CIC9200L-STACK-KIT,Cisco Catalyst 9200L Stack Module,Cisco Catalyst 9200L Stack Module,C9200L-STACK-KIT,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,1031.85,1031.85,,$2688.70,0,,N,N
-CIC9200L-STACK-KIT=,Cisco Catalyst 9200L Stack Module,Cisco Catalyst 9200L Stack Module,C9200L-STACK-KIT=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,1031.85,1031.85,,$2688.70,-11,20-01-2025,N,N
+CIC9200L-STACK-KIT=,Cisco Catalyst 9200L Stack Module,Cisco Catalyst 9200L Stack Module,C9200L-STACK-KIT=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,1031.85,1031.85,,$2688.70,0,20-01-2025,N,N
 CIC9200-NM-2Q,Catalyst 9200 2 x 40G Network Module,Catalyst 9200 2 x 40G Network Module,C9200-NM-2Q,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,3570.48,3570.48,,$6029.04,0,,Y,N
 CIC9200-NM-2Q=,Catalyst 9200 2 x 40G Network Module,Catalyst 9200 2 x 40G Network Module,C9200-NM-2Q=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,2842.64,2842.64,,$6029.04,0,,Y,N
 CIC9200-NM-2Y,Catalyst 9200 2 x 25G Network Module,Catalyst 9200 2 x 25G Network Module,C9200-NM-2Y,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,2908.75,2908.75,,$6029.04,0,,Y,N
@@ -4074,7 +4074,7 @@ CICAB-PANO-L-SPKR-,Left Speaker Cable for Room Panorama - 6,Left Speaker Cable f
 CICAB-PANO-L-SPKR=,Left Speaker Cable for Room Panorama - 6,Left Speaker Cable for Room Panorama - 6 speakers + 2 bass,CAB-PANO-L-SPKR=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,241.82,241.82,,$416.12,0,,Y,N
 CICAB-PANO-R-SPKR-,Right Speaker Cable Room Panorama 6 spea,Right Speaker Cable Room Panorama 6 speaker + 2 bass,CAB-PANO-R-SPKR-,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
 CICAB-PANO-R-SPKR=,Right Speaker Cable Room Panorama 6 spea,Right Speaker Cable Room Panorama 6 speaker + 2 bass,CAB-PANO-R-SPKR=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,241.82,241.82,,$416.12,0,,Y,N
-CICAB-PRES-2HDMI-GR,Presentation cable 8m/26ft GREY HDMI 1.4,Presentation cable 8m/26ft GREY HDMI 1.4b (W/ REPEATER),CAB-PRES-2HDMI-GR,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,112.96,112.96,,$205.97,-12,20-01-2025,N,N
+CICAB-PRES-2HDMI-GR,Presentation cable 8m/26ft GREY HDMI 1.4,Presentation cable 8m/26ft GREY HDMI 1.4b (W/ REPEATER),CAB-PRES-2HDMI-GR,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,112.96,112.96,,$205.97,-4,20-01-2025,N,N
 CICAB-PRES-2HDMI-GR-,Presentation cable 8m GREY HDMI 1.4b (W/,Presentation cable 8m GREY HDMI 1.4b (W/ REPEATER),CAB-PRES-2HDMI-GR-,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
 CICAB-PRES-2HDMI-GR+,Presentation cable 8m GREY HDMI 1.4b (W/,Presentation cable 8m GREY HDMI 1.4b (W/ REPEATER),CAB-PRES-2HDMI-GR+,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
 CICAB-PRES-2HDMI-GR=,Presentation cable 8m GREY HDMI 1.4b (W/,Presentation cable 8m GREY HDMI 1.4b (W/ REPEATER),CAB-PRES-2HDMI-GR=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,112.96,112.96,,$205.97,4,,N,N
@@ -4607,19 +4607,19 @@ CICS-BOARD70-FS=,Cisco Webex Board 70 Floor Stand - Spar,Cisco Webex Board 70 Fl
 CICS-BOARD70-WMK=,Cisco Webex Board 70 Wall Mount Kit - S,Cisco Webex Board 70 Wall Mount Kit - S,CS-BOARD70-WMK=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,0,0,,$0.00,0,,Y,N
 CICS-BOARD85-G-FS,Cisco Webex Board 85 Floor Stand (GPL),Cisco Webex Board 85 Floor Stand (GPL),CS-BOARD85-G-FS,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,0,0,,$0.00,0,,Y,N
 CICS-BOARD85S-G-K9,Cisco Webex Board 85S (GPL),Cisco Webex Board 85S (GPL),CS-BOARD85S-G-K9,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,0,0,,$0.00,0,,N,N
-CICS-BRD55P-FS,Cisco Board Pro 55 Floor Stand,Cisco Board Pro 55 Floor Stand,CS-BRD55P-FS,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,6218.08,0,,$9268.16,-7,20-01-2025,Y,N
+CICS-BRD55P-FS,Cisco Board Pro 55 Floor Stand,Cisco Board Pro 55 Floor Stand,CS-BRD55P-FS,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,6218.08,0,,$9268.16,-3,20-01-2025,Y,N
 CICS-BRD55P-FS=,Cisco Board Pro 55 Floor Stand - SPARE,Cisco Board Pro 55 Floor Stand - SPARE,CS-BRD55P-FS=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,6218.08,0,,$9268.16,0,,N,N
 CICS-BRD55P-WMK,Cisco Board Pro 55 Wall Mount Kit,Cisco Board Pro 55 Wall Mount Kit,CS-BRD55P-WMK,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
 CICS-BRD55P-WMK=,Cisco Board Pro 55 Wall Mount Kit - SPAR,Cisco Board Pro 55 Wall Mount Kit - SPARE,CS-BRD55P-WMK=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,626.75,0,,$934.19,0,,Y,N
-CICS-BRD55P-WUK,Cisco Board Pro 55 Wheel Upgrade Kit,Cisco Board Pro 55 Wheel Upgrade Kit,CS-BRD55P-WUK,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,2538.01,0,,$3782.92,-7,20-01-2025,Y,N
+CICS-BRD55P-WUK,Cisco Board Pro 55 Wheel Upgrade Kit,Cisco Board Pro 55 Wheel Upgrade Kit,CS-BRD55P-WUK,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,2538.01,0,,$3782.92,-3,20-01-2025,Y,N
 CICS-BRD55P-WUK=,Cisco Board Pro 55 Wheel Upgrade Kit - S,Cisco Board Pro 55 Wheel Upgrade Kit - SPARE,CS-BRD55P-WUK=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,2538.01,0,,$3782.92,0,,N,N
-CICS-BRD75P-FS,Cisco Board Pro 75 Floor stand,Cisco Board Pro 75 Floor stand,CS-BRD75P-FS,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,8756.09,0,,$13051.09,-3,20-01-2025,Y,N
+CICS-BRD75P-FS,Cisco Board Pro 75 Floor stand,Cisco Board Pro 75 Floor stand,CS-BRD75P-FS,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,8756.09,0,,$13051.09,0,20-01-2025,Y,N
 CICS-BRD75P-NR-K9,Cisco Board Pro 75 -Non Radio,Cisco Board Pro 75 -Non Radio,CS-BRD75P-NR-K9,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,54661.75,0,,$81474.28,0,,N,N
 CICS-BRD75P-WMK,Cisco Board Pro 75 Wall Mount Kit,Cisco Board Pro 75 Wall Mount Kit,CS-BRD75P-WMK,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
 CICS-BRD75P-WMK=,Cisco Board Pro 75 Wall Mount Kit - Spar,Cisco Board Pro 75 Wall Mount Kit - Spare,CS-BRD75P-WMK=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,829.22,829.22,,$1454.34,0,,Y,N
-CICS-BRD75P-WUK,Cisco Board Pro 75 Wheel Upgrade Kit,Cisco Board Pro 75 Wheel Upgrade Kit,CS-BRD75P-WUK,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,2538.01,0,,$3782.92,-3,20-01-2025,Y,N
-CICS-BRDP55-K9,Cisco Board Pro 55 G2,Cisco Board Pro 55 G2,CS-BRDP55-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,31179.39,0,,$46473.40,-8,20-01-2025,N,N
-CICS-BRDP75-K9,Cisco Board Pro 75 G2,Cisco Board Pro 75 G2,CS-BRDP75-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,52052.59,0,,$77585.29,-3,20-01-2025,N,N
+CICS-BRD75P-WUK,Cisco Board Pro 75 Wheel Upgrade Kit,Cisco Board Pro 75 Wheel Upgrade Kit,CS-BRD75P-WUK,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,2538.01,0,,$3782.92,0,20-01-2025,Y,N
+CICS-BRDP55-K9,Cisco Board Pro 55 G2,Cisco Board Pro 55 G2,CS-BRDP55-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,31179.39,0,,$46473.40,-3,20-01-2025,N,N
+CICS-BRDP75-K9,Cisco Board Pro 75 G2,Cisco Board Pro 75 G2,CS-BRDP75-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,52052.59,0,,$77585.29,0,20-01-2025,N,N
 CICS-BRDP75-NR-K9,Cisco Board Pro 75 G2 No-Radio,Cisco Board Pro 75 G2 No-Radio,CS-BRDP75-NR-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,54661.75,0,,$81474.28,-1,,Y,N
 CICS-BRDP-ACTSTYL,Cisco Board Pro Active Stylus Kit,Cisco Board Pro Active Stylus Kit,CS-BRDP-ACTSTYL,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,977.13,0,,$1456.43,0,,Y,N
 CICS-BRDP-ACTSTYL+,Cisco Board Pro Active Stylus Kit,Cisco Board Pro Active Stylus Kit,CS-BRDP-ACTSTYL+,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
@@ -4711,7 +4711,7 @@ CICS-MIC-ARRAY-T=,Cisco Table Microphone Pro (w/11m cable),Cisco Table Microphon
 CICS-MIC-TABLE-E,Cisco Table Microphone with Euroblock pl,Cisco Table Microphone with Euroblock plug,CS-MIC-TABLE-E,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,630.09,630.09,,$1149.02,0,,N,N
 CICS-MIC-TABLE-E+,Cisco Table Microphone with Euroblock pl,Cisco Table Microphone with Euroblock plug,CS-MIC-TABLE-E+,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
 CICS-MIC-TABLE-E=,Cisco Table Microphone with Euroblock pl,Cisco Table Microphone with Euroblock plug spare,CS-MIC-TABLE-E=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,655.14,655.14,,$1149.02,0,,N,N
-CICS-MIC-TABLE-J,Cisco Table Microphone with Jack Plug,Cisco Table Microphone with Jack Plug,CS-MIC-TABLE-J,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,403.16,403.16,,$1149.02,-8,20-01-2025,N,N
+CICS-MIC-TABLE-J,Cisco Table Microphone with Jack Plug,Cisco Table Microphone with Jack Plug,CS-MIC-TABLE-J,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,403.16,403.16,,$1149.02,-3,20-01-2025,N,N
 CICS-MIC-TABLE-J+,Cisco Table Microphone with Jack Plug,Cisco Table Microphone with Jack Plug,CS-MIC-TABLE-J+,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
 CICS-MIC-TABLE-J=,Cisco Table Microphone with Jack Plug SP,Cisco Table Microphone with Jack Plug SPARE,CS-MIC-TABLE-J=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,403.16,403.16,,$1149.02,1,,N,N
 CICS-MIC-TABLE-PLA=,Cisco Table Microphone adhesive plate (s,Cisco Table Microphone adhesive plate (set of 3),CS-MIC-TABLE-PLA=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,83.75,0,,$124.84,0,,Y,N
@@ -4728,7 +4728,7 @@ CICS-PWR-CUBE-7-,Power Supply for Desk Pro Series,Power Supply for Desk Pro Seri
 CICS-PWR-STRIP4-,Power strip 1x C14 Inlet 4x Outlet F,Power strip 1x C14 Inlet 4x Outlet F,CS-PWR-STRIP4-,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
 CICS-QCAM-CAB-COV=,Cable Cover for Quad Camera - SPARE,Cable Cover for Quad Camera - SPARE,CS-QCAM-CAB-COV=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,473.33,473.33,,$830.16,1,,N,N
 CICS-QUADCAM2+,Cisco Quad Camera First Light (White),Cisco Quad Camera First Light (White),CS-QUADCAM2+,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
-CICS-QUADCAM2=,Cisco Quad Camera First Light (White) -,Cisco Quad Camera First Light (White) - SPARE,CS-QUADCAM2=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,16611.15,0,,$24759.24,-2,20-01-2025,Y,N
+CICS-QUADCAM2=,Cisco Quad Camera First Light (White) -,Cisco Quad Camera First Light (White) - SPARE,CS-QUADCAM2=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,16611.15,0,,$24759.24,0,20-01-2025,Y,N
 CICS-QUADCAM2-C+,Cisco Quad Camera Carbon Black,Cisco Quad Camera Carbon Black,CS-QUADCAM2-C+,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
 CICS-R70-R55D-SPKR-,Top speaker for Room 55d and Room 70,Top speaker for Room 55d and Room 70,CS-R70-R55D-SPKR-,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
 CICS-ROOM55D-FS-GRK-,Room 55D Floorstand Grill Kit,Room 55D Floorstand Grill Kit,CS-ROOM55D-FS-GRK-,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,0,0,,$0.00,0,,Y,N
@@ -4754,7 +4754,7 @@ CICS-T10-TS-K9,Cisco Room Navigator - Table stand versi,Cisco Room Navigator - T
 CICS-T10-TS-K9=,Cisco Room Navigator - Table stand versi,Cisco Room Navigator - Table stand version - Spare,CS-T10-TS-K9=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,1779.48,1779.48,,$3120.91,0,01-12-2022,N,N
 CICS-T10-TS-L-,Cisco Room Navigator-Table Stand First L,Cisco Room Navigator-Table Stand First Light (White),CS-T10-TS-L-,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
 CICS-T10-TS-L+,Cisco Room Navigator-Table Stand First L,Cisco Room Navigator-Table Stand First Light (White),CS-T10-TS-L+,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
-CICS-T10-TS-L-K9,Cisco Room Navigator-Table Stand First L,Cisco Room Navigator-Table Stand First Light (White),CS-T10-TS-L-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,2093.83,0,,$3120.91,-12,20-01-2025,Y,N
+CICS-T10-TS-L-K9,Cisco Room Navigator-Table Stand First L,Cisco Room Navigator-Table Stand First Light (White),CS-T10-TS-L-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,2093.83,0,,$3120.91,-4,20-01-2025,Y,N
 CICS-T10-TS-L-K9=,Cisco Room Navigator-Table Stand First L,Cisco Room Navigator-Table Stand First Light (White) SPARE,CS-T10-TS-L-K9=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,2093.83,0,,$3120.91,0,,N,N
 CICS-T10-TS-LX-,Cisco Room Navigator-Table Stand First L,Cisco Room Navigator-Table Stand First Light (White),CS-T10-TS-LX-,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
 CICS-T10-WM-BR=,Replacement Room Navigator Wall Mount Br,Replacement Room Navigator Wall Mount Bracket Kit - SPARE,CS-T10-WM-BR=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,111.99,111.99,,$226.98,0,,N,N
@@ -4763,7 +4763,7 @@ CICS-T10-WM-G-K9,Cisco Room Navigator-Wall Mount version-,Cisco Room Navigator-W
 CICS-T10-WM-K9=,Cisco Room Navigator - Wall mount versio,Cisco Room Navigator - Wall mount versio,CS-T10-WM-K9=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,2016.72,2016.72,,$3537.03,3,,N,N
 CICS-T10-WM-L-,Cisco Room Navigator-Wall Mount First Li,Cisco Room Navigator-Wall Mount First Light (White),CS-T10-WM-L-,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
 CICS-T10-WM-L+,Cisco Room Navigator Wall Mount First Li,Cisco Room Navigator Wall Mount First Light (White),CS-T10-WM-L+,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
-CICS-T10-WM-L-K9,Cisco Room Navigator-Wall Mount First Li,Cisco Room Navigator-Wall Mount First Light (White),CS-T10-WM-L-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,2373.02,0,,$3537.03,-9,20-01-2025,Y,N
+CICS-T10-WM-L-K9,Cisco Room Navigator-Wall Mount First Li,Cisco Room Navigator-Wall Mount First Light (White),CS-T10-WM-L-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,2373.02,0,,$3537.03,-4,20-01-2025,Y,N
 CICS-T10-WM-L-K9=,Cisco Room Navigator Wall Mount First Li,Cisco Room Navigator Wall Mount First Light (White) - SPARE,CS-T10-WM-L-K9=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,2373.02,0,,$3537.03,0,,N,N
 CICTI-TMS-SW-K9,Cisco TelePresence Management Suite  - I,Cisco TelePresence Management Suite  - Includes 10 Systems,CTI-TMS-SW-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,5092.24,0,,$7590.07,0,,N,N
 CICTS-CAM60-BRKT,Bracket for mounting of Precision 60 Cam,Bracket for mounting of Precision 60 Camera,CTS-CAM60-BRKT,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,262.37,262.37,,$520.15,0,,N,N
