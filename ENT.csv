@@ -7689,7 +7689,7 @@ CIORDERING-UC,Order a Flex subscription for CUBE CME o,Order a Flex subscription
 CIP-5GS6-GL,5G Sub-6 pluggable interface module (PIM,5G Sub-6 pluggable interface module (PIM),P-5GS6-GL,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,2032.3,2032.3,,$4118.79,0,,Y,N
 CIP-5GS6-GL=,5G Sub-6 pluggable interface module (PIM,5G Sub-6 pluggable interface module (PIM),P-5GS6-GL=,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,2032.3,2032.3,,$4118.79,0,,N,N
 CIP-5GS6-R16SA-GL,5G Sub-6 Standalone (SA) pluggable inter,5G Sub-6 Standalone (SA) pluggable interface module (PIM),P-5GS6-R16SA-GL,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,2763.34,0,,$4118.79,0,,Y,N
-CIP-5GS6-R16SA-GL=,5G Sub-6 Standalone (SA) pluggable inter,5G Sub-6 Standalone (SA) pluggable interface module (PIM),P-5GS6-R16SA-GL=,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,2763.34,0,,$4118.79,0,,Y,N
+CIP-5GS6-R16SA-GL=,5G Sub-6 Standalone (SA) pluggable inter,5G Sub-6 Standalone (SA) pluggable interface module (PIM),P-5GS6-R16SA-GL=,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,2763.34,0,,$4118.79,0,,N,N
 CIPACK-800,Packaging PIDs for 800 with no 3G and PO,Packaging PIDs for 800 with no 3G and PO,PACK-800,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,0,0,,$0.00,0,,Y,N
 CIPACK-800-3G-POE,Packaging PIDs for 800 with 3G and POE,Packaging PIDs for 800 with 3G and POE,PACK-800-3G-POE,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,0,0,,$0.00,0,,Y,N
 CIP-BLANK,Blank Pluggable,Blank Pluggable,P-BLANK,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,0,0,,$0.00,0,,Y,N
