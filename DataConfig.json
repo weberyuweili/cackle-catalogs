@@ -190,4 +190,16 @@
 		"EtaColumn" : null,
 		"EanColumn" : null
 	}
+	,
+	{
+		"SupplierCode" : "Sennheiser New Zealand Limited",
+		"SupplierName" : "Sennheiser New Zealand Limited",
+		"SheetName" : "SEN.csv",
+		"PartNumberColumn" : "Item Number",
+		"PriceColumn" : "Dealer NZD - 33% (ex GST)",
+		"StockColumn" : null,
+		"DescriptionColumn" : "Description",
+		"EtaColumn" : null,
+		"EanColumn" : "EAN"
+	}
 ]
