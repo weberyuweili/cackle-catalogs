@@ -195,7 +195,7 @@
 		"SupplierCode" : "Sennheiser New Zealand Limited",
 		"SupplierName" : "Sennheiser New Zealand Limited",
 		"SheetName" : "SEN.csv",
-		"PartNumberColumn" : "Model",
+		"PartNumberColumn" : "Item Number",
 		"PriceColumn" : "Dealer NZD - 33% (ex GST)",
 		"StockColumn" : null,
 		"DescriptionColumn" : "Description",
