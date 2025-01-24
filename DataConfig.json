@@ -214,6 +214,17 @@
 		"EtaColumn" : null,
 		"EanColumn" : null
 	}
-
+	,
+	{
+		"SupplierCode" : "Music Works Limited",
+		"SupplierName" : "Music Works Limited",
+		"SheetName" : "MW.csv",
+		"PartNumberColumn" : "Model",
+		"PriceColumn" : "Trade Pricing ex GST",
+		"StockColumn" : null,
+		"DescriptionColumn" : "Description",
+		"EtaColumn" : null,
+		"EanColumn" : null
+	}
 
 ]
