@@ -1,6 +1,6 @@
 Brand,Model,Description,RRP incl GST,RRP ex GST,Trade Pricing ex GST
-Yamaha,AD-CG-B-NS ,"Yamaha ADECIA Ceiling Bundle (Black): RM Ceiling Microphone - Black, RM Audio",10465,9100.00,7000
-Yamaha,AD-CG-W-NS,"Yamaha ADECIA Ceiling Bundle (White): RM Ceiling Microphone - White, RM",10465,9100.00,7000
+Yamaha,AD-CG-B-NS ,"Yamaha ADECIA Ceiling Bundle (Black): RM Ceiling Microphone - Black, RM Audio",10465,9100,7000
+Yamaha,AD-CG-W-NS,"Yamaha ADECIA Ceiling Bundle (White): RM Ceiling Microphone - White, RM",10465,9100,7000
 Yamaha,AD-CG-BB,"Yamaha ADECIA Ceiling Bundle (Black/Black): RM Ceiling Microphone - Black, RM",14975,13021.74,10016.73
 Yamaha,AD-CG-BW,"Yamaha ADECIA Ceiling Bundle (Black/White): RM Ceiling Microphone - Black, RM",14975,13021.74,10016.73
 Yamaha,AD-CG-WW,Yamaha ADECIA Ceiling Bundle (White/White): RM Ceiling Microphone - White,14975,13021.74,10016.73
@@ -31,8 +31,105 @@ Yamaha,YCBL-DC3M,Yamaha YVC330 Daisy Chain Cable. Allows two YVC330s to be conne
 Yamaha,YVC1000,Yamaha Unified Communications Wired Microphone & Speaker System,2255,1960.87,1508.36
 Yamaha,YVC-MIC1000EX,Yamaha YVC-1000 Omnidirectional Extension Microphone,605,526.09,404.68
 Yamaha,CS-800,Yamaha CS-800 Video Sound Bar for Huddle Rooms,2749,2390.43,1838.8
-Yamaha,CS-500,Yamaha CS-500 Video Conference System for Huddle Spaces,2195,1908.70,1468.23
+Yamaha,CS-500,Yamaha CS-500 Video Conference System for Huddle Spaces,2195,1908.7,1468.23
 Yamaha,BRK-TV1,Yamaha VESA compatible mounting solution for CS-800/CS-500,279,242.61,186.62
 Yamaha,BRK-WL1,Yamaha Wall mount Bracket for CS-500,119,103.48,79.6
 Yamaha,K-CABLE-10,Yamaha Ultra Hi-Spec Long USB Cable 10 m for CS-800/CS-500 (type A to C),829,720.87,554.52
 Yamaha,K-CABLE-25,Yamaha Ultra Hi-Spec Long USB Cable 25 m for CS-800/CS-500 (type A to C),1659,1442.61,1109.7
+On-Stage,WHA4500,"Adapter On-Stage 1/8"" to 1/4""",5.95,5.173913043,3.67
+On-Stage,IC10,Cable Istrument On-Stage 10FT,14.95,13,9.23
+On-Stage,IC20,Cable Istrument On-Stage 20FT,19.95,17.34782609,12.31
+On-Stage,MC1210,Cable Mic On-Stage XLR-XLR 10FT,14.95,13,9.23
+On-Stage,MC1225,Cable Mic On-Stage XLR-XLR 25FT,27,23.47826087,16.66
+On-Stage,MC1250,Cable Mic On-Stage XLR-XLR 50FT,44.95,39.08695652,27.74
+On-Stage,SNK124100V2,Stage Snake On-Stage 100' 12-Channel 4RT,669,581.7391304,412.89
+On-Stage,SNK164100V2,Stage Snake On-Stage 100' 16-Channel 4RT,799,694.7826087,493.12
+On-Stage,SNK204100V2,Stage Snake On-Stage 100' 20-Channel 4RT,999,868.6956522,616.56
+On-Stage,SNK244100V2,Stage Snake On-Stage 100' 24-Channel 4RT,1149,999.1304348,709.13
+On-Stage,SNK84100V2,Stage Snake On-Stage 100' 8 Channel 4RT,499,433.9130435,307.97
+On-Stage,SNK12450V2,Stage Snake On-Stage 50' 12-Channel 4RT,449,390.4347826,277.11
+On-Stage,SNK8450V2,Stage Snake On-Stage 50' 8 Channel 4RT,369,320.8695652,227.74
+On-Stage,GS7561,Stand Guitar On-Stage 5 Space Foldable Rack,135,117.3913043,83.32
+On-Stage,GS7221BD,Stand Guitar On-Stage Double,49,42.60869565,30.24
+On-Stage,GS8100,Stand Guitar On-Stage Hang-it Progrip,79,68.69565217,48.76
+On-Stage,GS8130,Wall Hanger Guitar On-Stage Locking,26.95,23.43478261,16.63
+On-Stage,GS7640,Wall Hanger Guitar On-Stage Round Metal Base,24.95,21.69565217,15.4
+On-Stage,GS7730,Wall Hanger Guitar On-Stage Wooden,24.95,21.69565217,15.4
+On-Stage,HH7000,Headphone Hanger On-Stage,69,60,42.59
+On-Stage,RS7705,Stand Amp On-Stage Pro Tilt-Back,119,103.4782609,73.44
+On-Stage,RS7000,Stand Amp On-Stage Tilt-Back,74.95,65.17391304,46.26
+On-Stage,RS7500,Stand Amp On-Stage Tilt-Back Tripod,59.95,52.13043478,37
+On-Stage,KT7800,Bench Keyboard On-Stage 3 Position X-Style,79.95,69.52173913,49.34
+On-Stage,KT7800PLUS,Bench Keyboard On-Stage Deluxe X-Style,109.95,95.60869565,67.86
+On-Stage,KS7350,Stand Keyboard Folding Adjustable ZED Frame,189.95,165.173913,117.24
+On-Stage,KS8291XX,Stand Keyboard On-Stage Double X ERGO-LOK,159,138.2608696,98.13
+On-Stage,KS8191XX,Stand Keyboard On-Stage Double X Lok-Tight,99,86.08695652,61.1
+On-Stage,KS7150,Stand Keyboard On-Stage Platform Style,165,143.4782609,101.83
+On-Stage,KS7190,Stand Keyboard On-Stage Single X,49.95,43.43478261,30.83
+On-Stage,KSA7500,Stand Keyboard On-Stage Universal Second Tier,74.95,65.17391304,46.26
+On-Stage,GWS5000B,Stand Workstation Black,359.95,313,222.17
+On-Stage,GWS5000RB,Stand Workstation Onstage Rosewood,359.95,313,222.17
+On-Stage,LS7720BLT,Stand Lighting On-Stage with Side Bars,199,173.0434783,122.82
+On-Stage,LS7730,Stand Lighting On-Stage with Truss,399,346.9565217,246.25
+On-Stage,SSA21,"Adapter Subwoofer On-Stage M20 to 1 3/8""",24.95,21.69565217,15.4
+On-Stage,SS7745,Pole Subwoofer On-Stage Adjustable,29.95,26.04347826,18.48
+On-Stage,SS7746,Pole Subwoofer On-Stage M20 Thread,39.95,34.73913043,24.66
+On-Stage,SS7322B,Speaker Brackets On-Stage Adj Wall Mount Pair,119,103.4782609,73.44
+On-Stage,SS7323B,Speaker Brackets On-Stage Wall Mount Pair,129,112.173913,79.62
+On-Stage,SS7764B,Stand Speaker On-Stage Air-Lift,135,117.3913043,83.32
+On-Stage,SS7730B,Stand Speaker On-Stage Classic,79,68.69565217,48.76
+On-Stage,SSP7950,Stand Speaker On-Stage Pair with Bag,239,207.826087,147.5
+On-Stage,SS8800B,Stand Speaker On-Stage Power Crank Up,239,207.826087,147.5
+On-Stage,UTC2200,Utility Cart On-Stage,319,277.3913043,196.88
+On-Stage,MSB6000,Bag Mic Stand On-Stage Holds 6 Mic Stands,34.95,30.39130435,21.57
+On-Stage,DJM618,Mic Gooseneck On-Stage,115,100,70.98
+On-Stage,SP58,Mic Grille On-Stage Steel Mesh,11.95,10.39130435,7.38
+On-Stage,MY120,Microphone Clip On-Stage Rubber Condenser,7.95,6.913043478,4.91
+On-Stage,MY100,Microphone Clip On-Stage Rubber Dynamic,7.95,6.913043478,4.91
+On-Stage,MY110,Microphone Clip On-Stage Rubber Wireless,7.95,6.913043478,4.91
+On-Stage,MY325,Microphone Clip On-Stage Shock-Mount Dyn,9.95,8.652173913,6.14
+On-Stage,DM50,Drum Mic Clip On-Stage,34.95,30.39130435,21.57
+On-Stage,ASWS58B5,Microphone Windscreen On-Stage 5Pack Black,13.95,12.13043478,8.61
+On-Stage,ASWS58C5,Microphone Windscreen On-Stage 5Pack Colour,13.95,12.13043478,8.61
+On-Stage,ASVS6B,"Pop Blocker On-Stage 6""",29.95,26.04347826,18.48
+On-Stage,ASVS6GB,Pop Blocker On-Stage w/ Clamp and Gooseneck,49.95,43.43478261,30.83
+On-Stage,MY410,Shock Mount On-Stage Studio Mics 42-48mm,44.95,39.08695652,27.74
+On-Stage,MY440,Shock Mount On-Stage Studio Mics 48-54mm,44.95,39.08695652,27.74
+On-Stage,ASMS4730,Isolation Shield On-Stage,219,190.4347826,135.16
+On-Stage,MY500,Stereo Mic Bar On-Stage,19.95,17.34782609,12.31
+On-Stage,MY700,Stereo Mic Bar On-Stage Deluxe 6 Way,39.95,34.73913043,24.66
+On-Stage,DS7200B,Stand Mic On-Stage Adjustable- M Pic,27.95,24.30434783,17.25
+On-Stage,MS7920B,Stand Mic On-Stage Bass Drum/Boom Combo,69,60,42.59
+On-Stage,MBS9500,Stand Mic On-Stage Broadcast Boom Arm,149.95,130.3913043,92.55
+On-Stage,MBS5000,Stand Mic On-Stage Broadcast Boom Arm,99.95,86.91304348,61.69
+On-Stage,DS300B,Stand Mic On-Stage Desktop Adjustable,39.95,34.73913043,24.66
+On-Stage,MS7411TB,Stand Mic On-Stage Drum/Amp Tripod Tele Boom,75,65.2173913,46.29
+On-Stage,MS7500,"Stand Mic On-Stage Pack Mic, Stand, Cable",79,68.69565217,48.76
+On-Stage,SMS7650,Stand Mic On-Stage Studio Boom Hex Base,395,343.4782609,243.78
+On-Stage,MS7701B,Stand Microphone On-Stage Euro Boom,64.95,56.47826087,40.09
+On-Stage,MS7801W,Stand Microphone On-Stage Euro Boom White,74.95,65.17391304,46.26
+On-Stage,MS9701TB,Stand Microphone On-Stage H/Duty Tele-Boom,119,103.4782609,73.44
+On-Stage,MS7255PG,Stand Microphone On-Stage ProGrip,79,68.69565217,48.76
+On-Stage,MS7201B,Stand Microphone On-Stage Round Base,49.95,43.43478261,30.83
+On-Stage,MS7201QTR,Stand Microphone On-Stage Round Base,89,77.39130435,54.93
+On-Stage,MS7701TB,Stand Microphone On-Stage Telescoping Boom,74.95,65.17391304,46.26
+On-Stage,KDA7061B,Dust Cover Keyboard On-Stage 61 and 76 Key,34.95,30.39130435,21.57
+On-Stage,KDA7088B,Dust Cover Keyboard On-Stage 88-Key,39.95,34.73913043,24.66
+On-Stage,MDA7016,Dust Cover Mixer On-Stage 16 - 24 Channel,29.95,26.04347826,18.49
+On-Stage,MDA7032,Dust Cover Mixer On-Stage 32 - 48 Channel,39.95,34.73913043,24.68
+On-Stage,LED204,Orchestra Light Clip-On LED,29.95,26.04347826,18.49
+On-Stage,LED2224,Orchestra Light Onstage Clip-On LED,57.95,50.39130435,35.77
+On-Stage,LED510,Orchestra Light On-Stage Clip-On LED,64.95,56.47826087,40.09
+On-Stage,LED518,Orchestra Light On-Stage USB-Rechargeable,85,73.91304348,52.46
+On-Stage,SM7212B,Stand Music On-Stage,99,86.08695652,61.1
+On-Stage,SM7711B,Stand Music Onstage Orchestra,99,86.08695652,61.1
+On-Stage,SMC5000,Stand Cart On-Stage for SM7711B (10 Stands),265,230.4347826,163.55
+On-Stage,SMS6000P,Stand Studio Monitor On-Stage Pair,159,138.2608696,98.13
+On-Stage,SMS7500RB,Stand Studio Monitor On-Stage Rosewood Pair,229,199.1304348,141.33
+On-Stage,SMS7500B,Stand Studio Monitor On-Stage Wood Blk Pair,229,199.1304348,141.33
+On-Stage,CM01,Adapter Camera On-Stage Camera/Dig Recorder,17.95,15.60869565,11.08
+On-Stage,MBP7000,Boom Pole On-Stage Handheld,49.95,43.43478261,30.83
+On-Stage,CM03,Camera Mount On-Stage w/Shoe Mount,19.95,17.34782609,12.31
+On-Stage,TCM1500,Tablet Smartphone Holder On-Stage,49.95,43.43478261,30.83
+On-Stage,LPT5000,Stand Laptop On-Stage,39.95,34.73913043,24.66
+On-Stage,LPT6000,Stand Laptop On-Stage Multipurpose,74.95,65.17391304,46.26
