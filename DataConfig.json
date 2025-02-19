@@ -226,5 +226,17 @@
 		"EtaColumn" : null,
 		"EanColumn" : null
 	}
+	,
+	{
+		"SupplierCode" : "AV Supply Group Ltd",
+		"SupplierName" : "AV Supply Group Ltd",
+		"SheetName" : "AVS.csv",
+		"PartNumberColumn" : "STOCKCODE",
+		"PriceColumn" : "TRADE (excl)",
+		"StockColumn" : "STOCK",
+		"DescriptionColumn" : "DESCRIPTION",
+		"EtaColumn" : null,
+		"EanColumn" : "UPC"
+	}
 
 ]
