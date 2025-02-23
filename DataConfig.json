@@ -123,7 +123,7 @@
 		"SupplierCode" : "Leading Solutions",
 		"SupplierName" : "Leading Solutions Ltd",
 		"SheetName" : "LSL.csv",
-		"PartNumberColumn" : "Supplier Code",
+		"PartNumberColumn" : "Product Code",
 		"PriceColumn" : "Wholesale NZD",
 		"StockColumn" : "SOH",
 		"DescriptionColumn" : "Product Name",
