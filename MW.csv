@@ -133,3 +133,215 @@ On-Stage,CM03,Camera Mount On-Stage w/Shoe Mount,19.95,17.34782609,12.31
 On-Stage,TCM1500,Tablet Smartphone Holder On-Stage,49.95,43.43478261,30.83
 On-Stage,LPT5000,Stand Laptop On-Stage,39.95,34.73913043,24.66
 On-Stage,LPT6000,Stand Laptop On-Stage Multipurpose,74.95,65.17391304,46.26
+RIVAGE I/O,RPi0622,"RPi0622 I/O expansion interface offering 6 × 16 channel analogue RY card slots or digital I/O, 2 × HY card slots for up to 256 ins/outs of digital audio, 2 × mini-YGDAI slots and dual redundant power supply",30415,26447.82609,20344.48
+RIVAGE I/O,RPi0222,"RPi0222 I/O expansion interface with 2 × 16 channel analogue RY card slots or digital I/O, 2 × HY card slots for up to 256 ins/outs of digital audio, 2 × mini-YGDAI slots and dual redundant power supply",16155,14047.82609,10806.02
+RIVAGE I/O,RY16-ML-SILK,SILK Audio Interface Card Rupert Neve Mic Preamps 96kHz,8625,7500,5769.23
+RIVAGE I/O,RY16-AE,AES/EBU 16-channel digital inputs and outputs all with SRC 96kHz,4305,3743.478261,2879.6
+RIVAGE I/O,RY16-DA,Output card with 16 analogue outputs 96kHz,4305,3743.478261,2879.6
+REMOTE I/O,RIO3224-D2,"High-capacity, high-performance I/O rack compatible with Yamaha CL and QL series consoles as well as RIVAGE PM series. 32 analogue inputs, 16 analogue outs + 8 × AES/EBU outputs. Dual power supply and character/graphic display",15165,13186.95652,10143.81
+REMOTE I/O,RIO1608-D2,"High-performance I/O rack 16 analogue inputs and 8 analogue outputs, compatible with Yamaha CL and QL series consoles as well as RIVAGE PM series. Dual power supply and character/graphic display",9155,7960.869565,6123.75
+TWIN-LANe Interface Card,HY256-TL,"256 input + output chs @ 96 kHz/32-bit multi-mode 300m fibre redundant ring topology, Neutrik opticalCON DUO connectors",8625,7500,5769.23
+TWIN-LANe Interface Card,HY256TL-SMF,"256 input + output chs @ 96 kHz/32-bit single-mode 2.0km fibre redundant ring topology, Neutrik opticalCON DUO connectors",11495,9995.652174,7688.96
+TWIN-LANe Interface Card,HY144-D,"High density Dante network card digital audio signals of 32-bit 96 kHz quality, 144 inputs/144 outputs, Neutrik EtherCon connectors",6585,5726.086957,4404.68
+TWIN-LANe Interface Card,HY144-D-SRC,"High density Dante network card digital audio signals of 32-bit 96 kHz quality, 144 inputs/144 outputs with onboard Sample Rate Conversion",10615,9230.434783,7100.33
+TWIN-LANe Interface Card,HY128-MD,"High density MADI interface card, 128 input and 128 output channels of uncompressed 48 kHz/24-bit audio, optical and coaxial connectors",10615,9230.434783,7100.33
+DIGITAL MIXERS,DM3,"New Dante-equipped digital mixer with 16 mono + 1 stereo + 2 FX return i/ps, 8 x XLR outputs, 16+16 Dante Chs 18 xUSB inputs, outputs, 48kHz/96kHz 9 inch multi-touchscreen bundled with VST Rack Software",4595,3995.652174,3073.58
+DIGITAL MIXERS,DM3-S,"Digital mixer with 16 mono + 1 stereo + 2 FX return i/ps, 8 x XLR outputs, 18 xUSB inputs, outputs, 48kHz/96kHz 9 inch multi-touchscreen bundled with VST Rack Software",3795,3300,2538.46
+DIGITAL MIXERS,TF5,"32 mic/line + 2 stereo line inputs max 48 input mix channels, 33 motor faders 8 mono + 6 stereo auxes, 8 DCAs 34 x 34 digital record/playback channels via USB Now bundled with Nuendo Live software",7565,6578.26087,5060.2
+DIGITAL MIXERS,TF3,"24 mic/line + 2 stereo line inputs max 48 input mix channels, 25 motor faders 8 mono + 6 stereo auxes, 8 DCAs 34 x 34 digital record/playback channels via USB Now bundled with Nuendo Live software",6325,5500,4230.77
+DIGITAL MIXERS,TF1,"16 mic/line + 2 stereo line inputs max 40 input mix channels, 17 motor faders 8 mono + 6 stereo auxes, 8 DCAs 34 x 34 digital record/playback tracks via USB 2.0. Rack-Mountable with RK1",5325,4630.434783,3561.87
+DIGITAL MIXERS,TFRACK,"16 mic/line + 1 stereo line input, 16-output. Intuitive and smooth all-in-one rack-style digital mixer. Bundled with Nuendo Live software",4245,3691.304348,2839.46
+MIXER ACCESSORIES,NY64-D,Dante expansion card for TF series consoles 64 in/64 out,995,865.2173913,665.55
+MIXER ACCESSORIES,TIO1608-D2,"Remote I/O for use with TF or R-Remote software with 16 XLR mic preamps, 8 analogue XLR outputs & Dante connectivity 48 and 96kHz operation",3149,2738.26087,2106.35
+MIXER ACCESSORIES,RK-DM3,Rack mount kit for DM3 and DM3 Standard,115,100,70.98
+MIXER ACCESSORIES,RK5014,"Rack mount kit for TF1, EMX5014C",145,126.0869565,89.5
+ANALOGUE MIXERS,MGP32X,"32-Channel Premium Mixing Console with 24 x Mic Inputs, 32 x Line Inputs, 6 AUX Sends + 2 FX Sends, 4 x Group Buses, 2 x Matrix + ST and Mono Bus",3665,3186.956522,2262.11
+ANALOGUE MIXERS,MGP24X,"24-Channel Premium Mixing Console with 16 x Mic Inputs, 24 x Line Inputs, 6 AUX Sends + 2 FX Sends, 4 x Group Buses, 2 x Matrix + ST and Mono Bus",3195,2778.26087,1972.02
+ANALOGUE MIXERS,MG20XU,"Mixer with 20 D-Pre Inputs, USB and Effects",1775,1543.478261,1095.56
+ANALOGUE MIXERS,MG20,Mixer with 20 D-Pre Inputs,1625,1413.043478,1002.98
+ANALOGUE MIXERS,MG16XU,"Mixer with 16 D-Pre Inputs, USB and Effects",1275,1108.695652,786.95
+ANALOGUE MIXERS,MG16,Mixer with 16 D-Pre Inputs,1150,1000,709.8
+ANALOGUE MIXERS,MG12XU,"Mixer with 12 D-Pre Inputs, USB and Effects & Linear Faders",945,821.7391304,583.27
+ANALOGUE MIXERS,MG12,Mixer with 12 D-Pre Inputs & Linear Faders,825,717.3913043,509.21
+ANALOGUE MIXERS,MG12XUK,"Mixer with 12 D-Pre Inputs, USB and Effects with Rotary Knobs",715,621.7391304,441.31
+ANALOGUE MIXERS,MG10XUF,"Mixer with 10 D-Pre Inputs, USB and Effects with Linear Faders",715,621.7391304,441.31
+ANALOGUE MIXERS,MG10XU,"Mixer with 10 D-Pre Inputs, USB and Effects with Rotary Knobs",595,517.3913043,367.25
+ANALOGUE MIXERS,MG10,Mixer with 10 D-Pre Inputs,465,404.3478261,287.01
+ANALOGUE MIXERS,MG06X,Mixer with 6 D-Pre Inputs and Effects,365,317.3913043,225.29
+ANALOGUE MIXERS,MG06,Mixer with 6 D-Pre Inputs,310,269.5652174,191.34
+ANALOGUE MIXERS,MG16X-CV,"MG-X Series Mixer with 16 D-Pre Inputs, high quality SPX effects, a robust rack-mountable metal chassis, and master section in a new silver grey colour",1645,1430.434783,1016.3
+ANALOGUE MIXERS,MG12X-CV,"MG-X Series Mixer with 12 D-Pre Inputs, high quality SPX effects, a robust metal chassis, and master section in a new silver grey colour. Optional RKMG12 for 19"" rack mounting",1095,952.173913,675.86
+ANALOGUE MIXERS,MG10X-CV,"MG-X Series Mixer with 10 D-Pre Inputs, high quality SPX effects, a robust metal chassis, and master section in a new silver grey colour. Optional BMS10 for stand mounting",699,607.826087,431.85
+POWERED MIXERS,EMX5,"Box-type robust and portable powered mixer with high efficiency 2 x 630W amplifier, comprehensive effects, 1-Knob Master EQTM speaker presets and built-in feedback suppressor",1825,1586.956522,1126.42
+POWERED MIXERS,EMX7,"Box-type robust and portable powered mixer with high efficiency 2 x 710W amplifier, comprehensive effects, Flex 9 Graphic Equalizer, speaker presets and built-in feedback suppressor",2325,2021.73913,1435.03
+AG MICROPHONE,AG01B,"AGO1 live streaming USB microphone with integrated high-performance mixer Black, 24-bit 192kHz, works with AG Controller (Windows/Mac/iOS) for precise parameter control",615,534.7826087,411.37
+AG MICROPHONE,AG01W,"AG01 live streaming USB microphone with integrated high-performance mixer Black, 24-bit 192kHz, works with AG Controller (Windows/Mac/iOS) for precise parameter control",615,534.7826087,411.37
+AG MIXER,AG03-MK2-B,"3-channel USB live streaming mixer with high resolution 2-track audio recording and playback, works with AG Controller (Windows/Mac/IOS)",405,352.173913,270.9
+AG MIXER,AG03-MK2-W,"3-channel USB live streaming mixer with high resolution 2-track audio recording and playback, works with AG Controller (Windows/Mac/iOS)",405,352.173913,270.9
+AG MIXER,AG06MK2-B,"6-channel USB live streaming mixer with high resolution 2-track audio recording and playback, works with AG Controller (Windows/Mac/iOS)",475,413.0434783,317.73
+AG MIXER,AG06MK2-W,"6-channel USB live streaming mixer with high resolution 2-track audio recording and playback, works with AG Controller (Windows/Mac/iOS)",475,413.0434783,317.73
+AG MIXER,AG08B/W,"An 8-channel live streaming mixer featuring two phantom power inputs for condenser mics, an integrated USB audio interface, voice changer and sampler available in Black or White",1295,1126.086957,866.22
+AG PACKAGE,AG03MK2B- LSPK,"A comprehensive package of the AG03MK2 that includeds AG03MK2, YCM01 mic, YH-MT1 studio quality headphones in black and balanced XLR cable",799,694.7826087,534.45
+AG PACKAGE,AG03MK2W- LSPK,"A comprehensive package of the AG03MK2 that includes all the products you need to get started with live streaming right away. AG03MK2, YCM01 mic, YH-MT1 studio quality headphones in white and balanced XLR cable",799,694.7826087,534.45
+AG MICROPHONE,YCM01B,"Studio-quality condenser microphone in black with cardioid polar pattern, XLR connector and clip",255,221.7391304,170.57
+AG MICROPHONE,YCM01W,"Studio-quality condenser microphone in white with cardioid polar pattern, XLR connector and clip",255,221.7391304,170.57
+ZG MIXER,ZG-01,A high resolution gaming / streaming audio mixer that provides a highly immersive gaming experience with ZG sound processing,675,586.9565217,451.5
+AG HEADSET,YH-G01,"Comfortable studio-quality headset with high-quality condenser microphone with 3.5 mm (1/8"") 4-pole stereo mini-jack (TRRS) connector",345,300,230.77
+,ZG-01-PACK,ZG01 gaming/streaming mixer with YH-Go1 Headset,875,760.8695652,585.29
+HEADPHONES,HPH-MT8,"Designed to deliver accurate response and high-resolution sound with precise stereo imaging, detailed mid to high-end with tight bass. Black",410,356.5217391,253.06
+HEADPHONES,HPH-MT7(W),"High-end high-resolution monitor headphones. Great for studio use, & for mix monitoring in live performance. In Black or (W) White",320,278.2608696,197.51
+HEADPHONES,HPH-MT5(W),"High-grade monitor headphones that deliver a balanced faithful sound. Perfect for in the studio or at home, folding headband and only 250g",310,269.5652174,191.34
+HEADPHONES,HPH-150,Open-ear headphones with a neutral tone that is ideal for listening to digital musical instruments,215,186.9565217,132.7
+HEADPHONES,HPH-100,"Comfortable closed headphones with a pleasing sound quality, delivering powerful sound and rich tone",135,117.3913043,83.32
+HEADPHONES,HPH-50,Simple compact headphones that let you enjoy professional-grade sound quality ,75,65.2173913,46.29
+ACTIVE MONITORS,MS101-4,"Desktop utility 30W powered monitor, offers portability in a compact design. Combo jack / XLR input, directly microphone stand-mountable",395,343.4782609,243.8
+ACTIVE MONITORS,MSP3A,"2-way, bi-amplified active monitor speaker featuring a 4"" low frequency driver 22W built-in amplifier and Twisted Flare Port for clearer bass, the MSP3A reference monitor produces sound that is faithful to the original.",595,517.3913043,367.24
+ACTIVE MONITORS,HSS/HS5W,"2-way, bi-amplified active monitor speaker featuring a 5"" low frequency driver and 1"" high frequency driver 70 watts, black or white",535,465.2173913,330.21
+ACTIVE MONITORS,HS7/HS7W,"2-way, bi-amplified active monitor featuring a 6.5"" low frequency driver and 1"" high frequency driver 95 watts, black or white",695,604.3478261,428.97
+ACTIVE MONITORS,HS8/HS8W,"2-way, bi-amplified active monitor featuring an 8"" low frequency driver and 1"" high frequency driver 120 watts, black or white",845,734.7826087,521.55
+ACTIVE MONITORS,HS51/HSS/W,"2-way, bi-amplified monitor speaker featuring a 5"" LF driver and 1"" HF driver 70 watts, Mounting points on 4 surfaces. In black or white",635,552.173913,391.93
+ACTIVE MONITORS,HS7i/HS7/W,"2-way, bi-amplified monitor speaker featuring a 6.5"" LF driver and 1"" HF driver 95 watts, Mounting points on 4 surfaces. In black or white",885,769.5652174,546.23
+ACTIVE MONITORS,HS81/HS8/W,"2-way, bi-amplified monitor speaker featuring a 8"" LF driver and 1"" HF driver 120 watts, Mounting points on 4 surfaces. In black or white",1125,978.2608696,694.37
+ACTIVE MONITORS,HS8S,"8"" subwoofer to compliment HS or MSP Series monitors, 150 watts 22-160 Hz black",1045,908.6956522,644.99
+PORTABLE PA,STAGEPAS 100BTR,"Portable PA system, 100W, coaxial compression driver with 1.4"" voice coil HF and 6.5"" cone LF, a 3-channel mixer, Bluetooth & lithium-ion battery",1295,1126.086957,852.63
+PORTABLE PA,STAGEPAS 100,"Portable PA system, 100W, 1.4"" HF and 6.5"" cone LF, 3-channel mixer, Bluetooth, carry handle doubles as an adjustable stand. Bag - See page 13",1095,952.173913,720.95
+PORTABLE PA,STAGEPAS 200BTR,"Portable PA system, 180W, 1.4"" voice coil HF and 8"" cone LF, 5-channel digital mixer, wireless Bluetooth App control, SPX effects and lithium-ion battery",2195,1908.695652,1354.8
+PORTABLE PA,STAGEPAS 200,"Portable PA system, 180W, 1.4"" voice coil HF and 8"" cone LF, 5-channel digital mixer, wireless Bluetooth App control, SPX effects. Bag - See page 13",1799,1564.347826,1110.37
+PORTABLE PA,BTR- STP200,Rechargeable Lithium ion battery pack for STAGEPAS 200,369,320.8695652,227.76
+PORTABLE PA,STAGEPAS 400BT,"400-watt, portable PA system with 8-channel powered mixer, two 8"" speakers, a Bluetooth® input, SPX digital reverbs, an onboard feedback suppressor and versatile EQ",1999,1738.26087,1233.82
+PORTABLE PA,STAGEPAS 600BT,"680-watt, portable PA system with 10-channel powered mixer, two 10"" speakers, a Bluetooth® input, SPX digital reverbs, an onboard feedback suppressor and versatile EQ",2675,2326.086957,1651.06
+PORTABLE PA,STAGEPAS 1K MKII,"Stagepas1K mkll 1100W, portable PA system 5 channel digital mixer, 12"" sub, 10 x 1.5"" driver line array speaker 170 degree horizontal dispersion Bluetooth® input, SPX digital reverbs, 1knob EQ & Compressor",3955,3439.130435,2441.1
+PORTABLE PA,DXL1K,"The DXL1K is a column-type powered speaker with a slim body and powerful sound. It can be used as the main speaker in a compact PA system, and is also perfect for use as an extension of a STAGEPAS 1K mkll system",2955,2569.565217,1848.57
+AMPLIFIER,PA2030A,"PA Series Lo-Z/Hi-Z switchable Class-D amplifier (Lo-Z: 30W x2ch, Hi-Z: 60W xich) may be usedwith the MA2030 mixer amplifier (See CIS Brochure).",585,508.6956522,391.3
+AMPLIFIER,PA2120,"Lo-Z/Hi-Z switchable Class-D amplifier (Lo-Z: 120W x2 @40, 100W x2ch @3/8N, HI-Z: 120W X2ch, 70V/100V); can be used with the MA2120 mixer amplifier.",1675,1456.521739,1220.4
+AMPLIFIER,PX3,"Intelligent on-board DSP with PEQ equaliser, crossover filters, delay, limiter functions and high output power. 300W x2 at 8 ohms, 500W x2 at 4 ohms.",1565,1360.869565,965.95
+AMPLIFIER,PX5,"Intelligent on-board DSP with PEQ equaliser, crossover filters, delay, limiter functions and high output power. 500W x2 at 8 ohms, 800W x2 at 4 ohms.",1705,1482.608696,1052.36
+AMPLIFIER,PX8,"Intelligent on-board DSP with PEQ equaliser, crossover filters, delay, limiter functions and high output power. 800W x2 at 8 ohms, 1050W x2 at 4 ohms.",2025,1760.869565,1249.87
+AMPLIFIER,PX10,"Intelligent on-board DSP with PEQ equaliser, crossover filters, delay, limiter functions and high output power. 1000W x2 at 8 ohms, 1200W x2 at 4 ohms.",2395,2082.608696,1478.24
+ACTIVE LOUDSPEAKERS,DZR315-D,"3-way powered loudspeaker 2"" HF, 8"" MF & 15"" LF. Max 143dB SPL 31Hz- 20kHz. 2000W 96kHz DSP and FIR filter. Dante I/O 2in/2out with SRC",3725,3239.130435,2491.64
+ACTIVE LOUDSPEAKERS,DZR315,"3-way powered loudspeaker 2"" HF, 8"" MF & 15"" LF. Max 143dB SPL 31Hz- 20kHz. 2000W 96kHz DSP and FIR filter",3655,3178.26087,2444.82
+ACTIVE LOUDSPEAKERS,DZR15-D,"2-way powered loudspeaker 2"" HF & 15"" LF driver. Max 139dB SPL 34Hz- 20kHz. 2000W 96kHz DSP and FIR filter. Dante I/O 2in/2out with SRC",3185,2769.565217,2130.43
+ACTIVE LOUDSPEAKERS,DZR15,"2-way powered loudspeaker 2"" HF & 15"" LF driver. Max 139dB SPL 34Hz- 20kHz. 2000W 96kHz DSP and FIR filter",3035,2639.130435,2030.1
+ACTIVE LOUDSPEAKERS,DZR12-D,"2-way bi-amped 2"" HF and 12"" LF, 2KW 139dB SPL, rotatable horn FIR-X tuning, 96kHz DSP, floor monitor or flyable, Dante I/O 2in/2out with SRC",2975,2586.956522,1989.97
+ACTIVE LOUDSPEAKERS,DZR12,"2-way bi-amped 2"" HF with rotatable horn and a 12"" LF driver. Max 139dB SPL 39Hz-20kHz. 2000W Class-D amplifier 96kHz DSP and FIR filter.",2875,2500,1923.08
+ACTIVE LOUDSPEAKERS,DZR10-D,"2-way bi-amped 2"" HF and 10"" LF, 2KW 137dB SPL, rotatable hom FIR-X tuning, 96kHz DSP, floor monitor or flyable, Dante I/O 2in/2out with SRC",2795,2430.434783,1869.57
+ACTIVE LOUDSPEAKERS,DZR10,"2-way bi-amped 2"" HF and 10"" LF, 2KW 137dB SPL, rotatable horn FIR-X tuning, 96kHz DSP, floor monitor or flyable",2650,2304.347826,1772.58
+ACTIVE LOUDSPEAKERS,DXR15mkll,"15"" 2-way, bi-amplified, bass-reflex powered speaker. 1100W, 134dB SPL 49Hz-20kHz. FIR-X tuning. On-board mixer and DSP",2495,2169.565217,1539.96
+ACTIVE LOUDSPEAKERS,DXR12mkll,"12"" 2-way, bi-amplified, bass-reflex powered speaker. 1100W, 134dB SPL 52Hz-20kHz. FIR-X tuning. On-board mixer and DSP",2195,1908.695652,1354.8
+ACTIVE LOUDSPEAKERS,DXR10mkll,"10"" 2-way, bi-amplified, bass-reflex powered speaker. 1100W, 132dB SPL 49Hz-20kHz. FIR-X tuning. On-board mixer and DSP",1895,1647.826087,1169.63
+ACTIVE LOUDSPEAKERS,DXR8mkll,"8"" 2-way, bi-amplified, bass-reflex powered speaker. 1100W, 130dB SPL 57Hz-20kHz. FIR-X tuning. On-board mixer and DSP",1775,1543.478261,1095.56
+ACTIVE LOUDSPEAKERS,DHR15,"2-way bi-amp powered loudspeaker equipped with a 15-inch woofer and a 1.4-inch HF driver, perfect for use as a main speaker. Combining a 1000W amplifier and high-performance DSP with the same plywood construction found on Yamaha's high-end DZR Series",1725,1500,1135.73
+ACTIVE LOUDSPEAKERS,DHR12M,"2-way bi-amp powered loudspeaker with a 12-inch woofer and a 1.75-inch HF driver in a space saving coaxial configuration, perfect for use as a floor monitor. Combining a 1000W amplifier and high performance DSP with the same plywood construction found on Yamaha's high-end DZR Series",1695,1473.913043,1115.98
+ACTIVE LOUDSPEAKERS,DHR10,"2-way bi-amp powered loudspeaker, equipped with a 10-inch woofer and a 1.4-inch HF driver, and perfect for use in fixed installations. Combining a 700W amplifier module and high-performance DSP with the same high- grade plywood construction found on Yamaha's high-end DZR Series",1395,1213.043478,918.46
+ACTIVE LOUDSPEAKERS,DBR15,"2--way, bi-amplified powered speaker, 1000W 132dB SPL 15"" LF driver 1.4"" diaphragm. FIR-X tuning. On-board mixer and DSP",1395,1213.043478,861.02
+ACTIVE LOUDSPEAKERS,DBR12,"2-way, bi-amplified powered speaker, 1000W 131dB SPL 12"" LF driver 1.4"" diaphragm. FIR-X tuning. On-board mixer and DSP",1295,1126.086957,799.3
+ACTIVE LOUDSPEAKERS,DBR10,"2-way, bi-amplified powered speaker, 700W 129dB SPL 10"" LF driver 1"" diaphragm. FIR-X tuning, On-board mixer and DSP",995,865.2173913,614.13
+ACTIVE SUBWOOFERS,DXS12MkII,"Band-pass active subwoofer. 950W, 131dB SPL. 12"" driver. DSP processing for XSUB, Boost and Xtended modes",2325,2021.73913,1435.03
+ACTIVE SUBWOOFERS,DXS15 MkII,"Band-pass active subwoofer. 950W, 132dB SPL. 15"" driver. DSP processing for XSUB, Boost and Xtended modes",2495,2169.565217,1539.96
+ACTIVE SUBWOOFERS,DXS15XLF,"Powered 15"" subwoofer, 4"" Voice Coil, Max 136dB SPL 33Hz-150Hz, 1600W Class-D amplifier, 96kHz DSP, D-XSUB processing cardioid mode",3895,3386.956522,2404.07
+ACTIVE SUBWOOFERS,DXS15XLF-D,"Powered 15"" subwoofer, 4"" Voice Coil, Max 136dB SPL 33Hz-150Hz, 1600W Class-D amplifier, 96kHz DSP, D-XSUB processing cardioid mode, Dante",4295,3734.782609,2650.96
+ACTIVE SUBWOOFERS,DXS18,"18"" band-pass subwoofer 136dB Max SPL 4-inch voice coil 18-inch woofer 1020W, high powered sub energy down to 32Hz, Dual-pole socket",3775,3282.608696,2330
+ACTIVE SUBWOOFERS,DXS18XLF,"Powered 18"" subwoofer, 4"" Voice Coil, Max 136dB SPL 30Hz-150Hz, 1600W Class-D amplifier, 96kHz DSP, D-XSUB processing cardioid mode, Dante",4195,3647.826087,2589.23
+ACTIVE SUBWOOFERS,DXS18XLF-D,"Powered 18"" subwoofer, 4"" Voice Coil, Max 136dB SPL 30Hz-150Hz, 1600W Class-D amplifier, 96kHz DSP, D-XSUB processing cardioid mode, Dante",4595,3995.652174,2836.12
+ACTIVE SUBWOOFERS,CXS15XLF,"Bass Reflex 15"" Passive subwoofer with 4"" Voice Coil, 800W PGM, Cardioid mode capable, Dual-pole socket, 131dB Max SPL",2105,1830.434783,1385.92
+ACTIVE SUBWOOFERS,CXS18XLF,"Bass Reflex 18"" Passive subwoofer with 4"" Voice Coil, 1000W PGM, Cardioid mode capable, Dual-pole socket, 133dB Max SPL",2565,2230.434783,1583.17
+LOUDSPEAKERS CHR SERIES,CHR10,"2-way high-grade plywood construction loudspeaker, equipped with a 10-inch woofer and a 1.4-inch HF driver, and perfect for use in fixed installations",950,826.0869565,625.48
+LOUDSPEAKERS CHR SERIES,CHR12M,"2-way high-grade plywood construction loudspeaker, equipped with a 12-inch woofer and a 1.4-inch HF driver, and perfect for use in fixed installations",1225,1065.217391,806.54
+LOUDSPEAKERS CHR SERIES,CHR15,"2-way high-grade plywood construction loudspeaker, equipped with a 15-inch woofer and a 1.4-inch HF driver, and perfect for use in fixed installations",1335,1160.869565,878.96
+LOUDSPEAKERS CHR SERIES,CBR10,"2-way bass-reflex speaker with 10"" LF woofer & 1"" HF compression driver peak power 700W 50 Hz - 20 kHz equipped with 3 fly points",595,517.3913043,367.25
+LOUDSPEAKERS CHR SERIES,CBR12,"12-way bass-reflex speaker with a 12"" woofer & 1.4"" compression driver peak power 700W 48 Hz - 20 kHz equipped with 3 fly points",725,630.4347826,447.91
+LOUDSPEAKERS CHR SERIES,CBR15,"2-way bass-reflex speaker with a 15"" woofer & 1.4"" compression driver peak power 1000W 46 Hz - 20 kHz equipped with 3 fly points",875,760.8695652,540.07
+SPEAKER CARRY CASE,BAG-STP100,Carrying bag for STAGEPAS 100 or STAGEPAS 100-BTR,159,138.2608696,92.17
+SPEAKER CARRY CASE,CASE-STP200,Carry case with wheels & handle for STAGEPAS200 or STAGEPAS200-BTR,399,346.9565217,216.85
+SPEAKER COVERS,SPCVR-0801,DXR8 speaker cover for weather protection as well as protection in transit,105,91.30434783,64.81
+SPEAKER COVERS,SPCVR-1001,DXR10 DBR10 or CBR10 speaker cover for transit & weather protection,155,134.7826087,95.67
+SPEAKER COVERS,SPCVR-1201 ,DXR12 DBR12 or CBR12 speaker cover for transit & weather protection,165,143.4782609,101.84
+SPEAKER COVERS,SPCVR-1501 ,DXR15 DBR15 or CBR15 speaker cover for transit & weather protection,175,152.173913,108.01
+SPEAKER COVERS,SPCVR-DXS122,DXS12MkII Subwoofer speaker cover for transit & weather protection,245,213.0434783,151.22
+SPEAKER COVERS,SPCVR-DXS152,DXS15MkII Subwoofer speaker cover for transit & weather protection,265,230.4347826,163.56
+SPEAKER COVERS,SPCVR-18S01,DXS18 subwoofer speaker cover for transit & weather protection,285,247.826087,175.91
+MIXER ACCESSORIES,RK1,"Rack-Mount Kit for QL1, DM1000, LS9-16, 01V96i",115,100,70.98
+MIXER ACCESSORIES,RK-MG12,Rack-Mount Kit for MG12,95,82.60869565,58.64
+MIXER ACCESSORIES,RK-EMX7,Rack-Mount Kit for EMX5 or EMX7 Mixer,145,126.0869565,89.5
+LOUDSPEAKER ACCESSORIES,UB-DXR8,U-bracket for DXR8 active loudspeaker,275,239.1304348,183.95
+LOUDSPEAKER ACCESSORIES,UB-DXR10,U-bracket for DXR10 active loudspeaker,285,247.826087,190.64
+LOUDSPEAKER ACCESSORIES,UB-DXR12,U-bracket for DXR12 active loudspeaker,285,247.826087,190.64
+LOUDSPEAKER ACCESSORIES,UB-DXR15,U-bracket for DXR15 active loudspeaker,295,256.5217391,197.32
+LOUDSPEAKER ACCESSORIES,BWS20190,"Wall mounting brackert (pair) suitable for VXS5, 555, S15, HS5I, MSP3A, MSP3, MS101-4, MS101|||",420,365.2173913,259.23
+LOUDSPEAKER ACCESSORIES,BWS251300,"Wall bracket suitable for CBR, DBR, HS71, HS8i Length 30cm Max load 30 Kg",440,382.6086957,271.58
+LOUDSPEAKER ACCESSORIES,BW5251400,"Wall bracket suitable for CBR, DBR, HS7i, HS8i Length 40cm Max load 30 Kg",495,430.4347826,305.52
+LOUDSPEAKER ACCESSORIES,BMS10A,"Mic-stand adaptor suitable for MG06, MG10, MG10XU etc.",89,77.39130435,54.93
+LOUDSPEAKER ACCESSORIES,DLSP1K,Dolly for STAGEPAS 1K or DXL1K,255,221.7391304,157.39
+LOUDSPEAKER ACCESSORIES,SPW1,Optional Wheel Kit Casters for DXS Subs featuring radial ball bearings that ensure quiet during your performance. Set of 4,245,213.0434783,151.22
+CONTROL SURFACE,CS-R10,"CS-R10 Control Surface, 38 Faders, 2x15"" touch panel, 12x4 banks of User Defined Keys, 4x4 banks User Defined Knobs, 24 DCAs, 12 Mute Groups, 2xM-Y Slots, 8 analogue in 8 out, dual redundant power supply",147025,127847.8261,98344.48
+CONTROL SURFACE,CSR-10-S,"CS-R10-S Control Surface, 26 Faders, Selected Channel section with comprehensive channel parameters single 15"" touch panel, 2xM-Y slots, 8 analogue in 8 out, dual redundant power supply",112500,97826.08696,75250.84
+MIXING CONSOLE,CSD-R7,"CS-R7 Control Surface with on-board DSP, 38 Faders, 2x15"" touch panel, 12x4 banks of User Defined Keys, 4x4 banks User Defined Knobs, 24 DCAs, 12 Mute Groups, 2xM-Y Slots, 8 analogue in 8 out, redundant PSU",186715,162360.8696,124892.98
+CONTROL SURFACE,CS-R5,"CS-R5 control surface 96 kHz processing, 3x touch screens 12+12+12+2 fader bays, 6x5 custom fader banks & 12x4 user defined keys on each bay. Redundant PSU 38 kgs",100805,87656.52174,67428.09
+CONTROL SURFACE,CS-R3,"CS-R3 control surface 96 kHz processing, 1x15"" touch panel 12+12+12+2 fader bays, 6x5 custom fader banks & 12x4 user defined keys on each bay. Redundant PSU 38kgs",53255,46308.69565,35622.07
+DSP ENGINE,DSP-RX-EX,"Compatible with: CS-R10, CS-R10-S, CS-R5, CS-R3. 288 input, 72 MIX, 36 Matrix + 2xStereo channel. 4xHY + 2xMY card slots, redundant PSU",82985,72160.86957,55508.36
+DSP ENGINE,DSP-RX-EX,"Compatible with: CS-R10, CS-R10-S, CS-R5, CS-R3. 120 input, 48 MIX, 24 Matrix + 2xStereo channel. 4xHY + 2xMY card slots, redundant PSU",51425,44717.3913,34397.99
+DSP ENGINE,DEK-DSP-RX,Rivage Engine Upgrade - DSP-RX to DSP-RX-EX,41485,36073.91304,27749.16
+RIVAGE I/O,RPio622,"RPio622 i/o expansion interface offering 6x16 channel analogue RY card slots or digitals i/o, 2xHY card slots for up to 256 ins/outs of digital audio,2xmini-YGDAI slots and dual redundant power supply",30415,26447.82609,20344.48
+RIVAGE I/O,RPio222,"RPio222 i/o expansion interface with 2x16 channel analogue RY card slots or digital i/o, 2xHY card slots for up to 256 ins/outs of digital audio, 2xmini-YGDAI slots and dual redundant power supply",16155,14047.82609,10806.02
+RIVAGE I/O,RY16-ML-SILK,SILK Audio Interface Card Rupert Neve Mic Preamps 96kHz,8625,7500,5769.23
+RIVAGE I/O,RY16-AE,AES/EBU 16 channel digital inputs and outputs all with SRC 96kHz,4305,3743.478261,2879.6
+RIVAGE I/O,RY16-DA,Output card with 16 analogue outputs 96kHz,4305,3743.478261,2879.6
+RIVAGE I/O,RIO3224-D2,"High-capacity, high-performance I/O rack compatible with Yamaha CL and QL series consoles as well as RIVAGE PM series. 32 analogue inputs, 16 analogue outs + 8 x AES/EBU outputs. Dual power supply and character/graphic display",15165,13186.95652,10143.81
+RIVAGE I/O,RIO1608-D2,"High-performance I/O rack 16 analogue inputs and 8 analogue outputs, compatible with Yamaha CL and QL series consoels as well as RIVAGE PM series. Dual power supply and character/graphic display",9155,7960.869565,6123.75
+TWIN-LANe Interface Card,HY256-TL,"256 input  + output chs @ 96kHz/32bit multi-mode 300m fibre redundant ring topology, Neutrik opticalCON DUO connectors",8625,7500,5769.23
+TWIN-LANe Interface Card,HY256TL-SMF,"256 input + output chs @ 96kHz/32 bit single-mode 2.0km fibre redundant ring topology, Neutrik opticalCON DUO connectors",11495,9995.652174,7688.96
+TWIN-LANe Interface Card,HY144-D,"High density Dante network card digital audio signals of 32-bit 96kHz quality, 144 inputs/144 ouputs, Neutrik EtherCon connectors",6585,5726.086957,4404.68
+TWIN-LANe Interface Card,HY144-D-SRC,"High density Dante network card digital audio signals of 32-bit 96kHz quality, 144 inputs/144 ouputs with onboard Sample Rate Conversion",10615,9230.434783,7100.33
+TWIN-LANe Interface Card,HY128-MD,"High density MADI interface card, 128 input and 128 output channels of uncompressed 48 kHz/24-bit audio, optical and coaxial connectors",10615,9230.434783,7100.33
+DIGITAL MIXERS,DM7,"DM7 Dante-equipped digital mixining console with 24 + 4 fader and three multi-touch screens, 120 mono input mixing channelsx 48 Mix + 12 Matrix + 2 Stereo buses. 144+144, AES/EBU: 1 out, 18+18 USB Audio Channe. One PY Expansion Slot and built-iun redundant power supply",55995,48691.30435,37454.85
+DIGITAL MIXERS,DM7-C,"DM7 Compact Dante-equipped digital mixing console with 12+4 faders and one 12"" & one 7"" multi-touch screen 72 mono input mixing channels, 48 Mix + 12 Matrix + 2 Stereo buses. Dante: 144+144, AES/EBU: 1xout with SRC, 18+18 USB Audio Channel. One PY Expansion Slot and built-in redundant power supply",27995,24343.47826,18725.76
+DIGITAL MIXERS,CTL-DM7,"DM7 Control expansion controller with 16 User Defined Keys, Scene Memory keys: Update, Previous, Store, Recall, Inc, and Dec. A/B Monitor Control keys, 4xUser Definable knobs, and Panner joystick. The Boardcast/Theatre Package is included with the DM7 Control controller (Side pads not included)",10895,9473.913043,7287.63
+MIXER ACCESSORIES,DEK-DM7-BR,"Broadcast Software Package adds functionality to the DM7 series, including: Mix Minus, Fader Cue Release, Back Stop PFL, Audio Follow Video, Source Selection Mix Mode, Speaker Selection, Loudness Meter, Peak Program Meters (PPM) & 5.1 Surround (Future Update). Included with CTL-DM7",4450,3869.565217,2976.59
+MIXER ACCESSORIES,DEK-DM7-TH,"Theatre Software Package adds functionality to the DM7 series, including: Mix Minus, 4 Bank EQ/DYN, Actor Library, DCA Preset, DCA Scene, Grid, MIDI Output Event on Scene, AFC Image Control (future update). Included with CTL-DM7",4450,3869.565217,2976.59
+PY-CARDS,PY64-MD,PY64-MD card provided 64 input and 64 output MADI channels @ 96 kHz / 24-bit. The onboard sample rate converters allow interconnection between devices operating at different sampling rates,2775,2413.043478,1856.19
+PY-CARDS,PY8-AE,PY8-AE card provides 8 input and 8 output AES/EBU channels @ 96 kHz / 24-bit. The onboard sample rate converters allow interconnection between devices operating at different sampling rates,1575,1369.565217,1053.51
+PY-CARDS,PY-MAIDI-GPI,PY-MIDI-GPI interface card provides MIDI In & Out and GPI connectivity. 5 input and 5 output channels of GPI,845,734.7826087,565.22
+DIGITAL MIXERS,CL5,"72 mono channel, 8 stereo channel, 24 bus, 8 matrix, ST+M digital mixining console. 32+2 physical faders, 8 local i/o, dedicated cue and monitor buses. Dante connectivity, 3 MY expansion slots",56055,48743.47826,37494.98
+DIGITAL MIXERS,CL3,"64 mono channel, 8 stereo channel, 24 bus, 8 matrix, ST+M digital mixing console, 24+2 physical faders. 8 local i/o. dedicated cue and monitor buses. Dante connectivity, 3 MY expansion slots",41405,36004.34783,27695.65
+DIGITAL MIXERS,CL1,"48 mono channel, 8 stereo channel, 24 bus, 8 matrix, ST+M digital mixing console, 16+2 physical faders. 8 local i/o. dedicated cue and monitor buses. Dante connectivity, 3 MY expansion slots",37995,33039.13043,25414.72
+DIGITAL MIXERS,QL5,"64 mono channel, 8 stereo channel, 16 bus, 8 matrix, ST+M digital mixing console, input to matrix supported. 32+2 physical faders. 32 local inputs+16 local outputs. 16 x DCAs. Dante connectivity, 2xMY expansion slots. Dugan Automixer",34125,29673.91304,22826.09
+DIGITAL MIXERS,QL1,"32 mono channel, 8 stereo channel, 16 bus, 8 matrix, ST+M digital mixing console, input to matrix supported. 16+2 physical faders. 32 local inputs+16 local outputs. 16 x DCAs. Dante connectivity, 2xMY expansion slots. Dugan Automixer",19315,16795.65217,12919.73
+MIXER ACCESSORIES,MBCL,Optional meter bridge for CL3 and CL1 digital mixer,2655,2308.695652,1775.92
+DIGITAL MIXERS,DM3,"New Dante-equipped digital mixer with 16 mono + 1 stereo + 2 FX return inputs, 8 x XLR outputs, 16+16 Dante Channels, 18 x USB inputs & outputs, 48 kHz/96kHz operation, 9 inch multi-touchscreen bundled with VST Rack Software",4595,3995.652174,3073.58
+DIGITAL MIXERS,DM3-S,"Digital mixer with 16 mono + 1 stereo + 2 FX return inputs, 8 x XLR outputs, 18 x USB inputs & outputs, 48kHz/96kHz operation, 9 inch multi-touchscreen bundled with VST Rack Software",3795,3300,2538.46
+DIGITAL MIXERS,TF5,"32 mic/line + 2 stereo line inputs max 48 input mix channels, 33 motor faders 8 mono + 6 stereo auxes, 8 DCAs 34 x 34 digital record/playback channels via USB Now bundled with Nuendo Live Software",7565,6578.26087,5060.2
+DIGITAL MIXERS,TF3,"24 mic/line + 2 stereo line inputs max 48 input mix channels, 25 motor faders 8 mono + 6 stereo auxes, 8 DCAs 34 x 34 digital record/playback channels via USB Now bundled with Nuendo Live Software",6325,5500,4230.77
+DIGITAL MIXERS,TF1,"16 mic/line + 2 stereo line inputs max 40 input mix channels, 17 motor faders 8 mono + 6 stereo auxes, 8 DCAs 34 x 34 digital record/playback channels via USB 2.0. Rack-Mountable with RK1",5325,4630.434783,3561.87
+DIGITAL MIXERS,TFRACK,"16 mic/line + 1 stereo line input, 16-output. Intuitive and smooth all-in-one rack-style digital mixer. Bundled with Nuendo Live software",4245,3691.304348,2839.46
+MIXER ACCESSORIES,NY64-D,Dante expansion card for TF series consoles 64 in/64 out,995,865.2173913,665.55
+MIXER ACCESSORIES,PW800W,"Optional Redundant Power supply unit for CL-series, PM5D & M7CL consoles",6255,5439.130435,4183.95
+MIXER ACCESSORIES,PSL360,0.6 metre power supply link cable for use with PW800W,1425,1239.130435,953.18
+MIXER ACCESSORIES,RK-DM3,Rack mount kit for DM3 and DM3 Standard,115,100,70.98
+MIXER ACCESSORIES,RK5014,Rack mount kit for TF1 and EMX5014C,145,126.0869565,89.5
+MIXER ACCESSORIES,LA1L,Gooseneck LED lamp for digital mixing console series,205,178.2608696,137.12
+REMOTE I/O,RUio16-D,"Rugged audio interface, serving as a bridge between Dante, analogue, and USB signals. Bundled with VST Rack Pro plug-software",2575,2239.130435,1722.41
+REMOTE I/O,RIO3224-D2,"High-capacity / performance I/O rack compatible with Yamaha CL and QL series consoles as well as RIVGAE series. 32 analogue i/ps, 16 analogue + eight digital AES/EBU outs. Dual power supply and character/graphic display",15165,13186.95652,10143.81
+REMOTE I/O,RIO1608-D2,"High-performance I/O rack 16 analogue inputs and 8 analogue outputs, compatible with Yamaha CL and QL series consoles as well as RIVAGE PM series. Dual power supply and character/graphic display",9155,7960.869565,6123.75
+REMOTE I/O,RMIO64-D,"RMio64-D Dante/MADI converter offering both MADI and Dante redundancy via optical & coaxial connections. Dante patching, & SRC settings may be remotely controlled from CL or QL series consoles",8005,6960.869565,5354.52
+REMOTE I/O,RSIO64-D,RSio64-D offers conversion between Dante and Mini-YGDAI format for up to 64 inputs and 64 ouputs. For Mini-YGDAI cared slots. Supports remote setup from CL and QL series consoles,7695,6691.304348,5147.16
+REMOTE I/O,TIO1608-D2,"Remote i/o for use with TF or R-Remote software with 16 XLR mix preamps, 8 analogue XLR outputs & Dante connectivity supports 48 and 96 kHz operation",3149,2738.26087,2106.35
+SWP1 SWITCH,SWP1-16MMF,"SWP1 series network switch equipped with 12 etherCON ports, 4xRJ45 ports, 1xFibre opticalCON port, and 1xOption slot",5225,4543.478261,3494.98
+SWP1 SWITCH,SWP1-8MMF,"SWP1 series network switch equipped with 8 etherCON ports, 1xFibre opticalCON port, and 1xOption slot",4175,3630.434783,2792.64
+SWP1 SWITCH,SWP1-8,"SWP1 series network switch equipped with 8 etherCON ports, and 2xOption slot",2775,2413.043478,1856.19
+SWITCH ACCESSORY,MMF-SWP1,MMF-SWP1 optional kit includes components for multimode optical capability with opticalCON fibre connectors for SWP1 series switches,1315,1143.478261,879.6
+SWP2 SWITCH,SWP2-10SMF,SWP2 series L2 switch is ideal for Dante 96kHz network systems. Features 10 etherCON ports and 2xSingle Mode Fibre opticalCON ports,8825,7673.913043,5903.01
+SWP2 SWITCH,SWP2-10MMF,SWP2 series L2 switch is ideal for Dante 96kHz network systems. Features 10 etherCON ports and 2xMulti Mode Fibre opticalCON ports,5965,5186.956522,3989.97
+SWITCH ACCESSORY,PA-700,"Optional AC redundant power supply for SWP1, SWP2, and RSio64-D, XLR4-11C type connector. Input power: AC100-240V output power: DC24V",345,300,230.77
+SWR L2 SWITCH,SWR2311P-10G,"Dante Optimised L2 Switch with ports 1-8 PoE equipped, ports 9&10 LAN/SFP, up to 30W to all PoE ports. SWR Rack kit also available - POA",2495,2169.565217,1668.9
+SWR L2 SWITCH,SWR2310-10G,"Network switch equipped with 10x RJ45 ports, PoE power supply:1-9, Uplink ports:10. Maximum 30W available on each PoE-compliant port. All ports 70W",1445,1256.521739,966.56
+SWR L2 SWITCH,SWR2100P-10G,"Network switch equipped with 10x RJ45 ports, PoE power supply:1-9, Uplink ports:10. Maximum 30W available on each PoE-compliant port. All ports 70W",1135,986.9565217,759.2
+SWR L2 SWITCH,SWR2100P-5G,"Network switch equipped with 5x RJ45 ports, PoE power supply:1-4, Uplink ports:5. Maximum 30W available on each PoE-compliant port. All ports 70W",745,647.826087,498.33
+SWITCH ACCESSORY,RK-SWR,Rack mounting kit for SWR switches,175,152.173913,117.06
+MA/PA MIXER/AMP,MA2030a,"Lo-Z/Hi-Z switchable class-D mixer amplifier 2 x 30W with selectable stereo inputs, 2 mic inputs & powerful DSP for high quality music playback & microphone use",755,656.5217391,505.02
+MA/PA MIXER/AMP,PA2030a,"Lo-Z/Hi-Z switchable class-D mixer amplifier (Lo-Z: 30W x 2CH, Hi-Z: 60W x 1CH). 1 Stereo/2mono line inputs; can be combined with MA2030a mixer amplifier",585,508.6956522,391.3
+MA/PA MIXER/AMP,MA2120,"Lo-Z/Hi-Z switchable class-D mixer amplifier, 2x120W 6 mic/line inputs, 2 stereo inputs powerful DSP for high quality music playback and microphone use",2025,1760.869565,1354.52
+MA/PA MIXER/AMP,PA2120,Lo-Z/Hi-Z switchable class-D amplifier 120W x2 equipped with 1 stereo/2 mono line inputs; can be combined with the MA2120 mixer amplifier,1675,1456.521739,1120.4
+MA/PA ACCESSORIES,RKH1,Twin rack mounting bracket for Yamaha MA2030/PA2030 amplifier,145,126.0869565,96.99
+MA/PA ACCESSORIES,DCP4S,4x switch wall-mount control panel for MA & MTX series. Set DIP switches on MA and PA series Mixer Amplifiers to select DCP control of prescribed paramters,235,204.3478261,157.19
+MA/PA ACCESSORIES,DCP1V4S,"1x rotary, 4x switch wall-mount control panel for MA & MTX series. Set DIP switches on MA and PA series Mixer Amplifiers to select DCP control of prescribed parameters",305,265.2173913,204.01
+MA/PA ACCESSORIES,DCP4V4S,"4x rotary, 4x switch wall-mount control pnael for MA & MTX series. Set DIP switches on MA and PA series Mixer Amplifers to select DCP control of prescribed paramters",605,526.0869565,404.68
