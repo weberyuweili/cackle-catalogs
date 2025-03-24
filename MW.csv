@@ -345,3 +345,106 @@ MA/PA ACCESSORIES,RKH1,Twin rack mounting bracket for Yamaha MA2030/PA2030 ampli
 MA/PA ACCESSORIES,DCP4S,4x switch wall-mount control panel for MA & MTX series. Set DIP switches on MA and PA series Mixer Amplifiers to select DCP control of prescribed paramters,235,204.3478261,157.19
 MA/PA ACCESSORIES,DCP1V4S,"1x rotary, 4x switch wall-mount control panel for MA & MTX series. Set DIP switches on MA and PA series Mixer Amplifiers to select DCP control of prescribed parameters",305,265.2173913,204.01
 MA/PA ACCESSORIES,DCP4V4S,"4x rotary, 4x switch wall-mount control pnael for MA & MTX series. Set DIP switches on MA and PA series Mixer Amplifers to select DCP control of prescribed paramters",605,526.0869565,404.68
+SIGNAL PROCESSING,DME7,"Open architecture digital signal processor, state-of-the-art performance 96kHz sound quality with 64x64 Dante Channels on-board",24995,21734.78,16719.06
+SIGNAL PROCESSING,DEK-DME7-DX64,"DEK-DME7 Expansion license kit offering an additional 64 Dante Channels, permitting up to 256 x 256 input/output channels",9995,8691.30,6685.52
+MATRIX PROCESSING,MRX7D,"Simple, flexible DSP control for complex, high-capacity sound system, 64 CH. Dante i/o AEC, 8+2 stereo ins 8 analogue outs and expansion slot",7905,6873.91,5287.63
+MATRIX PROCESSING,MTX5-D,34 x 16 Matrix fixed architecture signal processor with Dante. 8 mic/line ins & 8 analogue outs with wired or wireless DCP control,5235,4552.17,3501.67
+MATRIX PROCESSING,MTX3,24 x 8 Matrix fixed architecture signal processor with YDIF. 8 mic/line ins and 8 analogue outs with wired or wireless DCP control,3055,2656.52,2043.48
+MATRIX PROCESSING,EXI8,8 mic/line input expansion unit for MTX-series matrix processors with MTX-controllable preamps and YDIF connectivity,2085,1813.04,1394.65
+MATRIX PROCESSING,EXO8,8 mic/line input expansion unit for MTX-series matrix processors and YDIF connectivity,1965,1708.70,1314.38
+MTX ACCESSORY,PGM1,Paging station and microphone that can be used with the PGM1,2295,1995.65,1535.12
+MTX ACCESSORY,PGX1,PGX1 paging station extension that can be used with the PGM1,785,682.61,525.08
+MTX ACCESSORY,MCP1,Wall-mount control panel for controlling MTX and MRX systems with 6 page dot-matrix display. Up to 16 units can be connected,915,795.65,612.04
+MTX ACCESSORY,DCP4S,4x switch wall-mount control panel for MA&MTX series. Up to 8 DCP units can be connected to each MTX-series matrix processor,235,204.35,157.19
+MTX ACCESSORY,DCP1V4S,"1x rotary, 4x switch wall-mount control panel for MA & MTX series. Up to 8 DCP units can be connected to each MTX-series matrix processor",305,265.22,204.01
+MTX ACCESSORY,DCP4V4S,"4x rotary, 4x switch wall-mount control panel for MA & MTX series. Up to 8 DCP units can be connected to each MTX-series matrix processor",605,526.09,404.68
+MTX ACCESSORY,DCH8,"DCH8 functions as a relay device between the host device and DCP series, allowing a combination of star and daisy-chain connections",575,500.00,384.62
+M-Y CARDS-Analogue,MY8ADDA96,"8-channel, 24-bit/96kHz line-level input/output card. Euroblock interface",2355,2047.83,1575.25
+M-Y CARDS-Digital,MY16AE,"16-channel, 24-bit/48kHz AES/EBU card with 2x D-SUB interfacce",2145,1865.22,1434.78
+M-Y CARDS-Network,DANTE-MY16-AUD2,"16-channel Dante expansion card for non-Dante equipped consoles and processors such as PM5D, LS9, M7CL, DME - 192kHz capable",985,856.52,658.86
+M-Y CARDS-Processing,Dugan-MY16,16-channel Dugan automixinig controller card by Dan Dugan Sound Design,6295,5473.91,4210.7
+PCIe CARD,AIC128-D,Nuage audio post-production system Dante accelerator card for Nuage host computers. Full redundancy guarantees audio network integrity over the Dante protocol,2305,2004.35,1541.81
+XMV SERIES AMPLIFIERS,XMV4140,4 x 140W @ 4/8 ohm or 70/100V line power amplifier. 2 x 280W @ 4 or 8 ohm in double power mode. YDIF connection & control available via MTX,2585,2247.83,1729.1
+XMV SERIES AMPLIFIERS,XMV4140-D,4 x 140W @ 4/8 ohm or 70/100V line power amplifier. 2 x 280W @ 4 or 8 ohm in double power mode with YDIF connection & Dante connectivity,2985,2595.65,1996.66
+XMV SERIES AMPLIFIERS,XMV4280,4 x 280W @ 4/8 ohm or 70/100V line power amplifier. 2 x 560W @ 4 or 8 ohm in double power mode. YDIF connection & control available via MTX,3725,3239.13,2491.64
+XMV SERIES AMPLIFIERS,XMV4280-D,4 x 280W @ 4/8 ohm or 70/100V line power amplifier. 2 x 560W @ 4 or 8 ohm in double power mode. YDIF connection & Dante connectivity,4445,3865.22,2973.24
+XMV SERIES AMPLIFIERS,XMV8140,8 x 140W @ 4/8 ohm or 70/100V line power amplifier. 2 x 280W @ 4 or 8 ohm in double power mode. YDIF connection & control available via MTX,4335,3769.57,2899.67
+XMV SERIES AMPLIFIERS,XMV8140-D,8 x 140W @ 4/8 ohm or 70/100V line power amplifier. 2 x 280W @ 4 or 8 ohm in double power mode. YDIF connection & Dante connectivity,5145,4473.91,3441.47
+XMV SERIES AMPLIFIERS,XMV8280-D,4 x 280W @ 4/8 ohm or 70/100V line power amplifier. 2 x 560W @ 4 or 8 ohm in double power mode. YDIF connection & control available via MTX,6575,5717.39,4397.99
+XMV SERIES AMPLIFIERS,XMV8280-D,4 x 280W @ 4/8 ohm or 70/100V line power amplifier. 2 x 560W @ 4 or 8 ohm in double power mode. YDIF connection & Dante connectivity,7505,6526.09,5020.07
+PC-D/DI SERIES AMPLIFIER,PC412-D,"PC412-D high power amplifier with 20x8 input matrix capability, 16 ch Dante I/O and on-board 96kHz speaker processing. Compatible with ProVisionaire Touch and ProVisionaire Control. 4x1200W at 8 ohm",9185,7986.96,6143.81
+PC-D/DI SERIES AMPLIFIER,PC406-D,"PC406-D high power amplifier with 20x8 input matrix capability, 16 ch Dante I/O and on-board 96kHz speaker processing. Compatible with ProVisionaire Touch and ProVisionaire Control. 4x600W at 8 ohm",6685,5813.04,4471.57
+PC-D/DI SERIES AMPLIFIER,PC412-DI,"PC412-D high power installation amplifier with 20x8 input matrix capability, 16 ch Dante I/O and on-board 96kHz speaker processing. Compatible with ProVisionaire Touch and ProVisionaire Control. 4x1200W at 8 ohm, 4x1200W at 100V/70V",9435,8204.35,6311.04
+PC-D/DI SERIES AMPLIFIER,PC406-DI,"PC406-D high power installation amplifier with 20x8 input matrix capability, 16 ch Dante I/O and on-board 96kHz speaker processing. Compatible with ProVisionaire Touch and ProVisionaire Control. 4x600W at 8 ohm,4x600W at 100V/70V",6925,6021.74,4632.11
+CEILING SPEAKERS,VC4B,"2-Way system with 4-inch woofer and 0.8-inch tweeter (black), engineered for optimum BGM and voice reproduction. Built-in carrying band. Paintable grilles with magnetic catches. Single unit package",235,204.35,157.19
+CEILING SPEAKERS,VC4W,"2-Way system with 4-inch woofer and 0.8-inch tweeter(white), engineered for optimum BGM and voice reproduction. Built-in carrying band. Paintable grilles with magnetic catches. Single unit package",235,204.35,157.19
+CEILING SPEAKERS,VC4NB,"2-Way system with 4-inch woofer and 0.8-inch tweeter (black), engineered for optimum BGM and voice reproduction. No back can low-profile design allows installation in limited ceiling spaces. Paintable grilles with magnetic catches. Single unit package",185,160.87,123.75
+CEILING SPEAKERS,VC4NW,"2-Way system with 4-inch woofer and 0.8-inch tweeter (white), engineered for optimum BGM and voice reproduction. No back can low-profile design allows installation in limited ceiling spaces. Paintable grilles with magnetic catches. Single unit package",185,160.87,123.75
+CEILING SPEAKER ACCESSORIES,AB-C2,"AB-C2 Ring + Tile Rail Kit for VC4B, VC4W and VXC2F",65,56.52,43.48
+CEILING SPEAKERS,VC6B,"2-Way system with 6.5-inch woofer and 0.8-inch tweeter (black), engineered for optimum BGM and voice reproduction. Built-in carryiong band, double-threaded speaker clamp screws for speedy tightening. Paintable grilles with magnetic catches. Single unit package",325,282.61,217.39
+CEILING SPEAKERS,VC6W,"2-Way system with 6.5-inch woofer and 0.8-inch tweeter (white), engineered for optimum BGM and voice reproduction. Built-in carryiong band, double-threaded speaker clamp screws for speedy tightening. Paintable grilles with magnetic catches. Single unit package",325,282.61,217.39
+CEILING SPEAKERS,VC6NB,"2-Way system with 6.5-inch woofer and 0.8-inch tweeter (black), engineered for optimum BGM and voice reproduction. No back can low-profile design allows installation in limited ceiling spaces. Paintable grilles with magnetic catches. Single unit package",275,239.13,183.95
+CEILING SPEAKERS,VC6NW,"2-Way system with 6.5-inch woofer and 0.8-inch tweeter (white), engineered for optimum BGM and voice reproduction. No back can low-profile design allows installation in limited ceiling spaces. Paintable grilles with magnetic catches. Single unit package",275,239.13,183.95
+CEILING SPEAKERS,VC8B,"2-Way system with 8-inch woofer and 0.8-inch tweeter (black), engineered for optimum BGM and voice reproduction. Built-in carryiong band, double-threaded speaker clamp screws for speedy tightening. Paintable grilles with magnetic catches. Single unit package",425,369.57,284.28
+CEILING SPEAKERS,VC8W,"2-Way system with 8-inch woofer and 0.8-inch tweeter(white), engineered for optimum BGM and voice reproduction. Built-in carryiong band, double-threaded speaker clamp screws for speedy tightening. Paintable grilles with magnetic catches. Single unit package",425,369.57,284.28
+CEILING SPEAKERS,VC8NB,"2-Way system with 8-inch woofer and 0.8-inch tweeter (black), engineered for optimum BGM and voice reproduction. No back can low-profile design allows installation in limited ceiling spaces. Paintable grilles with magnetic catches. Single unit package",365,317.39,244.15
+CEILING SPEAKERS,VC8NW,"2-Way system with 8-inch woofer and 0.8-inch tweeter (white), engineered for optimum BGM and voice reproduction. No back can low-profile design allows installation in limited ceiling spaces. Paintable grilles with magnetic catches. Single unit package",365,317.39,244.15
+PENDANT SPEAKERS,VXH6B,2-Way system with 6.5-inch woofer and 1-inch tweeter (black). Wide dispersion 120 degree and 300W power handling. Engineered for optimum BGM and voice reproduction. Low & High impedance connections. Single unit package,845,734.78,565.22
+PENDANT SPEAKERS,VXH6W,2-Way system with 6.5-inch woofer and 1-inch tweeter (white). Wide dispersion 120 degree and 300W power handling. Engineered for optimum BGM and voice reproduction. Low & High impedance connections. Single unit package,845,734.78,565.22
+PENDANT SPEAKERS,VXH8B,2-Way system with 8-inch woofer and 1-inch tweeter (black). Wide dispersion 120 degree and 300W power handling. Engineered for optimum BGM and voice reproduction. Low & High impedance connections. Single unit package,1025,891.30,685.62
+PENDANT SPEAKERS,VXH8W,2-Way system with 8-inch woofer and 1-inch tweeter (white). Wide dispersion 120 degree and 300W power handling. Engineered for optimum BGM and voice reproduction. Low & High impedance connections. Single unit package,1025,891.30,685.62
+CEILING SPEAKERS,VXC2FB,"2.5-inch Bass Reflex, 30W PGM 160 degree conical dispersion pattern, 8 ohm or 4-tap 100V Line. Sold single (black)",255,221.74,170.57
+CEILING SPEAKERS,VXC2FW,"2.5-inch Bass Reflex, 30W PGM 160 degree conical dispersion pattern, 8 ohm or 4-tap 100V Line. Sold single (white)",255,221.74,170.57
+CEILING SPEAKERS,VXC3F,"3.5-inch Full Range Bass Reflex, F-series engineered for optimum BGM reproduction. 40W PGM, 140 degree conical dispersion, 8 ohm or 4-tap 70V line, 3-tap 100V line, Sold in pairs (black)",605,526.09,404.68
+CEILING SPEAKERS,VXC3FW,"3.5-inch Full Range Bass Reflex, F-series engineered for optimum BGM reproduction. 40W PGM, 140 degree conical dispersion, 8 ohm or 4-tap 70V line, 3-tap 100V line, Sold in pairs (white)",605,526.09,404.68
+CEILING SPEAKERS,VXC4,"4-inch Bass Reflex, 60W PGM, 130 degree conical dispersion pattern, 8 ohm or 4-tap 70V line, 3-tap 100V line. Sold in pairs (black)",605,526.09,404.68
+CEILING SPEAKERS,VXC4W,"4-inch Bass Reflex, 60W PGM, 130 degree conical dispersion pattern, 8 ohm or 4-tap 70V line, 3-tap 100V line. Sold in pairs (white)",605,526.09,404.68
+CEILING SPEAKERS,VXC5F,"4.5-inch Full Range Bass Reflex, engineered for optimum BGM reproduction. 80W PGM, 130 degree conical dispersion. 8 ohm or 4-tap 70V line, 3-tap 100V line. Sold in pairs (black)",645,560.87,431.44
+CEILING SPEAKERS,VXC5FW,"4.5-inch Full Range Bass Reflex, engineered for optimum BGM reproduction. 80W PGM, 130 degree conical dispersion. 8 ohm or 4-tap 70V line, 3-tap 100V line. Sold in pairs (white)",645,560.87,431.44
+CEILING SPEAKERS,VXC6,"2-Way bass reflex, 150W PGM, 6.5-inch LF driver, 0.75-inch HF dome, 110 conical dispersion pattern, 8 ohm or 4-tap 70V line, 3-tap 100V line. Sold in pairs (black)",745,647.83,498.33
+CEILING SPEAKERS,VXC6W,"2-Way bass reflex, 150W PGM, 6.5-inch LF driver, 0.75-inch HF dome, 110 conical dispersion pattern, 8 ohm or 4-tap 70V line, 3-tap 100V line. Sold in pairs (white)",745,647.83,498.33
+CEILING SPEAKERS,VXC8,"2-Way bass reflex, 180W PGM, 8-inch LF driver, 1-inch HF dome, 100 conical dispersion pattern, 8 ohm or 4-tap 70V line, 3-tap 100V line. 55-20kHz. Sold in pairs (black)",1045,908.70,699
+CEILING SPEAKERS,VXC8W,"2-Way bass reflex, 180W PGM, 8-inch LF driver, 1-inch HF dome, 100 conical dispersion pattern, 8 ohm or 4-tap 70V line, 3-tap 100V line. 55-20kHz. Sold in pairs (white)",1045,908.70,699
+CEILING SUBWOOFER,VXC8SB,"S-Model 8-inch ceiling subwoofer. Distortion-free band-pass design, Lo-Z or Hi-Z connections. 44Hz - 200Hz. Anti-drop tab mechanism and built-in carrying band. Single (black)",625,543.48,418.06
+CEILING SUBWOOFER,VXC8SW,"S-Model 8-inch ceiling subwoofer. Distortion-free band-pass design, Lo-Z or Hi-Z connections. 44Hz - 200Hz. Anti-drop tab mechanism and built-in carrying band. Single (white)",625,543.48,418.06
+CEILING SPEAKERS ACCESSORIES,AB-C2,AB-C2 Ring & tile rail kit for VXC2F,65,56.52,43.48
+CEILING SPEAKERS ACCESSORIES,AB-C8S,AB-C8S O-ring & tile rail kit for VXC8S subwoofer,65,56.52,43.48
+CEILING SPEAKERS ACCESSORIES,PK-C4B,PK-C4 Pendant mount kit for VXC2F (black),105,91.30,70.23
+CEILING SPEAKERS ACCESSORIES,PK-C4W,PK-C4 Pendant mount kit for VXC2F (white),105,91.30,70.23
+CEILING SPEAKERS ACCESSORIES,CMA1MB,Ceiling mount adapter for VXS M model (black),45,39.13,30.1
+CEILING SPEAKERS ACCESSORIES,CMA1MW,Ceiling mount adapter for VXS M model (white),45,39.13,30.1
+CEILING SPEAKERS ACCESSORIES,CMA3SB,Ceiling mount adapter for VXS3S (black),195,169.57,130.43
+CEILING SPEAKERS ACCESSORIES,CMA3SW,Ceiling mount adapter for VXS3S (white),195,169.57,130.43
+SURFACE-MOUNT SPEAKER,VXS1MLB,"Full range compact surface mount speaker 1.5-inch driver, 20W @ 8 ohm wide 170 degree horizontal & vertical dispersion. Wall/ceiling mount hardware supplied (black). Sold as single",195,169.57,130.43
+SURFACE-MOUNT SPEAKER,VXS1MLW,"Full range compact surface mount speaker 1.5-inch driver, 20W @ 8 ohm wide 170 degree horizontal & vertical dispersion. Wall/ceiling mount hardware supplied (white). Sold as single",195,169.57,130.43
+SURFACE-MOUNT SUBWOOFER,VXS3SB,3.5-inch Dual SR-Bass subwoofer for Hi-Z/Lo-Z systems (black). Ideally matched for use with VXS1ML 80W @ 8 ohm. Wall/ceiling mount hardware included. Sold as single,545,473.91,364.55
+SURFACE-MOUNT SUBWOOFER,VXS3SW,3.5-inch Dual SR-Bass subwoofer for Hi-Z/Lo-Z systems (white). Ideally matched for use with VXS1ML 80W @ 8 ohm. Wall/ceiling mount hardware included. Sold as single,545,473.91,364.55
+SURFACE-MOUNT SPEAKER,VXS3F,"3.5-inch full range compact surface mount speakers (black). Wide dispersion, 40W PGM, Lo-Z @ 8 ohm for smaller installer. Brackets & safety wires included. Sold in pairs",550,478.26,367.89
+SURFACE-MOUNT SPEAKER,VXS3FW,"3.5-inch full range compact surface mount speakers (white). Wide dispersion, 40W PGM, Lo-Z @ 8 ohm for smaller installer. Brackets & safety wires included. Sold in pairs",550,478.26,367.89
+SURFACE-MOUNT SPEAKER,VXS3FT,"3.5-inch full range compact surface mount speakers (black). Wide dispersion, 40W PGM, Hi-Z @ 70V/100V. Brackets & safety wires included. Sold in pairs",605,526.09,404.68
+SURFACE-MOUNT SPEAKER,VXS3FW,"3.5-inch full range compact surface mount speakers (white). Wide dispersion, 40W PGM, Hi-Z @ 70V/100V. Brackets & safety wires included. Sold in pairs",605,526.09,404.68
+SURFACE-MOUNT SPEAKER,VXS5,"2-Way bass-reflex, 180W PGM, 5-inch LF driver, 1-inch HF dome (black). 120 degree dispersion, 3-tap 100V line or Lo-Z. IP35 rates, wall/ceiling brackets included. Sold in pairs",655,569.57,438.13
+SURFACE-MOUNT SPEAKER,VXS5W,"2-Way bass-reflex, 180W PGM, 5-inch LF driver, 1-inch HF dome (white). 120 degree dispersion, 3-tap 100V line or Lo-Z. IP35 rates, wall/ceiling brackets included. Sold in pairs",655,569.57,438.13
+SURFACE-MOUNT SPEAKER,VXS8,"2-Way bass-reflex, 180W PGM, 8-inch LF driver, 0-inch HF dome (black). 100 degree dispersion, 4-tap 70V line, 3-tap 100V line or Lo-Z. IP35 rates, wall/ceiling brackets included. Sold in pairs",1045,908.70,699
+SURFACE-MOUNT SPEAKER,VXS8W,"2-Way bass-reflex, 180W PGM, 8-inch LF driver, 0-inch HF dome (white). 100 degree dispersion, 4-tap 70V line, 3-tap 100V line or Lo-Z. IP35 rates, wall/ceiling brackets included. Sold in pairs",1045,908.70,699
+SURFACE-MOUNT SUBWOOFER,VXS10S,"Dual voice coil 10-inch subwoofer (black), 2x200W PGM, 2x8 ohm. Sold as single",795,691.30,531.77
+SURFACE-MOUNT SUBWOOFER,VXS10SW,"Dual voice coil 10-inch subwoofer (white), 2x200W PGM, 2x8 ohm. Sold as single",795,691.30,531.77
+SURFACE-MOUNT SUBWOOFER,VXS10ST,"Dual voice coil 10-inch subwoofer (black), 2x200W PGM, 4-tap 70V line, 3-tap 100V line or Lo-Z. Sold as single",935,813.04,625.42
+SURFACE-MOUNT SUBWOOFER,VXS10STW,"Dual voice coil 10-inch subwoofer (white), 2x200W PGM, 4-tap 70V line, 3-tap 100V line or Lo-Z. Sold as single",935,813.04,625.42
+LINE ARRAY SPEAKERS,VXL1B-24,"Slim line array speaker 24x1.5-inch drivers with neodymium magnets (black). Wide horizontal dispersion uniform SPL over a wide area, selectable vertical coverage: normal or wide",1975,1717.39,1321.07
+LINE ARRAY SPEAKERS,VXL1W-24,"Slim line array speaker 24x1.5-inch drivers with neodymium magnets (white). Wide horizontal dispersion uniform SPL over a wide area, selectable vertical coverage: normal or wide",1975,1717.39,1321.07
+LINE ARRAY SPEAKERS,VXL1B-16,"Slim line array speaker 16x1.5-inch drivers with neodymium magnets (black). Wide horizontal dispersion uniform SPL over a wide area, selectable vertical coverage: normal or wide",1315,1143.48,879.6
+LINE ARRAY SPEAKERS,VXL1W-16,"Slim line array speaker 16x1.5-inch drivers with neodymium magnets (white). Wide horizontal dispersion uniform SPL over a wide area, selectable vertical coverage: normal or wide",1315,1143.48,879.6
+LINE ARRAY SPEAKERS,VXL1B-8,"Slim line array speaker 8x1.5-inch drivers with neodymium magnets (black). Wide horizontal dispersion uniform SPL over a wide area, selectable vertical coverage: normal or wide",715,621.74,478.26
+LINE ARRAY SPEAKERS,VXL1W-8,"Slim line array speaker 8x1.5-inch drivers with neodymium magnets (white). Wide horizontal dispersion uniform SPL over a wide area, selectable vertical coverage: normal or wide",715,621.74,478.26
+LINE ARRAY SPEAKERS,VXL1B-16P,VXL P model - Dante PoE powered line array speakers 16x1.5-inch drivers with neodymium magnets (black). Wide horizontal dispersion uniform SPL over a wide area. Selectable vertical coverage: normal or wide,2255,1960.87,1508.36
+LINE ARRAY SPEAKERS,VXL1W-16P,VXL P model - Dante PoE powered line array speakers 16x1.5-inch drivers with neodymium magnets (white). Wide horizontal dispersion uniform SPL over a wide area. Selectable vertical coverage: normal or wide,2255,1960.87,1508.36
+VXL ACCESSORIES,WMB-L1B,Wall mount bracket with vertical and horizontal angle adjustment capability for VXL series (black). Compatible model VXL1-24/VXL1-16/VXL1-8/VXL1-16P,105,91.30,70.23
+VXL ACCESSORIES,WMB-L1W,Wall mount bracket with vertical and horizontal angle adjustment capability for VXL series (white). Compatible model VXL1-24/VXL1-16/VXL1-8/VXL1-16P,105,91.30,70.23
+VXL ACCESSORIES,VCB-L1B,Vertical coupling bracket for VXL1-24 or VXL1-16,55,47.83,36.79
+VXL ACCESSORIES,VCSB-L1B,Vertical coupling bracket with downward angle adjustment (black) for VXL1-24 or VXL1-16,165,143.48,110.37
+VXL ACCESSORIES,VCSB-L1W,Vertical coupling bracket with downward angle adjustment (white) for VXL1-24 or VXL1-16,165,143.48,110.37
+VXL ACCESSORIES,HCB-L1B,Horizontal coupling bracket for VXL1-24/VXL1-16/VXL1-8/VXL1-16P,105,91.30,70.23
+VXL ACCESSORIES,PA-L1B,35mm pole mount bracket for VXL1-24/VXL1-16/VXL1-8/VXL1-16P,225,195.65,150.5
+VXL ACCESSORIES,ST-L1B,Speaker 70V/100V transformer for VXL1-24/VXL1-16/VXL1-8/VXL1-16P (black),435,378.26,290.97
+VXL ACCESSORIES,ST-L1W,Speaker 70V/100V transformer for VXL1-24/VXL1-16/VXL1-8/VXL1-16P (white),435,378.26,290.97
