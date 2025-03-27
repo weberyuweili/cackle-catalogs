@@ -233,7 +233,7 @@
 		"SheetName" : "AVS.csv",
 		"PartNumberColumn" : "STOCKCODE",
 		"PriceColumn" : "TRADE (excl)",
-		"StockColumn" : "STOCK",
+		"StockColumn" : "SOH",
 		"DescriptionColumn" : "DESCRIPTION",
 		"EtaColumn" : null,
 		"EanColumn" : "UPC"
