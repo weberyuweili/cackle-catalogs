@@ -4581,7 +4581,7 @@ CICS-BRD75P-WMK=,Cisco Board Pro 75 Wall Mount Kit - Spar,Cisco Board Pro 75 Wal
 CICS-BRD75P-WUK,Cisco Board Pro 75 Wheel Upgrade Kit,Cisco Board Pro 75 Wheel Upgrade Kit,CS-BRD75P-WUK,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,2714.08,0,,$4045.37,0,,N,N
 CICS-BRDP55-K9,Cisco Board Pro 55 G2,Cisco Board Pro 55 G2,CS-BRDP55-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,19459.77,19459.77,,$47965.70,0,,N,N
 CICS-BRDP75-K9,Cisco Board Pro 75 G2,Cisco Board Pro 75 G2,CS-BRDP75-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,32487.23,32487.23,,$80076.63,0,,N,N
-CICS-BRDP75-NR-K9,Cisco Board Pro 75 G2  No-Radio,Cisco Board Pro 75 G2  No-Radio,CS-BRDP75-NR-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,58453.97,0,,$87126.65,0,,Y,N
+CICS-BRDP75-NR-K9,Cisco Board Pro 75 G2  No-Radio,Cisco Board Pro 75 G2  No-Radio,CS-BRDP75-NR-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,58453.97,0,,$87126.65,0,,N,N
 CICS-BRDP-ACTSTYL,Cisco Board Pro Active Stylus Kit,Cisco Board Pro Active Stylus Kit,CS-BRDP-ACTSTYL,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,1044.91,0,,$1557.47,0,,Y,N
 CICS-BRDP-ACTSTYL+,Cisco Board Pro Active Stylus Kit,Cisco Board Pro Active Stylus Kit,CS-BRDP-ACTSTYL+,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
 CICS-BRDP-LFTHNDL-,Cisco Board Pro Lifting Handles,Cisco Board Pro Lifting Handles,CS-BRDP-LFTHNDL-,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
@@ -8823,7 +8823,7 @@ CISVS-PSTL1-T0-E3Y,Success Track L1 - DNA Essentials OnPrem,Success Track L1 - D
 CISVS-PSTL1-T0-E5Y,Success Track L1 - DNA Essentials OnPrem,Success Track L1 - DNA Essentials OnPrem Lic  T0  5Y,SVS-PSTL1-T0-E5Y,CISCO SYSTEMS LTD,,CI - UNKNOWN,,,,0,0,622.68,0,,$897.16,0,,Y,N
 CISVS-PSTL1-T1-A3Y,Success Track L1 - DNA Advantage OnPrem,Success Track L1 - DNA Advantage OnPrem Lic  T1  3Y,SVS-PSTL1-T1-A3Y,CISCO SYSTEMS LTD,,CI - UNKNOWN,,,,0,0,1447.64,0,,$2085.82,0,,Y,N
 CISVS-PSTL1-T2-A1Y,Success Track L1 - DNA Advantage OnPrem,Success Track L1 - DNA Advantage OnPrem Lic  T2  1Y,SVS-PSTL1-T2-A1Y,CISCO SYSTEMS LTD,,CI - UNKNOWN,,,,0,0,1704.74,0,,$2456.26,0,,Y,N
-CISVS-PSTL1-T2-A3Y,Success Track L1 - DNA Advantage OnPrem,Success Track L1 - DNA Advantage OnPrem Lic  T2  3Y,SVS-PSTL1-T2-A3Y,CISCO SYSTEMS LTD,,CI - UNKNOWN,,,,0,0,3409.64,0,,$4912.74,0,,Y,N
+CISVS-PSTL1-T2-A3Y,Success Track L1 - DNA Advantage OnPrem,Success Track L1 - DNA Advantage OnPrem Lic  T2  3Y,SVS-PSTL1-T2-A3Y,CISCO SYSTEMS LTD,,CI - UNKNOWN,,,,0,0,3409.64,0,,$4912.74,0,,N,N
 CISVS-PSTL1-T2-A5Y,Success Track L1 - DNA Advantage OnPrem,Success Track L1 - DNA Advantage OnPrem Lic  T2  5Y,SVS-PSTL1-T2-A5Y,CISCO SYSTEMS LTD,,CI - UNKNOWN,,,,0,0,5335.29,0,,$8091.86,0,,Y,N
 CISVS-PSTL1-T2-E3Y,Success Track L1 - DNA Essentials OnPrem,Success Track L1 - DNA Essentials OnPrem Lic  T2  3Y,SVS-PSTL1-T2-E3Y,CISCO SYSTEMS LTD,,CI - UNKNOWN,,,,0,0,1352.7,0,,$1949.04,0,,Y,N
 CISVS-PSTL1-T2-E5Y,Success Track L1 - DNA Essentials OnPrem,Success Track L1 - DNA Essentials OnPrem Lic  T2  5Y,SVS-PSTL1-T2-E5Y,CISCO SYSTEMS LTD,,CI - UNKNOWN,,,,0,0,2260.04,0,,$3256.33,0,,Y,N
