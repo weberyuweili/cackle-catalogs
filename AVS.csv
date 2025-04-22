@@ -1,49 +1,9 @@
 BRAND,STOCKCODE,DESCRIPTION,MSRP (excl),TRADE (excl),STOCK CLASS,SOH,STOCK GROUP,UPC
-Aurora Multimedia,DXE-122A,Aurora 1x2 HDMI 2.0A 4K Splitter,735,99,DISCOUNT,3,Automation & Control,0
-Aurora Multimedia,DXP-62K-1,Aurora Presentation Switcher/Scaler,4182,650,DISCOUNT,1,Automation & Control,737212163796
-Aurora Multimedia,IPX-TC1-C,Aurora 4K Transceiver with IPBase T,3309,499,DISCOUNT,6,Automation & Control,737212163437
-Aurora Multimedia,IPX-TC1-F,Aurora 4K Transceiver with IPBase T,3701,499,DISCOUNT,10,Automation & Control,737212163444
-Aurora Multimedia,IPX-TCW3-C-W,Aurora 4K Transceiver Wall Plate,3545,499,DISCOUNT,5,Automation & Control,737212163482
-Aurora Multimedia,IPX-TCW3-F-W,Aurora 4K Transceiver Wall Plate,3937,499,DISCOUNT,5,Automation & Control,737212163505
-Aurora Multimedia,IPX-USB2,Aurora IPX USB 2.0 Option Card,607,99,DISCOUNT,6,Automation & Control,737212164861
-Aurora Multimedia,MCX-VTH,Aurora VGA to HDMI® converter,392,99,DISCOUNT,5,Automation & Control,73721263635
-Aurora Multimedia,ORC-1C-W,Aurora One Room-One Cable Complete Kit,5797,899,DISCOUNT,4,Automation & Control,
-Aurora Multimedia,PS0094-2-AU,Aurora 48v DC 24 Watt Power Supply,80,9,DISCOUNT,19,Automation & Control,737212164694
-Aurora Multimedia,QXP-2,Aurora NX Series Controller,2358,299,DISCOUNT,10,Automation & Control,737212163178
-Aurora Multimedia,QXP-2-IPX,Aurora IPX Embedded Linux Control Server,23211,299,DISCOUNT,8,Automation & Control,
-Aurora Multimedia,SKR-22T-XFR,Aurora Ceiling Tile Mounted Speaker,4873,99,DISCOUNT,3,Automation & Control,737212163277
-AVS,CM1615B,AVS Cable King Pack,7,0.5,DISCOUNT,2001,AV Accessories,9421901838744
-AVS,CM2215B,AVS Cable King Pack 22mm,10,0.5,DISCOUNT,1324,AV Accessories,9421901838751
-AVS,AHDDP270,AVS Theatre Adapter,10,0.99,DISCOUNT,217,Cables & Connectivity,9421901838010
-AVS,AHDEXT70,AVS Theatre HDMI Extender,90,29,DISCOUNT,6,Cables & Connectivity,9421901838065
-AVS,AHDMX44,AVS Theatre HDMI 4x4 Matrix,80,29,DISCOUNT,37,Cables & Connectivity,9421901838072
-AVS,AHDSP2,AVS Theatre HDMI Splitter,60,5.99,DISCOUNT,117,Cables & Connectivity,9421901838096
-AVS,AHDSP4,AVS Theatre HDMI Splitter,75,6.99,DISCOUNT,205,Cables & Connectivity,9421901838102
-AVS,AIR35T,In-Line 3.5mm Stereo Socket,12.99,0.99,DISCOUNT,279,Cables & Connectivity,9421901838591
-AVS,AIRDNG,AVS Theatre IR Extender,10,0.99,DISCOUNT,48,Cables & Connectivity,9421901838133
-AVS,AIREM1,AVS Theatre IR Extender,15,0.99,DISCOUNT,70,Cables & Connectivity,9421901838140
-AVS,AIREM2,AVS Theatre IR Extender,15,0.99,DISCOUNT,65,Cables & Connectivity,9421901838157
-AVS,AIREM3,AVS Theatre IR Extender,15,0.99,DISCOUNT,43,Cables & Connectivity,9421901838164
-AVS,AIRHDMIK,AVS Theatre IR Extender,30,9.99,DISCOUNT,18,Cables & Connectivity,9421901838195
-AVS,AIRHDRC,AVS Theatre IR Receiver,31.3,0.99,DISCOUNT,22,Cables & Connectivity,9421901838201
-AVS,AIRHDTM,AVS Theatre IR Transmitter,31.3,0.99,DISCOUNT,40,Cables & Connectivity,9421901838218
-AVS,AIRRC1,AVS Theatre IR Extender,15,0.99,DISCOUNT,16,Cables & Connectivity,9421901838225
-AVS,APR100,"AVS Pro HDMI Cable, 1m",17.38,1.99,DISCOUNT,158,Cables & Connectivity,9421903115676
-AVS,APR750,AVS Pro HDMI Cable,34.77,4.99,DISCOUNT,121,Cables & Connectivity,9421901838539
-AVS,ATIAG,AVS iA Cable Lightning & Micro USB Gold,14,0.5,DISCOUNT,445,Cables & Connectivity,9421901838652
-AVS,ATIAP,AVS iA Cable Lightning & Micro USB Pink,14,0.5,DISCOUNT,982,Cables & Connectivity,9421904917057
-AVS,ATR100,AVS Theatre HDMI Cable,12,2.49,DISCOUNT,121,Cables & Connectivity,9421903115713
-AVS,ATR1000,AVS Theatre HDMI Cable,60,7.99,DISCOUNT,197,Cables & Connectivity,9421903115768
-AVS,ATR2000,AVS Theatre HDMI Cable,80,19.99,DISCOUNT,236,Cables & Connectivity,9421903115782
-AVS,ATR750,AVS Theatre HDMI Cable,55,5.99,DISCOUNT,142,Cables & Connectivity,9421903115751
-AVS,ATSP416P,AVS Theatre Speaker Cable,150,29,DISCOUNT,6,Cables & Connectivity,9421901838300
-AVS,ADM701,AVS ADM701 Desk Mount,50,3.99,DISCOUNT,292,Professional AV Solutions,9421903115218
-AVS,SAR3U-18DW,3U-18_ DP Drawer,153.04,99,DISCOUNT,2,Professional AV Solutions,9421903115522
-AVS,AFBB,AVS Brushed Wall Plate WHITE,22.94,16.06,NORMAL,2685,Cables & Connectivity,9421903115812
+AVS,AFBB,AVS Brushed Wall Plate WHITE,22.94,16.06,NORMAL,2681,Cables & Connectivity,9421903115812
 AVS,AFBBK,AVS Brushed Wall Plate BLACK,22.94,16.06,NORMAL,2039,Cables & Connectivity,9421901838744
 AVS,SAFR15,AVS AV Rack 15RU,770.83,549,NORMAL,27,Professional AV Solutions,9421904917002
 AVS,SAFR27,AVS AV Rack 27RU,1128.75,799,NORMAL,6,Professional AV Solutions,9421904917019
-AVS,SAR-10-32SC-100,10-32 Screws with Cushion,33.93,25,NORMAL,37,Professional AV Solutions,9421903115560
+AVS,SAR-10-32SC-100,10-32 Screws with Cushion,33.93,25,NORMAL,36,Professional AV Solutions,9421903115560
 AVS,SAR1U-16CS,"1U-16"" Deep Cantilever Shelf",52,35,NORMAL,104,Professional AV Solutions,09421904917910
 AVS,SAR1UBP,1U Blanking Panels,10.7,7.5,NORMAL,294,Professional AV Solutions,9421903115386
 AVS,SAR2U-16CS,2U-16_ Cantilever Shelf,56,40,NORMAL,69,Professional AV Solutions,9421903115348
@@ -51,86 +11,16 @@ AVS,SAR2UBP,2U Blanking Panels,12,8,NORMAL,25,Professional AV Solutions,94219031
 AVS,SAR3U-16CS,3U-16_ Cantilever Shelf,52,42,NORMAL,18,Professional AV Solutions,9421903115362
 AVS,SAR3U-18CS,3U-18_ Cantilever Shelf,47.82,33.47,NORMAL,6,Professional AV Solutions,9421903115379
 AVS,SAR3UBP,3U Blanking Panels,18,13,NORMAL,72,Professional AV Solutions,9421903115409
-AVS,SAR4UBP,4U Blanking Panels,24,17,NORMAL,32,Professional AV Solutions,9421903115416
-AVS,SAVC3780B,"AVS VC Cart 37-80"" Panel",799,599,NORMAL,36,Professional AV Solutions,9421904917040
-AVS,SAVC5590B,"AVS VC Cart 55-90"" Panel",899,649,NORMAL,26,Professional AV Solutions,9421904917934
+AVS,SAR4UBP,4U Blanking Panels,24,17,NORMAL,37,Professional AV Solutions,9421903115416
+AVS,SAVC3780B,"AVS VC Cart 37-80"" Panel",799,599,NORMAL,30,Professional AV Solutions,9421904917040
+AVS,SAVC5590B,"AVS VC Cart 55-90"" Panel",899,649,NORMAL,27,Professional AV Solutions,9421904917934
 AVS,SAVC75X2,AVS Dual Screen Adapter,434.77,301.85,NORMAL,5,Professional AV Solutions,9421904917552
-Chief,CMA152,Chief NPT Pipe Coupler,107.46,29,DISCOUNT,4,Professional AV Solutions,841872038018
-Chief,CMA345,Chief Structural Ceiling Plate,465.6,199,DISCOUNT,2,Professional AV Solutions,841872002637
-Chief,CMA347,Chief Isolating Coupler,995.02,499,DISCOUNT,2,Professional AV Solutions,841872018584
-Chief,CMA643,Chief Decorative Ring - Chrome,44.75,9,DISCOUNT,6,Professional AV Solutions,841872101170
-Chief,CMS006009W,"Chief Adj Column, White (152-228mm)",169.74,59,DISCOUNT,1,Professional AV Solutions,841872076218
-Chief,CMS009012W,"Chief Adj Column, White (228-300mm)",247.6,99,DISCOUNT,1,Professional AV Solutions,841872104782
-Chief,CMS012018W,"Chief Adj Column, White (300-457mm)",309.88,139,DISCOUNT,7,Professional AV Solutions,841872092690
-Chief,CMS440,Chief Suspended Ceiling Kit,309.88,119.4,DISCOUNT,6,Professional AV Solutions,841872076102
-Chief,CPA261,Chief Adapter - CPA to Female NPT,138.6,59,DISCOUNT,3,Professional AV Solutions,841872156798
-Chief,CSACK06B,Chief Side Cover Kit with ConnexSys Brac,963.88,499,DISCOUNT,7,Professional AV Solutions,841872170817
-Chief,FCA112,Chief Secure CPU/Media Adapter,229.89,72.99,DISCOUNT,5,Professional AV Solutions,841872165608
-Chief,FCA624B,Chief Fusion Dual Monitor Accessory,823.74,199,DISCOUNT,3,Professional AV Solutions,841872169699
-Chief,FCA800,Fusion 8 camera shelf 32-70inch,276.18,89,DISCOUNT,3,Professional AV Solutions,841872163819
-Chief,FCA800HS,Above/Below HuddleSHOT Camera Shelf,941.15,299,DISCOUNT,3,Professional AV Solutions,
-Chief,FCA800K,ConferenceSHOT ePTZ FCA MOUNT L DISPLAY,245.33,49,DISCOUNT,1,Professional AV Solutions,
-Chief,FCA801,Fusion 14inch Above/Below Shelf,322.47,69,DISCOUNT,1,Professional AV Solutions,841872163826
-Chief,FCA810E,IntelliSHOT FCA MOUNT XL DISPLAY,430.47,199,DISCOUNT,1,Professional AV Solutions,841872176031
-Chief,FCA810VE,Fusion Above/Below ViewShare Kit,2160,499,DISCOUNT,1,Professional AV Solutions,0
-Chief,FCA812,Fusion Lower Component Shelf,430.47,99,DISCOUNT,1,Professional AV Solutions,841872165837
-Chief,FCA821,Chief Fusion Center Camera Shelf 14in,387.74,79,DISCOUNT,3,Professional AV Solutions,841872162683
-Chief,FCA840,Fusion Centre Channel Speaker,434.46,149,DISCOUNT,2,Professional AV Solutions,
-Chief,FCAC,FUSION LCM Menu Board Accessories,216,99,DISCOUNT,7,Professional AV Solutions,841872161082
-Chief,FCAC06B,FUSION Wall Display Side Cover Accessory,761.46,249,DISCOUNT,13,Professional AV Solutions,841872171180
-Chief,FCAC2X1LB,"Fusion Flat Panel Back Cover, Dual – Lar",1541.33,499,DISCOUNT,1,Professional AV Solutions,
-Chief,FCASFP,Fusion Small-Medium Tilt Interface,309.88,149,DISCOUNT,5,Professional AV Solutions,841872167718
-Chief,FCC100,Chief Centre Channel Adapter,203.67,69,DISCOUNT,1,Professional AV Solutions,841872118758
-Chief,FHB5196,Chief Universal Flat Panel Mount,309.88,148.13,DISCOUNT,3,Professional AV Solutions,841872175911
-Chief,FMSIML,Fusion Large Micro-Adjust Tilt Interface,527.88,199,DISCOUNT,2,Professional AV Solutions,841872167916
-Chief,JSB2090B,Custom Interface Bracket for Cisco EX90,769.89,49,DISCOUNT,4,Professional AV Solutions,841872156972
-Chief,K3F310B,K3 Dual-Monitor Array,324,149,DISCOUNT,5,Professional AV Solutions,841872156460
-Chief,KGL220B,Monitor/Laptop Desk Mount,432,299,DISCOUNT,1,Professional AV Solutions,
-Chief,LCB2X1U,Chief Large 2x1 Menu Board,3547.04,999,DISCOUNT,1,Professional AV Solutions,841872158952
-Chief,LCDPA,Projector Stacker Arm,183.6,39,DISCOUNT,3,Professional AV Solutions,841872002231
-Chief,LCM1UP,FUSION™ Large Portrait Flat Panel Ceilin,1016.75,399,DISCOUNT,4,Professional AV Solutions,841872159096
-Chief,LCM2X2U,FUSION™ Micro-Adjustable Large Ceiling M,10181.33,2999,DISCOUNT,1,Professional AV Solutions,841872155012
-Chief,LDS1U,Chief Large Fusion TV Stand,1865.33,499,DISCOUNT,6,Professional AV Solutions,841872171616
-Chief,LFD1U,Large Fusion DHA Floor Support,4627.04,1399,DISCOUNT,5,Professional AV Solutions,841872168142
-Chief,LPD1U,Large Fusion DHA Mobile Cart,4613.15,1599,DISCOUNT,9,Professional AV Solutions,841872168159
-Chief,LSD1U,Dynamic Height Adjustable Wall Mount,4164.18,1499,DISCOUNT,1,Professional AV Solutions,841872168166
-Chief,LW65UWP,"Impact On-Wall Kiosk  Portrait 65"" White",6163.73,1999,DISCOUNT,1,Professional AV Solutions,841872173047
-Chief,LWM2X1U,2 x 1 Menu-Board Wall Mounted,1957.89,499,DISCOUNT,1,Professional AV Solutions,841872166322
-Chief,LWM5X1U,"Large Wall Mount Menu Board, 5 Wide",5861.33,999,DISCOUNT,3,Professional AV Solutions,841872166353
-Chief,MAC720,Chief Dual Display Adapter,374.93,59,DISCOUNT,1,Professional AV Solutions,841872106342
-Chief,MAC722,Chief Dual Display Adapter,862.47,299,DISCOUNT,1,Professional AV Solutions,841872122632
-Chief,MCB1U,Chief Dual Ceiling Mount,1155.6,399,DISCOUNT,8,Professional AV Solutions,841872159003
-Chief,MFD1U,Medium Fusion DHA Floor Support,4164.18,999,DISCOUNT,4,Professional AV Solutions,841872168173
-Chief,MPD1U,Medium Fusion DHA Mobile Cart,5398.47,1199,DISCOUNT,1,Professional AV Solutions,841872168180
-Chief,MPWUB,Chief Swing Arm Mount,1047.6,229,DISCOUNT,1,Professional AV Solutions,841872104485
-Chief,MTTU,Chief Tilt Wall Mount,461.33,69,DISCOUNT,1,Professional AV Solutions,841872117232
-Chief,MWRUB,Chief Swing Arm Mount,1541.33,289,DISCOUNT,1,Professional AV Solutions,841872101637
-Chief,PAC251,Chief CPU/Media Player Adapter,769.89,99,DISCOUNT,1,Professional AV Solutions,841872003252
-Chief,PAC252,Chief CPU/Media Player Adapter,847.04,109,DISCOUNT,4,Professional AV Solutions,841872046327
-Chief,PAC400,Chief Rotation Adaptor,769.89,149,DISCOUNT,1,Professional AV Solutions,841872003276
-Chief,PAC717,Chief Literature Shelf,260.75,89,DISCOUNT,2,Professional AV Solutions,841872122571
-Chief,PAC720,Chief Dual Display Adapter,538.47,69,DISCOUNT,3,Professional AV Solutions,841872106335
-Chief,PAC735A,Chief Secure Storage Shelf,1309.89,229,DISCOUNT,1,Professional AV Solutions,841872122410
-Chief,PG4A,Chief XL Projector Cage - Black,3298.51,1499,DISCOUNT,1,Professional AV Solutions,
-Chief,PG4AW,Chief XL Projector Cage - White,3133.51,1499,DISCOUNT,3,Professional AV Solutions,
-Chief,PSMH2079,Chief Heavy Duty Flat Panel Wall Mount,2575.04,599,DISCOUNT,1,Professional AV Solutions,0
-Chief,PSMH2685,Chief Heavy-Duty Custom Flat Panel Wall,2312.75,349,DISCOUNT,1,Professional AV Solutions,841872141916
-Chief,RLT2,Large Tilt Wall Mount,183.6,69,DISCOUNT,2,Professional AV Solutions,841872143033
-Chief,RMT2,Medium Tilt Wall Mount,152.75,59,DISCOUNT,9,Professional AV Solutions,841872143040
-Chief,RPAA1,Chief Security Projector Mount,600.18,149,DISCOUNT,9,Professional AV Solutions,841872104553
-Chief,RSAUW,Chief Projector Mount,492.18,119,DISCOUNT,3,Professional AV Solutions,841872119755
-Chief,RXT2,X-Large Tilt Wall Mount,214.47,99,DISCOUNT,18,Professional AV Solutions,841872143057
-Chief,SLM302,Chief Interface brkt for RPM prjtr Mount,358.51,149,DISCOUNT,7,Professional AV Solutions,0
-Chief,TA410,Chief Portrait Adapter,260.75,29,DISCOUNT,1,Professional AV Solutions,841872151847
-Chief,TA500,Chief Large THINSTALL Wall Box,886.02,299,DISCOUNT,1,Professional AV Solutions,841872156149
-Chief,TA501,Chief Medium THINSTALL wall bo,823.74,299,DISCOUNT,1,Professional AV Solutions,841872156156
-Chief,TS110SU,Chief Small Swing Arm Mount (15.9kg),307.04,99,DISCOUNT,5,Professional AV Solutions,841872153698
 Chief,AS3A102,Crestron® UC Bracket Accessory for Tempo,314.65,220.22,NORMAL,0,Professional AV Solutions,
-Chief,AS3LD,CHIEF TEMPO MOUNT,1674.47,1172.13,NORMAL,20,Professional AV Solutions,841872177564
+Chief,AS3LD,CHIEF TEMPO MOUNT,1674.47,1172.13,NORMAL,19,Professional AV Solutions,841872177564
 Chief,CMA101W,Chief 127mm Designer Ceiling Plate,45.16,31.61,NORMAL,2,Professional AV Solutions,841872094007
 Chief,CMA105,"Chief Ceiling Plate, Black (102mm)",125.78,88.05,NORMAL,2,Professional AV Solutions,841872002491
-Chief,CMA115,"Chief Ceiling Plate, Black (152mm)",131.72,93.57,NORMAL,19,Professional AV Solutions,841872002514
-Chief,CMA115W,"Chief Ceiling Plate, White (152mm)",131.52,93.37,NORMAL,17,Professional AV Solutions,841872045481
+Chief,CMA115,"Chief Ceiling Plate, Black (152mm)",131.72,93.57,NORMAL,15,Professional AV Solutions,841872002514
+Chief,CMA115W,"Chief Ceiling Plate, White (152mm)",131.52,93.37,NORMAL,16,Professional AV Solutions,841872045481
 Chief,CMA151,Chief NPT Adapter,75.6,52.92,NORMAL,3,Professional AV Solutions,841872002538
 Chief,CMA270,Chief NPT Coupler Sealed,72.62,51.62,NORMAL,9,Professional AV Solutions,841872002583
 Chief,CMA270W,Chief NPT Coupler Sealed,72.64,51.64,NORMAL,19,Professional AV Solutions,841872045962
@@ -138,15 +28,14 @@ Chief,CMA330,Chief Offset Ceiling Plate,152.04,106.43,NORMAL,4,Professional AV S
 Chief,CMA340,Chief Projector Stabilisation,527.88,369.51,NORMAL,7,Professional AV Solutions,841872002620
 Chief,CMA348W,Chief Large Venue Vibration Coupler,1353.16,947.21,NORMAL,6,Professional AV Solutions,841872172538
 Chief,CMA360,Chief I-Beam Clamp,676.37,479.65,NORMAL,0,Professional AV Solutions,841872002651
-Chief,CMA365,Chief Truss Adapter,154.16,107.91,NORMAL,2,Professional AV Solutions,841872002675
+Chief,CMA365,Chief Truss Adapter,154.16,107.91,NORMAL,0,Professional AV Solutions,841872002675
 Chief,CMA395,Chief Angled Ceiling Plate,132.98,94.83,NORMAL,23,Professional AV Solutions,841872002750
-Chief,CMA395W,Chief Angled Ceiling Plate,132.85,94.7,NORMAL,1,Professional AV Solutions,841872092553
-Chief,CMA640B,Chief Decorative Ring Black,32.25,22.58,NORMAL,6,Professional AV Solutions,841872092577
+Chief,CMA395W,Chief Angled Ceiling Plate,132.85,94.7,NORMAL,7,Professional AV Solutions,841872092553
+Chief,CMA640B,Chief Decorative Ring Black,32.25,22.58,NORMAL,3,Professional AV Solutions,841872092577
 Chief,CMA640S,Chief Decorative Ring Silver,32.4,22.68,NORMAL,40,Professional AV Solutions,841872002798
-Chief,CMA640W,Chief Decorative Ring White,31,22,NORMAL,11,Professional AV Solutions,9421904917088
-Chief,CMS003,"Chief Extension Column, Black (76mm)",42.49,30.17,NORMAL,0,Professional AV Solutions,841872092591
+Chief,CMA640W,Chief Decorative Ring White,31,22,NORMAL,10,Professional AV Solutions,9421904917088
+Chief,CMS003,"Chief Extension Column, Black (76mm)",42.49,30.17,NORMAL,2,Professional AV Solutions,841872092591
 Chief,CMS003W,"Chief Extension Column, White (76mm)",42.6,30.17,NORMAL,0,Professional AV Solutions,841872104768
-Chief,CMS006,"Chief Extension Column, Black (152mm)",45.16,31.61,NORMAL,0,Professional AV Solutions,841872092607
 Chief,CMS006009,"Chief Adj Column, Black (152-228mm)",169.74,118.81,NORMAL,0,Professional AV Solutions,841872092614
 Chief,CMS006W,"Chief Extension Column, White (152mm)",45.16,31.61,NORMAL,0,Professional AV Solutions,841872092638
 Chief,CMS009,"Chief Extension Column, Black (228mm)",91.88,64.31,NORMAL,0,Professional AV Solutions,841872092645
@@ -160,60 +49,60 @@ Chief,CMS018024,"Chief Adj Column, Black (457-600mm)",341.02,238.71,NORMAL,1,Pro
 Chief,CMS018024W,"Chief Adj Column, White (457-600mm)",341.02,238.71,NORMAL,1,Professional AV Solutions,841872104805
 Chief,CMS018W,"Chief Extension Column, White (457mm)",107.46,75.21,NORMAL,6,Professional AV Solutions,841872104799
 Chief,CMS0203,"Chief Adj Column, Black (609-914mm)",351.87,249.44,NORMAL,0,Professional AV Solutions,841872092744
-Chief,CMS0203W,"Chief Adj Column, White (609-914mm)",351.13,249.69,NORMAL,1,Professional AV Solutions,841872092768
+Chief,CMS0203W,"Chief Adj Column, White (609-914mm)",351.13,249.69,NORMAL,0,Professional AV Solutions,841872092768
 Chief,CMS024,"Chief Extension Column, Black (600mm)",100.69,71.11,NORMAL,4,Professional AV Solutions,841872092775
 Chief,CMS024W,"Chief Extension Column, White (600mm)",100.53,71.11,NORMAL,0,Professional AV Solutions,841872076331
-Chief,CMS0305,"Chief Adj Column, Black (91-152cm)",381.23,270.23,NORMAL,0,Professional AV Solutions,841872092799
-Chief,CMS0305W,"Chief Adj Column, White (91-152cm)",381,270.22,NORMAL,2,Professional AV Solutions,841872092812
+Chief,CMS0305,"Chief Adj Column, Black (91-152cm)",381.23,270.23,NORMAL,2,Professional AV Solutions,841872092799
+Chief,CMS0305W,"Chief Adj Column, White (91-152cm)",381,270.22,NORMAL,0,Professional AV Solutions,841872092812
 Chief,CMS036,"Chief Extension Column, Black (914mm)",117.23,83.37,NORMAL,11,Professional AV Solutions,841872092829
-Chief,CMS036W,"Chief Extension Column, White (914mm)",116.35,83.36,NORMAL,16,Professional AV Solutions,841872092843
-Chief,CMS0406,"Chief Adj Column, Black (121-182cm)",409.89,290.31,NORMAL,2,Professional AV Solutions,841872092850
+Chief,CMS036W,"Chief Extension Column, White (914mm)",116.35,83.36,NORMAL,12,Professional AV Solutions,841872092843
+Chief,CMS0406,"Chief Adj Column, Black (121-182cm)",409.89,290.31,NORMAL,0,Professional AV Solutions,841872092850
 Chief,CMS0406W,"Chief Adj Column, White (121-182cm)",406.18,290.3,NORMAL,0,Professional AV Solutions,841872104812
-Chief,CMS048,"Chief Extension Column, Black (121cm)",174.69,124.36,NORMAL,7,Professional AV Solutions,841872092867
+Chief,CMS048,"Chief Extension Column, Black (121cm)",174.69,124.36,NORMAL,4,Professional AV Solutions,841872092867
 Chief,CMS048W,"Chief Extension Column, White (121cm)",175.37,124.37,NORMAL,5,Professional AV Solutions,841872104829
 Chief,CMS0507,"Chief Adj Column, Black (152-213cm)",439.89,311.74,NORMAL,1,Professional AV Solutions,841872076430
-Chief,CMS0507W,"Chief Adj Column, White (152-213cm)",439.75,311.73,NORMAL,2,Professional AV Solutions,841872104836
+Chief,CMS0507W,"Chief Adj Column, White (152-213cm)",439.75,311.73,NORMAL,0,Professional AV Solutions,841872104836
 Chief,CMS060,"Chief Extension Column, Black (152cm)",232.02,162.41,NORMAL,1,Professional AV Solutions,841872092874
-Chief,CMS072,"Chief Extension Column, Black (182cm)",278.22,197.36,NORMAL,3,Professional AV Solutions,841872092904
+Chief,CMS072,"Chief Extension Column, Black (182cm)",278.22,197.36,NORMAL,1,Professional AV Solutions,841872092904
 Chief,CMS072W,"Chief Extension Column, White (182cm)",278.37,197.37,NORMAL,13,Professional AV Solutions,841872104874
 Chief,CMS115,"Chief 6"" round ceiling plate, Black",138.6,97.01,NORMAL,0,Professional AV Solutions,841872076072
 Chief,CMS115W,"Chief 6"" round ceiling plate, White",138.6,97.01,NORMAL,0,Professional AV Solutions,841872076096
 Chief,CMS261,"Chief Column Cut-Off Adapter, Black",87.73,62.44,NORMAL,1,Professional AV Solutions,841872145853
-Chief,CMS261W,"Chief Column Cut-Off Adapter, White",87.47,62.18,NORMAL,37,Professional AV Solutions,841872145877
-Chief,CMS380,Chief Truss Clamp,305.62,213.93,NORMAL,0,Professional AV Solutions,841872169392
+Chief,CMS261W,"Chief Column Cut-Off Adapter, White",87.47,62.18,NORMAL,33,Professional AV Solutions,841872145877
+Chief,CMS380,Chief Truss Clamp,305.62,213.93,NORMAL,1,Professional AV Solutions,841872169392
 Chief,CPA024,"Chief Pin Extension Column, Blk (610mm)",123.02,86.11,NORMAL,0,Professional AV Solutions,841872156682
 Chief,CPA048,"Chief Pin Extension Column, Blk (121cm)",199.04,139.32,NORMAL,2,Professional AV Solutions,841872156729
 Chief,CPA060,"Chief Pin Extension Column, Blk (152cm)",229.89,160.92,NORMAL,7,Professional AV Solutions,841872156743
 Chief,CPA072,"Chief Pin Extension Column, Blk (182cm)",291.6,204.12,NORMAL,10,Professional AV Solutions,841872156767
 Chief,CPA072P,"Chief Pin Extension Column, Blk (182cm)",372.16,260.51,NORMAL,1,Professional AV Solutions,841872158808
-Chief,CPA096,"Chief Pin Extension Column, Blk (243cm)",415.04,290.52,NORMAL,5,Professional AV Solutions,841872158884
+Chief,CPA096,"Chief Pin Extension Column, Blk (243cm)",415.04,290.52,NORMAL,4,Professional AV Solutions,841872158884
 Chief,CPA120,"Chief Pin Extension Column, Blk (304cm)",492.18,344.52,NORMAL,0,Professional AV Solutions,841872158907
-Chief,CPA262,Chief Adapter - CPA to Male NPT,131.15,91.8,NORMAL,15,Professional AV Solutions,841872156781
+Chief,CPA262,Chief Adapter - CPA to Male NPT,131.15,91.8,NORMAL,14,Professional AV Solutions,841872156781
 Chief,CPA263,Chief Adapter - CPA to CPA,137.33,96.12,NORMAL,0,Professional AV Solutions,841872158921
 Chief,CPA264,Chief Adapter - Female NPT to CPA,169.74,118.81,NORMAL,6,Professional AV Solutions,841872158877
 Chief,CPA265,Chief Adapter - CPA to Projector,91.88,64.31,NORMAL,12,Professional AV Solutions,841872171234
-Chief,CPA330,Chief Offset Ceiling Plate (203mm),185.15,129.6,NORMAL,4,Professional AV Solutions,841872156422
+Chief,CPA330,Chief Offset Ceiling Plate (203mm),185.15,129.6,NORMAL,1,Professional AV Solutions,841872156422
 Chief,CPA351,Chief Floor to Ceiling Collar Plate,468.42,331.7,NORMAL,5,Professional AV Solutions,841872170442
-Chief,CPA353,Chief Floor to Ceiling Clamp-style Plate,485.09,344.09,NORMAL,8,Professional AV Solutions,841872170435
-Chief,CPA380,Chief CPA Truss Clamp,307.04,214.92,NORMAL,1,Professional AV Solutions,841872169408
+Chief,CPA353,Chief Floor to Ceiling Clamp-style Plate,485.09,344.09,NORMAL,6,Professional AV Solutions,841872170435
+Chief,CPA380,Chief CPA Truss Clamp,307.04,214.92,NORMAL,0,Professional AV Solutions,841872169408
 Chief,CPA395,Chief Pin Connection Angle Ceiling Plate,152.75,106.92,NORMAL,0,Professional AV Solutions,841872156446
-Chief,CSMP9X12,Chief Component Storage Panel,122.87,86,NORMAL,7,Professional AV Solutions,841872173467
+Chief,CSMP9X12,Chief Component Storage Panel,122.87,86,NORMAL,4,Professional AV Solutions,841872173467
 Chief,CSPH,Chief UnderTable Component Storage Panel,621.3,434.91,NORMAL,5,Professional AV Solutions,841872170930
-Chief,CSSLP15X10,Chief Component Storage Panel Slide Lock,384.52,269.55,NORMAL,7,Professional AV Solutions,841872176222
+Chief,CSSLP15X10,Chief Component Storage Panel Slide Lock,384.52,269.55,NORMAL,8,Professional AV Solutions,841872176222
 Chief,FCA520,"Fusion Universal Clamp Kit, 2",121.33,84.93,NORMAL,1,Professional AV Solutions,841872156484
-Chief,FCA613B,Chief Large Shelf with Storage,784.29,549,NORMAL,8,Professional AV Solutions,841872169415
-Chief,FCA810,Fusion 8inch Above/Below Shelf,270,189,NORMAL,32,Professional AV Solutions,841872162669
+Chief,FCA613B,Chief Large Shelf with Storage,784.29,549,NORMAL,7,Professional AV Solutions,841872169415
+Chief,FCA810,Fusion 8inch Above/Below Shelf,270,189,NORMAL,28,Professional AV Solutions,841872162669
 Chief,FCA810K,ConferenceSHOT ePTZ FCA MOUNT XL DISPLAY,276.18,193.32,NORMAL,2,Professional AV Solutions,841872176093
-Chief,FCA811,Fusion 14inch camera shelf 60 - 100,382.4,267.68,NORMAL,4,Professional AV Solutions,841872162676
+Chief,FCA811,Fusion 14inch camera shelf 60 - 100,382.4,267.68,NORMAL,3,Professional AV Solutions,841872162676
 Chief,FCA820,Fusion Center Camera Shelf 8inch,278.74,195.11,NORMAL,0,Professional AV Solutions,841872162690
 Chief,FCACLIPS,Wire Ties & Clips Kit,29.33,20.52,NORMAL,3,Professional AV Solutions,841872156118
 Chief,FCASCA,Chief Structural Column Adapter,1680.16,1176.11,NORMAL,4,Professional AV Solutions,841872173009
-Chief,FCAV1U,Fusion Pull Out Video Wall Accessory,604.92,423.44,NORMAL,32,Professional AV Solutions,841872166483
+Chief,FCAV1U,Fusion Pull Out Video Wall Accessory,604.92,423.44,NORMAL,14,Professional AV Solutions,841872166483
 Chief,FCAVCA,Chief Variable Column Adapter,512.3,358.61,NORMAL,0,Professional AV Solutions,841872173016
 Chief,FCAX20,Fusion VW Extrusion 20 inch Extender Kit,496.74,319,NORMAL,3,Professional AV Solutions,841872157504
-Chief,FCAXV1U,Chief Fusion XL Pull Out Accessory,1128.58,790,NORMAL,5,Professional AV Solutions,841872175379
-Chief,FCK008,Chief Fusion Connector Kit,121.33,84.93,NORMAL,1,Professional AV Solutions,841872117201
-Chief,FCS1U,Cable Floor-to-Ceiling Flat Panel Mount,995.02,696.51,NORMAL,1,Professional AV Solutions,
+Chief,FCAXV1U,Chief Fusion XL Pull Out Accessory,1128.58,790,NORMAL,3,Professional AV Solutions,841872175379
+Chief,FCK008,Chief Fusion Connector Kit,121.33,84.93,NORMAL,0,Professional AV Solutions,841872117201
+Chief,FCS1U,Cable Floor-to-Ceiling Flat Panel Mount,995.02,696.51,NORMAL,0,Professional AV Solutions,
 Chief,FHB5037,Chief Fusion VESA extension 400-600,123.02,86.11,NORMAL,28,Professional AV Solutions,841872162751
 Chief,FHB5038,Chief Fusion Vesa Adapter,263.16,184.21,NORMAL,11,Professional AV Solutions,841872166056
 Chief,FHB5106,"Interface Adaptor, 500mm",495.3,346.72,NORMAL,3,Professional AV Solutions,841872172927
@@ -222,43 +111,44 @@ Chief,FHB5149,Chief Fusion & Thinstall Hardware Kits,278.74,195.11,NORMAL,3,Prof
 Chief,FHB7038,Chief Fusion Vesa Adapter,276.18,193.32,NORMAL,0,Professional AV Solutions,0
 Chief,FMSCA,"Fusion Ceiling Box, Floating",465.6,325.91,NORMAL,7,Professional AV Solutions,841872168319
 Chief,FMSCM,"Fusion Ceiling Box, Height-Adjust",457.65,320.35,NORMAL,5,Professional AV Solutions,841872168326
-Chief,FMSECAP,Fusion Horizontal Row End Cap,49.15,34.4,NORMAL,8,Professional AV Solutions,841872168043
+Chief,FMSECAP,Fusion Horizontal Row End Cap,49.15,34.4,NORMAL,6,Professional AV Solutions,841872168043
 Chief,FMSH108,"Fusion Horizontal Row, 108"" (2743mm)",856.44,599.5,NORMAL,0,Professional AV Solutions,841872167947
-Chief,FMSH120,"Fusion Horizontal Row, 120"" (3048mm)",996.69,697.68,NORMAL,4,Professional AV Solutions,841872167954
+Chief,FMSH120,"Fusion Horizontal Row, 120"" (3048mm)",996.69,697.68,NORMAL,3,Professional AV Solutions,841872167954
 Chief,FMSH48,"Fusion Horizontal Row, 48"" (1219mm)",427.15,299,NORMAL,1,Professional AV Solutions,841872167961
 Chief,FMSH60,"Fusion Horizontal Row, 60"" (1524mm)",484.29,339,NORMAL,1,Professional AV Solutions,841872167978
 Chief,FMSH72,"Fusion Horizontal Row 72"" (1828mm)",566.69,396.68,NORMAL,0,Professional AV Solutions,841872167985
 Chief,FMSH84,"Fusion Horizontal Row, 84"" (2133mm)",612.75,428.93,NORMAL,1,Professional AV Solutions,841872167992
 Chief,FMSH96,"Fusion Horizontal Row, 96"" (2438mm)",674.19,471.93,NORMAL,1,Professional AV Solutions,841872168005
 Chief,FMSHC1,Fusion Horizontal Row Connector,274.9,192.43,NORMAL,3,Professional AV Solutions,841872168012
-Chief,FMSITL,Fusion Large Tilt Interface,375.01,262.5,NORMAL,1,Professional AV Solutions,841872167909
+Chief,FMSITL,Fusion Large Tilt Interface,375.01,262.5,NORMAL,0,Professional AV Solutions,841872167909
 Chief,FMSWA,"Fusion Wall Attachment, Floating",512.3,358.61,NORMAL,6,Professional AV Solutions,841872167923
-Chief,FMSWM,"Fusion Wall Attachment, Height-Adjust",505.25,353.68,NORMAL,5,Professional AV Solutions,841872167930
-Chief,FRA, Chief Rotation Adapter Accessory,840.86,588.6,NORMAL,3,Professional AV Solutions,841872169910
+Chief,FMSWM,"Fusion Wall Attachment, Height-Adjust",505.25,353.68,NORMAL,3,Professional AV Solutions,841872167930
+Chief,FRA, Chief Rotation Adapter Accessory,840.86,588.6,NORMAL,4,Professional AV Solutions,841872169910
 Chief,FSR1U,Small Flat Panel Fixed Wall Mount,177.24,126.24,NORMAL,9,Professional AV Solutions,841872168593
-Chief,FTR1U,Chief Small Flat Panel Tilt Wall Mount,198.12,138.68,NORMAL,1,Professional AV Solutions,841872168609
-Chief,KITXWXSM1U,Ultra-Wide Micro-Adjustable Static Wall,2845.35,1991.74,NORMAL,2,Professional AV Solutions,841872176864
+Chief,FTR1U,Chief Small Flat Panel Tilt Wall Mount,198.12,138.68,NORMAL,4,Professional AV Solutions,841872168609
+Chief,KITXWXSM1U,Ultra-Wide Micro-Adjustable Static Wall,2845.35,1991.74,NORMAL,1,Professional AV Solutions,841872176864
+Chief,KITXWXSM1UP,Ultrawide Micro-Adjust Portrait StaticXL,3260.81,2282.57,NORMAL,0,Professional AV Solutions,
 Chief,LCB1U,Chief Dual Ceiling Mount,1742.46,1219.71,NORMAL,0,Professional AV Solutions,841872159010
 Chief,LCM1U,Chief Large Ceiling Mount 56kg,831.6,582.12,NORMAL,19,Professional AV Solutions,841872156170
 Chief,LCM2X1U,Ceiling Mount 2x1 Menu Board,2041.89,1429.32,NORMAL,0,Professional AV Solutions,841872158778
-Chief,LFAUB,Chief Large Fusion Floor Stand,3255.72,2299,NORMAL,4,Professional AV Solutions,841872156330
+Chief,LFAUB,Chief Large Fusion Floor Stand,3255.72,2299,NORMAL,0,Professional AV Solutions,841872156330
 Chief,LPAUB,Chief Large Mobile Cart,1712.86,1199,NORMAL,23,Professional AV Solutions,841872155951
-Chief,LSA1U,Chief Large Fixed Wall Mount 90kg,362.84,253.98,NORMAL,18,Professional AV Solutions,841872163710
+Chief,LSA1U,Chief Large Fixed Wall Mount 90kg,362.84,253.98,NORMAL,15,Professional AV Solutions,841872163710
 Chief,LSM1U,"Large Micro-Adjustable Fixed 42-86"" 90kg",383.69,269.25,NORMAL,0,Professional AV Solutions,841872163260
 Chief,LSTU,Chief Fixed Wall Mount,384.29,269,NORMAL,15,Professional AV Solutions,841872117225
-Chief,LTA1U,Large Fusion Tilt Wall Mount,574.6,369,NORMAL,10,Professional AV Solutions,841872163727
-Chief,LTM1U,Large Micro-Adjustable Tilt 90kg,570,399,NORMAL,5,Professional AV Solutions,841872163277
-Chief,LVS1U,Video Wall Landscape Mounting,885.68,619.97,NORMAL,29,Professional AV Solutions,841872161150
+Chief,LTA1U,Large Fusion Tilt Wall Mount,574.6,369,NORMAL,9,Professional AV Solutions,841872163727
+Chief,LTM1U,Large Micro-Adjustable Tilt 90kg,570,399,NORMAL,1,Professional AV Solutions,841872163277
+Chief,LVS1U,Video Wall Landscape Mounting,885.68,619.97,NORMAL,33,Professional AV Solutions,841872161150
 Chief,MCM1U,Chief Medium Ceiling Mount 56kg,588.61,417.61,NORMAL,12,Professional AV Solutions,841872156194
 Chief,MSA1U,Medium Fixed Wall Mount 56kg,246.26,172.38,NORMAL,8,Professional AV Solutions,841872163734
-Chief,MSM1U,Medium Micro-Adjustable Fixed 56kg,267.77,190.62,NORMAL,293,Professional AV Solutions,841872163284
+Chief,MSM1U,Medium Micro-Adjustable Fixed 56kg,267.77,190.62,NORMAL,243,Professional AV Solutions,841872163284
 Chief,MSTU,Chief Fixed Wall Mount,429.08,300.35,NORMAL,1,Professional AV Solutions,841872117249
 Chief,MTA1U,Medium Tilt Wall Mount,338.06,236.64,NORMAL,0,Professional AV Solutions,841872163741
-Chief,MTM1U,Medium Micro-Adjustable Tilt 56kg,439.57,311.42,NORMAL,11,Professional AV Solutions,841872163291
+Chief,MTM1U,Medium Micro-Adjustable Tilt 56kg,439.57,311.42,NORMAL,3,Professional AV Solutions,841872163291
 Chief,MTMP1U,Medium Portrait Tilt Wall Mount,421.12,294.78,NORMAL,13,Professional AV Solutions,841872163895
 Chief,PAC102B,Pole Mount Shelf Accessory,255.72,179,NORMAL,1,Professional AV Solutions,841872098555
-Chief,PAC525FCW,In-Wall Box with Flange&Cover,372.16,260.51,NORMAL,5,Professional AV Solutions,841872161389
-Chief,PAC526FCW,In-Wall Box with Flange&Cover,465.6,325.91,NORMAL,6,Professional AV Solutions,841872161471
+Chief,PAC525FCW,In-Wall Box with Flange&Cover,372.16,260.51,NORMAL,4,Professional AV Solutions,841872161389
+Chief,PAC526FCW,In-Wall Box with Flange&Cover,465.6,325.91,NORMAL,4,Professional AV Solutions,841872161471
 Chief,PDRUB,Chief Swing Arm Mount,2141.43,1499,NORMAL,0,Professional AV Solutions,841872051659
 Chief,PFB1UB,Chief Single Flat Panel Bolt-Down Mount,2141.43,1499,NORMAL,26,Professional AV Solutions,841872172415
 Chief,PG1AW,Chief Medium Projector Cage - White,1078.51,754.95,NORMAL,0,Professional AV Solutions,841872094120
@@ -271,18 +161,18 @@ Chief,RLF3,LARGE UNIVERSAL FIXED MOUNT,343.51,240.45,NORMAL,0,Professional AV So
 Chief,RLT3,LARGE UNIVERSAL TILT MOUNT,403.51,282.45,NORMAL,0,Professional AV Solutions,841872176642
 Chief,RLXT3,"LARGE UNIVERSAL, EXTENDING, TILT MOUNT",481.21,336.84,NORMAL,11,Professional AV Solutions,841872176659
 Chief,RMF2,Medium Fixed Wall Display Mount,106.47,74.52,NORMAL,9,Professional AV Solutions,841872141077
-Chief,RMF3,MEDIUM UNIVERSAL FIXED MOUNT,238.51,166.95,NORMAL,7,Professional AV Solutions,841872176666
+Chief,RMF3,MEDIUM UNIVERSAL FIXED MOUNT,238.51,166.95,NORMAL,0,Professional AV Solutions,841872176666
 Chief,RMT3,MEDIUM UNIVERSAL TILT MOUNT,298.51,208.95,NORMAL,0,Professional AV Solutions,841872176673
-Chief,RPMAU,Chief Elite Universal Projector Mount,487.3,346.3,NORMAL,8,Professional AV Solutions,841872078021
-Chief,RPMAUW,Chief Elite Universal Projector Mount,487.29,346.29,NORMAL,0,Professional AV Solutions,841872078045
+Chief,RPMAU,Chief Elite Universal Projector Mount,487.3,346.3,NORMAL,7,Professional AV Solutions,841872078021
+Chief,RPMAUW,Chief Elite Universal Projector Mount,487.29,346.29,NORMAL,2,Professional AV Solutions,841872078045
 Chief,RXF3,XL UNIVERSAL FIXED MOUNT,373.51,261.45,NORMAL,5,Professional AV Solutions,841872176680
 Chief,RXT3,XL UNIVERSAL TILT MOUNT,463.51,324.45,NORMAL,0,Professional AV Solutions,841872176697
 Chief,SCACB,"CHIEF VOYAGER CAMERA ACCESSORY, BLK",358.37,250.85,NORMAL,3,Professional AV Solutions,841872176871
 Chief,SCASB,"CHIEF VOYAGER SPEAKER BAR ACCESSORY, BLK",540.21,378.15,NORMAL,2,Professional AV Solutions,841872176895
 Chief,TA200,Chief Video Conferencing Shelf,247.6,173.31,NORMAL,1,Professional AV Solutions,841872151809
 Chief,TA250,Chief Video Conferencing Shelf,280.3,196.2,NORMAL,1,Professional AV Solutions,841872151816
-Chief,TS318TU,Chief Medium Swing Arm Mount (34kg),970,685,NORMAL,6,Professional AV Solutions,841872149387
-Chief,TS525TU,Chief Large Dual Arm Wall Mount (56kg),1312.86,919,NORMAL,2,Professional AV Solutions,841872147307
+Chief,TS318TU,Chief Medium Swing Arm Mount (34kg),970,685,NORMAL,4,Professional AV Solutions,841872149387
+Chief,TS525TU,Chief Large Dual Arm Wall Mount (56kg),1312.86,919,NORMAL,3,Professional AV Solutions,841872147307
 Chief,VCMU,Chief Projector Mount Black Medium,1070,749,NORMAL,5,Professional AV Solutions,841872154350
 Chief,VCMUW,Chief Projector Mount White Medium,1070,749,NORMAL,8,Professional AV Solutions,841872168357
 Chief,VCTUB,XL Universal Tool-Free Projector Mount,1427.15,999,NORMAL,2,Professional AV Solutions,841872172460
@@ -291,8 +181,8 @@ Chief,WMA1S,"Heavy Duty Wall Mount, Single Stud",483.51,338.45,NORMAL,4,Professi
 Chief,XCM1U,Chief X-Large Ceiling Mount 113kg,1390,979,NORMAL,2,Professional AV Solutions,841872159393
 Chief,XFA1UB,X-Large Fusion Manual Height Adjustable,4690.56,3283.38,NORMAL,1,Professional AV Solutions,841872168982
 Chief,XPA1UB,X-Large Fusion Manual Height Adj Cart,4000,2800,NORMAL,2,Professional AV Solutions,841872169002
-Chief,XSM1U,Fusion XL Micro-Adjustable Fixed 113kg,560.65,397.79,NORMAL,21,Professional AV Solutions,841872163871
-Chief,XTM1U,Chief X-Large Tilt Mount 113kg,772.5,540.75,NORMAL,0,Professional AV Solutions,841872163888
+Chief,XSM1U,Fusion XL Micro-Adjustable Fixed 113kg,560.65,397.79,NORMAL,27,Professional AV Solutions,841872163871
+Chief,XTM1U,Chief X-Large Tilt Mount 113kg,772.5,540.75,NORMAL,1,Professional AV Solutions,841872163888
 Chief,AS3A100,Camera Shelf for Tempo™ Flat Panel Wall,421.18,294.83,SPECIAL ORDER ONLY,0,Professional AV Solutions,841872177908
 Chief,AS3A101,Video-Sound Bar Mount for Tempo™ Flat Pa,460.45,322.32,SPECIAL ORDER ONLY,0,Professional AV Solutions,841872177915
 Chief,AVA1101,Chief Tempo Dual-Display Accessory,2631.35,1841.94,SPECIAL ORDER ONLY,0,Professional AV Solutions,0
@@ -302,6 +192,7 @@ Chief,AVSFSS,Chief Flat Panel Floor Support System,2785.72,1950,SPECIAL ORDER ON
 Chief,CMA100,Chief Ceiling Plate & Column,556.37,389.46,SPECIAL ORDER ONLY,0,Professional AV Solutions,841872002477
 Chief,CMA101,Chief 127mm  Designer Ceiling Plate,45.16,31.61,SPECIAL ORDER ONLY,0,Professional AV Solutions,841872002484
 Chief,CMA274,Chief Quick-Snap Cable Covers,92.5,64.75,SPECIAL ORDER ONLY,0,Professional AV Solutions,
+Chief,CMA347,Chief Isolating Coupler,959.18,671.42,SPECIAL ORDER ONLY,0,Professional AV Solutions,841872018584
 Chief,CMA348,Chief Large Venue Vibration Coupler,1353.16,947.21,SPECIAL ORDER ONLY,4,Professional AV Solutions,
 Chief,CMA351,Chief Heavy Duty Swivel Adapter,423.24,296.27,SPECIAL ORDER ONLY,0,Professional AV Solutions,841872002644
 Chief,CMA372,Chief Offset Unistrut Adapter,170.81,119.56,SPECIAL ORDER ONLY,0,Professional AV Solutions,841872002705
@@ -311,6 +202,7 @@ Chief,CMA455,Suspended Ceiling Tile Replacement Kit,545.72,382,SPECIAL ORDER ONL
 Chief,CMA474,Chief SYSAU Plenum Rated Storage Box,516.56,361.59,SPECIAL ORDER ONLY,0,Professional AV Solutions,0
 Chief,CMA480,BELOW CEILING ENCLOSURE,336.74,235.72,SPECIAL ORDER ONLY,0,Professional AV Solutions,841872140711
 Chief,CMA480W,"Column Storage Shelf, White",333.65,233.55,SPECIAL ORDER ONLY,0,Professional AV Solutions,
+Chief,CMS006,"Chief Extension Column, Black (152mm)",45.16,31.61,SPECIAL ORDER ONLY,0,Professional AV Solutions,841872092607
 Chief,CMS0608,"Chief Adj Column, Black (182-243cm)",465.6,325.91,SPECIAL ORDER ONLY,0,Professional AV Solutions,841872092881
 Chief,CMS060W,"Chief Extension Column, White (152cm)",232.02,162.41,SPECIAL ORDER ONLY,2,Professional AV Solutions,841872104843
 Chief,CMS0709W,"Chief Adj Column, White (213-274cm)",512.3,358.61,SPECIAL ORDER ONLY,2,Professional AV Solutions,841872104867
@@ -329,7 +221,7 @@ Chief,CSACLIPS,CONNEXSYS CABLE MANAGEMENT CLIPS (25PK),108.32,75.82,SPECIAL ORDE
 Chief,CSAS060,"PAINTED STRUT CHANNEL 60"" LENGTH",315.21,220.65,SPECIAL ORDER ONLY,0,Professional AV Solutions,841872169194
 Chief,CSPBPTA,BACK PLANE ACCY FOR TA500 TA501,531.83,372.28,SPECIAL ORDER ONLY,0,Professional AV Solutions,841872173375
 Chief,CSPHK,Proximity Component Storage,246.66,172.66,SPECIAL ORDER ONLY,1,Professional AV Solutions,841872170947
-Chief,CSPR,Chief Component Storage Panel,497.51,348.26,SPECIAL ORDER ONLY,1,Professional AV Solutions,841872169866
+Chief,CSPR,Chief Component Storage Panel,497.51,348.26,SPECIAL ORDER ONLY,0,Professional AV Solutions,841872169866
 Chief,DMA1B,"SINGLE DYNAMIC MONITOR ARM, BLACK",497.12,347.98,SPECIAL ORDER ONLY,0,Professional AV Solutions,841872174914
 Chief,FCA008,Fusion Connector Kit - 8 Inch,131.34,91.95,SPECIAL ORDER ONLY,0,Professional AV Solutions,0
 Chief,FCA106,Fusion Side Cover Accessory,324.93,227.45,SPECIAL ORDER ONLY,0,Professional AV Solutions,841872164441
@@ -367,13 +259,14 @@ Chief,FHB5034,Chief Fusion and Thinstall Hardware Kit,31.95,22.36,SPECIAL ORDER 
 Chief,FHB5078,Fusion Portrait Interface Adapter Kit,302.72,211.9,SPECIAL ORDER ONLY,0,Professional AV Solutions,0
 Chief,FHB5104,900X600MM M8 NO OFFSET,802.3,562.68,SPECIAL ORDER ONLY,0,Professional AV Solutions,841872177304
 Chief,FHB5164,Fusion Vesa Shift Bracket 65”SamsungFlip,208.88,146.22,SPECIAL ORDER ONLY,0,Professional AV Solutions,841872175416
-Chief,FHB5174,650 mm Interface Extenders for Tempo,397.86,278.5,SPECIAL ORDER ONLY,5,Professional AV Solutions,
+Chief,FHB5174,650 mm Interface Extenders for Tempo,397.86,278.5,SPECIAL ORDER ONLY,4,Professional AV Solutions,
 Chief,FHBO5168,Chief Brackets for Outdoor 55inch,2467.23,1727.07,SPECIAL ORDER ONLY,0,Professional AV Solutions,841872176741
 Chief,FHBU,Chief Universal Hardware Kit,43.05,30.14,SPECIAL ORDER ONLY,5,Professional AV Solutions,0
 Chief,FHBUL,"Chief VESA Adapter, 200x200 - 600x600",376.31,263.42,SPECIAL ORDER ONLY,0,Professional AV Solutions,841872173979
 Chief,FHS110B,Chief Small Flat Panel Ceiling Mount,354.09,247.86,SPECIAL ORDER ONLY,0,Professional AV Solutions,841872100326
 Chief,FMSCAO,Fusion Ceiling Array Offset,2489.88,1742.91,SPECIAL ORDER ONLY,3,Professional AV Solutions,841872168388
 Chief,FMSH36,"Fusion Horizontal Row, 36"" (914mm)",459,321.84,SPECIAL ORDER ONLY,0,Professional AV Solutions,
+Chief,FMSIML,Fusion Large Micro-Adjust Tilt Interface,527.88,294.64,SPECIAL ORDER ONLY,0,Professional AV Solutions,841872167916
 Chief,FSB018BLK,Chief Small Flat Panel Table Stand,826.2,578.34,SPECIAL ORDER ONLY,0,Professional AV Solutions,841872020488
 Chief,FSB1U,Chief Small Universal Interface Bracket,148.59,104.01,SPECIAL ORDER ONLY,0,Professional AV Solutions,841872169200
 Chief,FSB4041,"Chiefl Interface Bracket, 200x200",159.69,111.78,SPECIAL ORDER ONLY,0,Professional AV Solutions,841872164540
@@ -451,6 +344,7 @@ Chief,OMNDC55,Custom Ceiling Mount for Samsung OM55N-D,3092.36,2164.65,SPECIAL O
 Chief,OXCM1U,Outdoor Flat Panel Single Ceiling Mount,6019.43,4213.6,SPECIAL ORDER ONLY,0,Professional AV Solutions,
 Chief,PAC101B,Chief Component Wall Shelf,236.07,165.24,SPECIAL ORDER ONLY,0,Professional AV Solutions,841872098548
 Chief,PAC390,Chief Furniture Flat Panel Wall Adapter,655.41,458.79,SPECIAL ORDER ONLY,0,Professional AV Solutions,841872040059
+Chief,PAC400,Chief Rotation Adaptor,615.64,430.95,SPECIAL ORDER ONLY,0,Professional AV Solutions,841872003276
 Chief,PAC501B,Chief In-Wall Swing Arm Accessory,859.53,601.67,SPECIAL ORDER ONLY,0,Professional AV Solutions,841872003276
 Chief,PAC525F,In-Wall Box with Flange 16x9,313.83,219.68,SPECIAL ORDER ONLY,0,Professional AV Solutions,841872161358
 Chief,PAC525FC,In-Wall Box with Flange&Cover,370.76,259.53,SPECIAL ORDER ONLY,0,Professional AV Solutions,
@@ -474,7 +368,7 @@ Chief,PACL2,Chief Storage Accessory Box for PAC526,187.47,131.22,SPECIAL ORDER O
 Chief,PF1UB,Chief Large Floor Stand,2739.02,1917.31,SPECIAL ORDER ONLY,1,Professional AV Solutions,841872100654
 Chief,PF2UB,Large Dual Display Floor AV Stand,3575.58,2502.9,SPECIAL ORDER ONLY,0,Professional AV Solutions,841872101132
 Chief,PFB2UB,Chief Medium Bolt Down Table Stand,3206.22,2244.35,SPECIAL ORDER ONLY,0,Professional AV Solutions,841872172422
-Chief,PFQUB,Large Confidence Monitor Cart 2inch,4090,2863.95,SPECIAL ORDER ONLY,0,Professional AV Solutions,841872107905
+Chief,PFQUB,Large Confidence Monitor Cart 2inch,3284,2299,SPECIAL ORDER ONLY,1,Professional AV Solutions,841872107905
 Chief,PG1A,Chief Medium Projector Cage - Black,1391.39,974.4,SPECIAL ORDER ONLY,0,Professional AV Solutions,841872044897
 Chief,PNRIWUB,Chief Large In-Wall Swing Arm Mount,2318.93,1623.24,SPECIAL ORDER ONLY,0,Professional AV Solutions,841872109237
 Chief,PRSU,Chief Portable Flat Panel Stand,4451.76,3116.24,SPECIAL ORDER ONLY,0,Professional AV Solutions,841872169644
@@ -509,6 +403,7 @@ Chief,TILD1X3IER-M,"TiLED SAMSUNG IER MOUNT, 3 HIGH, MIDDLE",2617.47,1832.22,SPE
 Chief,TILD1X3IER-R,"TiLED SAMSUNG IER MOUNT, 3 HIGH, RIGHT",2541.09,1778.76,SPECIAL ORDER ONLY,0,Professional AV Solutions,841872176611
 Chief,TILSC2HIFH,"TiLED SAMSUNG IFH/IER SIDE COVER, 2 HIGH",881.75,617.22,SPECIAL ORDER ONLY,0,Professional AV Solutions,841872175751
 Chief,TILSC3HIFH,"TiLED SAMSUNG IFH/IER SIDE COVER, 3 HIGH",1342.76,939.93,SPECIAL ORDER ONLY,0,Professional AV Solutions,841872176703
+Chief,TS218SU,Chief Medium Swing Arm Mount (34kg),707.15,495,SPECIAL ORDER ONLY,0,Professional AV Solutions,841872152448
 Chief,VPAUB,Vertical & Portrait Projection,777.02,543.91,SPECIAL ORDER ONLY,1,Professional AV Solutions,841872168265
 Chief,WM130AUS,WM130 with RSMAUS Kit,1416.35,991.44,SPECIAL ORDER ONLY,0,Professional AV Solutions,841872122984
 Chief,WP22S,Chief Short Throw Mount (40 inches) Ext,522.11,365.48,SPECIAL ORDER ONLY,0,Professional AV Solutions,841872153926
@@ -597,7 +492,7 @@ Da-Lite,40944,Tripod Screen Carrying Case (96”),1594,970,SPECIAL ORDER ONLY,0,Pr
 Da-Lite,40973E,SINGLE MOTOR LVC220VOLT WHITE,648.11,453.78,SPECIAL ORDER ONLY,0,Projection Screens,717068122895
 Da-Lite,40975,3-BUTTON SWITCH-LVCWHITE,240,146,SPECIAL ORDER ONLY,0,Projection Screens,717068122901
 Da-Lite,40987,Tripod Screen Carrying Case (84”),877.19,614.04,SPECIAL ORDER ONLY,0,Projection Screens,717068122918
-Da-Lite,42067,Stand Project-O-DLX-425,1014,617,SPECIAL ORDER ONLY,1,Projection Screens,
+Da-Lite,42067,Stand Project-O-DLX-425,1014,617,SPECIAL ORDER ONLY,0,Projection Screens,
 Da-Lite,42068,Projector-O-Stand-203,726.36,508.45,SPECIAL ORDER ONLY,0,Projection Screens,
 Da-Lite,70186EL,Da-Lite Contour TNSD 189D DT,13939,8484,SPECIAL ORDER ONLY,0,Projection Screens,717068803633
 Da-Lite,70188ELS,Da-Lite Contour Electrol 109 inches,4919,2994,SPECIAL ORDER ONLY,0,Projection Screens,717068804098
@@ -648,21 +543,6 @@ Da-Lite,98660,Dalite IR Remote Kit,1101,670,SPECIAL ORDER ONLY,0,Projection Scre
 Da-Lite,DL14705,RS-232 Interface and Ethernet Adapter Ki,2614,1591,SPECIAL ORDER ONLY,0,Projection Screens,
 Da-Lite,DL14969ELS,Da-Lite Tensioned Advantage Series 119D,11992,7299,SPECIAL ORDER ONLY,0,Projection Screens,840236908257
 Da-Lite,FC6H94.5X168,Border-less Fixed Frame Screen with Low,7679,5375.78,SPECIAL ORDER ONLY,0,Projection Screens,
-Elite Screens,AR100H-CLR,Elite 100D Aeon CLR Fixed Frame,3140,999,DISCOUNT,5,Projection Screens,848448017538
-Elite Screens,AR150WH2,Elite 150D Aeon Fixed Frame,2847.83,899,DISCOUNT,1,Projection Screens,
-Elite Screens,ELECTRIC106X,"Spectrum Electric Screen, 106 inches",1224.35,299,DISCOUNT,3,Projection Screens,876818006257
-Elite Screens,ER92WH2,Elite Sable Fixed Frame Screen 92D,1181.74,299,DISCOUNT,2,Projection Screens,848448021603
-Elite Screens,ITE115HD5-E8,"115'"" Tab Tensioned Diag Screen, 16:9 As",6321.74,1999,DISCOUNT,1,Projection Screens,
-Elite Screens,M100HSR-PRO,"Manual Pull-Down SRM Pro, 100 inches",812.18,299,DISCOUNT,3,Projection Screens,876818001870
-Elite Screens,M84UWH,"Manual Pull-Down Screen, 84 inches",471.31,199,DISCOUNT,1,Projection Screens,876818001504
-Elite Screens,M94NWX,"Manual Pull-Down, 94"" 16:10 (W)",527.83,199,DISCOUNT,2,Projection Screens,876818001184
-Elite Screens,OMS120HM,"120'"" Diag Screen, 16:9 Aspect Ratio, Bl",1375.65,999,DISCOUNT,1,Projection Screens,
-Elite Screens,SK100NXW-E24,"100'"" Diag Screen, 16:10 Aspect Ratio, W",1857.39,699,DISCOUNT,1,Projection Screens,
-Elite Screens,SK100XHW-E24,"100'"" Diag Screen, 16:9 Aspect Ratio, Wh",1857.39,699,DISCOUNT,1,Projection Screens,
-Elite Screens,VMAX100UWH2,VMAX Electric Screen 100 inches,1640.87,999,DISCOUNT,5,Projection Screens,876818005106
-Elite Screens,VMAX100XWX2,VMAX Electric Screen 100 inches 16:10,1682.61,599,DISCOUNT,17,Projection Screens,876818005908
-Elite Screens,VMAX110XWX2,VMAX Electric Screen 110 inches 16:10,1851.31,699,DISCOUNT,13,Projection Screens,876818005526
-Elite Screens,VMAX120XWX2,VMAX Electric Screen 120 inches 16:10,1948.7,899,DISCOUNT,8,Projection Screens,876818005892
 Elite Screens,AR100WH2,Elite 100D Aeon Fixed Frame,1557.4,1011.92,NORMAL,3,Projection Screens,
 Elite Screens,AR120WH2,Elite 120D Aeon Fixed Frame,1815.66,1180.04,NORMAL,2,Projection Screens,
 Elite Screens,EB100HW2-E12,Evanesce B Electric Screen 100D,2040,1325.76,NORMAL,4,Projection Screens,
@@ -674,21 +554,21 @@ Elite Screens,ELECTRIC180H,"Elite Electric Screen, 180 inches",3833.05,2491.26,N
 Elite Screens,ER100WH2,Elite Sable Fixed Frame Screen 100D,1228.7,798.57,NORMAL,6,Projection Screens,848448021610
 Elite Screens,ER120WH2,Elite Sable Fixed Frame Screen 120D,1410.44,916.73,NORMAL,0,Projection Screens,848448021641
 Elite Screens,ER135WH2,Elite Sable Fixed Frame Screen 135D,1760,1143.46,NORMAL,0,Projection Screens,848448021634
-Elite Screens,F100NWH,"Elite 100""16:9 Portable Screen",1170,660.78,NORMAL,2,Projection Screens,
+Elite Screens,F100NWH,"Elite 100""16:9 Portable Screen",1170,660.78,NORMAL,1,Projection Screens,
 Elite Screens,FT100XWH,ezCinema Tab Tension 100D 16:9,1602.61,1041.52,NORMAL,6,Projection Screens,
 Elite Screens,M100UWH,"Manual Pull-Down Screen, 100 inches",615.66,399.83,NORMAL,1,Projection Screens,876818001252
-Elite Screens,M100XWH,"Manual Pull-Down Screen, 100"" 16:9 (W)",615.66,399.83,NORMAL,11,Projection Screens,876818001399
+Elite Screens,M100XWH,"Manual Pull-Down Screen, 100"" 16:9 (W)",615.66,399.83,NORMAL,9,Projection Screens,876818001399
 Elite Screens,M120UWH2,"Manual Pull-Down Screen, 120 inches",712.18,462.52,NORMAL,10,Projection Screens,876818001405
 Elite Screens,M120XWH2,"Manual Pull-Down Screen, 120 inches",712.18,462.52,NORMAL,5,Projection Screens,876818001207
 Elite Screens,M150XWH2,"Manual Pull-Down, 150"" 16:9 (W)",1056.53,686.23,NORMAL,8,Projection Screens,876818001412
 Elite Screens,MT100XWH2,"Manual Tab Tension 2 100"" 16:9",1212.18,787.75,NORMAL,0,Projection Screens,
 Elite Screens,SB110WH2,Elite Sable Fixed Frame Screen 110D,940,610.83,NORMAL,2,Projection Screens,848448016906
-Elite Screens,SB135WH2,Elite Sable Fixed Frame Screen 135D,1208.7,785.35,NORMAL,4,Projection Screens,848448016920
+Elite Screens,SB135WH2,Elite Sable Fixed Frame Screen 135D,1208.7,785.35,NORMAL,3,Projection Screens,848448016920
 Elite Screens,T120UWH,"120'"" Diag Screen, 16:9 Aspect Ratio, Tr",794.79,516.44,NORMAL,0,Projection Screens,
 Elite Screens,VMAX100XWH2,VMAX Electric Screen 100 inches,1640.87,1066.45,NORMAL,2,Projection Screens,876818005243
 Elite Screens,VMAX120XWH2,"VMAX Electric Screen, 120 inches 16:9",1842.61,1197.3,NORMAL,12,Projection Screens,876818005250
 Elite Screens,VMAX150UWH2,"VMAX Electric Screen, 150 inches 16:9",2640,1715.76,NORMAL,0,Projection Screens,
-Elite Screens,VMAX150XWH2,VMAX2 Electric Screen 150inches 16:9,2640,1715.76,NORMAL,7,Projection Screens,876818005267
+Elite Screens,VMAX150XWH2,VMAX2 Electric Screen 150inches 16:9,2640,1715.76,NORMAL,5,Projection Screens,876818005267
 Elite Screens,VMAX150XWV2,VMAX2 Electric Screen 150inches 4:3,2151,1397.96,NORMAL,0,Projection Screens,
 Elite Screens,VMAXT100XWH3,VMAX Tab Tension 3 100 Inches 16:9,2098.27,1363.36,NORMAL,6,Projection Screens,
 Elite Screens,VMAXT120XWH3,VMAX Tab Tension 3 120 Inches 16:9,2365.22,1537.08,NORMAL,11,Projection Screens,
@@ -703,7 +583,7 @@ Elite Screens,AR135DHD3,Elite Aeon Edge Free Fixed Frame 135inch,2777.4,1804.89,
 Elite Screens,AR135H2-AUHD,"135'"" Diag Screen, 16:9 Aspect Ratio, Ed",3541,2001.43,SPECIAL ORDER ONLY,0,Projection Screens,
 Elite Screens,AR135WH2,Elite 135D Aeon Fixed Frame,2190.44,1423.42,SPECIAL ORDER ONLY,0,Projection Screens,
 Elite Screens,AR150DHD3,Aeon CineGrey 3D,3402.61,2211.58,SPECIAL ORDER ONLY,0,Projection Screens,
-Elite Screens,AR150H2-AUHD,"150'"" Diag Screen, 16:9 Aspect Ratio, Ed",3584.35,2329.67,SPECIAL ORDER ONLY,1,Projection Screens,
+Elite Screens,AR150H2-AUHD,"150'"" Diag Screen, 16:9 Aspect Ratio, Ed",3584.35,2329.67,SPECIAL ORDER ONLY,0,Projection Screens,
 Elite Screens,ARE100HW3-E24,Elite Aerie Tension Electric Screen 100D,4923.48,3199.7,SPECIAL ORDER ONLY,0,Projection Screens,
 Elite Screens,ARE106HW2-E24,Elite Aerie Tension Electric Screen 106D,6269,3816,SPECIAL ORDER ONLY,0,Projection Screens,
 Elite Screens,ARE108XW3-E24,Elite Aerie Tension Electric Screen 108D,4612.18,2997.63,SPECIAL ORDER ONLY,0,Projection Screens,
@@ -759,10 +639,10 @@ Elite Screens,IWB63VW,"Soft Pad White Board Screen, 63 inches",452.17,316.52,SPE
 Elite Screens,M100NWV1,Elite Manual Pull Down 100in 4:3,543.48,352.97,SPECIAL ORDER ONLY,0,Projection Screens,0
 Elite Screens,M100XSR-PRO,"Manual Pull-Down SRM Pro,100 inches",815.66,529.81,SPECIAL ORDER ONLY,0,Projection Screens,0
 Elite Screens,M109NWX,"Manual Pull-Down Screen, 109"" 16:10 (W)",640.87,416.48,SPECIAL ORDER ONLY,0,Projection Screens,876818001115
-Elite Screens,M109UWX,"109'"" Diag Screen, 16:10 Aspect Ratio, B",640.87,416.48,SPECIAL ORDER ONLY,1,Projection Screens,
+Elite Screens,M109UWX,"109'"" Diag Screen, 16:10 Aspect Ratio, B",640.87,416.48,SPECIAL ORDER ONLY,0,Projection Screens,
 Elite Screens,M119XWS1,"119'"" Diag Screen, 1:1 Aspect Ratio, Whi",618.26,401.43,SPECIAL ORDER ONLY,1,Projection Screens,
 Elite Screens,M120HSR-PRO,"Manual Pull-Down SRM Pro, 120 inches",894.79,581.37,SPECIAL ORDER ONLY,0,Projection Screens,876818001887
-Elite Screens,M120XWV2,"120'"" Diag Screen, 4:3 Aspect Ratio, Wht",694.78,451.31,SPECIAL ORDER ONLY,1,Projection Screens,
+Elite Screens,M120XWV2,"120'"" Diag Screen, 4:3 Aspect Ratio, Wht",694.78,451.31,SPECIAL ORDER ONLY,0,Projection Screens,
 Elite Screens,M128NWX,"Manual Pull-Down Screen, 128 inches",852.18,553.78,SPECIAL ORDER ONLY,0,Projection Screens,876818001627
 Elite Screens,M128UWX,"Manual Pull-Down Screen, 128 inches",852.18,553.78,SPECIAL ORDER ONLY,0,Projection Screens,
 Elite Screens,M135UWH2,"Manual Pull-Down Screen, 135 inches",875.66,568.86,SPECIAL ORDER ONLY,0,Projection Screens,876818001597
@@ -776,11 +656,13 @@ Elite Screens,M86NWX,"Manual Pull-Down Screen, 86 inches",464.35,301.41,SPECIAL 
 Elite Screens,M92UWH,"Manual Pull-Down Screen, 84 inches",546.96,355.33,SPECIAL ORDER ONLY,0,Projection Screens,876818001665
 Elite Screens,M92XWH,"Manual Pull-Down Screen, 84 inches",546.96,355.33,SPECIAL ORDER ONLY,0,Projection Screens,876818001184
 Elite Screens,M94UWX,"Manual Pull-Down, 94"" 16:10 (B)",527.83,342.64,SPECIAL ORDER ONLY,0,Projection Screens,0
+Elite Screens,M99NWS1,Elite Manual Pull Down Projection Screen,447.83,291.09,SPECIAL ORDER ONLY,0,Projection Screens,
 Elite Screens,MT100NWX2,"Manual Tab Tension 2 100"" 16:10",1208.7,785.35,SPECIAL ORDER ONLY,0,Projection Screens,
 Elite Screens,MT113NWX2,Manual Tab Tension 2 113,1318.27,856.75,SPECIAL ORDER ONLY,0,Projection Screens,
 Elite Screens,MT120XWH2,"Manual Tab Tension 2 120"" 16:9",1353.04,879,SPECIAL ORDER ONLY,0,Projection Screens,
 Elite Screens,MT135XWH2,Manual Tab Tension 2 135,1465.22,951.86,SPECIAL ORDER ONLY,0,Projection Screens,
 Elite Screens,MT138XWH2,Manual Tab Tension 2 138,1622.61,1054.32,SPECIAL ORDER ONLY,0,Projection Screens,848448032326
+Elite Screens,OMS100H2,"Elite Yard Master Screen, 110inches",946.08,614.67,SPECIAL ORDER ONLY,0,Projection Screens,
 Elite Screens,OMS100H-ELECTRIC,"100'"" Diag Screen, 16:9 Aspect Ratio, Bl",2394.78,1556.33,SPECIAL ORDER ONLY,0,Projection Screens,
 Elite Screens,OMS100HM,"100'"" Diag Screen, 16:9 Aspect Ratio, Bl",1161.74,755.01,SPECIAL ORDER ONLY,0,Projection Screens,
 Elite Screens,OMS100HT-ELECTRODUAL,Elite Screens Yard Master Electric,5339,3250,SPECIAL ORDER ONLY,0,Projection Screens,
@@ -909,45 +791,13 @@ Elite Screens,ZVMAXLB12-B,Extension Brackets 12 inches Black,159,97,SPECIAL ORDE
 Elite Screens,ZVMAXLB12-W,Extension Brackets 12 inches White,159,97,SPECIAL ORDER ONLY,0,Projection Screens,876818009029
 Elite Screens,ZVMAXLB6-B,Extension Brackets 6 inches Black,72,44,SPECIAL ORDER ONLY,0,Projection Screens,876818009159
 Elite Screens,ZVMAXLB6-W,Extension Brackets 6 inches White,135,82,SPECIAL ORDER ONLY,0,Projection Screens,876818009166
-Flexson,FLXBFWM1011,"Wall Mount for Beam, White x1",90,69,DISCOUNT,165,AV Accessories,5057964001197
-Flexson,FLXBTV1021,"TV Mount Attachment Beam, Black x1",200,69,DISCOUNT,64,AV Accessories,706352961111
-Flexson,FLXBTVST1011,"Adjustable TV Stand Beam, White x 1",350,99,DISCOUNT,23,AV Accessories,706352961050
-Flexson,FLXBWM1021,"Adjustable Wall Mount Beam, Black x1",250,119,DISCOUNT,12,AV Accessories,706352961074
-Flexson,FLXP5WM1014,"Wall Mount Sonos Five & Play5, White x1",282,99,DISCOUNT,54,AV Accessories,713541217485
-Flexson,FLXP5WM1024,"Wall Mount Sonos Five &  Play5, Black x1",282,99,DISCOUNT,1,AV Accessories,713541217492
-Flexson,FLXPBTV1021,"TV Mount Attachment Playbar, Black x1",361,79,DISCOUNT,21,AV Accessories,799441549604
-Flexson,FLXPBTVST1011,"Adjustable TV Stand Playbase, White x1",851,99,DISCOUNT,8,AV Accessories,713541217409
-Flexson,FLXPWM1021,"Wall Mount for Sonos Port, Black",136,59,DISCOUNT,25,AV Accessories,5057964001920
-Flexson,FLXS1AFS2011,"Adjustable Floor Stand One/Play1, Whtx2",542,249,DISCOUNT,16,AV Accessories,713541217652
-Flexson,FLXS1CM1011,"Ceiling Mount One/Play1, White x1",415,99,DISCOUNT,20,AV Accessories,713541217645
-Flexson,FLXS1DS1011,"Desk Stand One/Play1, White x1",82,29,DISCOUNT,35,AV Accessories,5057964000008
-Flexson,FLXS1DS1021,"Desk Stand One/Play1, Black x1",82,29,DISCOUNT,25,AV Accessories,5057964000015
-Flexson,FLXS1FS1011EU,Floor Stand One/Play1 EU WHITE x1,283,99,DISCOUNT,62,AV Accessories,652508362366
-Flexson,FLXS1FS1021EU,Floor Stand One/Play1 EU BLACK x1,283,99,DISCOUNT,60,AV Accessories,652508362373
-Flexson,FLXS1FS2011EU,Floor Stand One/Play1 EU WHITE x2,483,189,DISCOUNT,38,AV Accessories,652508362380
-Flexson,FLXS1PFS1011,Premium Floor Stand One/Play1 WHITE x1,588,199,DISCOUNT,22,AV Accessories,5057964000145
-Flexson,FLXS1WM1011,Wall Mount for Sonos One/Play1 Whitex1,109,59,DISCOUNT,246,AV Accessories,652508362328
-Flexson,FLXS1WM1021,Wall Mount for Sonos One/Play1 Blackx1,109,59,DISCOUNT,143,AV Accessories,652508362335
-Flexson,FLXS1WM2011,Wall Mount One/Play1 White x2,140,99,DISCOUNT,29,AV Accessories,652508362342
-Flexson,FLXS1WM2021,Wall Mount One/Play1 Black x2,140,99,DISCOUNT,94,AV Accessories,652508362359
-Flexson,FLXSARWM1011,"Wall Mount for Sonos Arc, White",189,99,DISCOUNT,5,AV Accessories,5057964002262
-Flexson,FLXSMWM1012,"Wall Mount for Sonos Move, White",54,19,DISCOUNT,98,AV Accessories,5057964002248
-Flexson,FLXSMWM1022,"Wall Mount for Sonos Move, Black",54,19,DISCOUNT,212,AV Accessories,5057964002231
-Flexson,FLXSRMTC1021,Travel Case/Wall Mount for Sonos Roam,69,19,DISCOUNT,18,AV Accessories,5057964002293
-Flexson,FLXSUBB,"Wall Mount for Sonos Sub, Black x 1",252,99,DISCOUNT,103,AV Accessories,639713328127
-Huanuo,HN-HC06-5,Huanuo 5 Pack High-Speed HDMI Cables,8,0.99,DISCOUNT,293,Cables & Connectivity,9421904917231
-Huanuo,HNDSK1,Huanuo Dual Monitor Mount,150,31,DISCOUNT,9,Professional AV Solutions,9421904917118
-Luxul,10G-CAB-05,Luxul Direct-Attach Cable 0.5m,440,149,DISCOUNT,4,Automation & Control,
-Luxul,AMS-1208P,AV Series 12-Pt/8 PoE+ GbE Mngd Switch,1479,649,DISCOUNT,3,Automation & Control,729440674731
-Luxul,AMS-1816P,AV Series 18-Pt/16 PoE+ GbE Mngd Switch,2638,999,DISCOUNT,2,Automation & Control,655003921182
-Luxul,SW-100-04P,Luxul 4 Port Unmanaged PoE+ Switch,316,99,DISCOUNT,2,Automation & Control,655003921632
-Luxul,XMS-1208P,Luxul 12-Port/8 PoE+ Front Facing Switch,1479,649,DISCOUNT,1,Automation & Control,655003921137
 Luxul,SW-100-05PD,Luxul 5 Port Unmanaged PoE+ Switch,296.64,179,NORMAL,0,Automation & Control,655003921328
 Luxul,SW-100-08P,Luxul 8 Port Unmanaged PoE+ Switch,597.4,359,NORMAL,0,Automation & Control,655003921670
-Luxul,SW-505-8P-F,8 PoE+ | 2 RJ45 | 2 SFP Front-Facing,1350.33,949,NORMAL,0,Automation & Control,
+Luxul,SW-505-8P-F,8 PoE+ | 2 RJ45 | 2 SFP Front-Facing,1350.33,949,NORMAL,2,Automation & Control,
 Luxul,SW-505-8P-R,8 PoE+ | 2 RJ45 | 2 SFP Rear-Facing,1350.33,949,NORMAL,0,Automation & Control,
 Luxul,SW-615-24P-R,24 PoE+ | 4 (10G) SFP+ Ports – 1Gb L2/L3,3696.23,2599,NORMAL,0,Automation & Control,
 Luxul,XAP-1510,Luxul HighPower Dual-Band Wireless AP,1355,825,NORMAL,7,Automation & Control,729440674922
+Luxul,XMS-2624P,Luxul 26 Port/24 PoE+ GbE Managed Switch,3553,2163,NORMAL,1,Automation & Control,
 Luxul,XWR-3150,Luxul EPIC 3 - Dual Band Wireless AC3100,1354.45,824,NORMAL,0,Automation & Control,655003920468
 Luxul,10G-MM-DX-LC,10Gb MM Fiber Duplex SFP+ Module,592,360,SPECIAL ORDER ONLY,0,Automation & Control,729440674908
 Luxul,10G-RJ45,10Gb Ethernet RJ-45 SFP Module,1311,798,SPECIAL ORDER ONLY,0,Automation & Control,655003921168
@@ -961,35 +811,44 @@ Luxul,SW-515-48P-F,48 PoE+ | 4 SFP Ports - 1Gb L2/L3 Manage,5498,3849,SPECIAL OR
 Luxul,SW-615-48P-F,48 PoE+ | 4 (10G) SFP+ Ports – 1Gb L2/L3,6743.56,4729,SPECIAL ORDER ONLY,0,Automation & Control,
 Luxul,XAP-1440,High Power AC1200 Dual-Band Outdoor Wire,1848.85,1124.76,SPECIAL ORDER ONLY,0,Automation & Control,655003920376
 Luxul,XWC-2000,Luxul Wireless Controller,1187,723,SPECIAL ORDER ONLY,0,Automation & Control,655003921083
-MAXHUB,BM35,MAXHUB BT Speakerphone 10m,656.78,394.07,NORMAL,0,Professional AV Solutions,
+MAXHUB,BM35,MAXHUB BT Speakerphone 10m,500,332.5,NORMAL,0,Professional AV Solutions,
+MAXHUB,EST09,MAXHUB Trolley Up And Down,2032.02,1350.9,NORMAL,0,Professional AV Solutions,
+MAXHUB,EST11,MAXHUB Trolley Up Down Tilt,2586.21,1719.5,NORMAL,0,Professional AV Solutions,
 MAXHUB,ST33G,MAXHUB ST33 mobile cart,641.67,366,NORMAL,0,Professional AV Solutions,
+MAXHUB,ST33M,MAXHUB Trolley For Display New Trolley,568.97,378.1,NORMAL,0,Professional AV Solutions,
 MAXHUB,ST41B,MAXHUB ST41B mobile cart,641,354,NORMAL,0,Professional AV Solutions,
-MAXHUB,UCS07,MAXHUB Teams Certified Soundbar,1037.5,573,NORMAL,0,Professional AV Solutions,
-MAXHUB,UCS15,MAXHUB UC Bar 4K Meeting OS,2330.5,1398.31,NORMAL,0,Professional AV Solutions,
-MAXHUB,UCW31,MAXHUB Webcam UC W31,546.97,369,NORMAL,0,Professional AV Solutions,
-MAXHUB,WB05,MAXHUB Wirless Screen Sharing Box,1037.5,573,NORMAL,0,Professional AV Solutions,
-MAXHUB,XT10-VB,MAXHUB XT10-VB MTR Kit,1912.17,1799.18,NORMAL,0,Professional AV Solutions,
-MAXHUB,BM45,MAXHUB UC BM45 MTR Speakerphone,680.56,388,NORMAL,0,Unified Communications,
+MAXHUB,UCS07,MAXHUB Teams Certified Soundbar,1103.45,733.4,NORMAL,0,Professional AV Solutions,
+MAXHUB,UCS15,MAXHUB UC Bar 4K Meeting OS,1586.21,1054.5,NORMAL,0,Professional AV Solutions,
+MAXHUB,UCW31,MAXHUB Webcam UC W31,500,332.5,NORMAL,0,Professional AV Solutions,
+MAXHUB,WB05,MAXHUB Wirless Screen Sharing Box,919.95,611.8,NORMAL,0,Professional AV Solutions,
+MAXHUB,XT10-VB,MAXHUB XT10-VB MTR Kit,2086.09,1754.65,NORMAL,0,Professional AV Solutions,
+MAXHUB,XT10-WSKIT,"MTR Kit, X-Core Kit+M31+BM35",2086.09,1754.65,NORMAL,0,Professional AV Solutions,
+MAXHUB,XT20-PSKIT,XT20-PS Kit for MTR,4955.65,4450.75,NORMAL,0,Professional AV Solutions,
+MAXHUB,BM45,MAXHUB UC BM45 MTR Speakerphone,603.45,400.9,NORMAL,0,Unified Communications,
 MAXHUB,MT71S-I5,MAXHUB OPS module i5,10063.56,1143,NORMAL,0,Unified Communications,
-MAXHUB,P30,MAXHUB P30 EPTZ 4K 12X 90FOV DUAL CAMERA,2433.91,2178.81,NORMAL,0,Unified Communications,
-MAXHUB,WT13M,Wireless Screen Sharing Dongle,334.75,200.85,NORMAL,0,Unified Communications,
-MAXHUB,XCORE,MAXHUB XCore MTR Kit,1477,1330,NORMAL,0,Unified Communications,0
-MAXHUB,XCOREPRO,MAXHUB XCore MTR Kit PRO,2781,2604.57,NORMAL,0,Unified Communications,
-MAXHUB,ND43CMA,MAXHUB CMA Series 43,1530,1377,NORMAL,0,Visual Solutions,
-MAXHUB,ND55CMA,MAXHUB CMA Series 55,1938,1744,NORMAL,0,Visual Solutions,
-MAXHUB,ND65CMA,MAXHUB CMA Series 65,2782,2504,NORMAL,0,Visual Solutions,
+MAXHUB,P30,MAXHUB P30 EPTZ 4K 12X 90FOV DUAL CAMERA,2086.09,1832.55,NORMAL,0,Unified Communications,
+MAXHUB,WT13M,Wireless Screen Sharing Dongle,291.87,193.8,NORMAL,0,Unified Communications,
+MAXHUB,XCORE,MAXHUB XCore MTR Kit,1477,1203.65,NORMAL,0,Unified Communications,0
+MAXHUB,XCOREPRO,MAXHUB XCore MTR Kit PRO,2781.74,2447.2,NORMAL,0,Unified Communications,
+MAXHUB,ND43CMA,MAXHUB CMA Series 43,1209.05,803.7,NORMAL,0,Visual Solutions,
+MAXHUB,ND55CMA,MAXHUB CMA Series 55,1529.09,1016.5,NORMAL,0,Visual Solutions,
+MAXHUB,ND65CMA,MAXHUB CMA Series 65,2204.74,1465.85,NORMAL,0,Visual Solutions,
 MAXHUB,ND65CMD,MAXHUB CMD Series 65,2138.89,1283,NORMAL,0,Visual Solutions,
-MAXHUB,ND75CMA,MAXHUB CMA Series 75,3869,3482,NORMAL,0,Visual Solutions,
+MAXHUB,ND75CMA,MAXHUB CMA Series 75,3058.19,2033.95,NORMAL,0,Visual Solutions,
 MAXHUB,ND75CMD,MAXHUB CMD Series 75,2916.67,1750,NORMAL,0,Visual Solutions,
-MAXHUB,ND86CMA,MAXHUB CMA Series 86,5174,4657,NORMAL,0,Visual Solutions,
-MAXHUB,ND98CMA,MAXHUB CMA Series 98,13103,11793,NORMAL,0,Visual Solutions,
-MAXHUB,SL22MC,MAXHUB Lecterns,10063.56,6038.14,NORMAL,0,Visual Solutions,
-MAXHUB,UW105NA,MAXHUB UW Series 105,21921,19729,NORMAL,0,Visual Solutions,
-MAXHUB,UW92NA,MAXHUB UW Series 92,12522,6207,NORMAL,0,Visual Solutions,
-MAXHUB,V5550,Xboard V7 Series,5194.78,3206.75,NORMAL,0,Visual Solutions,
-MAXHUB,V6550,Xboard V7 Series,6914.78,4268.7,NORMAL,0,Visual Solutions,
-MAXHUB,V7550,Xboard V7 Series,9869.57,6083.94,NORMAL,0,Visual Solutions,
-MAXHUB,V8650,Xboard V7 Series,13634.78,8417.08,NORMAL,0,Visual Solutions,
+MAXHUB,ND86CMA,MAXHUB CMA Series 86,4089.44,2419.85,NORMAL,0,Visual Solutions,
+MAXHUB,ND98CMA,MAXHUB CMA Series 98,7920.26,5266.8,NORMAL,0,Visual Solutions,
+MAXHUB,SL22MC,MAXHUB Lecterns,8220.44,5466.3,NORMAL,0,Visual Solutions,
+MAXHUB,U8630,MaxHub U8630 86 interactive,6179.31,4402.3,NORMAL,0,Visual Solutions,
+MAXHUB,UW105NA,MAXHUB UW Series 105,17350.22,11537.75,NORMAL,0,Visual Solutions,
+MAXHUB,UW92NA,MAXHUB UW Series 92,9051.72,6019.2,NORMAL,0,Visual Solutions,
+MAXHUB,V5550,Xboard V7 Series,4178.57,2778.75,NORMAL,0,Visual Solutions,
+MAXHUB,V6550,Xboard V7 Series,5523.4,3672.7,NORMAL,0,Visual Solutions,
+MAXHUB,V655T,Xboard V7 Series MTR,7954.43,5289.6,NORMAL,0,Visual Solutions,
+MAXHUB,V7550,Xboard V7 Series,7204.43,4790.85,NORMAL,0,Visual Solutions,
+MAXHUB,V8650,Xboard V7 Series,9554.19,6353.6,NORMAL,0,Visual Solutions,
+MAXHUB,V865T,Xboard V7 Series MTR,12195.81,8110.15,NORMAL,0,Visual Solutions,
+MAXHUB,V925T,Xboard V7 Series MTR,13965.52,9287.2,NORMAL,0,Visual Solutions,
 MAXHUB,GH3125,MAXHUB GH31 Series 2.5mm,POA,POA,SPECIAL ORDER ONLY,0,Visual Solutions,
 MAXHUB,MH-SPARE-ACC,PART 2: MAXHUB SPART PARTS/ACCESSORIES,POA,POA,SPECIAL ORDER ONLY,0,Visual Solutions,
 MAXHUB,MH-WALLMOUNT-KIT,PART 3: MAXHUB WALL MOUNT KIT,POA,POA,SPECIAL ORDER ONLY,0,Visual Solutions,
@@ -1001,20 +860,20 @@ Middle Atlantic,5AR37,MAP ADJ REAR RKRAIL FOR SLIM 5-37,503.88,306,NORMAL,3,Prof
 Middle Atlantic,5AR43,MAP ADJ REAR RKRAIL FOR SLIM 5-43,524.28,319.26,NORMAL,1,Professional AV Solutions,656747001253
 Middle Atlantic,AX-SXR-43,AX-SXR In-Wall Slide Out Rotating Rack,2043.08,1430.16,NORMAL,0,Professional AV Solutions,
 Middle Atlantic,BR1,"MAP Brush Grommet Panel, 1 RU",214.2,130.56,NORMAL,0,Professional AV Solutions,
-Middle Atlantic,BXBTB5,MAP SLIM 5 TOP/BASE 29/37/43 RU,1090.07,763.06,NORMAL,1,Professional AV Solutions,
+Middle Atlantic,BXBTB5,MAP SLIM 5 TOP/BASE 29/37/43 RU,1090.07,763.06,NORMAL,0,Professional AV Solutions,
 Middle Atlantic,BXSRSR12R2,MAP 12 space SRSR Rail,520.2,316.2,NORMAL,3,Professional AV Solutions,0
 Middle Atlantic,BXSRSR14R2,MAP 14 space SRSR Rail,532.44,324.36,NORMAL,7,Professional AV Solutions,
 Middle Atlantic,BXSRSR16R2,MAP 16 space SRSR Rail,553.86,337.62,NORMAL,39,Professional AV Solutions,
-Middle Atlantic,BXSRSR18R2,MAP 18 space SRSR Rail,550.8,334.56,NORMAL,1,Professional AV Solutions,
+Middle Atlantic,BXSRSR18R2,MAP 18 space SRSR Rail,550.8,334.56,NORMAL,0,Professional AV Solutions,
 Middle Atlantic,BXSRSR20R2,MAP 20 space SRSR Rail,567.12,344.76,NORMAL,13,Professional AV Solutions,
 Middle Atlantic,BXSRSR24R2,MAP 24 space SRSR Rail,589.56,359.04,NORMAL,2,Professional AV Solutions,
-Middle Atlantic,BXSRSR4TB2,MAP SRSR-4-XX top/bottom (113kg/48.6cm),2570,1799,NORMAL,2,Professional AV Solutions,
-Middle Atlantic,BXSRSRX4TB2,MAP SRSR-X-XX top/bottom (90.7kg/58.8cm),2427.15,1699,NORMAL,13,Professional AV Solutions,
-Middle Atlantic,BXSTB5,MAP SLIM 5 TOP/BASE FOR 8/14/21 RU,824.89,577.43,NORMAL,8,Professional AV Solutions,656747038570
+Middle Atlantic,BXSRSR4TB2,MAP SRSR-4-XX top/bottom (113kg/48.6cm),2570,1799,NORMAL,0,Professional AV Solutions,
+Middle Atlantic,BXSRSRX4TB2,MAP SRSR-X-XX top/bottom (90.7kg/58.8cm),2427.15,1699,NORMAL,12,Professional AV Solutions,
+Middle Atlantic,BXSTB5,MAP SLIM 5 TOP/BASE FOR 8/14/21 RU,824.89,577.43,NORMAL,9,Professional AV Solutions,656747038570
 Middle Atlantic,CBS-5,SKIRTED CASTER BASE FOR S,849.66,517.14,NORMAL,3,Professional AV Solutions,656747003271
-Middle Atlantic,DOP-5-21,MAP PLEXI DOOR FOR SLIM 5-21,2374.56,1445.34,NORMAL,2,Professional AV Solutions,656747004872
-Middle Atlantic,DOP-5-37,MAP PLEXI DOOR FOR SLIM 5-37,2953.92,1798.26,NORMAL,2,Professional AV Solutions,
-Middle Atlantic,DOP-5-43,MAP PLEXI DOOR FOR SLIM 5-43,3011.04,1832.94,NORMAL,1,Professional AV Solutions,656747004902
+Middle Atlantic,DOP-5-21,MAP PLEXI DOOR FOR SLIM 5-21,2374.56,1445.34,NORMAL,1,Professional AV Solutions,656747004872
+Middle Atlantic,DOP-5-37,MAP PLEXI DOOR FOR SLIM 5-37,2953.92,1798.26,NORMAL,3,Professional AV Solutions,
+Middle Atlantic,DOP-5-43,MAP PLEXI DOOR FOR SLIM 5-43,3011.04,1832.94,NORMAL,0,Professional AV Solutions,656747004902
 Middle Atlantic,DR-8,MAP DR Series Desktop Rail Rack,190.12,133.08,NORMAL,0,Professional AV Solutions,
 Middle Atlantic,HG,10-32 Rackscrew Black Gloss - 100 Piece,175.45,122.81,NORMAL,0,Professional AV Solutions,
 Middle Atlantic,HP,"MAP Rackscrews,10-32, Truss-head, 100 PC",98.94,60.18,NORMAL,34,Professional AV Solutions,
@@ -1022,8 +881,8 @@ Middle Atlantic,LBP-1A,"MAP Lace Bar, L-Shaped, 10pc",149.94,91.8,NORMAL,0,Profe
 Middle Atlantic,LBP-1R,MAP 10 PACK ROUND LACER BARS,263.16,160.14,NORMAL,16,Professional AV Solutions,656747031663
 Middle Atlantic,LBP-1R4,10 PACK 4OFF. ROUND LACE,365.16,222.36,NORMAL,8,Professional AV Solutions,656747031670
 Middle Atlantic,RSHA-SONOS-AMP2,"MAP 2RU SHELF,2 SONOS AMP,BA",797,485,NORMAL,2,Professional AV Solutions,656747375453
-Middle Atlantic,SP-5-21,MAP SIDE PANELS FOR SLIM 5-21,1049,638,NORMAL,2,Professional AV Solutions,656747021329
-Middle Atlantic,SP-5-37,MAP SIDE PANELS FOR SLIM 5-37,1559,949,NORMAL,2,Professional AV Solutions,656747001055
+Middle Atlantic,SP-5-21,MAP SIDE PANELS FOR SLIM 5-21,1049,638,NORMAL,3,Professional AV Solutions,656747021329
+Middle Atlantic,SP-5-37,MAP SIDE PANELS FOR SLIM 5-37,1559,949,NORMAL,1,Professional AV Solutions,656747001055
 Middle Atlantic,SP-5-43,MAP SIDE PANELS FOR SLIM 5-43,1727.88,1051.62,NORMAL,1,Professional AV Solutions,656747021350
 Middle Atlantic,T5-21R,"MAP Slim 5 Tubed Rails, 21RU",493.81,345.67,NORMAL,9,Professional AV Solutions,656747039386
 Middle Atlantic,T5-37R,"MAP Slim 5 Tubed Rails, 37RU",566.4,396.48,NORMAL,2,Professional AV Solutions,656747001024
@@ -1138,13 +997,6 @@ Middle Atlantic,WR-44-32,44SP/32D ROLLOUT ROT RACK,5501.44,3851,SPECIAL ORDER ON
 Middle Atlantic,WR-44-42,44SP/42D ROLLOUT ROT RACK,567.01,3966.91,SPECIAL ORDER ONLY,0,Professional AV Solutions,656747102899
 Middle Atlantic,WRK-40-32,40SP/32D MULTIBAY WRK,8040.66,4893.96,SPECIAL ORDER ONLY,0,Professional AV Solutions,656747024962
 Middle Atlantic,WRK-44-27LRD,44SP/27D MULTIBAY WRK LRD,7373.58,4488,SPECIAL ORDER ONLY,0,Professional AV Solutions,656747025150
-Nexus 21,L23,Pop-Up TV  Lift for up to 32 inch TV,4455.24,999,DISCOUNT,3,Concealment Systems,
-Nexus 21,L90,TV Lift for Huge Screen upto 103 inch TV,16468.82,4999,DISCOUNT,1,Concealment Systems,
-Nexus 21,TRANSCEND,Pull Down Mount with In Wall,2571.58,499,DISCOUNT,7,Concealment Systems,
-Nexus 21,TRANSCEND-PRO,Motorised drop-down over mantel mount,5324.53,999,DISCOUNT,7,Concealment Systems,
-Nexus 21,TRANSCEND-PRO-SURFACE,Motorised drop-down over mantel mount,5763.8,999,DISCOUNT,4,Concealment Systems,
-Nexus 21,TRANSCEND-SURFACE,Pull Down Mount for Surface Mounting,2287.86,499,DISCOUNT,1,Concealment Systems,
-Nexus 21,XL75,Under Floor TV Lift for up to 75 inch TV,11679.22,3999,DISCOUNT,2,Concealment Systems,
 Nexus 21,CSIKIT,Nexus 21 CSI Control Kit,658.96,395.38,NORMAL,1,Concealment Systems,0
 Nexus 21,IPKIT,Nexus 21 IP Control Kit,658.96,395.38,NORMAL,0,Concealment Systems,
 Nexus 21,L65,"Pop-Up 65"" TV Lift",5180.09,3699,NORMAL,0,Concealment Systems,
@@ -1157,7 +1009,7 @@ Nexus 21,RFKIT-I,Nexus 21 RF Control Kit Inverted,592,360,NORMAL,4,Concealment S
 Nexus 21,AL125,Small Hidden Storage Lift,4284.29,2999,SPECIAL ORDER ONLY,0,Concealment Systems,
 Nexus 21,AL250,Large Hidden Storage Lift,5712.86,3999,SPECIAL ORDER ONLY,1,Concealment Systems,
 Nexus 21,APEX,Motorized Articulating Wall Mount,9445.53,6700,SPECIAL ORDER ONLY,0,Concealment Systems,0
-Nexus 21,CL65+,Ceiling Flip Down TV Lift for up to 65in,13871.09,10500,SPECIAL ORDER ONLY,1,Concealment Systems,
+Nexus 21,CL65+,Ceiling Flip Down TV Lift for up to 65in,13871.09,10500,SPECIAL ORDER ONLY,0,Concealment Systems,
 Nexus 21,CL65E,Flip Down & Extend TV Lift  up to 65inch,16913.37,12800,SPECIAL ORDER ONLY,0,Concealment Systems,
 Nexus 21,DL50B,Dual TV Lifts for up to 65 inch TV,10140.27,5900,SPECIAL ORDER ONLY,0,Concealment Systems,
 Nexus 21,DL65,Heavyweight Dual Column TV Lift up to 65,8246.93,4730,SPECIAL ORDER ONLY,0,Concealment Systems,
@@ -1192,10 +1044,10 @@ Nureva,CM-HDL200,Camera Mount for HDL200,204,143,NORMAL,10,Unified Communication
 Nureva,DM-HDL200,Display Mount for HDL200,319,224,NORMAL,9,Unified Communications,860006196776
 Nureva,HDL200-B,"Audio Conferencing System, Black",2999,2299,NORMAL,10,Unified Communications,860006196714
 Nureva,HDL300-B,"Audio Conferencing System, Black",7999,6089,NORMAL,0,Unified Communications,860006196738
-Nureva,HDL300-W,"Audio Conferencing System, White",7999,6089,NORMAL,1,Unified Communications,860006196721
+Nureva,HDL300-W,"Audio Conferencing System, White",7999,6089,NORMAL,0,Unified Communications,860006196721
 Nureva,HDL310-B,"Audio Conferencing System, Black",9349,6999,NORMAL,4,Unified Communications,850035159194
 Nureva,HDL310-B-NFR,"Audio Conferencing System, Black NFR",POA,6959.46,NORMAL,0,Unified Communications,
-Nureva,HDL310-W,"Audio Conferencing System, White",9349,6999,NORMAL,3,Unified Communications,850035159187
+Nureva,HDL310-W,"Audio Conferencing System, White",9349,6999,NORMAL,2,Unified Communications,850035159187
 Nureva,HDL310-W-NFR,"Audio Conferencing System, White NFR",POA,6959.46,NORMAL,0,Unified Communications,
 Nureva,HDL410-B,"HDL410 KIT, BLACK",17999,13999,NORMAL,0,Unified Communications,850035159163
 Nureva,HDL410-B-1,"HDL410 BLACK, BOX 1",8999.5,6999,NORMAL,2,Unified Communications,850035159118
@@ -1223,112 +1075,38 @@ Nureva,HDL200-W-NFR,"Audio Conferencing System, White NFR",POA,2154.08,SPECIAL O
 Nureva,NURCON-AKIT-CMOD1,AKITCMOD1 NUREVA CONSIGNMENT STOCK,POA,POA,SPECIAL ORDER ONLY,2,Unified Communications,
 Nureva,NURCON-AKIT-CMOD2,AKITCMOD2 NUREVA CONSIGNMENT STOCK,POA,POA,SPECIAL ORDER ONLY,2,Unified Communications,
 Nureva,NURCON-HDL200-W,HDL200 NUREVA CONSIGNMENT STOCK,POA,POA,SPECIAL ORDER ONLY,2,Unified Communications,
-Perlesmith,PG4PHK1,Perlesmith 4 Pack High Speed HDMI Cables,10.43,3.5,DISCOUNT,423,Cables & Connectivity,9421904917248
-Perlesmith,PGSLHK1,Perlesmith 10ft Ultra-Slim HDMI Cables,16.51,5.99,DISCOUNT,184,Cables & Connectivity,9421904917262
-Perlesmith,PS-H36K4-U1,"Perlesmith 4K HDMI Cables, 4 Pack",12,5,DISCOUNT,220,Cables & Connectivity,9421904917255
-Perlesmith,PSTVMC01,Perlesmith Adjustable TV Cart 32-85 Inch,190,99,DISCOUNT,3,Professional AV Solutions,9421904917491
-Perlesmith,PSCM2,Perlesmith Full Motion Ceiling TV Mount,55,29,DISCOUNT,281,Residential TV Mounts,9421904917712
-Perlesmith,PSLT9,Perlesmith Extra Large Tilt Wall Mount,70,29,DISCOUNT,993,Residential TV Mounts,9421904917644
-Perlesmith,PSXFK1,Perlesmith X-Large Full Motion TV Mount,199.99,99,DISCOUNT,87,Residential TV Mounts,9421904917675
-Perlesmith,PSTVS01-2,Perlesmith TV Stand for 22-70 Inch,57.39,39.57,NORMAL,0,AV Accessories,9421904917996
-Perlesmith,PSTVS02,"Universal TV Stand for 32""- 75"" Flat Scr",109.99,79.86,NORMAL,0,AV Accessories,9421904917569
-Perlesmith,PSLFK5,Perlesmith Large Full Motion TV Mount,139.12,111.3,NORMAL,11,Residential TV Mounts,9421904917682
-Perlesmith,PSLTK1,Perlesmith Large Tilt Wall Mount,52.17,36.21,NORMAL,468,Residential TV Mounts,9421904917163
-Perlesmith,PSMFK1,Perlesmith Medium Full Motion Wall Mount,60.86,42.39,NORMAL,129,Residential TV Mounts,9421904917170
-Perlesmith,PSMTK1,Perlesmith Medium Tilt Wall Mount,34.77,23.86,NORMAL,213,Residential TV Mounts,9421904917286
-Sanus,SASP1-B1,Sanus Stream Device Panel,15,6.99,DISCOUNT,1,AV Accessories,793795531049
-Sanus,VMPR1B,Sanus Projector Mount,217.38,59,DISCOUNT,17,AV Accessories,793795360489
-Sanus,WMS2B,Sanus Large Speaker Wall Mount,173.9,19,DISCOUNT,26,AV Accessories,793795330024
-Sanus,WSS2-W1,Sonos Speaker Stands - WHITE,130.43,19.99,DISCOUNT,23,AV Accessories,793795528919
-Sanus,WSSATM1-B2,Extendable Soundbar TV Mount SONOS ARC,288.27,49,DISCOUNT,5,AV Accessories,793795534859
-Sanus,CACT100,Sanu AV Rack Wire Ties,76.51,19,DISCOUNT,6,Professional AV Solutions,793795520913
-Sanus,CAFH01,Sanus 3U High Volume Fan Kit,191.3,49,DISCOUNT,6,Professional AV Solutions,793795524171
-Sanus,CAGK,Sanus Ganging Kit for CFR Rack,16.51,3.99,DISCOUNT,12,Professional AV Solutions,793795524102
-Sanus,CALT01,Sanus Task Light,229.56,49,DISCOUNT,7,Professional AV Solutions,793795524201
-Sanus,CALW01,Sanus Work Light,172.17,39,DISCOUNT,8,Professional AV Solutions,793795524218
-Sanus,CAPW03,Sanus AV Rack 3_ Power Wire,19.12,9,DISCOUNT,24,Professional AV Solutions,793795524225
-Sanus,CAPW06,Sanus AV Rack 3_ Power Wire,19.12,4.99,DISCOUNT,16,Professional AV Solutions,793795524232
-Sanus,CAPW09,Sanus AV Rack 3_ Power Wire,19.12,4.99,DISCOUNT,15,Professional AV Solutions,793795524249
-Sanus,CASBP3,Sanus 3U Steel Blanking Panel,43.47,9.99,DISCOUNT,1,Professional AV Solutions,793795520982
-Sanus,CASH21,Sanus 1U Vented Shelf,86.08,49,DISCOUNT,17,Professional AV Solutions,793795524072
-Sanus,CASH22,Sanus 2U Vented Shelf,114.77,59,DISCOUNT,19,Professional AV Solutions,793795524089
-Sanus,CASPK-B1,Sanus Small Parts Panel,86.08,19.99,DISCOUNT,2,Professional AV Solutions,793795525475
-Sanus,CASS10,Sanus AV Racks Shelf Stops,16.51,3.99,DISCOUNT,2,Professional AV Solutions,793795524584
-Sanus,CATG01,Sanus Temperature Gauge,191.3,49,DISCOUNT,14,Professional AV Solutions,793795524195
-Sanus,CAVBP3,Sanus 3U Vented Blanking Panel,25,5.99,DISCOUNT,40,Professional AV Solutions,793795524065
-Sanus,VXF220-B1,Sanus All-Weather Mount,450,150,DISCOUNT,1,Professional AV Solutions,793795520692
-Sanus,WSSAWM1-B2,Wall mount for sonos arc - Black,262.61,49,DISCOUNT,21,Professional AV Solutions,793795534828
-Sanus,F107C-B7,VuePoint Small Full Motion,25,9.99,DISCOUNT,287,Residential TV Mounts,793795527622
-Sanus,F180C-B2,VuePoint Large Full Motion TV Mount,125,69,DISCOUNT,39,Residential TV Mounts,793795528650
-Sanus,F32C-B2,Vuepoint Medium Fixed TV Mount,45,19,DISCOUNT,13,Residential TV Mounts,793795528735
-Sanus,F35-B7,VuePoint Medium Tilt Mount,40,19.99,DISCOUNT,31,Residential TV Mounts,793795527660
-Sanus,VML5-B2,Sanus Fixed Super Slim Mount - Medium,86.95,29.99,DISCOUNT,24,Residential TV Mounts,793795526847
-Sanus,VMT5-B2,Sanus Medium Tilting Wall Mount,121.73,39,DISCOUNT,58,Residential TV Mounts,793795526861
-Sanus,VST4-B2,Sanus Small Tilting Wall Mount,52.17,12.99,DISCOUNT,26,Residential TV Mounts,793795527226
+Perlesmith,PSTVS01-2,Perlesmith TV Stand for 22-70 Inch,57.39,39.57,NORMAL,266,AV Accessories,9421904917996
+Perlesmith,PSTVS02,"Universal TV Stand for 32""- 75"" Flat Scr",109.99,79.86,NORMAL,206,AV Accessories,9421904917569
+Perlesmith,PSLFK5,Perlesmith Large Full Motion TV Mount,139.12,111.3,NORMAL,8,Residential TV Mounts,9421904917682
+Perlesmith,PSMFK1,Perlesmith Medium Full Motion Wall Mount,60.86,30,NORMAL,127,Residential TV Mounts,9421904917170
 Sanus,ELM701-B1,Sanus Anti-Tip Strap,52.17,36.52,NORMAL,15,AV Accessories,793795521576
-Sanus,SA405-B2,Sanus Soundbar Mount,83.48,60,NORMAL,252,AV Accessories,7937955274558
-Sanus,WSBWM1-B2,Sanus Universal Extendable SoundbarMount,156.51,109.56,NORMAL,236,AV Accessories,793795537898
+Sanus,SA405-B2,Sanus Soundbar Mount,83.48,60,NORMAL,232,AV Accessories,7937955274558
+Sanus,WSBWM1-B2,Sanus Universal Extendable SoundbarMount,156.51,109.56,NORMAL,227,AV Accessories,793795537898
 Sanus,ELM102-X1,Sanus Screen Cleaner & Gel,43.47,30.43,NORMAL,0,Cleaning Products,793795500021
 Sanus,CA6CK,Sanus Caster Kit,47.82,33.47,NORMAL,8,Professional AV Solutions,793795525482
 Sanus,CAVBP1,Sanus 1U Vented Blanking Panel,15,13,NORMAL,0,Professional AV Solutions,793795524041
 Sanus,CAVBP2,Sanus 2U Vented Blanking Panel,25,20,NORMAL,33,Professional AV Solutions,793795524058
 Sanus,CFA16SM-B1,Sanus On-Wall Swing-Out,164.34,115.04,NORMAL,1,Professional AV Solutions,793795525604
 Sanus,CFR1615-B1,Sanus AV Rack 15RU,478.25,334.78,NORMAL,9,Professional AV Solutions,793795525499
-Sanus,CFR1620-B1,Sanus AV Rack 20RU,573.9,401.73,NORMAL,4,Professional AV Solutions,793795525505
+Sanus,CFR1620-B1,Sanus AV Rack 20RU,573.9,401.73,NORMAL,3,Professional AV Solutions,793795525505
 Sanus,QLF314-B2,SECURA Large Full Motion Wall Mount,104.34,81.07,NORMAL,0,Residential TV Mounts,793795533098
 Sanus,QLL23-B2,SECURA Large Fixed Wall Mount,56.51,39.55,NORMAL,0,Residential TV Mounts,793795530707
 Sanus,QLT35-B2,SECURA Large Tilt Wall Mount,69.56,48.69,NORMAL,0,Residential TV Mounts,793795532039
-Sanus,VLF728-B2,Sanus Full Motion Mount - Large,478.25,368.26,NORMAL,24,Residential TV Mounts,793795533616
-Sanus,VLL5-B2,Sanus Large Fixed TV Mount,156.51,120.52,NORMAL,135,Residential TV Mounts,793795526908
-Sanus,VLT6-B2,Sanus Tilting Wall Mount,217.38,167.39,NORMAL,135,Residential TV Mounts,793795531308
-Sanus,VLT7-B2,Sanus Tilting Wall Mount,260.86,200.88,NORMAL,86,Residential TV Mounts,793795534675
-Sanus,VMF720-B2,Sanus Full Motion Mount - Medium,260.86,194.18,NORMAL,165,Residential TV Mounts,793795533609
-Sanus,VMPL50A,Sanus Tilting Wall Mount,165.21,127.22,NORMAL,381,Residential TV Mounts,793795521965
-Sanus,VSF716-B2,Sanus Full Motion Mount - Small,165.21,127.22,NORMAL,182,Residential TV Mounts,793795533593
-Sanus,VSTV2-B2,Sanus Premium Swivel TV Stand,277.39,207.35,NORMAL,0,Residential TV Mounts,793795537669
-Sanus,VXT7-B2,Sanus Tilt TV Mount,304.34,234.35,NORMAL,15,Residential TV Mounts,793795534040
-Sonorous,RCB-W,Sonorous Remote Control Holder,44.37,31.33,NORMAL,42,AV Accessories,8699273423467
-Sonorous,SP100-BLK,Sonorous Speaker Stand,239.92,169.49,NORMAL,9,AV Accessories,8697863927944
+Sanus,VLF728-B2,Sanus Full Motion Mount - Large,478.25,368.26,NORMAL,1,Residential TV Mounts,793795533616
+Sanus,VLL5-B2,Sanus Large Fixed TV Mount,156.51,120.52,NORMAL,85,Residential TV Mounts,793795526908
+Sanus,VLT6-B2,Sanus Tilting Wall Mount,217.38,167.39,NORMAL,102,Residential TV Mounts,793795531308
+Sanus,VLT7-B2,Sanus Tilting Wall Mount,260.86,200.88,NORMAL,36,Residential TV Mounts,793795534675
+Sanus,VMF720-B2,Sanus Full Motion Mount - Medium,260.86,194.18,NORMAL,132,Residential TV Mounts,793795533609
+Sanus,VMPL50A,Sanus Tilting Wall Mount,165.21,127.22,NORMAL,339,Residential TV Mounts,793795521965
+Sanus,VSF716-B2,Sanus Full Motion Mount - Small,165.21,127.22,NORMAL,139,Residential TV Mounts,793795533593
+Sanus,VXT7-B2,Sanus Tilt TV Mount,304.34,234.35,NORMAL,8,Residential TV Mounts,793795534040
+Sonorous,RCB-W,Sonorous Remote Control Holder,44.37,31.33,NORMAL,41,AV Accessories,8699273423467
+Sonorous,SP100-BLK,Sonorous Speaker Stand,239.92,169.49,NORMAL,8,AV Accessories,8697863927944
 Sonorous,IR2000,Sonorous IR Repeater Box,228.15,156.22,NORMAL,144,Cables & Connectivity,8699273430465
-SoundXtra,SDXHKC300FS1021,Floor Stand for Harman Kardon Citation,339,206,DISCOUNT,24,AV Accessories,5057964001050
-SoundXtra,SDXHKC300FS1091,Floor Stand for Harman Kardon Citation,339,206,DISCOUNT,24,AV Accessories,5057964001067
-SoundXtra,SDXHKC500FS1021,Floor Stand for Harman Kardon Citation,365,222,DISCOUNT,24,AV Accessories,5057964001074
-SoundXtra,SDXHKC500FS1091,Floor Stand for Harman Kardon Citation,365,222,DISCOUNT,24,AV Accessories,5057964001081
-SoundXtra,SDXHKCONEFS1021,Floor Stand for Harman Kardon Citation,256,156,DISCOUNT,17,AV Accessories,5057964001012
-SoundXtra,SDXHKCONEFS1091,Floor Stand for Harman Kardon Citation,256,156,DISCOUNT,20,AV Accessories,5057964001029
-SoundXtra,SDXHKCONEWM1021,Wall Mount for Harman Kardon Citation,142,86,DISCOUNT,23,AV Accessories,5057964000992
-SoundXtra,SDXHKCONEWM1091,Wall Mount for Harman Kardon Citation,142,86,DISCOUNT,15,AV Accessories,5057964001005
-Vaddio,440-1005-008,"Vaddio USB 3.0  Cable, 8m",700,426,DISCOUNT,4,Unified Communications,840077505844
-Vaddio,440-1005-023,"Vaddio USB 3.0 TypeA to TypeB Cable, 20m",1866,1136,DISCOUNT,3,Unified Communications,840077505868
-Vaddio,440-1005-025,"Vaddio USB 3.0 TypeA to TypeB Cable, 30m",2547,1550,DISCOUNT,5,Unified Communications,840077505875
-Vaddio,535-2000-045,Offset Dropdown Pole for RoboTRAK Mount,650,395,DISCOUNT,3,Unified Communications,840077500092
-Vaddio,998-5000-003,Vaddio PCC Premier & MatrixMIX Rack Ears,375,228,DISCOUNT,5,Unified Communications,840077500566
-Vaddio,998-6000-004,Vaddio Single ½ Rack Mount,265,161,DISCOUNT,2,Unified Communications,840077500597
-Vaddio,998-6000-006,Vaddio Dual ½ Rack Mounting Kit,380,231,DISCOUNT,4,Unified Communications,840077500610
-Vaddio,999-1105-943,OneLINK HDMI Extension for Vaddio HDBase,4605,2803,DISCOUNT,5,Unified Communications,840077500856
-Vaddio,999-21100-009,Vaddio IntelliSHOT Auto-Tracking Camera,4998.75,3999,DISCOUNT,1,Unified Communications,
-Vaddio,999-50707-009,Vaddio HuddleSHOT All-in-One Conf Camera,5483,3337,DISCOUNT,2,Unified Communications,840077500030
-Vaddio,999-50707-009G,"Vaddio HuddleSHOT All-in-One Camera,Grey",5483,3337,DISCOUNT,2,Unified Communications,840077500061
-Vaddio,999-5660-009,Vaddio AV Bridge MatrixMIX,26476,16116,DISCOUNT,1,Unified Communications,840077501242
-Vaddio,999-5750-001,Vaddio PCC Premier,11528,7017,DISCOUNT,2,Unified Communications,840077501310
-Vaddio,999-5755-009,Vaddio PCC MatrixMIX Live Production Con,11528,7017,DISCOUNT,1,Unified Communications,840077501341
-Vaddio,999-8215-009,Vaddio AV Bridge Conference,8560,5210,DISCOUNT,2,Unified Communications,840077501679
-Vaddio,999-85000-000W,"Vaddio TableMIC Microphone, White",2103,1280,DISCOUNT,2,Unified Communications,840077501815
-Vaddio,999-85100-000,Vaddio CeilingMIC Microphone,2103,1280,DISCOUNT,2,Unified Communications,840077501822
-Vaddio,999-9595-009,OneLINK Bridge for Vaddio HDBaseT Camera,8231,5010,DISCOUNT,6,Unified Communications,840077502300
-Vaddio,999-99400-009W,"Vaddio RoboSHOT 12E HDMI, White",8926,5433,DISCOUNT,3,Unified Communications,840077503581
-Vaddio,999-9950-009W,Vaddio RoboSHOT 20 UHD System WHITE,18135,11039,DISCOUNT,1,Unified Communications,
-Vaddio,999-9952-009,"Vaddio RoboSHOT 40 UHD Black, AU Cord",20792,12656,DISCOUNT,1,Unified Communications,840077503963
-Vaddio,999-9952-009W,"Vaddio RoboSHOT 40 UHD White, AU Cord",20792,12656,DISCOUNT,1,Unified Communications,840077503970
-Vaddio,999-99600-109,Vaddio RoboSHOT 12E HDBT OneLINK HDMI S,16123,9814,DISCOUNT,1,Unified Communications,840077504168
-Vaddio,999-99950-109W,Vaddio CSAV Bundle CeilingMIC 1,10109,6153,DISCOUNT,2,Unified Communications,
-Vaddio,999-99950-309B,ConferenceSHOT AV HD Conference Room Sys,10109,6153,DISCOUNT,2,Unified Communications,
-Vaddio,999-99950-309W,ConferenceSHOT AV HD Conference Room Sys,10109,6153,DISCOUNT,4,Unified Communications,
-Vaddio,999-99950-409W,Vaddio ConferenceSHOT AV Bundle,12107,7369,DISCOUNT,2,Unified Communications,
 Vaddio,535-2000-290,"Vaddio Drop Down Mount, Small PTZ - 30cm",1000,609,NORMAL,1,Unified Communications,840077500405
 Vaddio,535-2000-291,"Vaddio Drop Down Mount, Large PTZ - 60cm",1031,628,NORMAL,1,Unified Communications,840077500412
-Vaddio,535-2000-300,"Vaddio Drop Pipe Camera Adapter, Black",191.68,134.18,NORMAL,1,Unified Communications,
-Vaddio,535-2000-300W,"Vaddio Drop Pipe Camera Adapter, White",191.68,134.18,NORMAL,3,Unified Communications,
+Vaddio,535-2000-300,"Vaddio Drop Pipe Camera Adapter, Black",299.36,210.55,NORMAL,10,Unified Communications,
+Vaddio,535-2000-300W,"Vaddio Drop Pipe Camera Adapter, White",299.36,210.55,NORMAL,11,Unified Communications,
 Vaddio,999-1005-132,Vaddio USB 3.0 Extenders,3748.75,2999,NORMAL,0,Unified Communications,840077500825
 Vaddio,999-21050-009,ConferenceSHOT ePTZ Camera,2498.75,1999,NORMAL,0,Unified Communications,
 Vaddio,999-7270-009B,Vaddio RoboTRAK Auto IR System,12432,7567,NORMAL,0,Unified Communications,840077501488
@@ -1375,27 +1153,11 @@ Vaddio,999-85810-000,"Vaddio EasyIP CeilingMIC D, White",3029,1844,SPECIAL ORDER
 Vaddio,999-99630-009W,Vaddio RoboSHOT 30E HDBT WHITE,13878,8447,SPECIAL ORDER ONLY,1,Unified Communications,
 Vaddio,999-9968-000,Vaddio DocCAM 20 HDBT,12845,7818,SPECIAL ORDER ONLY,0,Unified Communications,840077504724
 Vaddio,999-9968-301,Vaddio DocCAM 20 HDBT,20760,12636,SPECIAL ORDER ONLY,0,Unified Communications,840077504786
-Vestel,IFD55TH652-3,Vestel 55in Android Based IFP Display,3432,1349,DISCOUNT,5,Visual Solutions,
-Vestel,IFD65TH752-3,Vestel 65in Android Based IFP Display,4179,1549,DISCOUNT,4,Visual Solutions,
-Vestel,PDM55UH82-2,Vestel 55in Professional FHD Display,1889,1150,DISCOUNT,0,Visual Solutions,3700410351637
-Vestel,PDU43UF82-4,Vestel 43in Professional UHD Signage,1450,699,DISCOUNT,14,Visual Solutions,
-Vestel,PDU49A-3F,Vestel 49in Professional UHD Signage,1073.29,699,DISCOUNT,6,Visual Solutions,
-Vestel,PDU55A-3F,Vestel 55in Professional UHD Signage,1260.65,799,DISCOUNT,1,Visual Solutions,
-Vestel,PDU55UF82-4,Vestel 55in UHD Signage Displays 24/7,1481.61,799,DISCOUNT,10,Visual Solutions,
-Vestel,PDU75A-3F,Vestel 75in Professional UHD Signage,3115.32,999,DISCOUNT,4,Visual Solutions,
-Vestel,PDU98SF81B-4,Vestel 98in Professional UHD Display,12855.71,3499,DISCOUNT,1,Visual Solutions,
-Vestel,QF55B-4H,Vestel 55inch Quality Signage Display,1401.92,599,DISCOUNT,8,Visual Solutions,0
-Vestel,UHM55UH82-4,Vestel 55inch 4K UHD Edge Series TV,1432.57,599,DISCOUNT,3,Visual Solutions,3700410351187
-Vestel,UHM65UH82-4,Vestel 65inch 4K UHD Signage Displays,2202.36,699,DISCOUNT,16,Visual Solutions,3700410350739
-Vestel,UHM75UH83-4,Vestel 75inch UHD Signage Displays,2422.31,899,DISCOUNT,1,Visual Solutions,
-Vestel,UHM86SH80B-4,Vestel 86inch UHD Signage Displays,6069.56,999,DISCOUNT,1,Visual Solutions,3700410351620
-Vestel,VW55X503B-6,"Vestel 55"" Extra Thin Video Wall Display",2274.95,1399,DISCOUNT,3,Visual Solutions,3700410350487
-Vestel,WU55B-2H,Vestel 55in 3.8mm Bezel Wall Display,3249.67,1499,DISCOUNT,12,Visual Solutions,
 Vestel,30102186,ASSY TCON LG 2D LC550EQY-SMA3 CN,154.13,107.89,NORMAL,1,Visual Solutions,0
-Vestel,PN55D-4H,"NEW Vestel Prime Series PN55+ - 55"" 24/7",1591,1113,NORMAL,9,Visual Solutions,
-Vestel,PN65D-4H,"NEW Vestel Prime Series PN65+ - 65"" 24/7",2107,1475,NORMAL,37,Visual Solutions,
+Vestel,PN55D-4H,"NEW Vestel Prime Series PN55+ - 55"" 24/7",1591,1113,NORMAL,4,Visual Solutions,
+Vestel,PN65D-4H,"NEW Vestel Prime Series PN65+ - 65"" 24/7",2107,1475,NORMAL,35,Visual Solutions,
 Vestel,WU55B-2HA,Vestel 55in 2.5mm Bezel Wall Display,3249.67,2275,NORMAL,5,Visual Solutions,
 Vestel,XN75D-4H,"NEW Vestel  Extreme XN75+ - 75"" 24/7",3098,2168,NORMAL,11,Visual Solutions,
 Vestel,XN86A-3F,"Vestel Extreme Series XN86 - 86"" 24/7",8512.85,5959,NORMAL,2,Visual Solutions,
 Vestel,XN86D-4H,"NEW Vestel Extreme XN86+ - 86"" 24/7",6920,4844,NORMAL,7,Visual Solutions,
-Vestel,XN98B-4F,"Vestel Extreme Series XN98 - 98"" 24/7",20435,12439,NORMAL,1,Visual Solutions,c
+Vestel,XN98B-4F,"Vestel Extreme Series XN98 - 98"" 24/7",20435,12439,NORMAL,1,Visual Solutions,
