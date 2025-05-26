@@ -311,7 +311,7 @@ CASE-ANT-P1FT,Antec Performance 1 FT Full Tower PC case,Antec Performance 1 FT F
 CASE-ANT-P20C,Antec P20C TG Mid-Tower E-ATX Gaming Case  Type-C 3.2 Gen 2 Ready and 3 x 120mm PWM Fans Included,Antec P20C TG Mid-Tower E-ATX Gaming Case  Type-C 3.2 Gen 2 Ready and 3 x 120mm PWM Fans Included,4,126.9,Antec,PC CASES,CASE-ANT-P20C,"0-761345-80103-4,761345801034",189
 CASE-ANT-STRIKER,Antec Striker open frame case,Antec Striker open frame case,0,315,Antec,PC CASES,0-761345-80032-7,"761345800327,0761345800327",390
 CASE-ANT-TORQUE,Antec Torque black/red open frame case,Antec Torque black/red open frame case,0,468,Antec,PC CASES,0-761345-80017-4,"0761345800174,761345800174",669
-CASE-ANT-VSK10,Antec VSK10 Micro ATX case,Antec VSK10 Micro ATX case,27,56,Antec,PC CASES,0-761345-80029-7,"0761345800297,761345800297",79.9
+CASE-ANT-VSK10,Antec VSK10 Micro ATX case,Antec VSK10 Micro ATX case,25,56,Antec,PC CASES,0-761345-80029-7,"0761345800297,761345800297",79.9
 CASE-DP-CH160,Deepcool CH160 ITX case,Deepcool CH160 ITX case,72,77.24,DEEPCOOL,PC CASES,R-CH160-BKNGI0-G-1,6933412774457,109.9
 CASE-DP-CH160WH,Deepcool CH160 white ITX case,Deepcool CH160 white ITX case,74,84.27,DEEPCOOL,PC CASES,R-CH160-WHNGI0-G-1,6933412774440,119.9
 CASE-DP-CH510MD,Deepcool CH510 MESH DIGITAL ATX case with  display screen,Deepcool CH510 MESH DIGITAL ATX case with  display screen,7,99,DEEPCOOL,PC CASES,R-CH510-BKNSE1-G-1,6933412775072,156.9
@@ -326,7 +326,6 @@ CAT6-305,Category 6 Stranded Cable 305m Roll,Category 6 Stranded Cable 305m Roll
 CAT6A-EXT350BLK,8ware CAT6A-EXT350BLK CAT6A UTP LAN Network Cable Roll on a Reel Black 350m,8ware CAT6A-EXT350BLK CAT6A UTP LAN Network Cable Roll on a Reel Black 350m,7,240,8WARE,CABLES,CAT6A-EXT350BLK,,490.99
 CAT6-EXT350BLU,"8Ware CAT6-EXT350BLU, 350m, Cat6 Cable Roll Blue Bare Copper Twisted Core PVC Jacket","8Ware CAT6-EXT350BLU, 350m, Cat6 Cable Roll Blue Bare Copper Twisted Core PVC Jacket",19,212.08,8WARE,CABLES,CAT6-EXT350BLU,9341756016923,350
 CAT6THINBL-305M,8ware CAT6 Ulta Thin Slim Cable 305m - Blue Color Premium RJ45 Ethernet Network LAN UTP Patch Cord 26AWG,8ware CAT6 Ulta Thin Slim Cable 305m - Blue Color Premium RJ45 Ethernet Network LAN UTP Patch Cord 26AWG,0,153.58,8WARE,CABLES,CAT6THINBL-305M,,390
-CFAN-AG620,Deepcool AG620 ARGB CPU cooler,Deepcool AG620 ARGB CPU cooler,0,80,DEEPCOOL,Cooling - CPU Cooling,R-AG620-BKANMN-G-1,6933412727811,114.9
 CFAN-ANT-F12,Antec F12 Racing ARGB 120mm PWM case fan,Antec F12 Racing ARGB 120mm PWM case fan,29,10.8,Antec,Cooling - Cooling Fan,0-761345-40014-5,0761345400145,18.29
 CFAN-ANT-F12-3P,Antec F12 Racing ARGB 120mm PWM case fan 3pack with ARGB/PWM controller,Antec F12 Racing ARGB 120mm PWM case fan 3pack with ARGB/PWM controller,39,47.7,Antec,Cooling - Cooling Fan,0-761345-40015-2,0761345400152,82.69
 CFAN-ANT-FA-400ARGB,Antec FrigusAir 400 ARGB cooler with controller support LGA1700,Antec FrigusAir 400 ARGB cooler with controller support LGA1700,0,82.7,Antec,Cooling - Cooling Fan,0-761345-74007-4,,126.39
@@ -343,12 +342,12 @@ CFAN-ANT-T3-140-3P,Antec Storm T3 140 3pks 30mm FDB fan,Antec Storm T3 140 3pks 
 CFAN-ANT-VO240,Antec Vortex 240 ARGB  water cooling system,Antec Vortex 240 ARGB  water cooling system,8,135,Antec,Cooling - Water Cooling,CFAN-ANT-VO240,0761345740463,193.9
 CFAN-ANT-VO360,Antec Vortex 360 ARGB  water cooling system,Antec Vortex 360 ARGB  water cooling system,58,150,Antec,Cooling - Water Cooling,CFAN-ANT-VO360,"0761345740470,761345740470",244.9
 CFAN-ANT-VO360WH,Antec Vortex 360 ARGB water cooling system White,Antec Vortex 360 ARGB water cooling system White,10,155,Antec,Cooling - Water Cooling,0-761345-74049-4,0761345740494,225.9
-CFAN-AT-IGPUH-L100-PRSM-BK,Antec AT-IGPUH-L100-PRSM-BK GPU Bracket,Antec AT-IGPUH-L100-PRSM-BK GPU Bracket,176,7.5,Antec,PC CASES,0-761345-77803-9,"0761345778039,761345778039",12.99
+CFAN-AT-IGPUH-L100-PRSM-BK,Antec AT-IGPUH-L100-PRSM-BK GPU Bracket,Antec AT-IGPUH-L100-PRSM-BK GPU Bracket,175,7.5,Antec,PC CASES,0-761345-77803-9,"0761345778039,761345778039",12.99
 CFAN-DP-AN600,Deepcool AN600 67mm CPU cooler,Deepcool AN600 67mm CPU cooler,4,69.7,DEEPCOOL,Cooling - CPU Cooling,R-AN600-BKNNMN-G,6933412728146,94.9
 CFAN-DP-FC120-3P,Deepcool FC120 RGB PWM fan 3 pack,Deepcool FC120 RGB PWM fan 3 pack,42,66.7,DEEPCOOL,Cooling - Cooling Fan,R-FC120-BAMN3-G-1,6933412710561,79.99
 CFAN-DP-FC120WH-3P,Deepcool FC120 RGB PWM White fan 3 pack,Deepcool FC120 RGB PWM White fan 3 pack,14,66.7,DEEPCOOL,Cooling - Cooling Fan,R-FC120-WHAMN3-G-1,6933412710578,90
 CFAN-DP-FK120-3P,DeepCool FK120-3 IN 1  High-Performance 120mm PWM fan,DeepCool FK120-3 IN 1  High-Performance 120mm PWM fan,10,55.4,DEEPCOOL,Cooling - Cooling Fan,R-FK120-BKNPF3-G-1,6933412710615,72.9
-CFAN-DP-ST500,Deepcool ST500 ARGB GPU Support bracket,Deepcool ST500 ARGB GPU Support bracket,43,24.3,DEEPCOOL,ACCESSORIES,R-ST500-BKA1AA-G,6933412796220,31.99
+CFAN-DP-ST500,Deepcool ST500 ARGB GPU Support bracket,Deepcool ST500 ARGB GPU Support bracket,41,24.3,DEEPCOOL,ACCESSORIES,R-ST500-BKA1AA-G,6933412796220,31.99
 CFAN-DP-UD551,Deepcool UD551 AMD ARGB CPU cooler,Deepcool UD551 AMD ARGB CPU cooler,13,25,DEEPCOOL,Cooling - CPU Cooling,R-UD551-BKAMAB-G-1,6933412727361,29.99
 CFAN-GAMMAXX400-BL,"Deepcool Gammaxx 400 V2 Blue CPU Cooler (2011/1366/115X/775, FM2/1. AM3/2+), 4 Heatpipes, 120mm PWM Blue LED Fan","Deepcool Gammaxx 400 V2 Blue CPU Cooler (2011/1366/115X/775, FM2/1. AM3/2+), 4 Heatpipes, 120mm PWM Blue LED Fan",13,40.96,DEEPCOOL,Cooling - CPU Cooling,DP-MCH4-GMX400V2-BL,6933412726890,53.9
 CFAN-GAMMAXX-400XT,Deepcool Gammaxx 400 XT RGB CPU Cooler,Deepcool Gammaxx 400 XT RGB CPU Cooler,19,49.4,DEEPCOOL,ACCESSORIES,DP-MCH4-GMX400-XT,6933412726470,58
@@ -368,13 +367,13 @@ GC-HDMIDVI,HDMI Female to DVI-D Male Adapter,HDMI Female to DVI-D Male Adapter,0
 GC-MDPHDMI,Mini DisplayPort to HDMI Adapter Cable L=20CM,Mini DisplayPort to HDMI Adapter Cable L=20CM,1,7.2,8WARE,Audio and Visual Products,GC-MDPHDMI,9341756009185,19.9
 GEA-HS1-THSSIL-01,Thermaltake ARGENT HS1 Headset Stand,Thermaltake ARGENT HS1 Headset Stand,2,142.83,THERMALTAKE,ACCESSORIES,GEA-HS1-THSSIL-01,4713227527170,251.85
 GHT-THF-ANECBK-30,Thermaltake Argent H5 PC/XB1/PS4 Headset,Thermaltake Argent H5 PC/XB1/PS4 Headset,85,77.1,THERMALTAKE,ACCESSORIES,GHT-THF-ANECBK-30,4713227524964,171.35
-HFUD032-1U1BA,HP MicroSD U1 32GB,HP MicroSD U1 32GB,50,10.42,HP,Storage,HFUD032-1U1BA,4712847096813,20
-HFUD064-1U1BA,HP MicroSD U1 64GB,HP MicroSD U1 64GB,70,18.26,HP,Storage,HFUD064-1U1BA,4712847096820,35
-HFUD128-1U1BA,HP MicroSD U1 128GB,HP MicroSD U1 128GB,50,31.3,HP,Storage,HFUD128-1U1BA,4712847096837,60
+HFUD032-1U1BA,HP MicroSD U1 32GB,HP MicroSD U1 32GB,20,10.42,HP,Storage,HFUD032-1U1BA,4712847096813,20
+HFUD064-1U1BA,HP MicroSD U1 64GB,HP MicroSD U1 64GB,20,18.26,HP,Storage,HFUD064-1U1BA,4712847096820,35
+HFUD128-1U1BA,HP MicroSD U1 128GB,HP MicroSD U1 128GB,20,31.3,HP,Storage,HFUD128-1U1BA,4712847096837,60
 HIF80902,HiFuture FutureGo Pro Stainless Smartwatch Black,HiFuture FutureGo Pro Stainless Smartwatch Black,72,111.3,HiFuture,SMD,GOPRO-BK,6972576180902,159.99
 HIF80919,HiFuture FutureGo Pro Stainless Smartwatch Silver,HiFuture FutureGo Pro Stainless Smartwatch Silver,29,111.3,HiFuture,SMD,GOPRO-SL,6972576180919,159.99
 HIF80933,HiFuture FutureMate Open-Ear Sport earphone Black,HiFuture FutureMate Open-Ear Sport earphone Black,25,25.84,HiFuture,Speaker and Headset,FUTUREMATE-BK,6972576180933,42.99
-HIF80940,HiFuture FutureMate Open-Ear Sport earphone Grey&White,HiFuture FutureMate Open-Ear Sport earphone Grey&White,9,25.84,HiFuture,Speaker and Headset,FUTUREMATE-GW,6972576180940,42.99
+HIF80940,HiFuture FutureMate Open-Ear Sport earphone Grey&White,HiFuture FutureMate Open-Ear Sport earphone Grey&White,8,25.84,HiFuture,Speaker and Headset,FUTUREMATE-GW,6972576180940,42.99
 HIF80964,HiFuture FutureTour overhead earphone Black,HiFuture FutureTour overhead earphone Black,1,39.32,HiFuture,Speaker and Headset,FUTURETOUR-BK,6972576180964,64.99
 HIF81008,HiFuture MIX2 High end outdoor bluetooth calling smartwatch Black,HiFuture MIX2 High end outdoor bluetooth calling smartwatch Black,53,118.25,HiFuture,SMD,MIX2-BK,6972576181008,169.99
 HIF81015,HiFuture MIX2 High end outdoor bluetooth calling smartwatch Grey,HiFuture MIX2 High end outdoor bluetooth calling smartwatch Grey,29,118.25,HiFuture,SMD,MIX2-GY,6972576181015,169.99
@@ -433,17 +432,16 @@ HIF82333,HiFuture LUME Smartwatch Dark Green,HiFuture LUME Smartwatch Dark Green
 HIF82340,HiFuture GO PRO2 Smartwatch Black,HiFuture GO PRO2 Smartwatch Black,0,109,HiFuture,SMD,GOPRO2-BK,6972576182340,174.99
 HIF82357,HiFuture GO PRO2 Smartwatch Silver,HiFuture GO PRO2 Smartwatch Silver,0,109,HiFuture,SMD,GOPRO2-SL,6972576182357,174.99
 HK-NB65C,Huntkey 65W Notebook USB-C Power Adapter,Huntkey 65W Notebook USB-C Power Adapter,76,36,HUNTKEY,ADAPTORS / CONVERTERS,P11-06520CA01R ,"4894788000415,HKA06520033-016",69.9
-HPFD150W-32,HP150 USB 2.0 Flash Drive 32GB,HP150 USB 2.0 Flash Drive 32GB,250,10.43,HP,Storage,HPFD150W-32,4712847091566,20
-HPFD150W-64,HP150 USB 2.0 Flash Drive 64GB,HP150 USB 2.0 Flash Drive 64GB,101,18.26,HP,Storage,HPFD150W-64,4712847091573,35
+HPFD150W-32,HP150 USB 2.0 Flash Drive 32GB,HP150 USB 2.0 Flash Drive 32GB,20,10.43,HP,Storage,HPFD150W-32,4712847091566,20
+HPFD150W-64,HP150 USB 2.0 Flash Drive 64GB,HP150 USB 2.0 Flash Drive 64GB,11,18.26,HP,Storage,HPFD150W-64,4712847091573,35
 HPFD206C-128,HP x206C OTG USB 3.2 Flash Drive 128GB,HP x206C OTG USB 3.2 Flash Drive 128GB,5,33.39,HP,Storage,HPFD206C-128,751492781969,64
-HPFD206C-256,HP x206C OTG USB 3.2 Flash Drive 256GB,HP x206C OTG USB 3.2 Flash Drive 256GB,34,56.87,HP,Storage,HPFD206C-256,751492781976,109
+HPFD206C-256,HP x206C OTG USB 3.2 Flash Drive 256GB,HP x206C OTG USB 3.2 Flash Drive 256GB,0,56.87,HP,Storage,HPFD206C-256,751492781976,109
 HPFD206C-32,HP x206C OTG USB 3.2 Flash Drive 32GB,HP x206C OTG USB 3.2 Flash Drive 32GB,5,15.13,HP,Storage,HPFD206C-32,751492781938,29
 HPFD206C-64,HP x206C OTG USB 3.2 Flash Drive 64GB,HP x206C OTG USB 3.2 Flash Drive 64GB,2,20.35,HP,Storage,HPFD206C-64,751492781952,39
 IB-HPE-T-A13CL,"iBenzer Hexpact Protective Case,Apple Macbook Air 13"" Thunderbolt 2018 A1932 - Clear","iBenzer Hexpact Protective Case,Apple Macbook Air 13"" Thunderbolt 2018 A1932 - Clear",7,41.34,iBenzer,ACCESSORIES,HPE-T-A13CL,8100216205724,39
 IB-NPT-A13T-BK,"iBenzer Neon Party – Hard Shell Case for Apple Macbook Air"" – Thunderbolt 3 (USB-C)-Black-2018 new e","iBenzer Neon Party – Hard Shell Case for Apple Macbook Air"" – Thunderbolt 3 (USB-C)-Black-2018 new e",31,21.6,iBenzer,ACCESSORIES,LC-NPT-A13T-BK,8173450289928,30.5
 IB-NPT-A13T-CYCL,"iBenzer Neon Party – Hard Shell Case for Apple Macbook Air"" – Thunderbolt 3 (USB-C)-Crystal Clear-20","iBenzer Neon Party – Hard Shell Case for Apple Macbook Air"" – Thunderbolt 3 (USB-C)-Crystal Clear-20",14,18.91,iBenzer,ACCESSORIES,LC-NPT-A13T-CYCL,"817345029005,0817345029005,8173450290054",19
 IB-NPT-T15RQ,"iBenzer Neon Party Hard Case for Apple MacBook Pro 15"" Touch/none Touchbar - Rose Quartz","iBenzer Neon Party Hard Case for Apple MacBook Pro 15"" Touch/none Touchbar - Rose Quartz",7,22.25,iBenzer,ACCESSORIES,LC-NPT-T15RQ,8173450269746,19
-KB-DP-KB500,Deepcool KB500 TKL Mechanical Gaming Keyboard with RGB,Deepcool KB500 TKL Mechanical Gaming Keyboard with RGB,0,61.7,DEEPCOOL,KEYBOARDS - Gaming,R-KB500-BKAN4A-G,6933412796282,89
 KEYC-AT-10,Keychron Enter key Keycap (2.25u) Black and Orange,Keychron Enter key Keycap (2.25u) Black and Orange,5,56.25,Keychron,KEYBOARDS - Keypad,AT-10,,79.9
 KEYC-AT-12,"Keychron Family Computer Aluminum Alloy Artisan Keycap
 2u / Silver & Gold","Keychron Family Computer Aluminum Alloy Artisan Keycap
@@ -638,7 +636,7 @@ KEYC-MT-03,Keychron Q1 & K2 OEM Dye-Sub PBT Keycap Set - Beach Q1/Q2,Keychron Q1
 KEYC-PBT-03,Keychron Double Shot OSA PBT Keycap Full Keycap Set - White on Black,Keychron Double Shot OSA PBT Keycap Full Keycap Set - White on Black,0,56.25,Keychron,KEYBOARDS - Keypad,PBT-03,"4895248812197,X00362Y6EV",79.9
 KEYC-PBT-05,Keychron Double Shot OSA PBT Keycap Full Keycap Set - Black lettering on White Keys,Keychron Double Shot OSA PBT Keycap Full Keycap Set - Black lettering on White Keys,0,56.25,Keychron,KEYBOARDS - Keypad,PBT-05,"4895248814283,X00362YHNL",79.9
 KEYC-PBT-30,Keychron  Q3 Q6 K8 K8Pro K10 K12 OEM Dye-Sub PBT Keycap Set - Iceberg,Keychron  Q3 Q6 K8 K8Pro K10 K12 OEM Dye-Sub PBT Keycap Set - Iceberg,0,70.38,Keychron,KEYBOARDS - Keypad,PBT-30,"4895248821267,X0037A43YP",99.9
-KEYC-PBT-32,Keychron Q3&Q6&K8&K8Pro&K10&K12 OEM Dye-Sub PBT Keycap Set - Beach,Keychron Q3&Q6&K8&K8Pro&K10&K12 OEM Dye-Sub PBT Keycap Set - Beach,2,70.38,Keychron,KEYBOARDS - Keypad,PBT-32,"4895248821281,X0037A9GMT",99.9
+KEYC-PBT-32,Keychron Q3&Q6&K8&K8Pro&K10&K12 OEM Dye-Sub PBT Keycap Set - Beach,Keychron Q3&Q6&K8&K8Pro&K10&K12 OEM Dye-Sub PBT Keycap Set - Beach,1,70.38,Keychron,KEYBOARDS - Keypad,PBT-32,"4895248821281,X0037A9GMT",99.9
 KEYC-PBT-33,Keychron Keycap Set Unicorn A PBT Dye-Sub ANSI OEM US Q3 / Q4 / Q6 / K8 / K8 Pro / K10 / K12 / C1 / C2,Keychron Keycap Set Unicorn A PBT Dye-Sub ANSI OEM US Q3 / Q4 / Q6 / K8 / K8 Pro / K10 / K12 / C1 / C2,3,86.4,Keychron,ACCESSORIES,PBT-33,"4895248821298,X0037A6KJB",99.9
 KEYC-PBT-34,Keychron Q3&Q6&K8&K8Pro&K10&K12 OEM Dye-Sub PBT Keycap Set - Wheat Grey,Keychron Q3&Q6&K8&K8Pro&K10&K12 OEM Dye-Sub PBT Keycap Set - Wheat Grey,3,70.38,Keychron,KEYBOARDS - Keypad,PBT-34,"4895248821304,X0037A43YZ",99.9
 KEYC-PBT-45,Keychron Double Shot KSA PBT Keycap Full Keycap Set - Dark Gray and Grayish Blue,Keychron Double Shot KSA PBT Keycap Full Keycap Set - Dark Gray and Grayish Blue,9,56.25,Keychron,KEYBOARDS - Keypad,PBT-45,"4895248839729,X003PWKI0X",79.9
@@ -950,7 +948,7 @@ MER-HALOH85X-2P,Mercusys Halo H85X AX3000 Whole Home Mesh Wi-Fi 6 System - 2 Pac
 MER-HALOH90X-2P,Mercusys Halo H90X AX6000 Whole Home Mesh WiFi 6 System - 2 Pack,Mercusys Halo H90X AX6000 Whole Home Mesh WiFi 6 System - 2 Pack,13,289.8,MERCUSYS,NETWORKING - Wireless AP,Halo H90X(2-Pack),6957939000943,349
 MER-MA80XE,MERCUSYS AX3000 Dual-Band Wi-Fi 6 Bluetooth PCI Express Adapter,MERCUSYS AX3000 Dual-Band Wi-Fi 6 Bluetooth PCI Express Adapter,0,49,MERCUSYS,NETWORKING - Wireless Adapter,MA80XE,6957939000844,59
 MER-MA86XE,MERCUSYS AXE5400 Tri-Band Wi-Fi 6E Bluetooth PCI Express Adapter,MERCUSYS AXE5400 Tri-Band Wi-Fi 6E Bluetooth PCI Express Adapter,0,57.3,MERCUSYS,NETWORKING - Wireless Adapter,MA86XE,"6957939000981,6957939001865",69
-MER-MB110-4G,"MERCUSYS N300 Wi-Fi 4G LTE Router, Build-In 150Mbps 4G LTE Modem","MERCUSYS N300 Wi-Fi 4G LTE Router, Build-In 150Mbps 4G LTE Modem",7,65.6,MERCUSYS,NETWORKING - Wireless Router,MB110-4G,"6957939001063,6957939001995",79
+MER-MB110-4G,"MERCUSYS N300 Wi-Fi 4G LTE Router, Build-In 150Mbps 4G LTE Modem","MERCUSYS N300 Wi-Fi 4G LTE Router, Build-In 150Mbps 4G LTE Modem",6,65.6,MERCUSYS,NETWORKING - Wireless Router,MB110-4G,"6957939001063,6957939001995",79
 MER-MB130-4G,MERCUSYS MB130-4G AC1200 Wireless Dual Band 4G LTE Router,MERCUSYS MB130-4G AC1200 Wireless Dual Band 4G LTE Router,0,90.5,MERCUSYS,NETWORKING - Wireless Router,MB130-4G,6957939001971,109
 MER-MB230-4G,"Mercusys MB230-4G, 4G+ Cat6 AC1200 Wireless Dual Band Gigabit Router","Mercusys MB230-4G, 4G+ Cat6 AC1200 Wireless Dual Band Gigabit Router",0,123.7,MERCUSYS,NETWORKING - Wireless Router,MB230-4G,6957939001827,149
 MER-MR27BE,"Mercusys MR27BE, BE3600 Dual Band Wi-Fi 7 Router","Mercusys MR27BE, BE3600 Dual Band Wi-Fi 7 Router",0,148.6,MERCUSYS,NETWORKING - Wireless Router,MR27BE,6957939001711,179
@@ -978,7 +976,7 @@ NB-DP-SE460,Deepcool SE460 compact laptop stand,Deepcool SE460 compact laptop st
 NB-MULTICOREX6,"Deepcool Multi Core X6 Notebook Cooler With 2x140mm, 2x100mm Fans, Step Switch & 2 USB Ports","Deepcool Multi Core X6 Notebook Cooler With 2x140mm, 2x100mm Fans, Step Switch & 2 USB Ports",50,32.6,DEEPCOOL,Cooling - Notebook Cooling,MULTICOREX6,6933412725220,42.9
 NB-MULTICOREX8,"Deepcool Multi Core X8 17"" Notebook Cooler With 4x100mm Fans, Step Switch & 2 USB Ports","Deepcool Multi Core X8 17"" Notebook Cooler With 4x100mm Fans, Step Switch & 2 USB Ports",9,51.4,DEEPCOOL,Cooling - Notebook Cooling,MULTICOREX8,6933412775249,69.9
 NB-N200,"Deepcool Notebook Cooler Pad Up to 15.6"" Black Aluminium Mesh with 120mm Fan","Deepcool Notebook Cooler Pad Up to 15.6"" Black Aluminium Mesh with 120mm Fan",2,12.9,DEEPCOOL,Cooling - Notebook Cooling,TNP08346,6933412703266,17.7
-NB-UPAL,Deepcool U channel notebook cooler with 14cm fan,Deepcool U channel notebook cooler with 14cm fan,22,25,DEEPCOOL,Cooling - Notebook Cooling,UPAL,6933412775607,32.9
+NB-UPAL,Deepcool U channel notebook cooler with 14cm fan,Deepcool U channel notebook cooler with 14cm fan,21,25,DEEPCOOL,Cooling - Notebook Cooling,UPAL,6933412775607,32.9
 PA-140NSGR40,"OEM LED Screen  14.0""  1366x768 LED Glare Slim Bottom Right  40PIN","OEM LED Screen  14.0""  1366x768 LED Glare Slim Bottom Right  40PIN",1,89.1,Generic,POWER SUPPLIES,PA-140NSGR40,,106.25
 PA-156NNGL40,"OEM LED Screen 15.6"" 1366x768 Glossy Left 40Pin","OEM LED Screen 15.6"" 1366x768 Glossy Left 40Pin",6,89.1,Generic,POWER SUPPLIES,PA-156NNGL40,,113.85
 PA-APP45-A1234,OEM Macbook Air  Power Adapter  Magsafe 2 45W A1234 A1436,OEM Macbook Air  Power Adapter  Magsafe 2 45W A1234 A1436,0,67.1,Generic,POWER SUPPLIES,PA-APP45-A1234,,79.35
@@ -1111,7 +1109,7 @@ RPBX100D,"LUMI 16:10 ratio projector screen, 100inch (View Size 2150x1350mm) wit
 SF-FH04,"Deepcool Fan Hub, PWM 4 Fans, 4 Pin","Deepcool Fan Hub, PWM 4 Fans, 4 Pin",17,6.1,DEEPCOOL,Cooling - Cooling Fan,DP-F04PWM-HUB,6933412795995,7.6
 SF-RF120FS,Deepcool 12CM high brightness RGB case fan,Deepcool 12CM high brightness RGB case fan,66,9.04,DEEPCOOL,Cooling - Cooling Fan,DP-FLED3-RF120-FS,6933412710516,11.9
 SF-XFAN120,Deepcool 120mm Hydro Bearing Case Fan with 4-pin Molex Connector,Deepcool 120mm Hydro Bearing Case Fan with 4-pin Molex Connector,88,5.24,DEEPCOOL,Cooling - Cooling Fan,SF-XFAN120,6933412703624,6.9
-SF-XFAN80,Deepcool 80mm Hydro Bearing Case Fan with 4-pin Molex Connector. Blackcase & black blades,Deepcool 80mm Hydro Bearing Case Fan with 4-pin Molex Connector. Blackcase & black blades,146,3.96,DEEPCOOL,Cooling - Cooling Fan,XFAN80,6933412703242,9.9
+SF-XFAN80,Deepcool 80mm Hydro Bearing Case Fan with 4-pin Molex Connector. Blackcase & black blades,Deepcool 80mm Hydro Bearing Case Fan with 4-pin Molex Connector. Blackcase & black blades,145,3.96,DEEPCOOL,Cooling - Cooling Fan,XFAN80,6933412703242,9.9
 SP-ANT-CSK550DC,Antec CSK550DC AU 80plus Bronze 5yr Warranty PSU,Antec CSK550DC AU 80plus Bronze 5yr Warranty PSU,125,72.63,Antec,POWER SUPPLIES,0-761345-20101-8,761345201018,109.9
 SP-ANT-CSK650DC,Antec CSK650DC AU 80plus Bronze 5yr Warranty PSU,Antec CSK650DC AU 80plus Bronze 5yr Warranty PSU,55,89.15,Antec,POWER SUPPLIES,0-761345-20106-3,761345201063,134.9
 SP-ANT-CSK750DC,Antec CSK750DC AU 80plus Bronze 5yr Warranty PSU,Antec CSK750DC AU 80plus Bronze 5yr Warranty PSU,56,105.67,Antec,POWER SUPPLIES,0-761345-20111-7,761345201117,159.9
@@ -1134,7 +1132,7 @@ THP-AS,Artic Silver 5 High-Density Polysynthetic Thermal Compound 3.5 Gram,Artic
 THP-DM9,DeepCool DM9 professional-grade thermal paste 1.5g,DeepCool DM9 professional-grade thermal paste 1.5g,154,6.8,DEEPCOOL,Cooling - Thermal Paste,R-DM9-GY015C-G,6933412700265,10.9
 THP-Z5,Deepcool Z5 Thermal Paste with 10% Silver Oxide Compounds,Deepcool Z5 Thermal Paste with 10% Silver Oxide Compounds,93,5.24,DEEPCOOL,Cooling - Thermal Paste,Z5,"6933412703150,6933412700043",6.9
 THR00594BULK,Thermalright Aqua Elite 240 Black Argb V3 AIO CPU Cooler (Box of 6),Thermalright Aqua Elite 240 Black Argb V3 AIO CPU Cooler (Box of 6),0,409.2,Thermalright,Cooling - CPU Cooling,Aqua Elite 240 Black Argb V3 (in bulk),9420066900594,564
-THR00600BULK,Thermalright Aqua Elite 240 White Argb V3 AIO CPU Cooler (Box of 6),Thermalright Aqua Elite 240 White Argb V3 AIO CPU Cooler (Box of 6),4,436.2,Thermalright,Cooling - CPU Cooling,Aqua Elite 240 White Argb V3 (in bulk),9420066900600,599
+THR00600BULK,Thermalright Aqua Elite 240 White Argb V3 AIO CPU Cooler (Box of 6),Thermalright Aqua Elite 240 White Argb V3 AIO CPU Cooler (Box of 6),3,436.2,Thermalright,Cooling - CPU Cooling,Aqua Elite 240 White Argb V3 (in bulk),9420066900600,599
 THR00617BULK,Thermalright Aqua Elite 360 Black Argb V3 AIO CPU Cooler (Box of 4),Thermalright Aqua Elite 360 Black Argb V3 AIO CPU Cooler (Box of 4),0,338.8,Thermalright,Cooling - CPU Cooling,Aqua Elite 360 Black Argb V3 (in bulk),9420066900617,468
 THR00624BULK,Thermalright Aqua Elite 360 White Argb V3 AIO CPU Cooler (Box of 4),Thermalright Aqua Elite 360 White Argb V3 AIO CPU Cooler (Box of 4),0,356.4,Thermalright,Cooling - CPU Cooling,Aqua Elite 360 White Argb V3 (in bulk),9420066900624,492
 THR00754,Thermalright Frozen Infinity 360 Black Bulk Water Cooling (4 in box),Thermalright Frozen Infinity 360 Black Bulk Water Cooling (4 in box),0,370.8,Thermalright,Cooling - Water Cooling,Frozen Infinity 360 Black (in bulk),9420066900754,511.6
@@ -1227,7 +1225,7 @@ TL-ARCHERMR600,"TP-Link OneMesh Archer MR600 4G+ LTE Cat6 Wi-Fi Router, Micro-SI
 TL-ARCHERNX200,"TP-Link Archer NX200, 5G AX1800 Wireless Dual-Band Gigabit Router","TP-Link Archer NX200, 5G AX1800 Wireless Dual-Band Gigabit Router",0,497.4,TP-LINK,NETWORKING - Wireless Router,Archer NX200,8885020621075,599
 TL-ARCHERT1300UNANO,"TP-Link Archer T1300U Nano, AC1300 Nano Wireless MU-MIMO USB Adapter","TP-Link Archer T1300U Nano, AC1300 Nano Wireless MU-MIMO USB Adapter",0,37.4,TP-LINK,NETWORKING - Wireless Adapter,Archer T1300U Nano,4895252507324,45
 TL-ARCHERT2U-NANO,TP-Link AC600 Nano Wireless USB Adapter,TP-Link AC600 Nano Wireless USB Adapter,0,24.1,TP-LINK,NETWORKING - Wireless Adapter,Archer T2U Nano,"0152502261,6935364099978,2197008003565",29
-TL-ARCHERT2U-PLUS,TP-Link AC600 plus Wireless USB Adapter,TP-Link AC600 plus Wireless USB Adapter,1,29.1,TP-LINK,NETWORKING - Wireless Adapter,Archer T2U Plus,6935364099862,35
+TL-ARCHERT2U-PLUS,TP-Link AC600 plus Wireless USB Adapter,TP-Link AC600 plus Wireless USB Adapter,0,29.1,TP-LINK,NETWORKING - Wireless Adapter,Archer T2U Plus,6935364099862,35
 TL-ARCHERT3U-PLUS,TP-Link AC1300 High Gain Wireless Dual Band USB Adapter,TP-Link AC1300 High Gain Wireless Dual Band USB Adapter,0,40.7,TP-LINK,NETWORKING - Wireless Adapter,Archer T3U Plus,6935364053413,49
 TL-ARCHERT4E,TP-LINK Archer T4E -AC1200 Wireless Dual Band PCI Express Adapter,TP-LINK Archer T4E -AC1200 Wireless Dual Band PCI Express Adapter,99,36.5,TP-LINK,NETWORKING - Wireless Adapter,ArcherT4E,"0152502293,6935364089931,8885020628517",44
 TL-ARCHERT4U,TP-Link AC1300 Wireless Dual Band USB Adapter,TP-Link AC1300 Wireless Dual Band USB Adapter,0,40.7,TP-LINK,NETWORKING - Wireless Adapter,Archer T4U,"0152502220,6935364097318,2194978001736",49
@@ -1242,7 +1240,7 @@ TL-ARCHERTX55E,TP-LINK TX55E AX3000 Wi-Fi 6 Bluetooth 5.2 PCIe Adapter,TP-LINK T
 TL-ARCHERTXE70UH,"TP-Link Archer TXE70UH, AXE5400 Wi-Fi 6E High Gain Wireless USB Adapter","TP-Link Archer TXE70UH, AXE5400 Wi-Fi 6E High Gain Wireless USB Adapter",0,73.9,TP-LINK,NETWORKING - Wireless Adapter,Archer TXE70UH,4895252501681,89
 TL-ARCHERVX1800V,TP LINK Archer VX1800v AX1800 Dual-Band Wi-Fi 6 VDSL/ADSL Modem Router,TP LINK Archer VX1800v AX1800 Dual-Band Wi-Fi 6 VDSL/ADSL Modem Router,13,231.7,TP-LINK,NETWORKING - Wireless Router,Archer VX1800v,4895252503821,279
 TL-CPE210,TP-Link CPE210 2.4GHz 300Mbps 9dBi Outdoor CPE,TP-Link CPE210 2.4GHz 300Mbps 9dBi Outdoor CPE,0,57.3,TP-LINK,NETWORKING - Wireless AP,CPE210,6935364071677,69
-TL-CPE220,TP-LINK CPE220 2.4GHz 300Mbps 12dBi Outdoor CPE,TP-LINK CPE220 2.4GHz 300Mbps 12dBi Outdoor CPE,1,82.2,TP-LINK,NETWORKING - Wireless AP,CPE220,6935364091583,99
+TL-CPE220,TP-LINK CPE220 2.4GHz 300Mbps 12dBi Outdoor CPE,TP-LINK CPE220 2.4GHz 300Mbps 12dBi Outdoor CPE,0,82.2,TP-LINK,NETWORKING - Wireless AP,CPE220,6935364091583,99
 TL-CPE510,TP-Link CPE510 5GHz 300Mbps 13dBi Outdoor CPE,TP-Link CPE510 5GHz 300Mbps 13dBi Outdoor CPE,0,90.5,TP-LINK,NETWORKING - Wireless AP,CPE510,6935364070922,109
 TL-CPE605,"TP Link Pharos Outdoor Series, 5GHz N150 OutdoorCPE, Qualcomm, 23dBm, 2T2R, 2","TP Link Pharos Outdoor Series, 5GHz N150 OutdoorCPE, Qualcomm, 23dBm, 2T2R, 2",2,90.5,TP-LINK,NETWORKING - POE & EOP,CPE605,6935364089887,109
 TL-CPE610,TP-Link CPE610 5GHz 300Mbps 29dB Outdoor CPE,TP-Link CPE610 5GHz 300Mbps 29dB Outdoor CPE,0,123.7,TP-LINK,NETWORKING - Wireless AP,CPE610,6935364081027,149
@@ -1261,7 +1259,7 @@ TL-DECOBE85-1P,TP-Link Deco BE85 BE22000 Whole Home Mesh Wi-Fi 7 Router - 1 Pack
 TL-DECOBE85-2P,TP-Link Deco BE85 BE22000 Tri-Band Whole Home Mesh Wi-Fi 7 System - 2 Pack,TP-Link Deco BE85 BE22000 Tri-Band Whole Home Mesh Wi-Fi 7 System - 2 Pack,0,1992.2,TP-LINK,NETWORKING - Wireless Router,Deco BE85(2-pack),4897098686928,2399
 TL-DECOBE85-3P,TP LINK BE22000 Whole Home Mesh Wi-Fi 7 System(Tri-Band) - 3 Pack,TP LINK BE22000 Whole Home Mesh Wi-Fi 7 System(Tri-Band) - 3 Pack,8,2905.7,TP-LINK,NETWORKING - Wireless Router,Deco BE85(3-pack),4897098686904,3499
 TL-DECOM4-2P,TP-Link Deco M4 AC1200 (2-Pack) Mesh Wi-Fi System,TP-Link Deco M4 AC1200 (2-Pack) Mesh Wi-Fi System,4,123.7,TP-LINK-R,NETWORKING - Wireless Router,Deco M4(2-pack),"6935364084189,0150502727",149
-TL-DECOM5-1P,TP-Link Deco M5 (1-Pack) Whole-Home Mesh Wi-Fi,TP-Link Deco M5 (1-Pack) Whole-Home Mesh Wi-Fi,1,98.8,TP-LINK-R,NETWORKING - Wireless Router,DecoM5(1-pack),"0150502654,6935364080822",119
+TL-DECOM5-1P,TP-Link Deco M5 (1-Pack) Whole-Home Mesh Wi-Fi,TP-Link Deco M5 (1-Pack) Whole-Home Mesh Wi-Fi,0,98.8,TP-LINK-R,NETWORKING - Wireless Router,DecoM5(1-pack),"0150502654,6935364080822",119
 TL-DECOM5-2P,TP-Link Deco M5 (2-Pack) Mesh Wi-Fi System,TP-Link Deco M5 (2-Pack) Mesh Wi-Fi System,76,181.9,TP-LINK-R,ACCESSORIES,DecoM5(2-pack),"0150502691,6935364080846,0150502971",219
 TL-DECOM5-3P,TP-Link Deco M5 (3-Pack) Whole-Home Mesh Wi-Fi,TP-Link Deco M5 (3-Pack) Whole-Home Mesh Wi-Fi,4,248.3,TP-LINK,NETWORKING - Wireless Router,Deco M5(3-pack),"6935364080839,0150502967",299
 TL-DECOX10-1P,TP LINK AX1500 Whole Home Mesh Wi-Fi 6 System - 1 Pack,TP LINK AX1500 Whole Home Mesh Wi-Fi 6 System - 1 Pack,0,132,TP-LINK,NETWORKING - Wireless Router,Deco X10(1-pack),4895252503197,159
@@ -1288,21 +1286,21 @@ TL-DECOX60-1P,TP-Link Deco X60 AX5400 Whole Home Mesh Wi-Fi 6 System - 1 Pack,TP
 TL-DECOX60-2P,TP-Link Deco X60 AX5400 Whole Home Mesh Wi-Fi 6 System - 2 Pack,TP-Link Deco X60 AX5400 Whole Home Mesh Wi-Fi 6 System - 2 Pack,20,372.9,TP-LINK,NETWORKING - Wireless Router,Deco X60(2-pack),"6935364085599,4897098689318",449
 TL-DECOX60-3P,TP-Link Deco X60 AX5400 Whole Home Mesh Wi-Fi 6 System - 3 Pack,TP-Link Deco X60 AX5400 Whole Home Mesh Wi-Fi 6 System - 3 Pack,7,539,TP-LINK,NETWORKING - Wireless Router,Deco X60(3-pack),4897098689325,649
 TL-DECOX80-5G-1P,TP-Link Deco X80-5G Whole Home Wi-Fi 6 Gateway - 1 Pack,TP-Link Deco X80-5G Whole Home Wi-Fi 6 Gateway - 1 Pack,19,750,TP-LINK,NETWORKING - Wireless Router,Deco X80-5G(1-pack),4897098687857,959
-TL-DECOX95-1P,TP LINK Deco X95 AX7800 Tri-Band Mesh WiFi 6 System - 1 Pack,TP LINK Deco X95 AX7800 Tri-Band Mesh WiFi 6 System - 1 Pack,1,372.9,TP-LINK,NETWORKING - Wireless Router,Deco X95(1-pack),4897098685037,449
+TL-DECOX95-1P,TP LINK Deco X95 AX7800 Tri-Band Mesh WiFi 6 System - 1 Pack,TP LINK Deco X95 AX7800 Tri-Band Mesh WiFi 6 System - 1 Pack,0,372.9,TP-LINK,NETWORKING - Wireless Router,Deco X95(1-pack),4897098685037,449
 TL-DECOX95-2P,TP LINK AX7800 Tri-Band Mesh WiFi 6 System Deco X95(2-pack),TP LINK AX7800 Tri-Band Mesh WiFi 6 System Deco X95(2-pack),13,667,TP-LINK,NETWORKING - Wireless Router,Deco X95(2-pack),4897098685044,799
 TL-DECOXE200-1P,TP Link Deco XE200 AXE11000 Whole Home Mesh Wi-Fi 6E System - 1 Pack,TP Link Deco XE200 AXE11000 Whole Home Mesh Wi-Fi 6E System - 1 Pack,2,539,TP-LINK-R,NETWORKING - Wireless Router,Deco XE200(1-pack),4897098687703,649
 TL-DECOXE200-2P,TP Link Deco XE200 AXE11000 Whole Home Mesh Wi-Fi 6E System - 2 Pack,TP Link Deco XE200 AXE11000 Whole Home Mesh Wi-Fi 6E System - 2 Pack,70,995.7,TP-LINK,NETWORKING - Wireless Router,Deco XE200(2-pack),4897098687697,1199
 TL-DECOXE75-1P,TP-Link Deco XE75 AXE5400 Tri-Band Mesh Wi-Fi 6E System - 1 Pack,TP-Link Deco XE75 AXE5400 Tri-Band Mesh Wi-Fi 6E System - 1 Pack,0,248.3,TP-LINK,NETWORKING - Wireless Router,Deco XE75(1-pack),4897098687123,299
 TL-DECOXE75-2P,TP-Link Deco XE75 AXE5400 Tri-Band Mesh Wi-Fi 6E System - 2 Pack,TP-Link Deco XE75 AXE5400 Tri-Band Mesh Wi-Fi 6E System - 2 Pack,0,455.9,TP-LINK,NETWORKING - Wireless Router,Deco XE75(2-pack),4897098687130,549
 TL-DECOXE75-3P,TP-Link Deco XE75 AXE5400 Tri-Band Mesh Wi-Fi 6E System - 3 Pack,TP-Link Deco XE75 AXE5400 Tri-Band Mesh Wi-Fi 6E System - 3 Pack,0,663.5,TP-LINK,NETWORKING - Wireless Router,Deco XE75(3-pack),4897098687147,799
-TL-EAP110,TP-LINK EAP110 300Mbps Wireless N Ceiling Mount Access Point with Passive PoE,TP-LINK EAP110 300Mbps Wireless N Ceiling Mount Access Point with Passive PoE,20,49,TP-LINK,NETWORKING - Wireless AP,EAP110,6935364091620,59
+TL-EAP110,TP-LINK EAP110 300Mbps Wireless N Ceiling Mount Access Point with Passive PoE,TP-LINK EAP110 300Mbps Wireless N Ceiling Mount Access Point with Passive PoE,19,49,TP-LINK,NETWORKING - Wireless AP,EAP110,6935364091620,59
 TL-EAP110-OUTDOOR,TP-Link EAP110-Outdoor 300Mbps Wireless N Outdoor Access Point,TP-Link EAP110-Outdoor 300Mbps Wireless N Outdoor Access Point,7,57.3,TP-LINK,NETWORKING - Wireless AP,EAP110-Outdoor,6935364097752,69
 TL-EAP115,TP-LINK EAP115 300Mbps Wireless N Ceiling Mount Access Point with Passive PoE,TP-LINK EAP115 300Mbps Wireless N Ceiling Mount Access Point with Passive PoE,2,57.3,TP-LINK,NETWORKING - Wireless AP,EAP115,6935364096939,69
 TL-EAP211-BRIDGEKIT,TP-Link EAP211-Bridge KIT Wireless Bridge 5 GHz 867 Mbps Indoor/Outdoor Access Point,TP-Link EAP211-Bridge KIT Wireless Bridge 5 GHz 867 Mbps Indoor/Outdoor Access Point,46,206.8,TP-LINK,NETWORKING - Wireless AP,EAP211-Bridge KIT,"4895252502541,8885020627053",249
 TL-EAP215-BRIDGEKIT,TP-Link EAP215-Bridge KIT Wireless Bridge 5 GHz 867 Mbps Long-Range Indoor/Outdoor Access Point,TP-Link EAP215-Bridge KIT Wireless Bridge 5 GHz 867 Mbps Long-Range Indoor/Outdoor Access Point,15,231.7,TP-LINK,NETWORKING - Wireless AP,EAP215-Bridge KIT,"4895252502565,8885020627077",279
 TL-EAP225,TP-Link EAP225 AC1350 Wireless MU-MIMO Gigabit Ceiling Mount Access Point,TP-Link EAP225 AC1350 Wireless MU-MIMO Gigabit Ceiling Mount Access Point,19,107.1,TP-LINK,NETWORKING - Wireless Router,EAP225,"6935364096915,0153500330",129
 TL-EAP225-OUTDOOR,TP-Link EAP225-Outdoor Omada AC1200 Wireless MU-MIMO Gigabit Outdoor Access Point,TP-Link EAP225-Outdoor Omada AC1200 Wireless MU-MIMO Gigabit Outdoor Access Point,20,123.7,TP-LINK,NETWORKING - Wireless AP,EAP225-Outdoor,6935364083571,149
-TL-EAP235-WALL,TP-Link EAP235 Wall Omada AC1200 Wireless MU-MIMO Gigabit Wall Plate Access Point,TP-Link EAP235 Wall Omada AC1200 Wireless MU-MIMO Gigabit Wall Plate Access Point,12,98.8,TP-LINK,NETWORKING - Wireless AP,TL-EAP235-WALL,6935364088972,119
+TL-EAP235-WALL,TP-Link EAP235 Wall Omada AC1200 Wireless MU-MIMO Gigabit Wall Plate Access Point,TP-Link EAP235 Wall Omada AC1200 Wireless MU-MIMO Gigabit Wall Plate Access Point,11,98.8,TP-LINK,NETWORKING - Wireless AP,TL-EAP235-WALL,6935364088972,119
 TL-EAP610,TP Link AX1800 Wireless Dual Band Ceiling Mount Access Point by Omada SDN,TP Link AX1800 Wireless Dual Band Ceiling Mount Access Point by Omada SDN,0,148.6,TP-LINK,NETWORKING - Wireless AP,EAP610,"4897098683613,4897098687772",179
 TL-EAP610GP-DESKTOP,TP LINK EAP610GP-Desktop Omada AX1800 Wi-Fi 6 Desktop GPON Access Point,TP LINK EAP610GP-Desktop Omada AX1800 Wi-Fi 6 Desktop GPON Access Point,136,231.7,TP-LINK,NETWORKING - Wireless AP,EAP610GP-Desktop,8885020620504,279
 TL-EAP610-OUTDOOR,TP LINK AX1800 Indoor/Outdoor Dual-Band Wi-Fi 6 Access Point,TP LINK AX1800 Indoor/Outdoor Dual-Band Wi-Fi 6 Access Point,15,223.4,TP-LINK,NETWORKING - Wireless Router,EAP610-Outdoor,6935364010232,269
@@ -1385,7 +1383,7 @@ TL-RACKMOUNTKIT-19,TP LINK 19-inch Switches Rack Mount Kit,TP LINK 19-inch Switc
 TL-RE205,"TP-LINK AC750 Wi-Fi Range Extender, Wall Plugged, 2 external antennas","TP-LINK AC750 Wi-Fi Range Extender, Wall Plugged, 2 external antennas",0,57.3,TP-LINK,NETWORKING - Wireless Adapter,RE205,6935364080976,69
 TL-RE300,TP-Link RE300 AC1200 Wi-Fi Range Extender,TP-Link RE300 AC1200 Wi-Fi Range Extender,100,65.6,TP-LINK,NETWORKING - Wireless AP,RE300,"0153500405,6935364084608",79
 TL-RE450,TP-Link RE450 AC1750 Wi-Fi Range Extender,TP-Link RE450 AC1750 Wi-Fi Range Extender,100,98.8,TP-LINK,ACCESSORIES,RE450,"6935364095994,0153500235",119
-TL-RE500X,TP Link AX1500 Wi-Fi 6 Range Extender,TP Link AX1500 Wi-Fi 6 Range Extender,97,123.7,TP-LINK,NETWORKING - Wireless Router,RE500X,4897098682869,149
+TL-RE500X,TP Link AX1500 Wi-Fi 6 Range Extender,TP Link AX1500 Wi-Fi 6 Range Extender,96,123.7,TP-LINK,NETWORKING - Wireless Router,RE500X,4897098682869,149
 TL-RE605X,TP-Link AX1800 Wi-Fi Range Extender,TP-Link AX1800 Wi-Fi Range Extender,100,140.3,TP-LINK,NETWORKING - Wireless AP,RE605X,6935364010683,169
 TL-RE650,TP-Link RE650 AC2600 Wi-Fi Range Extender,TP-Link RE650 AC2600 Wi-Fi Range Extender,42,165.3,TP-LINK,NETWORKING - Wireless AP,RE650,"0153500224,6935364099411,2199016000010",199
 TL-RE655BE,"TP-Link RE655BE, BE9300 Tri-Band Wi-Fi 7 Range Extender","TP-Link RE655BE, BE9300 Tri-Band Wi-Fi 7 Range Extender",9,389.5,TP-LINK,NETWORKING - Wireless Router,RE655BE,8885020622591,469
@@ -1448,7 +1446,7 @@ TL-SG1428PE,TP-LINK SG1428PE 28-Port Gigabit Easy Smart Switch with 24-Port PoE+
 TL-SG2005P-PD,TP LINK Omada 5-Port Gigabit Smart Switch with 1-Port PoE++ In and 4-Port PoE+ Out,TP LINK Omada 5-Port Gigabit Smart Switch with 1-Port PoE++ In and 4-Port PoE+ Out,0,165.3,TP-LINK,NETWORKING - Switch & Adapter,SG2005P-PD,4897098689486,199
 TL-SG2008,TP-LINK 8 Port Gigabit Desktop Smart Switch,TP-LINK 8 Port Gigabit Desktop Smart Switch,7,132,TP-LINK,NETWORKING - Switch & Adapter,SG2008,"6935364021788,6935364080242,6935364010546",159
 TL-SG2008P,"TP-LINK TL-SG2008P, JetStream 8-Port Gigabit Smart Switch with 4-Port PoE+ w/ Omada SDN Supported 62w","TP-LINK TL-SG2008P, JetStream 8-Port Gigabit Smart Switch with 4-Port PoE+ w/ Omada SDN Supported 62w",15,157,TP-LINK,NETWORKING - Switch & Adapter,SG2008P,6935364072957,189
-TL-SG2016P,TP LINK JetStream 16-Port Gigabit Smart Switch with 8-Port PoE+,TP LINK JetStream 16-Port Gigabit Smart Switch with 8-Port PoE+,4,248.3,TP-LINK,SWITCHES,SG2016P,4897098689493,299
+TL-SG2016P,TP LINK JetStream 16-Port Gigabit Smart Switch with 8-Port PoE+,TP LINK JetStream 16-Port Gigabit Smart Switch with 8-Port PoE+,3,248.3,TP-LINK,SWITCHES,SG2016P,4897098689493,299
 TL-SG2210MP,"TP-LINK TL-SG2210MP, JetStream 10-Port Gigabit Smart Switch with 8-Port PoE+ w/ Omada SDN Supported, 150w","TP-LINK TL-SG2210MP, JetStream 10-Port Gigabit Smart Switch with 8-Port PoE+ w/ Omada SDN Supported, 150w",2,240,TP-LINK,NETWORKING - Switch & Adapter,SG2210MP,6935364030674,289
 TL-SG2210P,TP-LINK TL-SG2210P 8-Port Gigabit Smart PoE Switch with 2 SFP Slots,TP-LINK TL-SG2210P 8-Port Gigabit Smart PoE Switch with 2 SFP Slots,8,173.6,TP-LINK,NETWORKING - Switch & Adapter,SG2210P,"1760500060,6935364022013,6935364080259,6935364030698",209
 TL-SG2210XMP-M2,TP LINK Omada 8-Port 2.5GBASE-T and 2-Port 10GE SFP+ Smart Switch with 8-Port PoE+,TP LINK Omada 8-Port 2.5GBASE-T and 2-Port 10GE SFP+ Smart Switch with 8-Port PoE+,2,455.9,TP-LINK,SWITCHES,SG2210XMP-M2,4895252504774,549
@@ -1514,7 +1512,7 @@ TL-TAPOC200,"TP-Link Tapo C200 Smart Home Security Wi-Fi Camera, 1080p, Motorize
 TL-TAPOC200P2,TP Link Tapo C200P2 Outdoor Security Wi-Fi Camera - 2 Pack,TP Link Tapo C200P2 Outdoor Security Wi-Fi Camera - 2 Pack,0,73.9,TP-LINK,SURVEILLANCE CAMERA,Tapo C200P2,4895252501735,89
 TL-TAPOC201,"TP-Link Tapo C201, Pan/Tilt Home Security Wi-Fi Camera","TP-Link Tapo C201, Pan/Tilt Home Security Wi-Fi Camera",30,40.7,TP-LINK,SURVEILLANCE CAMERA,Tapo C201,8885020626131,49
 TL-TAPOC210,TP LINK Tapo C210 Pan/Tilt Home Security Wi-Fi Camera,TP LINK Tapo C210 Pan/Tilt Home Security Wi-Fi Camera,120,57.3,TP-LINK,SURVEILLANCE CAMERA,Tapo C210,4897098682777,69
-TL-TAPOC211,"TP LINK Tapo C211, Pan/Tilt Home Security Wi-Fi Camera","TP LINK Tapo C211, Pan/Tilt Home Security Wi-Fi Camera",4,57.3,TP-LINK,SURVEILLANCE CAMERA,Tapo C211,4895252502060,69
+TL-TAPOC211,"TP LINK Tapo C211, Pan/Tilt Home Security Wi-Fi Camera","TP LINK Tapo C211, Pan/Tilt Home Security Wi-Fi Camera",3,57.3,TP-LINK,SURVEILLANCE CAMERA,Tapo C211,4895252502060,69
 TL-TAPOC212,"TP LINK Tapo C212, Pan/Tilt Home Security Wi-Fi Camera","TP LINK Tapo C212, Pan/Tilt Home Security Wi-Fi Camera",16,61.5,TP-LINK,SURVEILLANCE CAMERA,Tapo C212,4895252503647,74
 TL-TAPOC220,"TP LINK Tapo C220, Pan/Tilt AI Home Security Wi-Fi Camera","TP LINK Tapo C220, Pan/Tilt AI Home Security Wi-Fi Camera",20,73.9,TP-LINK,SURVEILLANCE CAMERA,Tapo C220,4895252500936,89
 TL-TAPOC222,"TP-Link Tapo C222, Pan/Tilt AI Home Security Wi-Fi Camera","TP-Link Tapo C222, Pan/Tilt AI Home Security Wi-Fi Camera",57,82.2,TP-LINK,SURVEILLANCE CAMERA,Tapo C222,8885020626124,99
@@ -1559,7 +1557,7 @@ TL-TAPOP110,"TP LINK Mini Smart Wi-Fi Socket, Energy Monitoring","TP LINK Mini S
 TL-TAPOP110M,"TP-Link Tapo P110M, Mini Smart Wi-Fi Plug, Energy Monitoring","TP-Link Tapo P110M, Mini Smart Wi-Fi Plug, Energy Monitoring",298,29.9,TP-LINK,POWER BOARD,Tapo P110M,4895252504002,36
 TL-TAPOP300,"TP Link Smart Wi-Fi Power Strip, 3-Outlets","TP Link Smart Wi-Fi Power Strip, 3-Outlets",119,69.8,TP-LINK,POWER SUPPLIES,Tapo P300,4897098680179,84
 TL-TAPORV30MAXPLUSWH,"TP-Link Tapo RV30 Max Plus White, 5300Pa Hyper Suction Robot Vacuum & Mop + Smart Auto-Empty Dock ","TP-Link Tapo RV30 Max Plus White, 5300Pa Hyper Suction Robot Vacuum & Mop + Smart Auto-Empty Dock ",0,622,TP-LINK,TAP,Tapo RV30 Max Plus White,1210002607087,749
-TL-TAPORV30MAXWH,"TP-Link Tapo RV30 Max White, 5300Pa Hyper Suction Robot Vacuum & Mop","TP-Link Tapo RV30 Max White, 5300Pa Hyper Suction Robot Vacuum & Mop",8,539,TP-LINK,TAP,Tapo RV30 Max White,1210002607094,649
+TL-TAPORV30MAXWH,"TP-Link Tapo RV30 Max White, 5300Pa Hyper Suction Robot Vacuum & Mop","TP-Link Tapo RV30 Max White, 5300Pa Hyper Suction Robot Vacuum & Mop",7,539,TP-LINK,TAP,Tapo RV30 Max White,1210002607094,649
 TL-TAPORVA100,"TP LINK Tapo Robot Vacuum Replacement Kit (Compatible Models: Tapo RV30 Plus, Tapo RV30, Tapo RV10 Plus, Tapo RV10)","TP LINK Tapo Robot Vacuum Replacement Kit (Compatible Models: Tapo RV30 Plus, Tapo RV30, Tapo RV10 Plus, Tapo RV10)",15,43.2,TP-LINK,ACCESSORIES,Tapo RVA100,,52
 TL-TAPOS200B,TP LINK Tapo S200B Smart Button,TP LINK Tapo S200B Smart Button,40,28.2,TP-LINK,ACCESSORIES,Tapo S200B,4897098687277,34
 TL-TAPOS200D,TP LINK Tapo S200D Smart Remote Dimmer Switch,TP LINK Tapo S200D Smart Remote Dimmer Switch,23,32.4,TP-LINK,ACCESSORIES,Tapo S200D,4897098687819,39
@@ -1575,7 +1573,7 @@ TL-TX401,TP-Link TX401 10 Gigabit PCI Express Network Adapter,TP-Link TX401 10 G
 TL-UA430,TP-Link UA430 USB 3.0 Type-A to SD & microSD 3.0 Card Reader,TP-Link UA430 USB 3.0 Type-A to SD & microSD 3.0 Card Reader,18,26.6,TP-LINK,NETWORKING - Wireless Adapter,UA430,8885020626971,32
 TL-UA430C,"TP-Link UA430C, USB 3.0 Type-C to SD & microSD 3.0 Card Reader","TP-Link UA430C, USB 3.0 Type-C to SD & microSD 3.0 Card Reader",0,28.2,TP-LINK,Card Reader,UA430C,8885020626940,34
 TL-UA440C,TP-Link UA440C USB 3.0 Type-C to SD & microSD 3.0 Card Reader,TP-Link UA440C USB 3.0 Type-C to SD & microSD 3.0 Card Reader,10,37.4,TP-LINK,NETWORKING - Wireless Adapter,UA440C,1210002600118,45
-TL-UA520C,TP-Link UA520C USB Type-C to HDMI Adapter,TP-Link UA520C USB Type-C to HDMI Adapter,15,32.4,TP-LINK,NETWORKING - Switch & Adapter,UA520C,8885020626919,39
+TL-UA520C,TP-Link UA520C USB Type-C to HDMI Adapter,TP-Link UA520C USB Type-C to HDMI Adapter,14,32.4,TP-LINK,NETWORKING - Switch & Adapter,UA520C,8885020626919,39
 TL-UB400,"TP-LINK Bluetooth 4.0 Nano USB Adapter, Nano Size, USB 2.0","TP-LINK Bluetooth 4.0 Nano USB Adapter, Nano Size, USB 2.0",1,11.6,TP-LINK,HUBS AND CARDREADERS,UB400,6935364099664,14
 TL-UB500,TP Link Bluetooth 5.0 Nano USB Adapter,TP Link Bluetooth 5.0 Nano USB Adapter,0,12.5,TP-LINK,ADAPTORS / CONVERTERS,UB500,4897098683446,15
 TL-UB500PLUS,"TP-Link UB500 Plus, Long Range Bluetooth USB Adapter","TP-Link UB500 Plus, Long Range Bluetooth USB Adapter",0,18.3,TP-LINK,NETWORKING - Switch & Adapter,UB500 Plus,8885020626193,22
@@ -1629,7 +1627,7 @@ TL-VIGINVR1016H,TP LINK VIGI NVR1016H VIGI 16 Channel Network Video Recorder,TP 
 TL-VIGINVR1104H-4P,TP LINK VIGI NVR1104H-4P 4 Channel PoE Network Video Recorder,TP LINK VIGI NVR1104H-4P 4 Channel PoE Network Video Recorder,0,157,TP-LINK,SURVEILLANCE CAMERA,VIGI NVR1104H-4P,4897098688786,189
 TL-VIGINVR2016H,TP LINK VIGI NVR2016H VIGI 16 Channel Network Video Recorder,TP LINK VIGI NVR2016H VIGI 16 Channel Network Video Recorder,3,240,TP-LINK,SURVEILLANCE CAMERA,VIGI NVR2016H,4897098683880,289
 TL-WA1201,TP-Link AC1200 Wireless Access Point,TP-Link AC1200 Wireless Access Point,40,69.8,TP-LINK,NETWORKING - Wireless AP,TL-WA1201,6935364084035,84
-TL-WA1801,TP LINK AX1800 Gigabit Wi-Fi 6 Access Point,TP LINK AX1800 Gigabit Wi-Fi 6 Access Point,9,107.1,TP-LINK,NETWORKING - Wireless Router,TL-WA1801,4895252502022,129
+TL-WA1801,TP LINK AX1800 Gigabit Wi-Fi 6 Access Point,TP LINK AX1800 Gigabit Wi-Fi 6 Access Point,8,107.1,TP-LINK,NETWORKING - Wireless Router,TL-WA1801,4895252502022,129
 TL-WA3001,TP LINK AX3000 Gigabit Wi-Fi 6 Access Point,TP LINK AX3000 Gigabit Wi-Fi 6 Access Point,0,115.4,TP-LINK,NETWORKING - Wireless Router,TL-WA3001,4897098688021,139
 TL-WA801N,"TP-Link N300 Wi-Fi Access Point,  300Mbps at 2.4GHz, 802.11b/g/n,  1 10/100M Port, Passive PoE Supported, AP/Client/Bridge/Repeater, Multi-SSID, 2 fixed antennas","TP-Link N300 Wi-Fi Access Point,  300Mbps at 2.4GHz, 802.11b/g/n,  1 10/100M Port, Passive PoE Supported, AP/Client/Bridge/Repeater, Multi-SSID, 2 fixed antennas",0,32.4,TP-LINK,NETWORKING - Wireless AP,TL-WA801N,6935364052461,39
 TL-WA850RE,"TP-Link300Mbps Wireless N Wall Plugged Range Extender, Atheros, 2T2R, 2.4GHz, 802.11n/g/b","TP-Link300Mbps Wireless N Wall Plugged Range Extender, Atheros, 2T2R, 2.4GHz, 802.11n/g/b",59,32.4,TP-LINK,NETWORKING - Wireless AP,TL-WA850RE,"0153500384,6935364070847",39
@@ -1760,7 +1758,7 @@ VEN-COOBH,Vention USB 3.0 A Male to B Male Cable 2M Black PVC Type,Vention USB 3
 VEN-COPBF,Vention USB 3.0 A Male to Micro-B  Male  Cable 1M Black PVC Type,Vention USB 3.0 A Male to Micro-B  Male  Cable 1M Black PVC Type,13,4.77,Vention,CABLES - USB3 Cables,COPBF,6922794748927,7.9
 VEN-COQBH,Vention USB 2.0 A Male to B Male Cable 2M Black PVC Type,Vention USB 2.0 A Male to B Male Cable 2M Black PVC Type,22,2.97,Vention,CABLES - USB 2 Cables,COQBH,6922794748576,4.9
 VEN-COWBH,Vention USB 2.0 C Male to Mini-B Male 2A Cable 2M Black,Vention USB 2.0 C Male to Mini-B Male 2A Cable 2M Black,0,3.87,Vention,CABLES - USB 2 Cables,COWBH,6922794755987,6.9
-VEN-COZBH,Vention USB 3.0 A Male to C Male Cable 2M Black PVC Type,Vention USB 3.0 A Male to C Male Cable 2M Black PVC Type,1,6.21,Vention,CABLES - USB3 Cables,COZBH,6922794749382,9.9
+VEN-COZBH,Vention USB 3.0 A Male to C Male Cable 2M Black PVC Type,Vention USB 3.0 A Male to C Male Cable 2M Black PVC Type,0,6.21,Vention,CABLES - USB3 Cables,COZBH,6922794749382,9.9
 VEN-CQDBH,Vention USB 2.0 A Male to 2-in-1 Micro-B&USB-C Male 3A Cable 2M Black,Vention USB 2.0 A Male to 2-in-1 Micro-B&USB-C Male 3A Cable 2M Black,13,6.21,Vention,CABLES - USB 2 Cables,CQDBH,6922794753051,9.9
 VEN-CQUBH,Vention USB 2.0 C Male to B Male 2A Cable 2M Black,Vention USB 2.0 C Male to B Male 2A Cable 2M Black,100,4.41,Vention,CABLES - USB 2 Cables,CQUBH,6922794756427,7.9
 VEN-CQVBF,Vention USB 3.0 C Male to B Male 2A Cable 1M Black,Vention USB 3.0 C Male to B Male 2A Cable 1M Black,0,6.21,Vention,CABLES - USB3 Cables,CQVBF,6922794756588,9.9
@@ -1956,7 +1954,7 @@ VEN-KCVB0,Vention One Touch Clamping Car Phone Mount With Suction Cup Black Squa
 VEN-KDDRD,Vention SATA3.0 Cable 0.5M Red,Vention SATA3.0 Cable 0.5M Red,31,1.98,Vention,CABLES - SATA/ESATA Cables,KDDRD,6922794733916,3.9
 VEN-KDLI0,Vention Laptop Stand Silvery,Vention Laptop Stand Silvery,15,24.84,Vention,MobilePhone/Tablet Accessories,KDLI0,6922794743373,39.9
 VEN-KDNW0,Vention Laptop Stand White,Vention Laptop Stand White,0,8.46,Vention,MobilePhone/Tablet Accessories,KDNW0,6922794767171,13.9
-VEN-KEAB0,Vention Multi-function Crimping Tool Ratchet Type Black,Vention Multi-function Crimping Tool Ratchet Type Black,10,11.7,Vention,ACCESSORIES,KEAB0,6922794743571,18.9
+VEN-KEAB0,Vention Multi-function Crimping Tool Ratchet Type Black,Vention Multi-function Crimping Tool Ratchet Type Black,9,11.7,Vention,ACCESSORIES,KEAB0,6922794743571,18.9
 VEN-KPAB0,Vention 2.5 Inch SATA Hard Drive Enclosure (USB 3.0 Micro-B) Black,Vention 2.5 Inch SATA Hard Drive Enclosure (USB 3.0 Micro-B) Black,12,14.76,Vention,EXTERNAL ENCLOSURES,KPAB0,6922794761216,23.9
 VEN-KPKH0,Vention M.2 NVMe SSD Enclosure (USB 3.1 Gen 2-C) with Heat Sink Gray Aluminum Alloy Type ,Vention M.2 NVMe SSD Enclosure (USB 3.1 Gen 2-C) with Heat Sink Gray Aluminum Alloy Type ,16,42.93,Vention,EXTERNAL ENCLOSURES,KPKH0,6922794761322,68.9
 VEN-KSBB0,Vention One Touch Clamping Car Phone Mount with Suction Cup+Duckbill Clip Black Square Type,Vention One Touch Clamping Car Phone Mount with Suction Cup+Duckbill Clip Black Square Type,0,17.46,Vention,MobilePhone/Tablet Accessories,KSBB0,6922794774261,27.9
@@ -2005,7 +2003,7 @@ VEN-TRAHF,Vention USB 2.0 Type-C Male to Type-C Male Right Angle 3A Cable 1M Gra
 VEN-TRAHH,Vention USB 2.0 Type-C Male to Type-C Male Right Angle 3A Cable 2M Gray Aluminum Alloy Type,Vention USB 2.0 Type-C Male to Type-C Male Right Angle 3A Cable 2M Gray Aluminum Alloy Type,0,6.75,Vention,CABLES - USB 2 Cables,TRAHH,6922794781627,10.9
 VEN-VAA-D02-B150,Vention Mini HDMI Cable 1.5M Black,Vention Mini HDMI Cable 1.5M Black,32,6.48,Vention,CABLES - VGA/DVI/HDMI/DP,VAA-D02-B150,6922794721029,10.9
 VEN-VAA-D03-B200,Vention Micro HDMI Cable 2M Black,Vention Micro HDMI Cable 2M Black,10,7.56,Vention,CABLES - VGA/DVI/HDMI/DP,VAA-D03-B200,6922794721135,12.9
-VEN-VAB-R01-B200,Vention 3.5mm Female to 2RCA Male Audio Cable 2M Black Metal Type,Vention 3.5mm Female to 2RCA Male Audio Cable 2M Black Metal Type,19,5.31,Vention,CABLES,VAB-R01-B200,6922794740860,8.9
+VEN-VAB-R01-B200,Vention 3.5mm Female to 2RCA Male Audio Cable 2M Black Metal Type,Vention 3.5mm Female to 2RCA Male Audio Cable 2M Black Metal Type,18,5.31,Vention,CABLES,VAB-R01-B200,6922794740860,8.9
 VEN-VAB-R06-B300,Vention 2RCA Male to Male Audio Cable 3M Black Metal Type,Vention 2RCA Male to Male Audio Cable 3M Black Metal Type,0,6.57,Vention,CABLES,VAB-R06-B300,6922794740921,10.9
 VEN-VAB-S01-L,Vention 6.35mm Male to 3.5mm Female Audio Adapter Blue Aluminum Alloy Type,Vention 6.35mm Male to 3.5mm Female Audio Adapter Blue Aluminum Alloy Type,0,3.51,Vention,CABLES,VAB-S01-L,6922794729933,5.9
 VEN-VAB-S04-L,Vention 3.5mm Male to 6.35mm Female Audio Adapter Blue Aluminum Alloy Type,Vention 3.5mm Male to 6.35mm Female Audio Adapter Blue Aluminum Alloy Type,0,3.78,Vention,CABLES,VAB-S04-L,6922794714175,6.9
