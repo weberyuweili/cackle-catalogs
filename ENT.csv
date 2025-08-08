@@ -486,7 +486,7 @@ MELIC-ENT-10YR,Meraki MR Enterprise License 10YR,Meraki MR Enterprise License 10
 MELIC-ENT-1D,Meraki MR Enterprise License-1 Day,Meraki MR Enterprise License-1 Day,LIC-ENT-1D,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,0.6,0.6,,$1.22,0,,Y,N
 MELIC-ENT-1YR,Meraki MR Enterprise License 1YR,Meraki MR Enterprise License 1YR,LIC-ENT-1YR,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,174.06,174.06,,$352.73,0,,N,N
 MELIC-ENT-3YR,Meraki MR Enterprise License  3YR,Meraki MR Enterprise License  3YR,LIC-ENT-3YR,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,372.03,372.03,,$793.65,-1,,N,N
-MELIC-ENT-5YR,Meraki MR Enterprise License 5YR,Meraki MR Enterprise License 5YR,LIC-ENT-5YR,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,652.66,652.66,,$1322.75,0,,N,N
+MELIC-ENT-5YR,Meraki MR Enterprise License 5YR,Meraki MR Enterprise License 5YR,LIC-ENT-5YR,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,652.66,652.66,,$1322.75,-2,,N,N
 MELIC-ENT-7YR,Meraki MR Enterprise License 7YR,Meraki MR Enterprise License 7YR,LIC-ENT-7YR,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,913.74,913.74,,$1851.85,0,,N,N
 MELIC-MG21-ENT-1Y,Meraki MG21 Enterprise License and Suppo,Meraki MG21 Enterprise License and Support 1Y,LIC-MG21-ENT-1Y,CISCO MERAKI,,CI - MERAKI MG,,,,0,0,131.8,131.8,,$414.46,0,,N,N
 MELIC-MG21-ENT-3Y,Meraki MG21 Enterprise License and Suppo,Meraki MG21 Enterprise License and Support 3Y,LIC-MG21-ENT-3Y,CISCO MERAKI,,CI - MERAKI MG,,,,0,0,296.67,296.67,,$932.98,0,,N,N
@@ -1992,8 +1992,8 @@ CIASR9K-SW-FC2,ASR 9000 Series FCM Additional Software ,ASR 9000 Series FCM Addi
 CIATA191-3PW-K9,191 Analog Telephone Adapter for MPP,191 Analog Telephone Adapter for MPP,ATA191-3PW-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,271.04,271.04,,$467.37,0,,N,N
 CIATA191-CLIP-AU,Power Clip for ATA191 and ATA192 Austral,Power Clip for ATA191 and ATA192 Australia,ATA191-CLIP-AU,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
 CIATA191-K9,2-Port Analog Telephone Adapter,2-Port Analog Telephone Adapter,ATA191-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,423,0,,$643.74,23,01-05-2024,N,N
-CIATA191-PWR,Power Adapter for ATA191 and ATA192,Power Adapter for ATA191 and ATA192,ATA191-PWR,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,40.56,0,,$61.73,0,,N,N
-CIATA192-3PW-K9,192 Analog Telephone Adapter for MPP wit,192 Analog Telephone Adapter for MPP with switch,ATA192-3PW-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,301.71,301.71,,$520.28,0,,N,N
+CIATA191-PWR,Power Adapter for ATA191 and ATA192,Power Adapter for ATA191 and ATA192,ATA191-PWR,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,40.56,0,,$61.73,-140,,N,N
+CIATA192-3PW-K9,192 Analog Telephone Adapter for MPP wit,192 Analog Telephone Adapter for MPP with switch,ATA192-3PW-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,301.71,301.71,,$520.28,-140,,N,N
 CIBE6/7K-VIRTENH-7X,Cisco BE Embedded Virt. Enhanced 7x BE6K,Cisco BE Embedded Virt. Enhanced 7x BE6K/7K/CMS1K only,BE6/7K-VIRTENH-7X,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,4499.77,0,,$6848.18,0,,Y,N
 CIBE6K-CPU-M6,Intel 4310T 2.3GHz/105W 10C/15MB DDR4 26,Intel 4310T 2.3GHz/105W 10C/15MB DDR4 2667MHz,BE6K-CPU-M6,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
 CIBE6K-DISK-M6,600GB 12G SAS 10K RPM SFF HDD,600GB 12G SAS 10K RPM SFF HDD,BE6K-DISK-M6,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
@@ -4040,7 +4040,7 @@ CICAB-SFP-50CM=,Catalyst 3560 SFP Interconnect Cable 50c,Catalyst 3560 SFP Inter
 CICAB-SPWR-150CM,Catalyst Stack Power Cable 150 CM - Upgr,Catalyst Stack Power Cable 150 CM - Upgrade,CAB-SPWR-150CM,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,102.54,102.54,,$207.58,-9,,N,N
 CICAB-SPWR-150CM=,Catalyst Stack Power Cable 150 CM Spare,Catalyst Stack Power Cable 150 CM Spare,CAB-SPWR-150CM=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,215.94,215.94,,$446.83,0,,N,N
 CICAB-SPWR-30CM,Catalyst Stack Power Cable 30 CM,Catalyst Stack Power Cable 30 CM,CAB-SPWR-30CM,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,88.94,88.94,,$197.21,-3,29-07-2025,N,N
-CICAB-SPWR-30CM=,Catalyst Stack Power Cable 30 CM Spare,Catalyst Stack Power Cable 30 CM Spare,CAB-SPWR-30CM=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,93.63,93.63,,$217.97,-4,,N,N
+CICAB-SPWR-30CM=,Catalyst Stack Power Cable 30 CM Spare,Catalyst Stack Power Cable 30 CM Spare,CAB-SPWR-30CM=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,93.63,93.63,,$217.97,-4,18-08-2025,N,N
 CICAB-SS-232FC,RS-232 Cable DCE Female to Smart Serial ,RS-232 Cable DCE Female to Smart Serial 10 Feet,CAB-SS-232FC,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,136.4,0,,$207.58,0,,Y,N
 CICAB-SS-232FC=,RS-232 Cable DCE Female to Smart Serial ,RS-232 Cable DCE Female to Smart Serial 10 Feet,CAB-SS-232FC=,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,136.4,0,,$207.58,0,,Y,N
 CICAB-SS-232FC-EXT=,RS232 with extended control leads,RS232 with extended control leads,CAB-SS-232FC-EXT=,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,256.42,256.42,,$477.44,0,,Y,N
@@ -4514,7 +4514,7 @@ CICS-BAR-MOUNT=,Replacement Mounting Kit for Cisco Room ,Replacement Mounting Ki
 CICS-BAR-MOUNT-KIT-,Mounting Kit for Cisco  Room Bar,Mounting Kit for Cisco  Room Bar,CS-BAR-MOUNT-KIT-,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
 CICS-BAR-NR-K9,Cisco Room Bar NoRadio First Light (Whit,Cisco Room Bar NoRadio First Light (White),CS-BAR-NR-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,6982.7,6982.7,,$12504.41,0,,Y,N
 CICS-BARPRO-CAMCOV,Camera Cover for Room Bar Pro,Camera Cover for Room Bar Pro,CS-BARPRO-CAMCOV,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,336.07,0,,$511.46,0,,Y,N
-CICS-BARPRO-CAMCOV=,Camera Cover for Room Bar Pro - SPARE,Camera Cover for Room Bar Pro - SPARE,CS-BARPRO-CAMCOV=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,336.07,0,,$511.46,-3,,Y,N
+CICS-BARPRO-CAMCOV=,Camera Cover for Room Bar Pro - SPARE,Camera Cover for Room Bar Pro - SPARE,CS-BARPRO-CAMCOV=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,336.07,0,,$511.46,-3,18-08-2025,Y,N
 CICS-BARPRO-C-K9,Cisco Room Bar Pro Carbon Black,Cisco Room Bar Pro Carbon Black,CS-BARPRO-C-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,10268.18,10268.18,,$27319.22,-2,,N,N
 CICS-BARPRO-K9,Cisco Room Bar Pro First Light,Cisco Room Bar Pro First Light,CS-BARPRO-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,10268.18,10268.18,,$27319.22,-3,,N,N
 CICS-BARPRO-MOUNT-,Mounting Kit for Cisco Room Bar Pro,Mounting Kit for Cisco Room Bar Pro,CS-BARPRO-MOUNT-,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
@@ -4608,7 +4608,7 @@ CICSF1220CXT-TMC,CSF 1220CX Threat Defense IPS Malware & ,CSF 1220CX Threat Defe
 CICSF1230-TD-K9,Secure Firewall 1230 Appliance Threat De,Secure Firewall 1230 Appliance Threat Defense,CSF1230-TD-K9,CISCO SYSTEMS LTD,,CI - SECURITY,,,,0,0,10429.75,0,,$15873.02,0,,Y,N
 CICSF1240-TD-K9,Secure Firewall 1240 Appliance Threat De,Secure Firewall 1240 Appliance Threat Defense,CSF1240-TD-K9,CISCO SYSTEMS LTD,,CI - SECURITY,,,,0,0,19121.23,0,,$29100.53,0,,Y,N
 CICSF1250-P,Cloud Management for CSF1250,Cloud Management for CSF1250,CSF1250-P,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,0,0,,$0.00,0,,Y,N
-CICSF1250-TD-K9,Secure Firewall 1250 Appliance Threat De,Secure Firewall 1250 Appliance Threat Defense,CSF1250-TD-K9,CISCO SYSTEMS LTD,,CI - SECURITY,,,,0,0,31536.42,0,,$47005.57,-2,,Y,N
+CICSF1250-TD-K9,Secure Firewall 1250 Appliance Threat De,Secure Firewall 1250 Appliance Threat Defense,CSF1250-TD-K9,CISCO SYSTEMS LTD,,CI - SECURITY,,,,0,0,31536.42,0,,$47005.57,0,,Y,N
 CICSF1250T-TMC,CSF 1250 Threat Defense IPS  Malware & U,CSF 1250 Threat Defense IPS  Malware & URL License,CSF1250T-TMC,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,0,0,,$0.00,0,,Y,N
 CICSF-NO-SUBS,No threat defense subscription,No threat defense subscription,CSF-NO-SUBS,CISCO SYSTEMS LTD,,CI - SECURITY,,,,0,0,0,0,,$0.00,0,,Y,N
 CICS-KIT-EQ-4K-K9,Cisco Room Kit EQ PTZ4K Cam,Cisco Room Kit EQ PTZ4K Cam,CS-KIT-EQ-4K-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,16962.43,16962.43,,$39488.54,0,,Y,N
@@ -4633,7 +4633,7 @@ CICS-KITPRO-PTZ4K-K9,Cisco Room Kit Pro PTZ 4K - Codec Pro PT,Cisco Room Kit Pro
 CICS-KIT-SMK=,^Screen Mount for Cisco Kit,^Screen Mount for Cisco Kit,CS-KIT-SMK=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,117.18,117.18,,$205.50,2,,N,N
 CIC-SM-16P4M2X,Cisco Catalyst Edge SM 16-port 1G 4-port,Cisco Catalyst Edge SM 16-port 1G 4-port 2.5 mGigabit Ether,C-SM-16P4M2X,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,5449.12,0,,$8292.98,0,,Y,N
 CICS-MIC-ARRAY-T,Cisco Table Microphone Pro (w/11m cable),Cisco Table Microphone Pro (w/11m cable) First Light(White),CS-MIC-ARRAY-T,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,1694.2,1694.2,,$3944.09,0,,Y,N
-CICS-MIC-ARRAY-T=,Cisco Table Microphone Pro (w/11m cable),Cisco Table Microphone Pro (w/11m cable) First Light-SPARE,CS-MIC-ARRAY-T=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,1787.39,1787.39,,$3944.09,-2,,N,N
+CICS-MIC-ARRAY-T=,Cisco Table Microphone Pro (w/11m cable),Cisco Table Microphone Pro (w/11m cable) First Light-SPARE,CS-MIC-ARRAY-T=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,1787.39,1787.39,,$3944.09,-2,18-08-2025,N,N
 CICS-MIC-ARRAY-T-C=,Cisco Table Microphone Pro (w/11m cable),Cisco Table Microphone Pro (w/11m cable) Carbon Black-SPARE,CS-MIC-ARRAY-T-C=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,1787.39,1787.39,,$3944.09,0,,Y,N
 CICS-MIC-CLGP-CBK=,Ceiling Bracket Mounting Kit for Ceiling,Ceiling Bracket Mounting Kit for Ceiling Mic Pro - SPARE,CS-MIC-CLGP-CBK=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,220.35,220.35,,$476.19,0,,Y,N
 CICS-MIC-CLGP-DMK,Drop Ceiling Grid Mounting Kit for Ceili,Drop Ceiling Grid Mounting Kit for Ceiling Microphone Pro,CS-MIC-CLGP-DMK,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,528.32,0,,$828.92,0,,Y,N
@@ -4668,7 +4668,7 @@ CICS-T10-TS-G-K9=,Cisco Room Navigator-Table Stand version,Cisco Room Navigator-
 CICS-T10-TS-L-,Cisco Room Navigator Table Stand First L,Cisco Room Navigator Table Stand First Light (White),CS-T10-TS-L-,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
 CICS-T10-TS-L+,Cisco Room Navigator Table Stand First L,Cisco Room Navigator Table Stand First Light (White),CS-T10-TS-L+,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
 CICS-T10-TS-L-K9,Cisco Room Navigator Table Stand First L,Cisco Room Navigator Table Stand First Light (White),CS-T10-TS-L-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,1504.73,1504.73,,$3113.76,0,,N,N
-CICS-T10-TS-L-K9=,Cisco Room Navigator Table Stand First L,Cisco Room Navigator Table Stand First Light (White) -SPARE,CS-T10-TS-L-K9=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,1504.73,1504.73,,$3113.76,-9,,N,N
+CICS-T10-TS-L-K9=,Cisco Room Navigator Table Stand First L,Cisco Room Navigator Table Stand First Light (White) -SPARE,CS-T10-TS-L-K9=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,1504.73,1504.73,,$3113.76,-10,,N,N
 CICS-T10-TS-LX-,Cisco Room Navigator-Table Stand First L,Cisco Room Navigator-Table Stand First Light (White),CS-T10-TS-LX-,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
 CICS-T10-WM-BR=,Replacement Room Navigator WallMountBrac,Replacement Room Navigator WallMountBracketKit White -SPARE,CS-T10-WM-BR=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,109.44,109.44,,$226.44,0,,N,N
 CICS-T10-WM-G-,Cisco Room Navigator-Wall Mount version-,Cisco Room Navigator-Wall Mount version-First Light,CS-T10-WM-G-,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
@@ -5656,7 +5656,7 @@ CIIE3200-DNA-E-5Y,IE 3200 DNA Essentials 5 Year Term licen,IE 3200 DNA Essential
 CIIE-3300-8P2S-A,Catalyst IE3300 with 8 GE PoE/PoE+ and 2,Catalyst IE3300 with 8 GE PoE/PoE+ and 2 GE SFP Modular NA,IE-3300-8P2S-A,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,13660.26,0,,$20789.52,0,,N,N
 CIIE-3300-8P2S-E,Catalyst IE3300 with 8 GE PoE+ and 2 GE ,Catalyst IE3300 with 8 GE PoE+ and 2 GE SFP Modular NE,IE-3300-8P2S-E,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,6885.59,6885.59,,$14572.38,0,,N,N
 CIIE-3300-8T2S-A,Catalyst IE3300 with 8 GE Copper and 2 G,Catalyst IE3300 with 8 GE Copper and 2 GE SFP Modular NA,IE-3300-8T2S-A,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,8445.77,0,,$12853.58,0,,N,N
-CIIE-3300-8T2S-E,Catalyst IE3300 with 8 GE Copper and 2 G,Catalyst IE3300 with 8 GE Copper and 2 GE SFP Modular NE,IE-3300-8T2S-E,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,3135.78,3135.78,,$6636.46,-2,,N,N
+CIIE-3300-8T2S-E,Catalyst IE3300 with 8 GE Copper and 2 G,Catalyst IE3300 with 8 GE Copper and 2 GE SFP Modular NE,IE-3300-8T2S-E,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,3135.78,3135.78,,$6636.46,-2,18-08-2025,N,N
 CIIE-3300-8T2X-E,Catalyst IE3300 w/ 8 GE Copper & 2 10G S,Catalyst IE3300 w/ 8 GE Copper & 2 10G SFP Modular NE,IE-3300-8T2X-E,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,5384.87,5384.87,,$11396.35,0,,Y,N
 CIIE-3300-8U2X-A,Catalyst IE3300 w/ 8 GE Copper (4PPoE) &,Catalyst IE3300 w/ 8 GE Copper (4PPoE) & 2 10G SFP Mod NA,IE-3300-8U2X-A,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,15760.79,0,,$23986.31,0,,N,N
 CIIE-3300-8U2X-E,Catalyst IE3300 w/ 8 GE Copper (4PPoE) &,Catalyst IE3300 w/ 8 GE Copper (4PPoE) & 2 10G SFP Mod NE,IE-3300-8U2X-E,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,11675.68,0,,$17769.17,0,,Y,N
@@ -7190,7 +7190,7 @@ CIPI-DNAC1-TRK-3Y,DNA4C1 PI LFAS Tracker SKU 3Y,DNA4C1 PI LFAS Tracker SKU 3Y,PI
 CIPI-DNAC1-TRK-5Y,DNA4C1 PI LFAS Tracker SKU 5Y,DNA4C1 PI LFAS Tracker SKU 5Y,PI-DNAC1-TRK-5Y,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,0,0,,$0.00,0,,Y,N
 CIPI-LFAS-AP-T,Prime AP Term Licenses,Prime AP Term Licenses,PI-LFAS-AP-T,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,0,0,,$0.00,0,,Y,N
 CIPI-LFAS-T,Prime Infrastructure Lifecycle & Assuran,Prime Infrastructure Lifecycle & Assurance Term - Smart Lic,PI-LFAS-T,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,0,0,,$0.00,0,,Y,N
-CIP-LTEA7-EAL=,CAT7 LTE Advanced PIM for EMEA APAC LatA,CAT7 LTE Advanced PIM for EMEA APAC LatAm,P-LTEA7-EAL=,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,1216.81,0,,$1851.85,-32,,Y,N
+CIP-LTEA7-EAL=,CAT7 LTE Advanced PIM for EMEA APAC LatA,CAT7 LTE Advanced PIM for EMEA APAC LatAm,P-LTEA7-EAL=,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,1216.81,0,,$1851.85,-32,19-08-2025,Y,N
 CIP-LTEA-LA,CAT6 LTE Advanced Pluggable for APAC LAT,CAT6 LTE Advanced Pluggable for APAC LATAM and ANZ,P-LTEA-LA,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,838.99,838.99,,$1698.41,0,,N,N
 CIP-LTEA-LA=,CAT6 LTE Advanced Pluggable for APAC LAT,CAT6 LTE Advanced Pluggable for APAC LATAM and ANZ,P-LTEA-LA=,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,808.59,808.59,,$1792.77,0,,N,N
 CIP-LTEAP18-GL,CAT18 LTE Advanced PRO Pluggable for ALL,CAT18 LTE Advanced PRO Pluggable for ALL Global Regions,P-LTEAP18-GL,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,1233.83,1233.83,,$2671.96,0,,Y,N
@@ -7709,7 +7709,7 @@ CISFP-10G-SR=,10GBASE-SR SFP Module,10GBASE-SR SFP Module,SFP-10G-SR=,CISCO SYST
 CISFP-10G-SR-I,10GBASE-SR SFP Module Industrial Tempera,10GBASE-SR SFP Module Industrial Temperature,SFP-10G-SR-I,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,927.34,927.34,,$1660.67,0,,Y,N
 CISFP-10G-SR-I=,10GBASE-SR SFP Module Industrial Tempera,10GBASE-SR SFP Module Industrial Temperature,SFP-10G-SR-I=,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,927.34,927.34,,$1660.67,0,,N,N
 CISFP-10G-SR-S,10GBASE-SR SFP Module Enterprise-Class,10GBASE-SR SFP Module Enterprise-Class,SFP-10G-SR-S,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,592.96,592.96,,$1453.09,0,,N,N
-CISFP-10G-SR-S=,10GBASE-SR SFP Module Enterprise-Class,10GBASE-SR SFP Module Enterprise-Class,SFP-10G-SR-S=,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,592.96,592.96,,$1453.09,-8,,N,N
+CISFP-10G-SR-S=,10GBASE-SR SFP Module Enterprise-Class,10GBASE-SR SFP Module Enterprise-Class,SFP-10G-SR-S=,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,592.96,592.96,,$1453.09,-8,21-08-2025,N,N
 CISFP-10G-T-X=,10GBASE-T SFP+ transceiver module for Ca,10GBASE-T SFP+ transceiver module for Category 6A cables,SFP-10G-T-X=,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,639.79,639.79,,$1453.09,0,,N,N
 CISFP10G-USR,10GBASE-USR Module,10GBASE-USR Module,SFP10G-USR,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,842.87,842.87,,$2065.47,0,,Y,N
 CISFP-10G-ZR,Cisco 10GBASE-ZR SFP10G Module for SMF,Cisco 10GBASE-ZR SFP10G Module for SMF,SFP-10G-ZR,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,13553.58,13553.58,,$33213.40,0,,Y,N
@@ -7983,7 +7983,7 @@ CISSP-CDCS-B,Controller Provisioning for CDCS Service,Controller Provisioning fo
 CISSP-CDSDR,Controller Provisioning trigger for SD-R,Controller Provisioning trigger for SD-Routing under CDCS,SSP-CDSDR,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,0,0,,$0.00,0,,Y,N
 CISSP-SDWAN,Self-service portal Controller Provision,Self-service portal Controller Provisioning for SDWAN,SSP-SDWAN,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,0,0,,$0.00,0,,N,N
 CISTACK-T1-1M,1M Type 1 Stacking Cable,1M Type 1 Stacking Cable,STACK-T1-1M,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,191.71,191.71,,$415.17,0,,N,N
-CISTACK-T1-1M=,1M Type 1 Stacking Cable,1M Type 1 Stacking Cable,STACK-T1-1M=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,315.08,0,,$479.52,-8,,N,N
+CISTACK-T1-1M=,1M Type 1 Stacking Cable,1M Type 1 Stacking Cable,STACK-T1-1M=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,315.08,0,,$479.52,-8,20-08-2025,N,N
 CISTACK-T1-3M,3M Type 1 Stacking Cable,3M Type 1 Stacking Cable,STACK-T1-3M,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,267.51,267.51,,$622.75,-1,,N,N
 CISTACK-T1-3M=,3M Type 1 Stacking Cable,3M Type 1 Stacking Cable,STACK-T1-3M=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,301.25,301.25,,$719.29,0,,N,N
 CISTACK-T1-50CM,50CM Type 1 Stacking Cable,50CM Type 1 Stacking Cable,STACK-T1-50CM,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,84.71,84.71,,$207.58,-11,17-07-2025,N,N
