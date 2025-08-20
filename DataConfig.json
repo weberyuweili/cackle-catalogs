@@ -250,4 +250,28 @@
 		"EtaColumn" : null,
 		"EanColumn" : null
 	}
+,
+	{
+		"SupplierCode" : "Pacific Audio Visual Limited",
+		"SupplierName" : "Pacific Audio Visual Limited",
+		"SheetName" : "PAV.csv",
+		"PartNumberColumn" : "MPN",
+		"PriceColumn" : "Dealer ex GST",
+		"StockColumn" : null,
+		"DescriptionColumn" : "Description",
+		"EtaColumn" : null,
+		"EanColumn" : null
+	}
+,
+	{
+		"SupplierCode" : "Panasonic",
+		"SupplierName" : "Panasonic New Zealand Limited",
+		"SheetName" : "PAN.csv",
+		"PartNumberColumn" : "Product Name",
+		"PriceColumn" : "List Price",
+		"StockColumn" : null,
+		"DescriptionColumn" : "Product Description",
+		"EtaColumn" : null,
+		"EanColumn" : "EAN Number"
+	}
 ]
