@@ -250,16 +250,4 @@
 		"EtaColumn" : null,
 		"EanColumn" : null
 	}
-	,
-	{
-		"SupplierCode" : "Pacific Audio Visual Limited",
-		"SupplierName" : "Pacific Audio Visual Limited",
-		"SheetName" : "PAV.csv",
-		"PartNumberColumn" : "MPN",
-		"PriceColumn" : "Dealer ex GST",
-		"StockColumn" : null,
-		"DescriptionColumn" : "Description",
-		"EtaColumn" : null,
-		"EanColumn" : null
-	}
 ]
