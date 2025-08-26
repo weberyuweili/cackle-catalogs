@@ -250,4 +250,16 @@
 		"EtaColumn" : null,
 		"EanColumn" : null
 	}
+	,
+	{
+		"SupplierCode" : "Panasonic",
+		"SupplierName" : "Panasonic New Zealand Limited",
+		"SheetName" : "PAN.csv",
+		"PartNumberColumn" : "Product Name",
+		"PriceColumn" : "List Price",
+		"StockColumn" : null,
+		"DescriptionColumn" : "Product Description",
+		"EtaColumn" : null,
+		"EanColumn" : "EAN Number"
+	}
 ]
