@@ -379,7 +379,7 @@ MECW9176D1-RTG,Cisco Wireless 9176D1(W7 3 radio 3 band ,Cisco Wireless 9176D1(W7
 MECW9176I-CFG,Cisco Wireless 9176I(W7 3 radio 3 band 4,Cisco Wireless 9176I(W7 3 radio 3 band 4x4 UWB) Global,CW9176I-CFG,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,1947.06,1947.06,,$4422.19,0,,Y,N
 MECW9176I-RTG,Cisco Wireless 9176I(W7 3 radio 3 band 4,Cisco Wireless 9176I(W7 3 radio 3 band 4x4 UWB) Global,CW9176I-RTG,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,1947.06,1947.06,,$4422.19,0,,Y,N
 MECW9178I-CFG,Cisco Wireless 9178I(W7 4 radio 3 band 4,Cisco Wireless 9178I(W7 4 radio 3 band 4x4 UWB)  Global,CW9178I-CFG,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,2337.26,2337.26,,$5308.40,0,,Y,N
-MECW9178I-RTG,Cisco Wireless 9178I(W7 4 radio 3 band 4,Cisco Wireless 9178I(W7 4 radio 3 band 4x4 UWB) Global,CW9178I-RTG,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,2337.26,2337.26,,$5308.40,0,,Y,N
+MECW9178I-RTG,Cisco Wireless 9178I(W7 4 radio 3 band 4,Cisco Wireless 9178I(W7 4 radio 3 band 4x4 UWB) Global,CW9178I-RTG,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,2337.26,2337.26,,$5308.40,0,,N,N
 MECW-ANT-D1-NS-00,8/9/9 dBi Directional Patch  N connector,8/9/9 dBi Directional Patch  N connector Catalyst and Meraki,CW-ANT-D1-NS-00,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,1600.18,0,,$2435.31,0,,Y,N
 MECW-ANT-GPS2-S-00,GPS/GNSS Antenna  Outdoor  SMA connector,GPS/GNSS Antenna  Outdoor  SMA connector Catalyst and Meraki,CW-ANT-GPS2-S-00,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,395.98,0,,$602.62,0,,Y,N
 MECW-ANT-O1-NS-00,4/8/8 dBi Omni Dipole  N connector  Cata,4/8/8 dBi Omni Dipole  N connector  Catalyst and Meraki,CW-ANT-O1-NS-00,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,291.14,0,,$443.11,-8,,N,N
