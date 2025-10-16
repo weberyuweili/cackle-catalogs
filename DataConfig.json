@@ -262,4 +262,28 @@
 		"EtaColumn" : null,
 		"EanColumn" : "EAN Number"
 	}
+	,
+	{
+		"SupplierCode" : "NAS Solutions (NZ)",
+		"SupplierName" : "PNAS Solutions (NZ)",
+		"SheetName" : "NAS.csv",
+		"PartNumberColumn" : "Model",
+		"PriceColumn" : "Dealer Ex GST",
+		"StockColumn" : null,
+		"DescriptionColumn" : "Description",
+		"EtaColumn" : null,
+		"EanColumn" : null
+	}
+	,
+	{
+		"SupplierCode" : "Pacificomm Group Limited",
+		"SupplierName" : "Pacificomm Group Limited",
+		"SheetName" : "PAC.csv",
+		"PartNumberColumn" : "Supplier Stock Code",
+		"PriceColumn" : "Unit Price",
+		"StockColumn" : "Stock on Hand",
+		"DescriptionColumn" : "Item Description",
+		"EtaColumn" : null,
+		"EanColumn" : "GTIN"
+	}
 ]
