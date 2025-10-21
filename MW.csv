@@ -30,8 +30,8 @@ Yamaha,YVC-330,Yamaha YVC-200 Portable USB Speakerphone (White),715,621.74,478.2
 Yamaha,YCBL-DC3M,Yamaha YVC330 Daisy Chain Cable. Allows two YVC330s to be connected,135,117.39,90.3
 Yamaha,YVC1000,Yamaha Unified Communications Wired Microphone & Speaker System,2255,1960.87,1508.36
 Yamaha,YVC-MIC1000EX,Yamaha YVC-1000 Omnidirectional Extension Microphone,605,526.09,404.68
-Yamaha,CS-800,Yamaha CS-800 Video Sound Bar for Huddle Rooms,2749,2390.43,1838.8
-Yamaha,CS-500,Yamaha CS-500 Video Conference System for Huddle Spaces,2195,1908.7,1468.23
+Yamaha,CS-800,Yamaha CS-800 Video Sound Bar for Huddle Rooms,899,781.73,555.41
+Yamaha,CS-500,Yamaha CS-500 Video Conference System for Huddle Spaces,299,260.00,184.72
 Yamaha,BRK-TV1,Yamaha VESA compatible mounting solution for CS-800/CS-500,279,242.61,186.62
 Yamaha,BRK-WL1,Yamaha Wall mount Bracket for CS-500,119,103.48,79.6
 Yamaha,K-CABLE-10,Yamaha Ultra Hi-Spec Long USB Cable 10 m for CS-800/CS-500 (type A to C),829,720.87,554.52
@@ -453,34 +453,34 @@ LOUDSPEAKERS,DZR315,"3-way powered louadspeaker with a 2"" HF, 8"" MF, 15"" LF d
 LOUDSPEAKERS,DZR15-D,"2-way powered loudspeaker with a 2"" HF with rotatable horn and a 15"" LF driver. Max 139dB SPL 34Hz-20kHz. 2000W Class-D amplifier 96kHz DSP and FIR filter. Dante I/O 2in/2out with SRC allowing 48kHz device compatiblity",3185,2769.57,2130.43
 LOUDSPEAKERS,DZR15,"2-way powered loudspeaker with a 2"" HF with rotatable horn and a 15"" LF driver. Max 139dB SPL 34Hz-20kHz. 2000W Class-D amplifier 96kHz DSP and FIR filter",3035,2639.13,2030.1
 LOUDSPEAKERS,DZR12-D,"2-way powered loudspeaker with a 2"" HF with rotatable horn and a 12"" LF driver. Max 139dB SPL 34Hz-20kHz. 2000W Class-D amplifier 96kHz DSP and FIR filter. Dante I/O 2in/2out with SRC allowing 48kHz device compatiblity",2975,2586.96,1989.97
-LOUDSPEAKERS,DZR12,"2-way powered loudspeaker with a 2"" HF with rotatable horn and a 12"" LF driver. Max 139dB SPL 34Hz-19kHz. 2000W Class-D amplifier 96kHz DSP and FIR filter",2875,2500.00,1923.08
+LOUDSPEAKERS,DZR12,"2-way powered loudspeaker with a 2"" HF with rotatable horn and a 12"" LF driver. Max 139dB SPL 34Hz-19kHz. 2000W Class-D amplifier 96kHz DSP and FIR filter",2875,2500,1923.08
 LOUDSPEAKERS,DZR10-D,"2-way powered loudspeaker with a 2"" HF with rotatable horn and a 10"" LF driver. Max 137dB SPL 34Hz-20kHz. 2000W Class-D amplifier 96kHz DSP and FIR filter. Dante I/O 2in/2out with SRC allowing 48kHz device compatiblity",2795,2430.43,1869.57
 LOUDSPEAKERS,DZR10,"2-way powered loudspeaker with a 2"" HF with rotatable horn and a 10"" LF driver. Max 137dB SPL 34Hz-17kHz. 2000W Class-D amplifier 96kHz DSP and FIR filter",2650,2304.35,1772.58
-LOUDSPEAKERS,DXS18XLF-D,"Dante-equipped powered bass-reflex type subwoofer with extended low frequency, producting a best-in class maximum SPL of 136dB SPL with superb clarity and power",4595.00,3995.65,2836.12
-LOUDSPEAKERS,DXS18XLF,"Powered bass-reflex type subwoofer with extended low frequency, maximum SPL 136dB SPL superb clarity and power. 18"" subwoofer, 4"" Voice Coil. 30Hz-150Hz, 1600W Class-D amplifier. On-board DSP cardioid mode capability",4195.00,3647.83,2589.23
-LOUDSPEAKERS,DXS15XLF-D,"Dante-equipped powered bass-reflex type subwoofer with extended low frequency, producting a best-in class maximum SPL of 136dB SPL with superb clarity and power",4295.00,3734.78,2650.96
-LOUDSPEAKERS,DXS15XLF,"Powered bass-reflex type subwoofer with extended low frequency, maximum SPL 136dB SPL superb clarity and power. 15"" subwoofer, 4"" Voice Coil. 33Hz-150Hz, 1600W Class-D amplifier. On-board DSP cardioid mode capability",3895.00,3386.96,2404.07
-LOUDSPEAKERS,DXS18,"Powered band-pass 18"" subwoofer max SPL 136dB 32Hz-120Hz, 4"" voice coil magnet driving the 18"" woofer, Class-D amplifier 1020W",3775.00,3282.61,2330.00
-LOUDSPEAKERS,DXS15MKII,"Powered band-pass subwoofer max SPL 135dB 40Hz-150Hz, 2.5"" voice coil magnet driving the 15"" woofer, Class-D amplifier 1020W",2495.00,2169.57,1539.96
-LOUDSPEAKERS,DXS12MKII,"Powered band-pass subwoofer max SPL 134dB 40Hz-150Hz, 2.5"" voice coil magnet driving the 12"" woofer, Class-D amplifier 1020W",2325.00,2021.74,1435.03
-LOUDSPEAKERS ACCESSORIES,SPW-1,"Optional castor set for any of the above with rattle-free radial ball bearings. Note, padded canvas speaker covers for all models also available",245.00,213.04,151.22
-LOUDSPEAKERS,VKE2010,"Durable loudspeaker system for installed sound application in entertainment facilities, with PA-style looks and sound quality. The VKE2010 features two-way bass reflex design, a 1.4"" compression driver for high frequencies, and a 10"" cone driver for low frequencies",1155.00,1004.35,772.58
-LOUDSPEAKERS,VKE2012,"Durable loudspeaker system for installed sound application in entertainment facilities, with PA-style looks and sound quality. The VKE2012 features two-way bass reflex design, a 1.4"" compression driver for high frequencies, and a 12"" cone driver for low frequencies",1515.00,1317.39,1013.38
-LOUDSPEAKERS,VKE2015,"Durable loudspeaker system for installed sound application in entertainment facilities, with PA-style looks and sound quality. The VKE2015 features two-way bass reflex design, a 1.4"" compression driver for high frequencies, and a 15"" cone driver for low frequencies",1815.00,1578.26,1214.05
-LOUDSPEAKER ACCESSORIES,UB-DZR15H,U-bracket enabling horizontal rigging for DZR15/DZR15-D/CZR15,353.00,306.96,357.86
-LOUDSPEAKER ACCESSORIES,UB-DZR12H,U-bracket enabling horizontal rigging for DZR12/DZR12-D/CZR12,455.00,395.65,304.35
-LOUDSPEAKER ACCESSORIES,UB-DZR10H,U-bracket enabling horizontal rigging for DZR10/DZR10-D/CZR10,435.00,378.26,290.97
-LOUDSPEAKER ACCESSORIES,UB-DZR15V,U-bracket enabling vertical rigging for DZR15/DZR15-D/CZR15,535.00,465.22,357.86
-LOUDSPEAKER ACCESSORIES,UB-DZR12V,U-bracket enabling vertical rigging for DZR12/DZR12-D/CZR12,455.00,395.65,304.35
-LOUDSPEAKER ACCESSORIES,UB-DZR10V,U-bracket enabling vertical rigging for DZR10/DZR10-D/CZR10,435.00,378.26,290.97
-LOUDSPEAKER ACCESSORIES,SPCVR-DZR315,Padded speaker cover for DZR315/DZR315-D,305.00,265.22,188.25
-LOUDSPEAKER ACCESSORIES,SPCVR-DZR15,Padded speaker cover for DZR15/DZR15-D/CZR15,210.00,182.61,129.62
-LOUDSPEAKER ACCESSORIES,SPCVR-DZR12,Padded speaker cover for DZR12/DZR12-D/CZR12,195.00,169.57,120.36
-LOUDSPEAKER ACCESSORIES,SPCVR-DZR10,Padded speaker cover for DZR10/DZR10-D/CZR10,175.00,152.17,108.01
-LOUDSPEAKER ACCESSORIES,SPCVRDXS15XLF,Padded speaker cover for DXS15XLF/DXS15XLF-D/CXS15XLF,305.00,265.22,188.25
-LOUDSPEAKER ACCESSORIES,SPCVRDXS18XLF,Padded speaker cover for DXS18XLF/DXS18XLF-D/CXS18XLF,385.00,334.78,237.63
-LOUDSPEAKER ACCESSORIES,BWS20-190,Wall bracket pair suitable for VXS5/HS5i,420.00,365.22,259.23
-LOUDSPEAKER ACCESSORIES,BWS251-300,Wall bracket for CBR/DBR/HS7i/HS8i (single),440.00,382.61,271.58
-LOUDSPEAKER ACCESSORIES,BWS251-400,Wall bracket for CBR/DBR/HS7i/HS8i (single),495.00,430.43,305.52
-LOUDSPEAKER ACCESSORIES,BCS251,Ceiling bracket suitable for CBR/DBR/HS_i (single),290.00,252.17,178.99
-LOUDSPEAKER ACCESSORIES,BMS10A,Mic-stand adatpor for MG06/MG06X/MG10/MG10XU,89.00,77.39,54.93
+LOUDSPEAKERS,DXS18XLF-D,"Dante-equipped powered bass-reflex type subwoofer with extended low frequency, producting a best-in class maximum SPL of 136dB SPL with superb clarity and power",4595,3995.65,2836.12
+LOUDSPEAKERS,DXS18XLF,"Powered bass-reflex type subwoofer with extended low frequency, maximum SPL 136dB SPL superb clarity and power. 18"" subwoofer, 4"" Voice Coil. 30Hz-150Hz, 1600W Class-D amplifier. On-board DSP cardioid mode capability",4195,3647.83,2589.23
+LOUDSPEAKERS,DXS15XLF-D,"Dante-equipped powered bass-reflex type subwoofer with extended low frequency, producting a best-in class maximum SPL of 136dB SPL with superb clarity and power",4295,3734.78,2650.96
+LOUDSPEAKERS,DXS15XLF,"Powered bass-reflex type subwoofer with extended low frequency, maximum SPL 136dB SPL superb clarity and power. 15"" subwoofer, 4"" Voice Coil. 33Hz-150Hz, 1600W Class-D amplifier. On-board DSP cardioid mode capability",3895,3386.96,2404.07
+LOUDSPEAKERS,DXS18,"Powered band-pass 18"" subwoofer max SPL 136dB 32Hz-120Hz, 4"" voice coil magnet driving the 18"" woofer, Class-D amplifier 1020W",3775,3282.61,2330
+LOUDSPEAKERS,DXS15MKII,"Powered band-pass subwoofer max SPL 135dB 40Hz-150Hz, 2.5"" voice coil magnet driving the 15"" woofer, Class-D amplifier 1020W",2495,2169.57,1539.96
+LOUDSPEAKERS,DXS12MKII,"Powered band-pass subwoofer max SPL 134dB 40Hz-150Hz, 2.5"" voice coil magnet driving the 12"" woofer, Class-D amplifier 1020W",2325,2021.74,1435.03
+LOUDSPEAKERS ACCESSORIES,SPW-1,"Optional castor set for any of the above with rattle-free radial ball bearings. Note, padded canvas speaker covers for all models also available",245,213.04,151.22
+LOUDSPEAKERS,VKE2010,"Durable loudspeaker system for installed sound application in entertainment facilities, with PA-style looks and sound quality. The VKE2010 features two-way bass reflex design, a 1.4"" compression driver for high frequencies, and a 10"" cone driver for low frequencies",1155,1004.35,772.58
+LOUDSPEAKERS,VKE2012,"Durable loudspeaker system for installed sound application in entertainment facilities, with PA-style looks and sound quality. The VKE2012 features two-way bass reflex design, a 1.4"" compression driver for high frequencies, and a 12"" cone driver for low frequencies",1515,1317.39,1013.38
+LOUDSPEAKERS,VKE2015,"Durable loudspeaker system for installed sound application in entertainment facilities, with PA-style looks and sound quality. The VKE2015 features two-way bass reflex design, a 1.4"" compression driver for high frequencies, and a 15"" cone driver for low frequencies",1815,1578.26,1214.05
+LOUDSPEAKER ACCESSORIES,UB-DZR15H,U-bracket enabling horizontal rigging for DZR15/DZR15-D/CZR15,353,306.96,357.86
+LOUDSPEAKER ACCESSORIES,UB-DZR12H,U-bracket enabling horizontal rigging for DZR12/DZR12-D/CZR12,455,395.65,304.35
+LOUDSPEAKER ACCESSORIES,UB-DZR10H,U-bracket enabling horizontal rigging for DZR10/DZR10-D/CZR10,435,378.26,290.97
+LOUDSPEAKER ACCESSORIES,UB-DZR15V,U-bracket enabling vertical rigging for DZR15/DZR15-D/CZR15,535,465.22,357.86
+LOUDSPEAKER ACCESSORIES,UB-DZR12V,U-bracket enabling vertical rigging for DZR12/DZR12-D/CZR12,455,395.65,304.35
+LOUDSPEAKER ACCESSORIES,UB-DZR10V,U-bracket enabling vertical rigging for DZR10/DZR10-D/CZR10,435,378.26,290.97
+LOUDSPEAKER ACCESSORIES,SPCVR-DZR315,Padded speaker cover for DZR315/DZR315-D,305,265.22,188.25
+LOUDSPEAKER ACCESSORIES,SPCVR-DZR15,Padded speaker cover for DZR15/DZR15-D/CZR15,210,182.61,129.62
+LOUDSPEAKER ACCESSORIES,SPCVR-DZR12,Padded speaker cover for DZR12/DZR12-D/CZR12,195,169.57,120.36
+LOUDSPEAKER ACCESSORIES,SPCVR-DZR10,Padded speaker cover for DZR10/DZR10-D/CZR10,175,152.17,108.01
+LOUDSPEAKER ACCESSORIES,SPCVRDXS15XLF,Padded speaker cover for DXS15XLF/DXS15XLF-D/CXS15XLF,305,265.22,188.25
+LOUDSPEAKER ACCESSORIES,SPCVRDXS18XLF,Padded speaker cover for DXS18XLF/DXS18XLF-D/CXS18XLF,385,334.78,237.63
+LOUDSPEAKER ACCESSORIES,BWS20-190,Wall bracket pair suitable for VXS5/HS5i,420,365.22,259.23
+LOUDSPEAKER ACCESSORIES,BWS251-300,Wall bracket for CBR/DBR/HS7i/HS8i (single),440,382.61,271.58
+LOUDSPEAKER ACCESSORIES,BWS251-400,Wall bracket for CBR/DBR/HS7i/HS8i (single),495,430.43,305.52
+LOUDSPEAKER ACCESSORIES,BCS251,Ceiling bracket suitable for CBR/DBR/HS_i (single),290,252.17,178.99
+LOUDSPEAKER ACCESSORIES,BMS10A,Mic-stand adatpor for MG06/MG06X/MG10/MG10XU,89,77.39,54.93
