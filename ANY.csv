@@ -1,10 +1,10 @@
 Product Code,Name,Description,Main,Price,Brand,Category Code,Supplier Product Code,Bar Code,RRP
 2L-5002P/C,ATEN 1.8m PS/2 KVM Cable,ATEN 1.8m PS/2 KVM Cable,3,0.5,ATEN,KVM PRODUCTS - Cables,2L-5002P/C,4710423771895,27.9
 360-D503C,360 D503C Smart IP Camera 720P,360 D503C Smart IP Camera 720P,17,35.0,Generic,ACCESSORIES,D503C,6970312870414,49.0
-5S550AU,Eaton 5S 550VA/330W Line Interactive UPS LED,Eaton 5S 550VA/330W Line Interactive UPS LED,0,165.0,Eaton,UPS,5S550AU,743172436276,313.64
-5S700AU,Eaton 5S 700VA/420W Line Interactive UPS LED,Eaton 5S 700VA/420W Line Interactive UPS LED,0,194.0,Eaton,UPS,5S700AU,000743172436,368.0
-5S850AU,Eaton 5S 850VA/510W Line Interactive UPS LCD,Eaton 5S 850VA/510W Line Interactive UPS LCD,0,236.0,Eaton,UPS,5S850AU,743172436277,447.45
-5SC1500I,"Eaton 5SC 1500VA / 1050W Mini Tower UPS,  8 x IEC Sockets","Eaton 5SC 1500VA / 1050W Mini Tower UPS,  8 x IEC Sockets",0,900.0,Eaton,UPS,5SC1500I,743172045171,1704.09
+5S550AU,Eaton 5S 550VA/330W Line Interactive UPS LED,Eaton 5S 550VA/330W Line Interactive UPS LED,0,187.68,Eaton,UPS,5S550AU,743172436276,263.99
+5S700AU,Eaton 5S 700VA/420W Line Interactive UPS LED,Eaton 5S 700VA/420W Line Interactive UPS LED,0,220.12,Eaton,UPS,5S700AU,000743172436,308.99
+5S850AU,Eaton 5S 850VA/510W Line Interactive UPS LCD,Eaton 5S 850VA/510W Line Interactive UPS LCD,0,267.62,Eaton,UPS,5S850AU,743172436277,375.99
+5SC1500I,"Eaton 5SC 1500VA / 1050W Mini Tower UPS,  8 x IEC Sockets","Eaton 5SC 1500VA / 1050W Mini Tower UPS,  8 x IEC Sockets",0,1026.46,Eaton,UPS,5SC1500I,743172045171,1440.99
 6IN1-TYPEC-HDMI-GR,ROCK 6 in 1 Type C Hub With HDMI Port Space Grey,ROCK 6 in 1 Type C Hub With HDMI Port Space Grey,5,59.6,ROCK,HUBS AND CARDREADERS,6I1-TYPECHDMI-GR,661021751090,79.35
 8WD-L6097,8ware Solid Locking Station for Laptop,8ware Solid Locking Station for Laptop,23,22.08,8WARE,ACCESSORIES,8WD-L6097,9341756006535,65.0
 ACA-MFS-01K,activiva Heavy-Duty PC Mobile Floor Stand with Casters,activiva Heavy-Duty PC Mobile Floor Stand with Casters,0,40.62,mbeat,MobilePhone/Tablet Accessories,ACA-MFS-01K,9346396003807,54.95
@@ -63,7 +63,7 @@ BAS10289,Baseus Golden Contactor Pro Triple Fast Charger Car Charger 65W U+C+C D
 BAS10561,Baseus Sharp Tool Safety Hammer (Window-breaking+Safety belt cutting) Dark gray,Baseus Sharp Tool Safety Hammer (Window-breaking+Safety belt cutting) Dark gray,0,14.34,Baseus,ACCESSORIES,CRSFH-0G,6953156210561,22.9
 BAS11347,Baseus High Speed Cat7 RJ45 10Gigabit network cable (round cable)0.5m Black,Baseus High Speed Cat7 RJ45 10Gigabit network cable (round cable)0.5m Black,90,6.82,Baseus,CABLES - Other Cables,WKJS010001,6932172611347,10.9
 BAS11354,Baseus High Speed Cat7 RJ45 10Gigabit network cable (round cable)1m Black,Baseus High Speed Cat7 RJ45 10Gigabit network cable (round cable)1m Black,63,6.82,Baseus,CABLES - Other Cables,WKJS010101,6932172611354,10.9
-BAS11415,Baseus High Speed Cat7 RJ45 10Gigabit network cable (round cable)10m Black,Baseus High Speed Cat7 RJ45 10Gigabit network cable (round cable)10m Black,4,24.35,Baseus,CABLES - Other Cables,WKJS010701,6932172611415,38.9
+BAS11415,Baseus High Speed Cat7 RJ45 10Gigabit network cable (round cable)10m Black,Baseus High Speed Cat7 RJ45 10Gigabit network cable (round cable)10m Black,3,24.35,Baseus,CABLES - Other Cables,WKJS010701,6932172611415,38.9
 BAS11422,Baseus High Speed Cat7 RJ45 10Gigabit network cable (round cable)15m Black,Baseus High Speed Cat7 RJ45 10Gigabit network cable (round cable)15m Black,7,28.11,Baseus,CABLES - Other Cables,WKJS010801,6932172611422,44.9
 BAS11439,Baseus High Speed Cat7 RJ45 10Gigabit network cable (round cable)20m Black,Baseus High Speed Cat7 RJ45 10Gigabit network cable (round cable)20m Black,6,40.64,Baseus,CABLES - Other Cables,WKJS010901,6932172611439,64.9
 BAS11446,Baseus High Speed Cat7 RJ45 10Gigabit network cable (round cable)30m Black,Baseus High Speed Cat7 RJ45 10Gigabit network cable (round cable)30m Black,8,55.66,Baseus,CABLES - Other Cables,WKJS011001,6932172611446,88.9
@@ -231,7 +231,7 @@ BT-DTM12-C034N,Economy Triple Monitor Steel Monitor Arm 13-32,Economy Triple Mon
 BT-DTM13-C024,Economy Dual-Screen Spring-Assisted Monitor Arm,Economy Dual-Screen Spring-Assisted Monitor Arm,0,85.98,LUMI,MobilePhone/Tablet Accessories,LDT13-C024,9420066900464,129.99
 BT-DTM33-C024,DUAL MONITORS ARTICULATING MONITOR ARM 17’’-32’’,DUAL MONITORS ARTICULATING MONITOR ARM 17’’-32’’,132,57.0,LUMI,ACCESSORIES,BT-DTM33-C024,9420066900174,95.0
 BT-DTM34-C012,"Gas Spring Single Aluminum Monitor Arm for 17""-32""","Gas Spring Single Aluminum Monitor Arm for 17""-32""",135,54.0,LUMI,ACCESSORIES,DTM34-C012,9420066900150,89.0
-BT-DTM63-C024,Dual Monitor Economical Spring-Assisted Monitor Arm,Dual Monitor Economical Spring-Assisted Monitor Arm,29,60.0,LUMI,MobilePhone/Tablet Accessories,LDT63-C024,9420066900488,109.99
+BT-DTM63-C024,Dual Monitor Economical Spring-Assisted Monitor Arm,Dual Monitor Economical Spring-Assisted Monitor Arm,27,60.0,LUMI,MobilePhone/Tablet Accessories,LDT63-C024,9420066900488,109.99
 BT-DTM71-C024N,Dual Monitor Pipe-Shaped Counterbalance Spring-Assisted Monitor Arm,Dual Monitor Pipe-Shaped Counterbalance Spring-Assisted Monitor Arm,137,66.12,LUMI,MobilePhone/Tablet Accessories,LDT71-C024N,9420066900471,99.99
 BT-DTM94-C012UC,Lumi FlexPrecision Cost-Effective Gas Spring Monitor Arm with USB Ports White,Lumi FlexPrecision Cost-Effective Gas Spring Monitor Arm with USB Ports White,0,59.41,LUMI,MobilePhone/Tablet Accessories,DTM94-C012UC,9420066900686,89.9
 BT-DTM94-C024UC,Lumi FlexPrecision Cost-Effective Gas Spring Dual Monitor Arm with USB Ports White,Lumi FlexPrecision Cost-Effective Gas Spring Dual Monitor Arm with USB Ports White,0,105.67,LUMI,MobilePhone/Tablet Accessories,DTM94-C024UC,9420066900693,159.9
@@ -253,7 +253,7 @@ BT-LDT10-C012,Single Aluminium Interactive Counterbalance Single Monitor Arm 13�
 BT-LDT10-C024,Dual Aluminum Interactive Counterbalance Monitor Arm for most 13-32 LCD Monitors,Dual Aluminum Interactive Counterbalance Monitor Arm for most 13-32 LCD Monitors,85,102.0,LUMI,ACCESSORIES,DTM10-C024,9341756016466,145.0
 BT-LDT11-C012,"Aluminum LCD VESA Desk Mounts for LCD Screen Size 13""-27""","Aluminum LCD VESA Desk Mounts for LCD Screen Size 13""-27""",112,49.95,LUMI,Audio and Visual Products,LDT11-C012,9341756013311,85.0
 BT-LDT11-C024,"Aluminum LCD VESA Desk Mounts for LCD Screen Size 13""-27"" (dual)","Aluminum LCD VESA Desk Mounts for LCD Screen Size 13""-27"" (dual)",661,57.0,LUMI,Audio and Visual Products,LDT11-C024,9341756013328,90.0
-BT-LDT12-C024N,Economy Dual Monitor Steel Monitor Arm 13’’-32’’,Economy Dual Monitor Steel Monitor Arm 13’’-32’’,345,45.0,LUMI,ACCESSORIES,LDT12-C024N,9341756016541,85.0
+BT-LDT12-C024N,Economy Dual Monitor Steel Monitor Arm 13’’-32’’,Economy Dual Monitor Steel Monitor Arm 13’’-32’’,344,45.0,LUMI,ACCESSORIES,LDT12-C024N,9341756016541,85.0
 BT-LDT16-C024,"Gas Spring Dual Monitor Arm for 17""-32""","Gas Spring Dual Monitor Arm for 17""-32""",197,99.0,LUMI,ACCESSORIES,LDT16-C024,9341756017159,159.0
 BT-LP42-44DT,"TV bracket. Fit for most 32""-55"" LED, 3D LED, LCD, Plasma TVs","TV bracket. Fit for most 32""-55"" LED, 3D LED, LCD, Plasma TVs",8,18.0,LUMI,Audio and Visual Products,TV42-44DT,9341756012710,50.0
 BT-LPA35-442,"Aluminum Slim Sliding Full-Motion TV Wall Mount For most 23""-55"" LED, LCD Flat Panel","Aluminum Slim Sliding Full-Motion TV Wall Mount For most 23""-55"" LED, LCD Flat Panel",39,33.0,LUMI,Audio and Visual Products,LPA35-442,9341756010884,95.0
@@ -336,7 +336,7 @@ CFAN-GAMMAXX400-BL,"Deepcool Gammaxx 400 V2 Blue CPU Cooler (2011/1366/115X/775,
 CFAN-RGB-CONTROLLER,Deepcool RGB Controller with remote RGB control,Deepcool RGB Controller with remote RGB control,49,13.0,DEEPCOOL,Cooling - Cooling Fan,DP-MG-CTR-RGB-RMT,6933412796169,17.9
 CFAN-RGB100-RD,Deepcool strip light 30cm red with magnet,Deepcool strip light 30cm red with magnet,206,6.5,DEEPCOOL,Cooling - Cooling Fan,CFAN-RGB100-RD,6933412795636,11.9
 DP-GM800,Deepcool GM800 Premium Cloth gaming mouse pad 320x270mm,Deepcool GM800 Premium Cloth gaming mouse pad 320x270mm,26,15.9,DEEPCOOL,MICE - Mouse Pad,R-GM800-BKNNNM-G,6933412796244,19.99
-EKB-CHE-PLBRUS-01,Tt eSPORTS Athos Elite RGB Keyboard,Tt eSPORTS Athos Elite RGB Keyboard,6,78.2,THERMALTAKE,KEYBOARDS - Gaming,EKB-CHE-PLBRUS-01,4713227523202,136.85
+EKB-CHE-PLBRUS-01,Tt eSPORTS Athos Elite RGB Keyboard,Tt eSPORTS Athos Elite RGB Keyboard,5,78.2,THERMALTAKE,KEYBOARDS - Gaming,EKB-CHE-PLBRUS-01,4713227523202,136.85
 EMO-NRB-WDOTBK-01,Ttesports by Thermaltake NEROS blue optical gaming mouse 3200 dpi,Ttesports by Thermaltake NEROS blue optical gaming mouse 3200 dpi,4,77.8,THERMALTAKE,ACCESSORIES,EMO-NRB-WDOTBK-01,,44.85
 EMO-NRR-WDOTBK-01,Tt eSPORTS Neros RGB Optical Gaming Mouse,Tt eSPORTS Neros RGB Optical Gaming Mouse,30,39.0,THERMALTAKE,MICE - Gaming,EMO-NRR-WDOTBK-01,4713227521772,69.0
 EMP-DSH-RGBSXS-01,Ttesports by Thermaltake Dasher EXTENDED RGB speed Mouse Pad,Ttesports by Thermaltake Dasher EXTENDED RGB speed Mouse Pad,10,54.0,THERMALTAKE,ACCESSORIES,EMP-DSH-RGBSXS-01,,79.0
@@ -391,7 +391,7 @@ HIF82029,HiFuture AURORA Smartwatch Silver,HiFuture AURORA Smartwatch Silver,14,
 HIF82036,HiFuture AURORA Smartwatch Blue,HiFuture AURORA Smartwatch Blue,11,97.38,HiFuture,SMD,AURORA-BL,6972576182036,139.99
 HIF82043,HiFuture AURORA Smartwatch Green,HiFuture AURORA Smartwatch Green,15,97.38,HiFuture,SMD,AURORA-GN,6972576182043,139.99
 HIF82050,HiFuture AURORA Smartwatch Brown,HiFuture AURORA Smartwatch Brown,13,97.38,HiFuture,SMD,AURORA-BR,6972576182050,139.99
-HIF82302,HiFuture LUME Smartwatch Black,HiFuture LUME Smartwatch Black,10,70.11,HiFuture,SMD,LUME-BK,6972576182302,99.9
+HIF82302,HiFuture LUME Smartwatch Black,HiFuture LUME Smartwatch Black,9,70.11,HiFuture,SMD,LUME-BK,6972576182302,99.9
 HIF82319,HiFuture LUME Smartwatch Silver Grey,HiFuture LUME Smartwatch Silver Grey,27,70.11,HiFuture,SMD,LUME-SLGRY,6972576182319,99.9
 HIF82326,HiFuture LUME Smartwatch Champagne Gold,HiFuture LUME Smartwatch Champagne Gold,11,70.11,HiFuture,SMD,LUME-CHGLD,6972576182326,99.9
 HIF82333,HiFuture LUME Smartwatch Dark Green,HiFuture LUME Smartwatch Dark Green,9,70.11,HiFuture,SMD,LUME-DGRN,6972576182333,99.9
@@ -471,7 +471,7 @@ KEYC-CAB-9,Keychron Coiled Type-C Cable-Angled White,Keychron Coiled Type-C Cabl
 KEYC-CAB-B,Keychron Coiled Type-C Cable  Black,Keychron Coiled Type-C Cable  Black,7,30.5,Keychron,CABLES,CAB-B,"4895248813217,X00388H8GB",38.9
 KEYC-CAB-G,Keychron Coiled Type-C Cable  Grey,Keychron Coiled Type-C Cable  Grey,15,30.5,Keychron,CABLES,CAB-G,"4895248813231,X00388K1LF",38.9
 KEYC-CAB-L,Keychron Coiled Type-C Cable Blue,Keychron Coiled Type-C Cable Blue,8,30.5,Keychron,CABLES,CAB-L,"4895248813248,X00388LDFD,4897115554520",39.9
-KEYC-CAB-W,Keychron Coiled Type-C Cable-Straight White,Keychron Coiled Type-C Cable-Straight White,3,28.08,Keychron,CABLES,CAB-W,"4895248813224,X00388JZX5",39.9
+KEYC-CAB-W,Keychron Coiled Type-C Cable-Straight White,Keychron Coiled Type-C Cable-Straight White,2,28.08,Keychron,CABLES,CAB-W,"4895248813224,X00388JZX5",39.9
 KEYC-G1,Keychron K Pro Switch - Red (110 pcs) ,Keychron K Pro Switch - Red (110 pcs) ,0,28.08,Keychron,KEYBOARDS - Keypad,G1,"4895248821908,X0038H4QFD",39.9
 KEYC-G11,Keychron Gateron G Pro Switch - Red (110 pcs),Keychron Gateron G Pro Switch - Red (110 pcs),7,35.19,Keychron,KEYBOARDS - Keypad,G11,"4895248826439,X0039YRTA9",49.9
 KEYC-G12,Keychron Gateron G Pro Switch - Blue (110 pcs),Keychron Gateron G Pro Switch - Blue (110 pcs),2,37.15,Keychron,KEYBOARDS - Keypad,G12,"4895248826446,X0039YJ9DT",49.9
@@ -801,7 +801,7 @@ MB-STD-S6GRY,mbeat® Stage S6 Adjustable Elevated Laptop & MacBook (Space Grey),
 MB-STD-S7GRY,mbeat Stage S7 Rotating and Height-Adjustable Laptop Stand - Space Grey,mbeat Stage S7 Rotating and Height-Adjustable Laptop Stand - Space Grey,3,70.18,mbeat,MobilePhone/Tablet Accessories,MB-STD-S7GRY,9346396003937,99.95
 MB-STD-S8GRY,mbeat Stage S8 Rotating Laptop Stand with RGB Cooling Fan and USB Ports,mbeat Stage S8 Rotating Laptop Stand with RGB Cooling Fan and USB Ports,3,84.23,mbeat,MobilePhone/Tablet Accessories,MB-STD-S8GRY,9346396003951,119.95
 MB-STD-S9GRY,Mbeat 360 Degrees Rotating Laptop Stand with Telescopic Height Adjustment - Space Grey,Mbeat 360 Degrees Rotating Laptop Stand with Telescopic Height Adjustment - Space Grey,1,87.88,mbeat,MobilePhone/Tablet Accessories,MB-STD-S9GRY,9346396003418,118.9
-MB-TAB3-KIT,mbeat Galaxy Tab3 10.1 Keyboard case folio kit -Black,mbeat Galaxy Tab3 10.1 Keyboard case folio kit -Black,132,5.0,mbeat,MobilePhone/Tablet Accessories,MB-TAB3-KIT,9346396000868,10.0
+MB-TAB3-KIT,mbeat Galaxy Tab3 10.1 Keyboard case folio kit -Black,mbeat Galaxy Tab3 10.1 Keyboard case folio kit -Black,131,5.0,mbeat,MobilePhone/Tablet Accessories,MB-TAB3-KIT,9346396000868,10.0
 MB-TR166BLK,mbeat® Uptown Retro Turntable with Bluetooth Streaming & Cassette Player,mbeat® Uptown Retro Turntable with Bluetooth Streaming & Cassette Player,1,150.71,mbeat,Audio and Visual Products,MB-TR166BLK,9346396002596,203.9
 MB-TR89BLK,mbeat Woodstock Retro Turntable Player - Black,mbeat Woodstock Retro Turntable Player - Black,3,132.97,mbeat,Audio and Visual Products,MB-TR89BLK,9346396001568,179.9
 MB-TR89TBL,mbeat Woodstock Retro Turntable Player Tiffany Blue,mbeat Woodstock Retro Turntable Player Tiffany Blue,2,130.0,mbeat,Audio and Visual Products,MB-TR89TBL,9346396001575,226.07
@@ -858,7 +858,7 @@ MB-XCB-8K18CHD,mbeat Tough Link 8K 1.8m USB-C to HDMI Cable  ,mbeat Tough Link 8
 MB-XCB-8KHDM15,mbeat Tough Link 1.5m Certified 8K HDMI Cable - Space Grey,mbeat Tough Link 1.5m Certified 8K HDMI Cable - Space Grey,17,25.09,mbeat,CABLES,MB-XCB-8KHDM15,9346396004118,33.95
 MB-XCB-8KHDM30,mbeat Tough Link 3m Certified 8K HDMI Cable - Space Grey,mbeat Tough Link 3m Certified 8K HDMI Cable - Space Grey,19,30.27,mbeat,CABLES,MB-XCB-8KHDM30,9346396004125,40.95
 MB-XCB-C2C180,mbeat Tough Link 1.8m USB 3.2 Gen2 USB-C Cable - Space Grey,mbeat Tough Link 1.8m USB 3.2 Gen2 USB-C Cable - Space Grey,0,20.66,mbeat,CABLES - USB3 Cables,MB-XCB-C2C180,9346396003760,27.95
-MB-XCB-C2CF100,mbeat Tough Link 1m USB 3.2 Gen2 USB-C Extension Cable - Space Grey,mbeat Tough Link 1m USB 3.2 Gen2 USB-C Extension Cable - Space Grey,1,20.66,mbeat,CABLES - USB3 Cables,MB-XCB-C2CF100,9346396003784,27.95
+MB-XCB-C2CF100,mbeat Tough Link 1m USB 3.2 Gen2 USB-C Extension Cable - Space Grey,mbeat Tough Link 1m USB 3.2 Gen2 USB-C Extension Cable - Space Grey,0,20.66,mbeat,CABLES - USB3 Cables,MB-XCB-C2CF100,9346396003784,27.95
 MB-XCB-CDP18,mbeat Tough Link 1.8m 4K USB-C to DisplayPort Cable - Space Grey,mbeat Tough Link 1.8m 4K USB-C to DisplayPort Cable - Space Grey,0,22.1,mbeat,ADAPTORS / CONVERTERS,MB-XCB-CDP18,"934639600317320211103,9346396003173",29.9
 MB-XCB-CHD18,mbeat Tough Link 1.8m 4K USB-C to HDMI Cable -Space Grey,mbeat Tough Link 1.8m 4K USB-C to HDMI Cable -Space Grey,2,26.53,mbeat,ADAPTORS / CONVERTERS,MB-XCB-CHD18,"934639600318020211103,9346396003180",35.9
 MB-XCB-DP18,mbeat Tough Link 1.8m DisplayPort Cable v1.4 - Space Grey,mbeat Tough Link 1.8m DisplayPort Cable v1.4 - Space Grey,1,22.1,mbeat,ADAPTORS / CONVERTERS,MB-XCB-DP18,9346396003166,29.9
@@ -890,7 +890,7 @@ MER-HALOH80X-2P,Mercusys Halo H80X AX3000 Whole Home Mesh WiFi 6 System - 2 Pack
 MER-HALOH80X-3P,Mercusys Halo H80X AX3000 Whole Home Mesh WiFi 6 System - 3 Pack,Mercusys Halo H80X AX3000 Whole Home Mesh WiFi 6 System - 3 Pack,0,289.8,MERCUSYS,NETWORKING - Wireless Router,Halo H80X(3-pack),6957939000820,349.0
 MER-HALOH85X-2P,Mercusys Halo H85X AX3000 Whole Home Mesh Wi-Fi 6 System - 2 Pack,Mercusys Halo H85X AX3000 Whole Home Mesh Wi-Fi 6 System - 2 Pack,3,231.7,MERCUSYS,NETWORKING - Wireless Router,Halo H85X(2-pack),6957939003012,279.0
 MER-HALOH90X-2P,Mercusys Halo H90X AX6000 Whole Home Mesh WiFi 6 System - 2 Pack,Mercusys Halo H90X AX6000 Whole Home Mesh WiFi 6 System - 2 Pack,10,289.8,MERCUSYS,NETWORKING - Wireless AP,Halo H90X(2-Pack),6957939000943,349.0
-MER-MA80XE,MERCUSYS AX3000 Dual-Band Wi-Fi 6 Bluetooth PCI Express Adapter,MERCUSYS AX3000 Dual-Band Wi-Fi 6 Bluetooth PCI Express Adapter,4,49.0,MERCUSYS,NETWORKING - Wireless Adapter,MA80XE,6957939000844,59.0
+MER-MA80XE,MERCUSYS AX3000 Dual-Band Wi-Fi 6 Bluetooth PCI Express Adapter,MERCUSYS AX3000 Dual-Band Wi-Fi 6 Bluetooth PCI Express Adapter,3,49.0,MERCUSYS,NETWORKING - Wireless Adapter,MA80XE,6957939000844,59.0
 MER-MA86XE,MERCUSYS AXE5400 Tri-Band Wi-Fi 6E Bluetooth PCI Express Adapter,MERCUSYS AXE5400 Tri-Band Wi-Fi 6E Bluetooth PCI Express Adapter,2,57.3,MERCUSYS,NETWORKING - Wireless Adapter,MA86XE,"6957939000981,6957939001865",69.0
 MER-MB110-4G,"MERCUSYS N300 Wi-Fi 4G LTE Router, Build-In 150Mbps 4G LTE Modem","MERCUSYS N300 Wi-Fi 4G LTE Router, Build-In 150Mbps 4G LTE Modem",0,82.2,MERCUSYS,NETWORKING - Wireless Router,MB110-4G,"6957939001063,6957939001995",99.0
 MER-MR27BE,"Mercusys MR27BE, BE3600 Dual Band Wi-Fi 7 Router","Mercusys MR27BE, BE3600 Dual Band Wi-Fi 7 Router",0,165.3,MERCUSYS,NETWORKING - Wireless Router,MR27BE,6957939001711,199.0
@@ -899,14 +899,14 @@ MER-MR60X,"MERCUSYS MR60X, AX1500 WiFi 6 Router","MERCUSYS MR60X, AX1500 WiFi 6 
 MER-MR80X,Mercusys AX3000 Dual-Band Wi-Fi 6 Router,Mercusys AX3000 Dual-Band Wi-Fi 6 Router,0,90.5,MERCUSYS,NETWORKING - Wireless Router,MR80X,6957939000646,109.0
 MER-MR85X,"Mercusys MR85X, AX3000 Dual-Band Wi-Fi 6 Router","Mercusys MR85X, AX3000 Dual-Band Wi-Fi 6 Router",0,107.1,MERCUSYS,NETWORKING - Wireless Router,MR85X,6957939002893,129.0
 MER-MS105G,Mercusys 5-Port 10/100/1000Mbps Desktop Switch,Mercusys 5-Port 10/100/1000Mbps Desktop Switch,48,19.9,MERCUSYS,NETWORKING - Switch & Adapter,MS105G,6935364099619,24.0
-MER-MS105GP,"Mercusys MS105GP, 5-Port Gigabit Desktop Switch with 4-Port PoE+","Mercusys MS105GP, 5-Port Gigabit Desktop Switch with 4-Port PoE+",53,49.0,MERCUSYS,NETWORKING - POE & EOP,MS105GP,6957939001186,59.0
+MER-MS105GP,"Mercusys MS105GP, 5-Port Gigabit Desktop Switch with 4-Port PoE+","Mercusys MS105GP, 5-Port Gigabit Desktop Switch with 4-Port PoE+",52,49.0,MERCUSYS,NETWORKING - POE & EOP,MS105GP,6957939001186,59.0
 MER-MS105GS,Mercusys 5-Port Gigabit Desktop Switch,Mercusys 5-Port Gigabit Desktop Switch,50,28.2,MERCUSYS,SWITCHES,MS105GS,6957939001315,34.0
 MER-MS108G,Mercusys 8-Port 10/100/1000Mbps Desktop Switch,Mercusys 8-Port 10/100/1000Mbps Desktop Switch,80,28.2,MERCUSYS,NETWORKING - Switch & Adapter,MS108G,6935364099626,34.0
 MER-MS108GP,MERCUSYS MS108GP 8-Port Gigabit Desktop Switch with 7-Port PoE+,MERCUSYS MS108GP 8-Port Gigabit Desktop Switch with 7-Port PoE+,54,69.8,MERCUSYS,SWITCHES,MS108GP,6957939001209,84.0
 MER-MS108GS,Mercusys 8-Port Gigabit Desktop Switch,Mercusys 8-Port Gigabit Desktop Switch,50,36.5,MERCUSYS,SWITCHES,MS108GS,6957939001339,44.0
 MER-MS110CMP,"Mercusys MS110CMP, 8-Port 10/100 Mbps + 2-Port Gigabit Desktop Switch with 8-Port PoE+","Mercusys MS110CMP, 8-Port 10/100 Mbps + 2-Port Gigabit Desktop Switch with 8-Port PoE+",0,73.9,MERCUSYS,NETWORKING - POE & EOP,MS110CMP,6957939003678,89.0
 MER-MS110GMP,"Mercusys MS110GMP, 10-Port Gigabit Desktop Switch with 8-Port PoE+","Mercusys MS110GMP, 10-Port Gigabit Desktop Switch with 8-Port PoE+",4,123.7,MERCUSYS,NETWORKING - POE & EOP,MS110GMP,6957939003715,149.0
-MER-MS110P,"Mercusys MS110P, 10-Port 10/100Mbps Desktop Switch with 8-Port PoE+","Mercusys MS110P, 10-Port 10/100Mbps Desktop Switch with 8-Port PoE+",39,57.3,MERCUSYS,NETWORKING - POE & EOP,MS110P,6957939001162,69.0
+MER-MS110P,"Mercusys MS110P, 10-Port 10/100Mbps Desktop Switch with 8-Port PoE+","Mercusys MS110P, 10-Port 10/100Mbps Desktop Switch with 8-Port PoE+",38,57.3,MERCUSYS,NETWORKING - POE & EOP,MS110P,6957939001162,69.0
 MER-MS116GS,Mercusys MS116GS 16-Port Gigabit Desktop/Rackmount Switch,Mercusys MS116GS 16-Port Gigabit Desktop/Rackmount Switch,8,98.8,MERCUSYS,NETWORKING - Switch & Adapter,MS116GS,6957939002343,119.0
 MER-MT110,"Mercusys MT110, 4G LTE Mobile Wi-Fi","Mercusys MT110, 4G LTE Mobile Wi-Fi",0,73.9,MERCUSYS,NETWORKING - Wireless Router,MT110,6957939001254,89.0
 MER-MU6H,Mercusys AC650 High Gain Wireless Dual Band USB Adapter,Mercusys AC650 High Gain Wireless Dual Band USB Adapter,0,19.9,MERCUSYS,ADAPTORS / CONVERTERS,MU6H,6935364088064,24.0
@@ -1033,7 +1033,7 @@ RAPOO-X1960,Rapoo X1960 Wireless Keyboard and Mouse Combo,Rapoo X1960 Wireless K
 RAPOO-XR200,Rapoo XR200 Touchable Page-Turning Pen For Demonstrator USB Rechargeable 2.4G Wireless Presenter 3R Laser Pointer,Rapoo XR200 Touchable Page-Turning Pen For Demonstrator USB Rechargeable 2.4G Wireless Presenter 3R Laser Pointer,5,33.25,Rapoo,ACCESSORIES,XR200,6940056199188,46.9
 RC-3054F30,VGA Monitor Extension Cable HD15M-F with Filter UL Approved 30m,VGA Monitor Extension Cable HD15M-F with Filter UL Approved 30m,20,54.4,8WARE,CABLES - VGA/DVI/HDMI/DP,RC-3054F-30,,52.17
 RC-3078AU,Power Cable (Wall - PC 240V) 1.8m,Power Cable (Wall - PC 240V) 1.8m,931,3.6,8WARE,CABLES - Power Cables,RC-3078AU,9341756007785,8.9
-RC-3078C5-OEM,3 Core Light Duty Power Cable 2m,3 Core Light Duty Power Cable 2m,1225,3.0,8WARE,CABLES - Power Cables,RC-3078C5-OEM,9341756009727,4.34
+RC-3078C5-OEM,3 Core Light Duty Power Cable 2m,3 Core Light Duty Power Cable 2m,1224,3.0,8WARE,CABLES - Power Cables,RC-3078C5-OEM,9341756009727,4.34
 RC-3078C7-OEM,2 Core Light Duty Appliance Power Cable OEM Pack (Appliance -Wall),2 Core Light Duty Appliance Power Cable OEM Pack (Appliance -Wall),315,2.9,8WARE,CABLES - Power Cables,RC-3078C7-OEM,9341756005538,4.34
 RC-3USBDP-2,8Ware USB Type-C to Display Port (version 1.2) M/M Black - 2m,8Ware USB Type-C to Display Port (version 1.2) M/M Black - 2m,93,13.0,8WARE,CABLES - USB3 Cables,RC-3USBDP-2,9341756016800,36.8
 RC-3USBHDMI-2,8Ware USB Type-C to HDMI Cable M/M Black - 2m,8Ware USB Type-C to HDMI Cable M/M Black - 2m,305,16.32,8WARE,CABLES - USB3 Cables,RC-3USBHDMI-2,9341756016794,36.8
@@ -1066,7 +1066,7 @@ TCN-BLAM-PK,"Tucano LAMPO Slim Shoulder Bag for MacBook Pro 13"", Ultrabook 13""
 TD-ARCHERVR300,TP-Link Archer VR300 AC1200 Wireless VDSL/ADSL,TP-Link Archer VR300 AC1200 Wireless VDSL/ADSL,39,123.7,TP-LINK,ACCESSORIES,Archer VR300,"1711502145,6935364081942",149.0
 TD-S102A-OEM,TP-Link ADSL/VDSL filter/splitter for NZ,TP-Link ADSL/VDSL filter/splitter for NZ,818,2.5,TP-LINK,NETWORKING PRODUCTS,TD-S102A(OEM),6935364099831,4.99
 TF-3239DL,TP-Link 10/100M PCI Ethernet Card,TP-Link 10/100M PCI Ethernet Card,6,4.99,TP-LINK,NETWORKING - Switch & Adapter,TF-3239DL,"6935364000011,214c249001736",13.61
-TG-3468,"TP-Link 32-bit Gigabit PCIe Network Adapter, Realtek RTL8168B Chipset","TP-Link 32-bit Gigabit PCIe Network Adapter, Realtek RTL8168B Chipset",120,18.3,TP-LINK,NETWORKING - Switch & Adapter,TG-3468,"0152502214,6935364001049",22.0
+TG-3468,"TP-Link 32-bit Gigabit PCIe Network Adapter, Realtek RTL8168B Chipset","TP-Link 32-bit Gigabit PCIe Network Adapter, Realtek RTL8168B Chipset",119,18.3,TP-LINK,NETWORKING - Switch & Adapter,TG-3468,"0152502214,6935364001049",22.0
 THP-DM9,DeepCool DM9 professional-grade thermal paste 1.5g,DeepCool DM9 professional-grade thermal paste 1.5g,145,6.8,DEEPCOOL,Cooling - Thermal Paste,R-DM9-GY015C-G,6933412700265,10.9
 THP-Z5,Deepcool Z5 Thermal Paste with 10% Silver Oxide Compounds,Deepcool Z5 Thermal Paste with 10% Silver Oxide Compounds,59,5.24,DEEPCOOL,Cooling - Thermal Paste,Z5,"6933412703150,6933412700043",6.9
 THR00594BULK,Thermalright Aqua Elite 240 Black Argb V3 AIO CPU Cooler (Box of 6),Thermalright Aqua Elite 240 Black Argb V3 AIO CPU Cooler (Box of 6),0,409.2,Thermalright,Cooling - CPU Cooling,Aqua Elite 240 Black Argb V3 (in bulk),9420066900594,564.0
@@ -1076,7 +1076,7 @@ THR00624BULK,Thermalright Aqua Elite 360 White Argb V3 AIO CPU Cooler (Box of 4)
 THR00754,Thermalright Frozen Infinity 360 Black Bulk Water Cooling (4 in box),Thermalright Frozen Infinity 360 Black Bulk Water Cooling (4 in box),0,370.8,Thermalright,Cooling - Water Cooling,Frozen Infinity 360 Black (in bulk),9420066900754,511.6
 THR00761,Thermalright Frozen Infinity 360 White Bulk Water Cooling (4 in Box),Thermalright Frozen Infinity 360 White Bulk Water Cooling (4 in Box),0,390.0,Thermalright,Cooling - Water Cooling,Frozen Infinity 360 White (in bulk),9420066900761,539.6
 THR00778,Thermalright TL-S12-S ARGB Case Fan (80 in box),Thermalright TL-S12-S ARGB Case Fan (80 in box),0,880.0,Thermalright,Cooling - Cooling Fan,TL-S12-S (in bulk),9420066900778,1192.0
-THR01489,Thermalright TF4 4g thermal paste,Thermalright TF4 4g thermal paste,81,3.9,Thermalright,Cooling - Cooling Fan,TF4 4g,814256001489,4.9
+THR01489,Thermalright TF4 4g thermal paste,Thermalright TF4 4g thermal paste,79,3.9,Thermalright,Cooling - Cooling Fan,TF4 4g,814256001489,4.9
 THR03001,Thermalright AXP120 X67 White Argb,Thermalright AXP120 X67 White Argb,0,100.0,Thermalright,Cooling - Cooling Fan,AXP120 X67 White Argb,814256003001,137.9
 THR03018,Thermalright AXP120 X67 Black Argb,Thermalright AXP120 X67 Black Argb,0,100.0,Thermalright,Cooling - Cooling Fan,AXP120 X67 Black Argb,814256003018,137.9
 THR03209,Thermalright Silver Soul 135 Black,Thermalright Silver Soul 135 Black,0,87.8,Thermalright,Cooling - Cooling Fan,Silver Soul 135 Black,814256003209,120.9
@@ -1140,13 +1140,13 @@ THR19620,"Thermalright TR-SG1000-W 80+ Gold modular PSU, ATX 3.1 White","Thermal
 THR19729,"Thermalright TR-KG650 80+ Gold modular PSU, ATX 3.1","Thermalright TR-KG650 80+ Gold modular PSU, ATX 3.1",0,101.65,Thermalright,POWER SUPPLIES,TR-KG650,814256019729,134.8
 THR19736,"Thermalright TR-KG750 80+ Gold modular PSU, ATX 3.1","Thermalright TR-KG750 80+ Gold modular PSU, ATX 3.1",56,118.56,Thermalright,POWER SUPPLIES,TR-KG750,814256019736,157.6
 THR19743,"Thermalright TR-KG850 80+ Gold modular PSU, ATX 3.1","Thermalright TR-KG850 80+ Gold modular PSU, ATX 3.1",0,132.05,Thermalright,POWER SUPPLIES,TR-KG850,814256019743,174.7
-THR21180,Thermalright Trofeo Vision 360 Argb Black AIO CPU Cooler,Thermalright Trofeo Vision 360 Argb Black AIO CPU Cooler,4,286.3,Thermalright,Cooling - Water Cooling,Trofeo Vision 360 Argb Black,814256021180,427.9
+THR21180,Thermalright Trofeo Vision 360 Argb Black AIO CPU Cooler,Thermalright Trofeo Vision 360 Argb Black AIO CPU Cooler,3,286.3,Thermalright,Cooling - Water Cooling,Trofeo Vision 360 Argb Black,814256021180,427.9
 TL-APM-103,TP-Link APM-103 Omada Access Point Mount Accessory,TP-Link APM-103 Omada Access Point Mount Accessory,4,57.3,TP-LINK,ACCESSORIES,APM-103,1210002609531,69.0
 TL-APM200,"TP-Link TL-APM200, Pole/Wall Mount Kit for Outdoor Access Point","TP-Link TL-APM200, Pole/Wall Mount Kit for Outdoor Access Point",0,40.7,TP-LINK,NETWORKING - Wireless AP,TL-APM200,8885020625028,49.0
 TL-ARCHERA6,TP-LINK Archer A6 AC1200 Dual Band Wireless Gigabit Router,TP-LINK Archer A6 AC1200 Dual Band Wireless Gigabit Router,49,73.9,TP-LINK,NETWORKING - Wireless Router,ARCHERA6,"1750502334,6935364086169,6935364088910",89.0
 TL-ARCHERAIRE5,TP LINK Air E5 AX3000 Dual-Band Wi-Fi 6 Air Range Extender,TP LINK Air E5 AX3000 Dual-Band Wi-Fi 6 Air Range Extender,10,165.3,TP-LINK,NETWORKING - Wireless Router,Archer Air E5,4895252500677,199.0
 TL-ARCHERAIRR5,TP LINK Air R5 AX3000 Dual-Band Wi-Fi 6 Air Router,TP LINK Air R5 AX3000 Dual-Band Wi-Fi 6 Air Router,15,181.9,TP-LINK,NETWORKING - Wireless Router,Archer Air R5,4895252500653,219.0
-TL-ARCHERAX1500,TP LINK Archer AX1500 Wi-Fi 6 Router,TP LINK Archer AX1500 Wi-Fi 6 Router,119,107.1,TP-LINK,NETWORKING - Wireless Router,Archer AX1500,6935364085193,129.0
+TL-ARCHERAX1500,TP LINK Archer AX1500 Wi-Fi 6 Router,TP LINK Archer AX1500 Wi-Fi 6 Router,118,107.1,TP-LINK,NETWORKING - Wireless Router,Archer AX1500,6935364085193,129.0
 TL-ARCHERAX1800,TP LINK AX1800 Dual-Band Wi-Fi 6 Router,TP LINK AX1800 Dual-Band Wi-Fi 6 Router,0,123.7,TP-LINK,NETWORKING - Wireless Router,Archer AX1800,4897098685396,149.0
 TL-ARCHERAX55,"TP Link Archer AX55, AX3000 Dual Band Gigabit Wi-Fi 6 Router","TP Link Archer AX55, AX3000 Dual Band Gigabit Wi-Fi 6 Router",0,165.3,TP-LINK,NETWORKING - Wireless Router,Archer AX55,4897098683040,199.0
 TL-ARCHERAX55PRO,TP LINK ARCHER AX55 PRO AX3000 Dual-Band Wi-Fi 6 Router,TP LINK ARCHER AX55 PRO AX3000 Dual-Band Wi-Fi 6 Router,0,190.2,TP-LINK,NETWORKING - Wireless Router,Archer AX55 Pro,4897098686805,229.0
@@ -1167,13 +1167,13 @@ TL-ARCHERGE400,TP-Link Archer GE400 BE6500 Dual-Band Wi-Fi 7 Gaming Router,TP-Li
 TL-ARCHERGE550,"TP-Link Archer GE550, BE9300 Tri-Band Wi-Fi 7 Gaming Router","TP-Link Archer GE550, BE9300 Tri-Band Wi-Fi 7 Gaming Router",4,580.5,TP-LINK,NETWORKING - Wireless Router,Archer GE550,8885020625530,699.0
 TL-ARCHERGE800,TP LINK Archer GE800 BE19000 Tri-Band Wi-Fi 7 Gaming Router,TP LINK Archer GE800 BE19000 Tri-Band Wi-Fi 7 Gaming Router,0,1078.7,TP-LINK,NETWORKING - Wireless Router,Archer GE800,4895252502343,1299.0
 TL-ARCHERGXE75,"TP-Link Archer GXE75, AXE5400 Tri-Band Wi-Fi 6E Gaming Router","TP-Link Archer GXE75, AXE5400 Tri-Band Wi-Fi 6E Gaming Router",12,248.3,TP-LINK,NETWORKING - Wireless Router,Archer GXE75,4897098683514,299.0
-TL-ARCHERMR202,TP-Link Archer MR202 AC750 Wireless Dual Band 4G LTE Router,TP-Link Archer MR202 AC750 Wireless Dual Band 4G LTE Router,9,148.6,TP-LINK,NETWORKING - Wireless Router,Archer MR202,8885020625745,179.0
+TL-ARCHERMR202,TP-Link Archer MR202 AC750 Wireless Dual Band 4G LTE Router,TP-Link Archer MR202 AC750 Wireless Dual Band 4G LTE Router,8,148.6,TP-LINK,NETWORKING - Wireless Router,Archer MR202,8885020625745,179.0
 TL-ARCHERMR402,TP-Link Archer MR402 AC1200 Wireless Dual Band 4G LTE Router,TP-Link Archer MR402 AC1200 Wireless Dual Band 4G LTE Router,0,165.3,TP-LINK,NETWORKING - Wireless Router,Archer MR402,8885020625752,199.0
 TL-ARCHERMR600,"TP-Link OneMesh Archer MR600 4G+ LTE Cat6 Wi-Fi Router, Micro-SIM Card Slot, Cat6 Wi-Fi Router, Micr","TP-Link OneMesh Archer MR600 4G+ LTE Cat6 Wi-Fi Router, Micro-SIM Card Slot, Cat6 Wi-Fi Router, Micr",0,231.7,TP-LINK,NETWORKING - Wireless Router,ArcherMR600,"1756500017,6935364086145,6935364089832",279.0
 TL-ARCHERMX700,"TP-Link Archer MX700, 4G+ AX1500 Dual Band Wi-Fi LTE Router","TP-Link Archer MX700, 4G+ AX1500 Dual Band Wi-Fi LTE Router",0,289.8,TP-LINK,NETWORKING - Wireless Router,Archer MX700,1210002608022,349.0
 TL-ARCHERNX200,"TP-Link Archer NX200, 5G AX1800 Wireless Dual-Band Gigabit Router","TP-Link Archer NX200, 5G AX1800 Wireless Dual-Band Gigabit Router",0,497.4,TP-LINK,NETWORKING - Wireless Router,Archer NX200,8885020621075,599.0
 TL-ARCHERNX600,TP-Link Archer NX600 5G AX3600 Wireless Dual-Band 2.5 Gig Router,TP-Link Archer NX600 5G AX3600 Wireless Dual-Band 2.5 Gig Router,10,622.0,TP-LINK,NETWORKING - Wireless Router,Archer NX600,8885020624878,749.0
-TL-ARCHERT1300UNANO,"TP-Link Archer T1300U Nano, AC1300 Nano Wireless MU-MIMO USB Adapter","TP-Link Archer T1300U Nano, AC1300 Nano Wireless MU-MIMO USB Adapter",120,40.7,TP-LINK,NETWORKING - Wireless Adapter,Archer T1300U Nano,4895252507324,49.0
+TL-ARCHERT1300UNANO,"TP-Link Archer T1300U Nano, AC1300 Nano Wireless MU-MIMO USB Adapter","TP-Link Archer T1300U Nano, AC1300 Nano Wireless MU-MIMO USB Adapter",119,40.7,TP-LINK,NETWORKING - Wireless Adapter,Archer T1300U Nano,4895252507324,49.0
 TL-ARCHERT2U-NANO,TP-Link AC600 Nano Wireless USB Adapter,TP-Link AC600 Nano Wireless USB Adapter,0,28.2,TP-LINK,NETWORKING - Wireless Adapter,Archer T2U Nano,"0152502261,6935364099978,2197008003565",34.0
 TL-ARCHERT2U-PLUS,TP-Link AC600 plus Wireless USB Adapter,TP-Link AC600 plus Wireless USB Adapter,1,34.9,TP-LINK,NETWORKING - Wireless Adapter,Archer T2U Plus,6935364099862,42.0
 TL-ARCHERT2UBNANO,TP-Link Archer T2UB Nano AC600 Nano Wi-Fi Bluetooth 4.2 USB Adapter,TP-Link Archer T2UB Nano AC600 Nano Wi-Fi Bluetooth 4.2 USB Adapter,40,32.4,TP-LINK,NETWORKING - Switch & Adapter,Archer T2UB Nano,6935364006686,39.0
@@ -1207,7 +1207,7 @@ TL-CPE610,TP-Link CPE610 5GHz 300Mbps 29dB Outdoor CPE,TP-Link CPE610 5GHz 300Mb
 TL-CPE710,TP Link CPE710 5GHz AC 867Mbps 23dBi Outdoor CPE,TP Link CPE710 5GHz AC 867Mbps 23dBi Outdoor CPE,1,157.0,TP-LINK,NETWORKING - POE & EOP,TL-CPE710,6935364089702,189.0
 TL-DECOBE22-1P,TP-Link Deco BE22 BE3600 Whole Home Mesh Wi-Fi 7 System - 1 Pack,TP-Link Deco BE22 BE3600 Whole Home Mesh Wi-Fi 7 System - 1 Pack,1,215.1,TP-LINK,NETWORKING - Wireless Router,Deco BE22(1-pack),1210002602815,259.0
 TL-DECOBE22-2P,TP-Link Deco BE22 BE3600 Whole Home Mesh Wi-Fi 7 System - 2 Pack,TP-Link Deco BE22 BE3600 Whole Home Mesh Wi-Fi 7 System - 2 Pack,8,372.9,TP-LINK,NETWORKING - Wireless Router,Deco BE22(2-pack),1210002602808,449.0
-TL-DECOBE22-3P,TP-Link Deco BE22 BE3600 Whole Home Mesh Wi-Fi 7 System - 3 Pack,TP-Link Deco BE22 BE3600 Whole Home Mesh Wi-Fi 7 System - 3 Pack,7,539.0,TP-LINK,NETWORKING - Wireless Router,Deco BE22(3-pack),1210002602792,649.0
+TL-DECOBE22-3P,TP-Link Deco BE22 BE3600 Whole Home Mesh Wi-Fi 7 System - 3 Pack,TP-Link Deco BE22 BE3600 Whole Home Mesh Wi-Fi 7 System - 3 Pack,6,539.0,TP-LINK,NETWORKING - Wireless Router,Deco BE22(3-pack),1210002602792,649.0
 TL-DECOBE25-1P,TP-Link Deco BE25 BE5000 Whole Home Mesh Wi-Fi 7 System - 1 Pack,TP-Link Deco BE25 BE5000 Whole Home Mesh Wi-Fi 7 System - 1 Pack,6,223.4,TP-LINK,NETWORKING - Wireless Router,Deco BE25(1-pack),8885020620702,269.0
 TL-DECOBE25-2P,TP-Link Deco BE25 BE5000 Whole Home Mesh Wi-Fi 7 System - 2 Pack,TP-Link Deco BE25 BE5000 Whole Home Mesh Wi-Fi 7 System - 2 Pack,36,414.4,TP-LINK,NETWORKING - Wireless Router,Deco BE25(2-pack),8885020620689,499.0
 TL-DECOBE25-3P,TP-Link Deco BE25 BE5000 Whole Home Mesh Wi-Fi 7 System - 3 Pack,TP-Link Deco BE25 BE5000 Whole Home Mesh Wi-Fi 7 System - 3 Pack,28,580.5,TP-LINK,NETWORKING - Wireless Router,Deco BE25(3-pack),8885020620665,699.0
@@ -1218,7 +1218,7 @@ TL-DECOBE65-3P,"TP-Link Deco BE65, BE11000 Whole Home Mesh Wi-Fi 7 System - 3 Pa
 TL-DECOBE65PRO-1P,TP-Link BE11000 Whole Home Mesh WiFi 7 System - 1 Pack,TP-Link BE11000 Whole Home Mesh WiFi 7 System - 1 Pack,0,497.4,TP-LINK,NETWORKING - Wireless Router,Deco BE65 Pro(1-pack),8885020621693,599.0
 TL-DECOBE65PRO-2P,TP-Link BE11000 Whole Home Mesh WiFi 7 System - 2 Pack,TP-Link BE11000 Whole Home Mesh WiFi 7 System - 2 Pack,40,871.1,TP-LINK,NETWORKING - Wireless Router,Deco BE65 Pro(2-pack),8885020621686,1049.0
 TL-DECOBE65PRO-3P,TP-Link BE11000 Whole Home Mesh WiFi 7 System - 3 Pack,TP-Link BE11000 Whole Home Mesh WiFi 7 System - 3 Pack,0,1161.8,TP-LINK,NETWORKING - Wireless Router,Deco BE65 Pro(3-pack),8885020621679,1399.0
-TL-DECOBE85-1P,TP-Link Deco BE85 BE22000 Whole Home Mesh Wi-Fi 7 Router - 1 Pack,TP-Link Deco BE85 BE22000 Whole Home Mesh Wi-Fi 7 Router - 1 Pack,1,1078.7,TP-LINK,NETWORKING - Wireless Router,Deco BE85(1-pack),4897098686942,1299.0
+TL-DECOBE85-1P,TP-Link Deco BE85 BE22000 Whole Home Mesh Wi-Fi 7 Router - 1 Pack,TP-Link Deco BE85 BE22000 Whole Home Mesh Wi-Fi 7 Router - 1 Pack,0,1078.7,TP-LINK,NETWORKING - Wireless Router,Deco BE85(1-pack),4897098686942,1299.0
 TL-DECOBE85-2P,TP-Link Deco BE85 BE22000 Tri-Band Whole Home Mesh Wi-Fi 7 System - 2 Pack,TP-Link Deco BE85 BE22000 Tri-Band Whole Home Mesh Wi-Fi 7 System - 2 Pack,4,2017.1,TP-LINK,NETWORKING - Wireless Router,Deco BE85(2-pack),4897098686928,2429.0
 TL-DECOBE85-3P,TP LINK BE22000 Whole Home Mesh Wi-Fi 7 System(Tri-Band) - 3 Pack,TP LINK BE22000 Whole Home Mesh Wi-Fi 7 System(Tri-Band) - 3 Pack,6,2905.7,TP-LINK,NETWORKING - Wireless Router,Deco BE85(3-pack),4897098686904,3499.0
 TL-DECOM4-2P,TP-Link Deco M4 AC1200 (2-Pack) Mesh Wi-Fi System,TP-Link Deco M4 AC1200 (2-Pack) Mesh Wi-Fi System,0,140.3,TP-LINK,NETWORKING - Wireless Router,Deco M4(2-pack),"6935364084189,0150502727",169.0
@@ -1227,7 +1227,7 @@ TL-DECOX10-1P,TP LINK AX1500 Whole Home Mesh Wi-Fi 6 System - 1 Pack,TP LINK AX1
 TL-DECOX10-2P,TP LINK AX1500 Whole Home Mesh Wi-Fi 6 System - 2 Pack,TP LINK AX1500 Whole Home Mesh Wi-Fi 6 System - 2 Pack,0,231.7,TP-LINK,NETWORKING - Wireless Router,Deco X10(2-pack),4895252503173,279.0
 TL-DECOX10-3P,TP LINK AX1500 Whole Home Mesh Wi-Fi 6 System - 3 Pack,TP LINK AX1500 Whole Home Mesh Wi-Fi 6 System - 3 Pack,36,306.4,TP-LINK,NETWORKING - Wireless Router,Deco X10(3-pack),4895252502480,369.0
 TL-DECOX10-4G-1P,TP LINK Deco X10-4G 4G+ AX1500 Whole Home Mesh WiFi 6 Gateway - 1 Pack,TP LINK Deco X10-4G 4G+ AX1500 Whole Home Mesh WiFi 6 Gateway - 1 Pack,3,206.8,TP-LINK,NETWORKING - Wireless Router,Deco X10-4G(1-pack),4895252504248,249.0
-TL-DECOX20-3P,"TP-Link Deco X20 Wi-Fi 6 Whole-Home Mesh System - 3 Pack, MU-MIMO, Dual-Band AC1800, Parental Controls, Antivirus, QOS","TP-Link Deco X20 Wi-Fi 6 Whole-Home Mesh System - 3 Pack, MU-MIMO, Dual-Band AC1800, Parental Controls, Antivirus, QOS",29,331.3,TP-LINK-R,NETWORKING - Wireless Router,Deco X20(3-pack),"0150502951,6935364086947",399.0
+TL-DECOX20-3P,"TP-Link Deco X20 Wi-Fi 6 Whole-Home Mesh System - 3 Pack, MU-MIMO, Dual-Band AC1800, Parental Controls, Antivirus, QOS","TP-Link Deco X20 Wi-Fi 6 Whole-Home Mesh System - 3 Pack, MU-MIMO, Dual-Band AC1800, Parental Controls, Antivirus, QOS",28,331.3,TP-LINK-R,NETWORKING - Wireless Router,Deco X20(3-pack),"0150502951,6935364086947",399.0
 TL-DECOX50-4G-1P,TP LINK Deco X50 4G+ AX3000 Whole Home Mesh WiFi 6 Gateway - 1 Pack,TP LINK Deco X50 4G+ AX3000 Whole Home Mesh WiFi 6 Gateway - 1 Pack,0,331.3,TP-LINK,NETWORKING - Wireless Router,Deco X50-4G(1-pack),4897098685198,399.0
 TL-DECOX50-5G-1P,TP-Link Deco X50-5G AX3000 Whole Home Mesh WiFi 6 Gateway - 1 Pack,TP-Link Deco X50-5G AX3000 Whole Home Mesh WiFi 6 Gateway - 1 Pack,12,642.0,TP-LINK,NETWORKING - Wireless Router,Deco X50-5G(1-pack),4897098687949,749.0
 TL-DECOX50-DSL-1P,TP LINK Deco X50-DSL AX3000 VDSL Whole Home Mesh WiFi 6 Router,TP LINK Deco X50-DSL AX3000 VDSL Whole Home Mesh WiFi 6 Router,0,248.3,TP-LINK,NETWORKING - Wireless Router,Deco X50-DSL(1-pack),4897098687864,299.0
@@ -1257,7 +1257,7 @@ TL-EAP211-BRIDGEKIT,TP-Link EAP211-Bridge KIT Wireless Bridge 5 GHz 867 Mbps Ind
 TL-EAP215-BRIDGEKIT,TP-Link EAP215-Bridge KIT Wireless Bridge 5 GHz 867 Mbps Long-Range Indoor/Outdoor Access Point,TP-Link EAP215-Bridge KIT Wireless Bridge 5 GHz 867 Mbps Long-Range Indoor/Outdoor Access Point,0,240.0,TP-LINK,NETWORKING - Wireless AP,EAP215-Bridge KIT,"4895252502565,8885020627077",289.0
 TL-EAP225,TP-Link EAP225 AC1350 Wireless MU-MIMO Gigabit Ceiling Mount Access Point,TP-Link EAP225 AC1350 Wireless MU-MIMO Gigabit Ceiling Mount Access Point,0,123.7,TP-LINK,NETWORKING - Wireless Router,EAP225,"6935364096915,0153500330",149.0
 TL-EAP225-OUTDOOR,TP-Link EAP225-Outdoor Omada AC1200 Wireless MU-MIMO Gigabit Outdoor Access Point,TP-Link EAP225-Outdoor Omada AC1200 Wireless MU-MIMO Gigabit Outdoor Access Point,16,140.3,TP-LINK,NETWORKING - Wireless AP,EAP225-Outdoor,6935364083571,169.0
-TL-EAP235-WALL,TP-Link EAP235 Wall Omada AC1200 Wireless MU-MIMO Gigabit Wall Plate Access Point,TP-Link EAP235 Wall Omada AC1200 Wireless MU-MIMO Gigabit Wall Plate Access Point,22,107.1,TP-LINK,NETWORKING - Wireless AP,TL-EAP235-WALL,6935364088972,129.0
+TL-EAP235-WALL,TP-Link EAP235 Wall Omada AC1200 Wireless MU-MIMO Gigabit Wall Plate Access Point,TP-Link EAP235 Wall Omada AC1200 Wireless MU-MIMO Gigabit Wall Plate Access Point,21,107.1,TP-LINK,NETWORKING - Wireless AP,TL-EAP235-WALL,6935364088972,129.0
 TL-EAP603-OUTDOOR,"TP-Link EAP603-Outdoor, AX1800 Indoor/Outdoor Wi-Fi 6 Access Point","TP-Link EAP603-Outdoor, AX1800 Indoor/Outdoor Wi-Fi 6 Access Point",0,190.2,TP-LINK,NETWORKING - Wireless AP,EAP603-Outdoor,1210002605731,229.0
 TL-EAP610,TP Link AX1800 Wireless Dual Band Ceiling Mount Access Point by Omada SDN,TP Link AX1800 Wireless Dual Band Ceiling Mount Access Point by Omada SDN,17,157.0,TP-LINK,NETWORKING - Wireless AP,EAP610,"4897098683613,4897098687772",189.0
 TL-EAP610-OUTDOOR,TP LINK AX1800 Indoor/Outdoor Dual-Band Wi-Fi 6 Access Point,TP LINK AX1800 Indoor/Outdoor Dual-Band Wi-Fi 6 Access Point,10,223.4,TP-LINK,NETWORKING - Wireless Router,EAP610-Outdoor,6935364010232,269.0
@@ -1297,7 +1297,7 @@ TL-ER706W,TP LINK Omada AX3000 Gigabit VPN Router,TP LINK Omada AX3000 Gigabit V
 TL-ER706W-4G,"TP-Link ER706W-4G, Omada 4G+ Cat6 AX3000 Gigabit VPN Router","TP-Link ER706W-4G, Omada 4G+ Cat6 AX3000 Gigabit VPN Router",5,480.8,TP-LINK,NETWORKING - Wireless Router,ER706W-4G,4895252500714,579.0
 TL-ER706WP-4G,TP Link Omada 4G+ Cat6 AX3000 Gigabit VPN Gateway with 4-Port PoE+,TP Link Omada 4G+ Cat6 AX3000 Gigabit VPN Gateway with 4-Port PoE+,10,497.4,TP-LINK,NETWORKING - Wireless Router,ER706WP-4G,8885020627428,599.0
 TL-ER707-M2,TP LINK ER707-M2 Omada Multi-Gigabit VPN Gateway,TP LINK ER707-M2 Omada Multi-Gigabit VPN Gateway,7,248.3,TP-LINK,NETWORKING - Wireless Router,ER707-M2,4895252500738,299.0
-TL-ER7206,TP-LINK SafeStream Gigabit Multi-WAN VPN Router Omada SDN,TP-LINK SafeStream Gigabit Multi-WAN VPN Router Omada SDN,3,190.2,TP-LINK,NETWORKING - Switch & Adapter,ER7206,6935364072391,229.0
+TL-ER7206,TP-LINK SafeStream Gigabit Multi-WAN VPN Router Omada SDN,TP-LINK SafeStream Gigabit Multi-WAN VPN Router Omada SDN,1,190.2,TP-LINK,NETWORKING - Switch & Adapter,ER7206,6935364072391,229.0
 TL-ER7212PC,TP LINK ER7212PC Omada 3-in-1 Gigabit VPN Router version 2,TP LINK ER7212PC Omada 3-in-1 Gigabit VPN Router version 2,12,289.8,TP-LINK,NETWORKING - Wireless Router,ER7212PC,4897098688717,349.0
 TL-ER7406,"TP-Link ER7406, Omada Gigabit Rackmount/Desktop VPN Gateway","TP-Link ER7406, Omada Gigabit Rackmount/Desktop VPN Gateway",4,223.4,TP-LINK,SWITCHES,ER7406,8885020622300,269.0
 TL-ER7412-M2,"TP-Link ER7412-M2, Omada Multi-Gigabit VPN Router","TP-Link ER7412-M2, Omada Multi-Gigabit VPN Router",10,331.3,TP-LINK,NETWORKING - Wireless Router,ER7412-M2,4895252505184,399.0
@@ -1351,7 +1351,7 @@ TL-MR6400-APAC,TP-LINK MR6400 APAC 300Mbps Wireless N 4G LTE Router,TP-LINK MR64
 TL-MR6500V,TP Link 300Mbps Wireless N 4G LTE Telephony Router,TP Link 300Mbps Wireless N 4G LTE Telephony Router,0,206.8,TP-LINK,NETWORKING - Wireless Router,TL-MR6500v APAC,6935364006822,249.0
 TL-NE200-OUTDOOR,TP-Link NE200-Outdoor 5G Outdoor Router,TP-Link NE200-Outdoor 5G Outdoor Router,14,580.5,TP-LINK,NETWORKING - Wireless Router,NE200-Outdoor,1210002601559,699.0
 TL-NVR1008H,TP Link VIGI 8 Channel Network Video Recorder,TP Link VIGI 8 Channel Network Video Recorder,5,123.7,TP-LINK,SURVEILLANCE CAMERA,VIGI NVR1008H,6935364072339,149.0
-TL-OC200,TP-Link OC200 Omada Cloud Controller,TP-Link OC200 Omada Cloud Controller,60,148.6,TP-LINK,NETWORKING - Wireless Router,OC200,6935364084233,179.0
+TL-OC200,TP-Link OC200 Omada Cloud Controller,TP-Link OC200 Omada Cloud Controller,63,148.6,TP-LINK,NETWORKING - Wireless Router,OC200,6935364084233,179.0
 TL-OC220,"TP-Link OC220, Omada Hardware Controller","TP-Link OC220, Omada Hardware Controller",0,190.2,TP-LINK,NETWORKING - Wireless Router,OC220,1210002602457,229.0
 TL-OC300,"TP Link Omada Hardware Controller PORT: 2× 10/100/1000 Mbps Ethernet Ports, 1× USB 3.0 Port (OC300)","TP Link Omada Hardware Controller PORT: 2× 10/100/1000 Mbps Ethernet Ports, 1× USB 3.0 Port (OC300)",2,381.2,TP-LINK,NETWORKING - Wireless Router,OC300,6935364089863,459.0
 TL-OC400,TP LINK OC400 Omada Hardware Controller,TP LINK OC400 Omada Hardware Controller,2,829.6,TP-LINK,NETWORKING - Wireless Router,OC400,8885020620023,999.0
@@ -1385,11 +1385,11 @@ TL-RE405BE,"TP-Link RE405BE, BE6500 Dual-Band Wi-Fi 7 Range Extender","TP-Link R
 TL-RE450,TP-Link RE450 AC1750 Wi-Fi Range Extender,TP-Link RE450 AC1750 Wi-Fi Range Extender,155,98.8,TP-LINK,ACCESSORIES,RE450,"6935364095994,0153500235",119.0
 TL-RE515X,TP-Link RE515X AX1500 Wi-Fi Range Extender,TP-Link RE515X AX1500 Wi-Fi Range Extender,163,123.7,TP-LINK,NETWORKING - Wireless Adapter,RE515X,1210002606066,149.0
 TL-RE605X,TP-Link AX1800 Wi-Fi Range Extender,TP-Link AX1800 Wi-Fi Range Extender,118,140.3,TP-LINK,NETWORKING - Wireless AP,RE605X,6935364010683,169.0
-TL-RE650,TP-Link RE650 AC2600 Wi-Fi Range Extender,TP-Link RE650 AC2600 Wi-Fi Range Extender,48,165.3,TP-LINK,NETWORKING - Wireless AP,RE650,"0153500224,6935364099411,2199016000010",199.0
+TL-RE650,TP-Link RE650 AC2600 Wi-Fi Range Extender,TP-Link RE650 AC2600 Wi-Fi Range Extender,45,165.3,TP-LINK,NETWORKING - Wireless AP,RE650,"0153500224,6935364099411,2199016000010",199.0
 TL-RE655BE,"TP-Link RE655BE, BE9300 Tri-Band Wi-Fi 7 Range Extender","TP-Link RE655BE, BE9300 Tri-Band Wi-Fi 7 Range Extender",0,389.5,TP-LINK,NETWORKING - Wireless Router,RE655BE,8885020622591,469.0
 TL-RE705X,TP LINK RE705X AX3000 Mesh WiFi 6 Extender,TP LINK RE705X AX3000 Mesh WiFi 6 Extender,47,165.3,TP-LINK,NETWORKING - Wireless Router,RE705X,4897098682159,199.0
 TL-RE815XE,TP LINK AXE5400 Mesh Wi-Fi 6E Range Extender,TP LINK AXE5400 Mesh Wi-Fi 6E Range Extender,0,223.4,TP-LINK,NETWORKING - Wireless Router,RE815XE,4897098686164,269.0
-TL-RE900XD,TP LINK AX6000 Wi-Fi 6 Range EAX6000 Wi-Fi 6 Range Extender,TP LINK AX6000 Wi-Fi 6 Range EAX6000 Wi-Fi 6 Range Extender,4,206.8,TP-LINK,NETWORKING - Wireless Router,RE900XD,4897098688311,249.0
+TL-RE900XD,TP LINK AX6000 Wi-Fi 6 Range EAX6000 Wi-Fi 6 Range Extender,TP LINK AX6000 Wi-Fi 6 Range EAX6000 Wi-Fi 6 Range Extender,3,206.8,TP-LINK,NETWORKING - Wireless Router,RE900XD,4897098688311,249.0
 TL-RVA200,"TP LINK Tapo Robot Vacuum 
 Disposable Dust Bag
  (4L Disposable Dust Bag ×3)","TP LINK Tapo Robot Vacuum 
@@ -1444,7 +1444,7 @@ TL-SG1218MP,TP LINK 18-Port Gigabit Rackmount  Switch with 16-Port PoE+,TP LINK 
 TL-SG1218MPE,"TP-Link TL-SG1218MPE 16-Port Gigabit Easy Smart PoE+ Switch with 2 x SFP, 16-Port PoE+ (Max 192W), Rackmount Kit Included","TP-Link TL-SG1218MPE 16-Port Gigabit Easy Smart PoE+ Switch with 2 x SFP, 16-Port PoE+ (Max 192W), Rackmount Kit Included",12,314.7,TP-LINK,NETWORKING - POE & EOP,TL-SG1218MPE,6935364086923,379.0
 TL-SG1428PE,TP-LINK SG1428PE 28-Port Gigabit Easy Smart Switch with 24-Port PoE+,TP-LINK SG1428PE 28-Port Gigabit Easy Smart Switch with 24-Port PoE+,0,414.4,TP-LINK,NETWORKING - Switch & Adapter,TL-SG1428PE,6935364072209,499.0
 TL-SG2005P-PD,TP LINK Omada 5-Port Gigabit Smart Switch with 1-Port PoE++ In and 4-Port PoE+ Out,TP LINK Omada 5-Port Gigabit Smart Switch with 1-Port PoE++ In and 4-Port PoE+ Out,0,173.6,TP-LINK,NETWORKING - Switch & Adapter,SG2005P-PD,4897098689486,209.0
-TL-SG2008,TP-LINK 8 Port Gigabit Desktop Smart Switch,TP-LINK 8 Port Gigabit Desktop Smart Switch,3,132.0,TP-LINK,NETWORKING - Switch & Adapter,SG2008,"6935364021788,6935364080242,6935364010546",159.0
+TL-SG2008,TP-LINK 8 Port Gigabit Desktop Smart Switch,TP-LINK 8 Port Gigabit Desktop Smart Switch,2,132.0,TP-LINK,NETWORKING - Switch & Adapter,SG2008,"6935364021788,6935364080242,6935364010546",159.0
 TL-SG2008P,"TP-LINK TL-SG2008P, JetStream 8-Port Gigabit Smart Switch with 4-Port PoE+ w/ Omada SDN Supported 62w","TP-LINK TL-SG2008P, JetStream 8-Port Gigabit Smart Switch with 4-Port PoE+ w/ Omada SDN Supported 62w",2,157.0,TP-LINK,NETWORKING - Switch & Adapter,SG2008P,6935364072957,189.0
 TL-SG2016P,TP LINK JetStream 16-Port Gigabit Smart Switch with 8-Port PoE+,TP LINK JetStream 16-Port Gigabit Smart Switch with 8-Port PoE+,3,273.2,TP-LINK,SWITCHES,SG2016P,4897098689493,329.0
 TL-SG2206MP,TP-Link SG2206MP Omada Access 6-Port Gigabit Switch with 4-Port PoE+,TP-Link SG2206MP Omada Access 6-Port Gigabit Switch with 4-Port PoE+,7,165.3,TP-LINK,SWITCHES,SG2206MP,1210002602402,199.0
@@ -1452,7 +1452,7 @@ TL-SG2210MP,"TP-LINK TL-SG2210MP, JetStream 10-Port Gigabit Smart Switch with 8-
 TL-SG2210P,TP-LINK TL-SG2210P 8-Port Gigabit Smart PoE Switch with 2 SFP Slots,TP-LINK TL-SG2210P 8-Port Gigabit Smart PoE Switch with 2 SFP Slots,0,173.6,TP-LINK,NETWORKING - Switch & Adapter,SG2210P,"1760500060,6935364022013,6935364080259,6935364030698",209.0
 TL-SG2210XMP-M2,TP LINK Omada 8-Port 2.5GBASE-T and 2-Port 10GE SFP+ Smart Switch with 8-Port PoE+,TP LINK Omada 8-Port 2.5GBASE-T and 2-Port 10GE SFP+ Smart Switch with 8-Port PoE+,1,455.9,TP-LINK,SWITCHES,SG2210XMP-M2,4895252504774,549.0
 TL-SG2218,TP LINK JetStream 16-Port Gigabit Smart Switch with 2 Gigabit SFP Slots,TP LINK JetStream 16-Port Gigabit Smart Switch with 2 Gigabit SFP Slots,15,240.0,TP-LINK,SWITCHES,SG2218,6935364006419,289.0
-TL-SG2218P,TP LINK JetStream 18-Port Gigabit Smart Switch with 16-Port PoE+,TP LINK JetStream 18-Port Gigabit Smart Switch with 16-Port PoE+,2,356.3,TP-LINK,NETWORKING - Switch & Adapter,SG2218P,4897098689509,429.0
+TL-SG2218P,TP LINK JetStream 18-Port Gigabit Smart Switch with 16-Port PoE+,TP LINK JetStream 18-Port Gigabit Smart Switch with 16-Port PoE+,0,356.3,TP-LINK,NETWORKING - Switch & Adapter,SG2218P,4897098689509,429.0
 TL-SG2428LP,TP LINK SG2428LP Omada 28-Port Gigabit Smart Switch with 16-Port PoE+,TP LINK SG2428LP Omada 28-Port Gigabit Smart Switch with 16-Port PoE+,7,414.4,TP-LINK,NETWORKING - Switch & Adapter,SG2428LP,8885020620832,499.0
 TL-SG2428P,"TP-Link TL-SG2428P, JetStream 28-Port Gigabit Smart Switch with 24-Port PoE+ w/ Omada SDN Supported 250w","TP-Link TL-SG2428P, JetStream 28-Port Gigabit Smart Switch with 24-Port PoE+ w/ Omada SDN Supported 250w",0,480.8,TP-LINK,NETWORKING - Switch & Adapter,SG2428P,6935364030650,579.0
 TL-SG2452LP,TP LINK SG2452LP Omada 52-Port Gigabit Smart Switch with 32-Port PoE+,TP LINK SG2452LP Omada 52-Port Gigabit Smart Switch with 32-Port PoE+,6,912.6,TP-LINK,NETWORKING - Wireless Router,SG2452LP,8885020620818,1099.0
@@ -1489,7 +1489,7 @@ TL-SM321B,TP LINK 1000Base-BX WDM Bi-Dir SFP MOD,TP LINK 1000Base-BX WDM Bi-Dir 
 TL-SM321B-2,TP Link 1000Base-BX WDM Bi-Directional SFP Module,TP Link 1000Base-BX WDM Bi-Directional SFP Module,3,22.4,TP-LINK,NETWORKING PRODUCTS,SM321B-2,6935364072940,27.0
 TL-SM5110-LR,TP Link 10GBase-LR SFP+ LC Transceiver,TP Link 10GBase-LR SFP+ LC Transceiver,2,57.3,TP-LINK,NETWORKING PRODUCTS,SM5110-LR,4897098682807,69.0
 TL-SM5110-SR,TP Link 10GBase-SR SFP+ LC Transceiver,TP Link 10GBase-SR SFP+ LC Transceiver,0,40.7,TP-LINK,NETWORKING PRODUCTS,SM5110-SR,6935364006297,49.0
-TL-SM5110LSA-10,TP-Link SM5110LSA-10 Omada 10GBase-BX WDM Bi-Directional SFP+ LC Module,TP-Link SM5110LSA-10 Omada 10GBase-BX WDM Bi-Directional SFP+ LC Module,10,57.3,TP-LINK,NETWORKING PRODUCTS,SM5110LSA-10,8885020622928,69.0
+TL-SM5110LSA-10,TP-Link SM5110LSA-10 Omada 10GBase-BX WDM Bi-Directional SFP+ LC Module,TP-Link SM5110LSA-10 Omada 10GBase-BX WDM Bi-Directional SFP+ LC Module,30,57.3,TP-LINK,NETWORKING PRODUCTS,SM5110LSA-10,8885020622928,69.0
 TL-SM5110LSB-10,TP-Link SM5110LSB-10 Omada 10GBase-BX WDM Bi-Directional SFP+ LC Module,TP-Link SM5110LSB-10 Omada 10GBase-BX WDM Bi-Directional SFP+ LC Module,0,57.3,TP-LINK,NETWORKING PRODUCTS,SM5110LSB-10,8885020622942,69.0
 TL-SM5220-1M,TP LINK TL-SM5220-1M 1 Meter 10G SFP+ Direct Attach Cable,TP LINK TL-SM5220-1M 1 Meter 10G SFP+ Direct Attach Cable,0,39.0,TP-LINK,CABLES,SM5220-1M,4897098682814,47.0
 TL-SM5310-T,TP LINK 10G BASE-T RJ45 SFP+ Module,TP LINK 10G BASE-T RJ45 SFP+ Module,0,72.2,TP-LINK,NETWORKING PRODUCTS,SM5310-T,4897098687758,87.0
@@ -1653,7 +1653,7 @@ TL-VIGIC440I(4MM),TP Link VIGI C440I (4mm) VIGI 4MP IR Turret Network Camera,TP 
 TL-VIGIC450(2.8MM),TP LINK VIGI C450 (2.8MM) VIGI 5MP Full-Color Turret Network Camera,TP LINK VIGI C450 (2.8MM) VIGI 5MP Full-Color Turret Network Camera,0,90.5,TP-LINK,SURVEILLANCE CAMERA,VIGI C450(2.8mm),4895252503036,109.0
 TL-VIGIC450(4MM),TP Link VIGI C450 5MP Full-Colour Turret Network Camera,TP Link VIGI C450 5MP Full-Colour Turret Network Camera,0,90.5,TP-LINK,SURVEILLANCE CAMERA,VIGI C450(4mm),4895252503012,109.0
 TL-VIGIC540(4MM),TP LINK VIGI C540 VIGI 4MP Outdoor Full-Colour Pan Tilt Network Camera,TP LINK VIGI C540 VIGI 4MP Outdoor Full-Colour Pan Tilt Network Camera,0,107.1,TP-LINK,SURVEILLANCE CAMERA,VIGI C540(4mm),4897098683781,129.0
-TL-VIGIC540-4G(4MM),"TP-Link VIGI C540-4G(4mm), VIGI 4MP Outdoor Full-Color 4G Pan Tilt Network Camera","TP-Link VIGI C540-4G(4mm), VIGI 4MP Outdoor Full-Color 4G Pan Tilt Network Camera",4,173.6,TP-LINK,SURVEILLANCE CAMERA,VIGI C540-4G(4mm),4895252504910,209.0
+TL-VIGIC540-4G(4MM),"TP-Link VIGI C540-4G(4mm), VIGI 4MP Outdoor Full-Color 4G Pan Tilt Network Camera","TP-Link VIGI C540-4G(4mm), VIGI 4MP Outdoor Full-Color 4G Pan Tilt Network Camera",3,173.6,TP-LINK,SURVEILLANCE CAMERA,VIGI C540-4G(4mm),4895252504910,209.0
 TL-VIGIC540-W(4MM),TP LINK VIGI C540-W VIGI 4MP Outdoor Full-Colour Wi-Fi Pan Tilt Network Camera,TP LINK VIGI C540-W VIGI 4MP Outdoor Full-Colour Wi-Fi Pan Tilt Network Camera,6,123.7,TP-LINK,SURVEILLANCE CAMERA,VIGI C540-W(4mm),4897098683798,149.0
 TL-VIGIC540S(4MM),"TP LINK VIGI C540S(4mm), VIGI 4MP Outdoor ColourPro Night Vision Pan Tilt Network Camera","TP LINK VIGI C540S(4mm), VIGI 4MP Outdoor ColourPro Night Vision Pan Tilt Network Camera",0,190.2,TP-LINK,SURVEILLANCE CAMERA,VIGI C540S(4mm),4895252503098,229.0
 TL-VIGIC540V,TP Link VIGI C540V 4MP Outdoor Full-Color Dual-Lens Varifocal Pan Tilt Network Camera,TP Link VIGI C540V 4MP Outdoor Full-Color Dual-Lens Varifocal Pan Tilt Network Camera,0,140.3,TP-LINK,SURVEILLANCE CAMERA,VIGI C540V,4895252500837,169.0
@@ -1797,7 +1797,7 @@ VEN-COOBH,Vention USB 3.0 A Male to B Male Cable 2M Black PVC Type,Vention USB 3
 VEN-COPBF,Vention USB 3.0 A Male to Micro-B  Male  Cable 1M Black PVC Type,Vention USB 3.0 A Male to Micro-B  Male  Cable 1M Black PVC Type,0,4.77,Vention,CABLES - USB3 Cables,COPBF,6922794748927,7.9
 VEN-COQBH,Vention USB 2.0 A Male to B Male Cable 2M Black PVC Type,Vention USB 2.0 A Male to B Male Cable 2M Black PVC Type,0,2.97,Vention,CABLES - USB 2 Cables,COQBH,6922794748576,4.9
 VEN-COWBH,Vention USB 2.0 C Male to Mini-B Male 2A Cable 2M Black,Vention USB 2.0 C Male to Mini-B Male 2A Cable 2M Black,0,3.87,Vention,CABLES - USB 2 Cables,COWBH,6922794755987,6.9
-VEN-COZBH,Vention USB 3.0 A Male to C Male Cable 2M Black PVC Type,Vention USB 3.0 A Male to C Male Cable 2M Black PVC Type,60,6.21,Vention,CABLES - USB3 Cables,COZBH,6922794749382,9.9
+VEN-COZBH,Vention USB 3.0 A Male to C Male Cable 2M Black PVC Type,Vention USB 3.0 A Male to C Male Cable 2M Black PVC Type,40,6.21,Vention,CABLES - USB3 Cables,COZBH,6922794749382,9.9
 VEN-CQDBH,Vention USB 2.0 A Male to 2-in-1 Micro-B&USB-C Male 3A Cable 2M Black,Vention USB 2.0 A Male to 2-in-1 Micro-B&USB-C Male 3A Cable 2M Black,12,6.21,Vention,CABLES - USB 2 Cables,CQDBH,6922794753051,9.9
 VEN-CQUBH,Vention USB 2.0 C Male to B Male 2A Cable 2M Black,Vention USB 2.0 C Male to B Male 2A Cable 2M Black,57,4.41,Vention,CABLES - USB 2 Cables,CQUBH,6922794756427,7.9
 VEN-CQVBF,Vention USB 3.0 C Male to B Male 2A Cable 1M Black,Vention USB 3.0 C Male to B Male 2A Cable 1M Black,47,6.21,Vention,CABLES - USB3 Cables,CQVBF,6922794756588,9.9
@@ -1807,7 +1807,7 @@ VEN-CREBC,Vention Cotton Braided USB-C to HDMI 4K Converter 0.25M Black Zinc All
 VEN-CTFBF-SCB,Vention Nylon Braided USB 2.0 A Male to C Male 3A Cable 1M Black LED Type,Vention Nylon Braided USB 2.0 A Male to C Male 3A Cable 1M Black LED Type,49,4.23,Vention,CABLES - USB 2 Cables,CTFBF-SCB,6922794770324,6.9
 VEN-CTFBH,Vention Nylon Braided USB 2.0 A Male to C Male 3A Cable 2M Black LED Type,Vention Nylon Braided USB 2.0 A Male to C Male 3A Cable 2M Black LED Type,49,4.59,Vention,CABLES,CTFBH,6922794766587,7.9
 VEN-CTFBH-SCB,Vention Nylon Braided USB 2.0 A Male to C Male 3A Cable 2M Black LED Type,Vention Nylon Braided USB 2.0 A Male to C Male 3A Cable 2M Black LED Type,17,5.13,Vention,CABLES - USB 2 Cables,CTFBH-SCB,6922794770348,8.9
-VEN-CTHBF,Vention USB 2.0 A Male to C Male 3A Cable 1M Black,Vention USB 2.0 A Male to C Male 3A Cable 1M Black,77,2.25,Vention,CABLES - USB 2 Cables,CTHBF,6922794767478,3.9
+VEN-CTHBF,Vention USB 2.0 A Male to C Male 3A Cable 1M Black,Vention USB 2.0 A Male to C Male 3A Cable 1M Black,75,2.25,Vention,CABLES - USB 2 Cables,CTHBF,6922794767478,3.9
 VEN-CTHBG,Vention USB 2.0 A Male to C Male 3A Cable 1.5M Black,Vention USB 2.0 A Male to C Male 3A Cable 1.5M Black,15,2.97,Vention,CABLES - USB 2 Cables,CTHBG,6922794767485,4.9
 VEN-CTHBH,Vention USB 2.0 A Male to C Male 3A Cable 2M Black,Vention USB 2.0 A Male to C Male 3A Cable 2M Black,37,3.6,Vention,CABLES - USB 2 Cables,CTHBH,6922794767492,5.9
 VEN-CTHWF,Vention USB 2.0 A Male to C Male 3A Cable 1M White,Vention USB 2.0 A Male to C Male 3A Cable 1M White,0,2.25,Vention,CABLES - USB 2 Cables,CTHWF,6922794767539,3.9
@@ -1815,7 +1815,7 @@ VEN-CTHWH,Vention USB 2.0 A Male to C Male 3A Cable 2M White,Vention USB 2.0 A M
 VEN-CTIBH,Vention USB 2.0 A Male to Micro-B Male 2A Cable 2M Black,Vention USB 2.0 A Male to Micro-B Male 2A Cable 2M Black,2,3.15,Vention,CABLES - USB 2 Cables,CTIBH,6922794767614,5.9
 VEN-CTIWH,Vention USB 2.0 A Male to Micro-B Male 2A Cable 2M White,Vention USB 2.0 A Male to Micro-B Male 2A Cable 2M White,16,3.15,Vention,CABLES - USB 2 Cables,CTIWH,6922794767676,5.9
 VEN-DDDB0,Vention VGA Male to DVI Female Adapter Black,Vention VGA Male to DVI Female Adapter Black,31,3.33,Vention,ADAPTORS / CONVERTERS,DDDB0,6922794747999,5.9
-VEN-ECDB0,Vention DVI(24+1) Male to HDMI Female Adapter Black,Vention DVI(24+1) Male to HDMI Female Adapter Black,3,3.15,Vention,ADAPTORS / CONVERTERS,ECDB0,6922794737945,5.9
+VEN-ECDB0,Vention DVI(24+1) Male to HDMI Female Adapter Black,Vention DVI(24+1) Male to HDMI Female Adapter Black,2,3.15,Vention,ADAPTORS / CONVERTERS,ECDB0,6922794737945,5.9
 VEN-ECFB0,Vention DVI Male to VGA Female Adapter Black,Vention DVI Male to VGA Female Adapter Black,17,3.15,Vention,ADAPTORS / CONVERTERS,ECFB0,6922794748033,5.9
 VEN-FFEH0,Vention Two-Port USB A+A(30/30) Car Charger Gray Mini Style Aluminium Alloy Type,Vention Two-Port USB A+A(30/30) Car Charger Gray Mini Style Aluminium Alloy Type,19,16.2,Vention,MobilePhone/Tablet Accessories,FFEH0,6922794761674,25.9
 VEN-FFFH0,Vention Two-Port USB A+C(30+30) Car Charger Gray Mini Style Aluminium Alloy Type,Vention Two-Port USB A+C(30+30) Car Charger Gray Mini Style Aluminium Alloy Type,4,16.2,Vention,MobilePhone/Tablet Accessories,FFFH0,6922794761681,25.9
@@ -2025,7 +2025,7 @@ VEN-TDCBB,Vention Type-C to HDMI Adapter 0.15M Black ABS Type,Vention Type-C to 
 VEN-TFAHB,Vention Type-C to HDMI/VGA/USB3.0/PD Converter 0.15M Gray Metal Type,Vention Type-C to HDMI/VGA/USB3.0/PD Converter 0.15M Gray Metal Type,10,36.99,Vention,ADAPTORS / CONVERTERS,TFAHB,6922794742567,59.9
 VEN-TGFSB,Vention USB 3.0 to USB 3.0 x 3/RJ45/USB-C Hub 0.15M Blue Aluminum Alloy Type,Vention USB 3.0 to USB 3.0 x 3/RJ45/USB-C Hub 0.15M Blue Aluminum Alloy Type,13,25.38,Vention,HUBS AND CARDREADERS,TGFSB,6922794781245,40.9
 VEN-TGKBB,Vention Type-C to 4-Port USB 3.0 Hub with Power Delivery Black 0.15M ABS Type,Vention Type-C to 4-Port USB 3.0 Hub with Power Delivery Black 0.15M ABS Type,9,17.01,Vention,CABLES,TGKBB,6922794746732,27.9
-VEN-TGKBF,Vention Type-C to 4-Port USB 3.0 Hub with Power Delivery Black 1M ABS Type,Vention Type-C to 4-Port USB 3.0 Hub with Power Delivery Black 1M ABS Type,18,17.82,Vention,CABLES,TGKBF,6922794746756,28.9
+VEN-TGKBF,Vention Type-C to 4-Port USB 3.0 Hub with Power Delivery Black 1M ABS Type,Vention Type-C to 4-Port USB 3.0 Hub with Power Delivery Black 1M ABS Type,17,17.82,Vention,CABLES,TGKBF,6922794746756,28.9
 VEN-TGSHB,Vention Multi-function USB-C to HDMI/VGA/USB3.0*3/PD Docking Station 0.15M Gray Metal Type,Vention Multi-function USB-C to HDMI/VGA/USB3.0*3/PD Docking Station 0.15M Gray Metal Type,6,48.33,Vention,HUBS AND CARDREADERS,TGSHB,6922794749290,77.9
 VEN-TGTBB,Vention USB-C to USB 3.0*3/USB-C(Gen1)/Micro-B HUB 0.15M Black ABS Type,Vention USB-C to USB 3.0*3/USB-C(Gen1)/Micro-B HUB 0.15M Black ABS Type,12,18.9,Vention,CABLES - USB3 Cables,TGTBB,6922794749610,30.9
 VEN-THAHB,Vention Multi-function Type-C to HDMI/USB3.0*3/TF/SD/RJ45/3.5mm/PD Docking Station 0.15m Gray Metal Type,Vention Multi-function Type-C to HDMI/USB3.0*3/TF/SD/RJ45/3.5mm/PD Docking Station 0.15m Gray Metal Type,18,67.23,Vention,CABLES - VGA/DVI/HDMI/DP,THAHB,6922794742611,107.9
@@ -2041,7 +2041,7 @@ VEN-TQHHB,Vention USB-C to HDMI/USB 3.0 x3/RJ45/PD Docking Station 0.15M Gray Al
 VEN-TQUHB,Vention USB-C to DP/HDMI/USB 3.0 x 2/USB 2.0/RJ45/SD/TF/PD MST Docking Station 0.15M Gray Aluminum Alloy Type,Vention USB-C to DP/HDMI/USB 3.0 x 2/USB 2.0/RJ45/SD/TF/PD MST Docking Station 0.15M Gray Aluminum Alloy Type,2,108.0,Vention,CABLES - VGA/DVI/HDMI/DP,TQUHB,6922794779884,172.9
 VEN-TRAHF,Vention USB 2.0 Type-C Male to Type-C Male Right Angle 3A Cable 1M Gray Aluminum Alloy Type,Vention USB 2.0 Type-C Male to Type-C Male Right Angle 3A Cable 1M Gray Aluminum Alloy Type,19,5.85,Vention,CABLES - USB 2 Cables,TRAHF,6922794781603,9.9
 VEN-TRAHH,Vention USB 2.0 Type-C Male to Type-C Male Right Angle 3A Cable 2M Gray Aluminum Alloy Type,Vention USB 2.0 Type-C Male to Type-C Male Right Angle 3A Cable 2M Gray Aluminum Alloy Type,0,6.75,Vention,CABLES - USB 2 Cables,TRAHH,6922794781627,10.9
-VEN-VAA-D02-B150,Vention Mini HDMI Cable 1.5M Black,Vention Mini HDMI Cable 1.5M Black,11,6.48,Vention,CABLES - VGA/DVI/HDMI/DP,VAA-D02-B150,6922794721029,10.9
+VEN-VAA-D02-B150,Vention Mini HDMI Cable 1.5M Black,Vention Mini HDMI Cable 1.5M Black,10,6.48,Vention,CABLES - VGA/DVI/HDMI/DP,VAA-D02-B150,6922794721029,10.9
 VEN-VAA-D03-B200,Vention Micro HDMI Cable 2M Black,Vention Micro HDMI Cable 2M Black,18,7.56,Vention,CABLES - VGA/DVI/HDMI/DP,VAA-D03-B200,6922794721135,12.9
 VEN-VAB-R01-B200,Vention 3.5mm Female to 2RCA Male Audio Cable 2M Black Metal Type,Vention 3.5mm Female to 2RCA Male Audio Cable 2M Black Metal Type,27,5.31,Vention,CABLES,VAB-R01-B200,6922794740860,8.9
 VEN-VAB-R06-B300,Vention 2RCA Male to Male Audio Cable 3M Black Metal Type,Vention 2RCA Male to Male Audio Cable 3M Black Metal Type,50,6.57,Vention,CABLES,VAB-R06-B300,6922794740921,10.9
