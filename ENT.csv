@@ -382,12 +382,12 @@ MECW9166D1-MR,Catalyst 9166D1 AP (W6E tri-band 4x4) w/,Catalyst 9166D1 AP (W6E t
 MECW9166I-MR,Catalyst 9166I AP (W6E tri-band 4x4) w/M,Catalyst 9166I AP (W6E tri-band 4x4) w/MERAKI,CW9166I-MR,CISCO MERAKI,,CI - WIFI6E CAT WIRELESS AP,,,,0,0,1754.92,1754.92,,$4677.84,-2,,N,N
 MECW9172H-CFG,Cisco Wireless 9172H(W73 radio3 band 2x2,Cisco Wireless 9172H(W73 radio3 band 2x2)Global,CW9172H-CFG,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,941.27,941.27,,$2053.00,0,,Y,N
 MECW9172H-RTG,Cisco Wireless 9172H(W73 radio3 band 2x2,Cisco Wireless 9172H(W73 radio3 band 2x2)Global,CW9172H-RTG,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,941.27,941.27,,$2053.00,0,,Y,N
-MECW9172I-CFG,Cisco Wireless 9172I(W73 radio3 band 2x2,Cisco Wireless 9172I(W73 radio3 band 2x2)Global,CW9172I-CFG,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,1037.32,1037.32,,$2427.98,-19,26-11-2025,N,N
+MECW9172I-CFG,Cisco Wireless 9172I(W73 radio3 band 2x2,Cisco Wireless 9172I(W73 radio3 band 2x2)Global,CW9172I-CFG,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,1037.32,1037.32,,$2427.98,-19,,N,N
 MECW9172I-RTG,Cisco Wireless 9172I(W73 radio3 band 2x2,Cisco Wireless 9172I(W73 radio3 band 2x2)Global,CW9172I-RTG,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,1037.32,1037.32,,$2427.98,-4,,N,N
-MECW9176D1-CFG,Cisco Wireless 9176D1(W73 radio3 band 4x,Cisco Wireless 9176D1(W73 radio3 band 4x4UWB)Global,CW9176D1-CFG,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,2293.44,2293.44,,$5240.31,0,,Y,N
+MECW9176D1-CFG,Cisco Wireless 9176D1(W73 radio3 band 4x,Cisco Wireless 9176D1(W73 radio3 band 4x4UWB)Global,CW9176D1-CFG,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,2293.44,2293.44,,$5240.31,-16,,Y,N
 MECW9176D1-RTG,Cisco Wireless 9176D1(W73 radio3 band 4x,Cisco Wireless 9176D1(W73 radio3 band 4x4UWB)Global,CW9176D1-RTG,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,2293.44,2293.44,,$5240.31,0,,N,N
-MECW9176I-CFG,Cisco Wireless 9176I(W73 radio3 band 4x4,Cisco Wireless 9176I(W73 radio3 band 4x4UWB)Global,CW9176I-CFG,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,2047.29,2047.29,,$4677.84,-8,,Y,N
-MECW9176I-RTG,Cisco Wireless 9176I(W73 radio3 band 4x4,Cisco Wireless 9176I(W73 radio3 band 4x4UWB)Global,CW9176I-RTG,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,2047.29,2047.29,,$4677.84,0,,N,N
+MECW9176I-CFG,Cisco Wireless 9176I(W73 radio3 band 4x4,Cisco Wireless 9176I(W73 radio3 band 4x4UWB)Global,CW9176I-CFG,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,2047.29,2047.29,,$4677.84,-108,,Y,N
+MECW9176I-RTG,Cisco Wireless 9176I(W73 radio3 band 4x4,Cisco Wireless 9176I(W73 radio3 band 4x4UWB)Global,CW9176I-RTG,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,2047.29,2047.29,,$4677.84,-7,,N,N
 MECW9178I-CFG,Cisco Wireless 9178I(W74 radio3 band 4x4,Cisco Wireless 9178I(W74 radio3 band 4x4UWB) Global,CW9178I-CFG,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,2457.55,2457.55,,$5615.29,0,,Y,N
 MECW9178I-RTG,Cisco Wireless 9178I(W74 radio3 band 4x4,Cisco Wireless 9178I(W74 radio3 band 4x4UWB)Global,CW9178I-RTG,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,2457.55,2457.55,,$5615.29,0,,N,N
 MECW-ACC-DESK1-00,Wall Plate AP Desktop Stand,Wall Plate AP Desktop Stand,CW-ACC-DESK1-00,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,243.25,0,,$374.98,0,,Y,N
@@ -398,7 +398,7 @@ MECW-ANT-O1-NS-00,4/8/8 dBi Omni Dipole N connector Cataly,4/8/8 dBi Omni Dipole
 MECW-AP-LITE,Enterprise Wi-Fi 6 Bundle (MR36),Enterprise Wi-Fi 6 Bundle (MR36),CW-AP-LITE,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,0,0,,$0.00,0,,N,N
 MECW-AP-PRO,Enterprise Wi-Fi 6E Bundle (CW9162),Enterprise Wi-Fi 6E Bundle (CW9162),CW-AP-PRO,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,0,0,,$0.00,0,,Y,N
 MECW-INJ-8,MGig(10G)60W802.3bt PoE Injector(Power C,MGig(10G)60W802.3bt PoE Injector(Power Cord Not Included),CW-INJ-8,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,547.33,0,,$843.70,0,,N,N
-MECW-MNT-ART2-00,Articulating AP Arm,Articulating AP Arm,CW-MNT-ART2-00,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,243.25,0,,$374.98,-6,,N,N
+MECW-MNT-ART2-00,Articulating AP Arm,Articulating AP Arm,CW-MNT-ART2-00,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,243.25,0,,$374.98,-22,,N,N
 MEEAB-MX67-ENT-3Y,Meraki MX67 ENT Enterprise Agreement 3Y ,Meraki MX67 ENT Enterprise Agreement 3Y - Booking Only,EAB-MX67-ENT-3Y,CISCO MERAKI,,CI - MERAKI EA NETW INFR SUITE,,,,0,0,905.73,0,,$1396.19,0,,Y,N
 MEEAB-MX67W-ENT-3Y,Meraki MX67W ENT Enterprise Agreement 3Y,Meraki MX67W ENT Enterprise Agreement 3Y - Booking Only,EAB-MX67W-ENT-3Y,CISCO MERAKI,,CI - MERAKI EA NETW INFR SUITE,,,,0,0,971.6,0,,$1497.73,0,,Y,N
 MELIC-ACCSMGR-A-3Y,Cisco Access Manager Advanced 3 YEAR Co ,Cisco Access Manager Advanced 3 YEAR Co Term License,LIC-ACCSMGR-A-3Y,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,48.69,0,,$76.37,0,,Y,N
@@ -430,8 +430,8 @@ MELIC-DISPLAY-5Y,Meraki Display Software License and Supp,Meraki Display Softwar
 MELIC-ENT-10YR,Meraki MR Enterprise License 10YR,Meraki MR Enterprise License 10YR,LIC-ENT-10YR,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,1303.7,1303.7,,$2719.85,0,,N,N
 MELIC-ENT-1D,Meraki MR Enterprise License-1 Day,Meraki MR Enterprise License-1 Day,LIC-ENT-1D,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,0.6,0.6,,$1.25,0,,Y,N
 MELIC-ENT-1YR,Meraki MR Enterprise License 1YR,Meraki MR Enterprise License 1YR,LIC-ENT-1YR,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,173.82,173.82,,$362.65,-29,,N,N
-MELIC-ENT-3YR,Meraki MR Enterprise License 3YR,Meraki MR Enterprise License 3YR,LIC-ENT-3YR,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,391.12,391.12,,$815.96,-35,17-12-2025,N,N
-MELIC-ENT-5YR,Meraki MR Enterprise License 5YR,Meraki MR Enterprise License 5YR,LIC-ENT-5YR,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,651.84,651.84,,$1359.93,-17,26-01-2026,N,N
+MELIC-ENT-3YR,Meraki MR Enterprise License 3YR,Meraki MR Enterprise License 3YR,LIC-ENT-3YR,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,391.12,391.12,,$815.96,-42,17-12-2025,N,N
+MELIC-ENT-5YR,Meraki MR Enterprise License 5YR,Meraki MR Enterprise License 5YR,LIC-ENT-5YR,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,651.84,651.84,,$1359.93,-17,,N,N
 MELIC-ENT-7YR,Meraki MR Enterprise License 7YR,Meraki MR Enterprise License 7YR,LIC-ENT-7YR,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,912.58,912.58,,$1903.90,0,,N,N
 MELIC-MG21-ENT-1Y,Meraki MG21 Enterprise License and Suppo,Meraki MG21 Enterprise License and Support 1Y,LIC-MG21-ENT-1Y,CISCO MERAKI,,CI - MERAKI MG,,,,0,0,190.93,190.93,,$426.11,0,,N,N
 MELIC-MG21-ENT-3Y,Meraki MG21 Enterprise License and Suppo,Meraki MG21 Enterprise License and Support 3Y,LIC-MG21-ENT-3Y,CISCO MERAKI,,CI - MERAKI MG,,,,0,0,429.79,429.79,,$959.20,0,,N,N
@@ -541,7 +541,7 @@ MELIC-MS130-24-7Y,Meraki MS130-24 Enterprise License and S,Meraki MS130-24 Enter
 MELIC-MS130-24A-5Y,Meraki MS130-24 Advanced License and Sup,Meraki MS130-24 Advanced License and Support 5 Year,LIC-MS130-24A-5Y,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,1517.41,0,,$2339.08,0,,Y,N
 MELIC-MS130-48-10Y,Meraki MS130-48 Enterprise License and S,Meraki MS130-48 Enterprise License and Support 10 Year,LIC-MS130-48-10Y,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,1854.74,1854.74,,$4045.33,0,,Y,N
 MELIC-MS130-48-1Y,Meraki MS130-48 Enterprise License and S,Meraki MS130-48 Enterprise License and Support 1 Year,LIC-MS130-48-1Y,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,246.91,246.91,,$538.53,0,,N,N
-MELIC-MS130-48-3Y,Meraki MS130-48 Enterprise License and S,Meraki MS130-48 Enterprise License and Support 3 Year,LIC-MS130-48-3Y,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,556.17,556.17,,$1213.06,-1,,N,N
+MELIC-MS130-48-3Y,Meraki MS130-48 Enterprise License and S,Meraki MS130-48 Enterprise License and Support 3 Year,LIC-MS130-48-3Y,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,556.17,556.17,,$1213.06,-4,,N,N
 MELIC-MS130-48-5Y,Meraki MS130-48 Enterprise License and S,Meraki MS130-48 Enterprise License and Support 5 Year,LIC-MS130-48-5Y,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,927.8,927.8,,$2023.57,0,,N,N
 MELIC-MS130-48-7Y,Meraki MS130-48 Enterprise License and S,Meraki MS130-48 Enterprise License and Support 7 Year,LIC-MS130-48-7Y,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,1298.57,1298.57,,$2832.28,0,,Y,N
 MELIC-MS130-48A-1Y,Meraki MS130-48 Advanced License and Sup,Meraki MS130-48 Advanced License and Support 1 Year,LIC-MS130-48A-1Y,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,698.71,0,,$1077.06,0,,N,N
@@ -550,7 +550,7 @@ MELIC-MS130-48A-5Y,Meraki MS130-48 Advanced License and Sup,Meraki MS130-48 Adva
 MELIC-MS130-CMPT-10Y,Meraki MS130-CMPT Enterprise License and,Meraki MS130-CMPT Enterprise License and Support 10 Year,LIC-MS130-CMPT-10Y,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,414,414,,$902.99,0,,Y,N
 MELIC-MS130-CMPT-1Y,Meraki MS130-CMPT Enterprise License and,Meraki MS130-CMPT Enterprise License and Support 1 Year,LIC-MS130-CMPT-1Y,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,55.7,55.7,,$121.49,0,,Y,N
 MELIC-MS130-CMPT-3Y,Meraki MS130-CMPT Enterprise License and,Meraki MS130-CMPT Enterprise License and Support 3 Year,LIC-MS130-CMPT-3Y,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,124.7,124.7,,$271.99,-4,,N,N
-MELIC-MS130-CMPT-5Y,Meraki MS130-CMPT Enterprise License and,Meraki MS130-CMPT Enterprise License and Support 5 Year,LIC-MS130-CMPT-5Y,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,207.02,207.02,,$451.50,-4,,N,N
+MELIC-MS130-CMPT-5Y,Meraki MS130-CMPT Enterprise License and,Meraki MS130-CMPT Enterprise License and Support 5 Year,LIC-MS130-CMPT-5Y,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,207.02,207.02,,$451.50,-7,,N,N
 MELIC-MS130-CMPT-7Y,Meraki MS130-CMPT Enterprise License and,Meraki MS130-CMPT Enterprise License and Support 7 Year,LIC-MS130-CMPT-7Y,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,289.3,289.3,,$631.01,0,,Y,N
 MELIC-MS130-CMPTA-3Y,Meraki MS130-CMPT Advanced License and S,Meraki MS130-CMPT Advanced License and Support 3 Year,LIC-MS130-CMPTA-3Y,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,352.89,0,,$543.97,0,,Y,N
 MELIC-MS130-CMPTA-5Y,Meraki MS130-CMPT Advanced License and S,Meraki MS130-CMPT Advanced License and Support 5 Year,LIC-MS130-CMPTA-5Y,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,585.77,0,,$902.99,0,,Y,N
@@ -1103,7 +1103,7 @@ MELIC-Z4C-SEC-7Y,Meraki Z4C Secure Teleworker License and,Meraki Z4C Secure Tele
 MELIC-Z4-ENT-10Y,Meraki Z4 Enterprise License and Support,Meraki Z4 Enterprise License and Support 10YR,LIC-Z4-ENT-10Y,CISCO MERAKI,,CI - MERAKI Z,,,,0,0,1289.54,1289.54,,$2719.85,0,,Y,N
 MELIC-Z4-ENT-1Y,Meraki Z4 Enterprise License and Support,Meraki Z4 Enterprise License and Support 1YR,LIC-Z4-ENT-1Y,CISCO MERAKI,,CI - MERAKI Z,,,,0,0,171.93,171.93,,$362.65,0,,N,N
 MELIC-Z4-ENT-3Y,Meraki Z4 Enterprise License and Support,Meraki Z4 Enterprise License and Support 3YR,LIC-Z4-ENT-3Y,CISCO MERAKI,,CI - MERAKI Z,,,,0,0,386.85,386.85,,$815.96,0,,N,N
-MELIC-Z4-ENT-5Y,Meraki Z4 Enterprise License and Support,Meraki Z4 Enterprise License and Support 5YR,LIC-Z4-ENT-5Y,CISCO MERAKI,,CI - MERAKI Z,,,,0,0,644.75,644.75,,$1359.93,0,,N,N
+MELIC-Z4-ENT-5Y,Meraki Z4 Enterprise License and Support,Meraki Z4 Enterprise License and Support 5YR,LIC-Z4-ENT-5Y,CISCO MERAKI,,CI - MERAKI Z,,,,0,0,644.75,644.75,,$1359.93,-5,,N,N
 MELIC-Z4-ENT-7Y,Meraki Z4 Enterprise License and Support,Meraki Z4 Enterprise License and Support 7YR,LIC-Z4-ENT-7Y,CISCO MERAKI,,CI - MERAKI Z,,,,0,0,902.67,902.67,,$1903.90,0,,Y,N
 MELIC-Z4-SEC-10Y,Meraki Z4 Secure Teleworker License and ,Meraki Z4 Secure Teleworker License and Support 10 Year,LIC-Z4-SEC-10Y,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,2722.32,2722.32,,$5741.92,0,,Y,N
 MELIC-Z4-SEC-1Y,Meraki Z4 Secure Teleworker License and ,Meraki Z4 Secure Teleworker License and Support 1 Year,LIC-Z4-SEC-1Y,CISCO MERAKI,,CI - MERAKI Z,,,,0,0,362.99,362.99,,$765.58,0,,Y,N
@@ -1169,7 +1169,7 @@ MEMA-MNT-MR-15,Meraki Replacement Mounting Kit for MR45,Meraki Replacement Mount
 MEMA-MNT-MR-16,Meraki Replacement Mounting Kit for MR76,Meraki Replacement Mounting Kit for MR76/MR86,MA-MNT-MR-16,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,51.82,51.82,,$108.12,0,,N,N
 MEMA-MNT-MR-17,Meraki Replacement Mounting Kit for MR36,Meraki Replacement Mounting Kit for MR36,MA-MNT-MR-17,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,51.82,51.82,,$108.12,0,,N,N
 MEMA-MNT-MR-H2,Meraki Surface Mounting Kit for MR30H,Meraki Surface Mounting Kit for MR30H,MA-MNT-MR-H2,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,51.82,51.82,,$108.12,0,,Y,N
-MEMA-MNT-MV-10,Meraki Wall Mount Arm for MV72,Meraki Wall Mount Arm for MV72,MA-MNT-MV-10,CISCO MERAKI,,CI - MERAKI MV,,,,0,0,263.37,263.37,,$549.47,0,15-12-2025,N,N
+MEMA-MNT-MV-10,Meraki Wall Mount Arm for MV72,Meraki Wall Mount Arm for MV72,MA-MNT-MV-10,CISCO MERAKI,,CI - MERAKI MV,,,,0,0,263.37,263.37,,$549.47,0,,N,N
 MEMA-MNT-MV-11,Meraki Conduit back box for the MA-MNT-M,Meraki Conduit back box for the MA-MNT-MV-10 Wall Arm Mount,MA-MNT-MV-11,CISCO MERAKI,,CI - MERAKI MV,,,,0,0,104.71,104.71,,$218.46,0,,N,N
 MEMA-MNT-MV-18,Meraki Mounting Plates Replacement Kit f,Meraki Mounting Plates Replacement Kit for MV 3rd Generation,MA-MNT-MV-18,CISCO MERAKI,,CI - MERAKI MV,,,,0,0,120.42,0,,$185.62,0,,Y,N
 MEMA-MNT-MV-20,Meraki Pole Mount for MV72 and/or MA-MNT,Meraki Pole Mount for MV72 and/or MA-MNT-MV-10,MA-MNT-MV-20,CISCO MERAKI,,CI - MERAKI MV,,,,0,0,263.37,263.37,,$549.47,0,,N,N
@@ -1195,7 +1195,7 @@ MEMA-PWR-1025WAC,Meraki 1025WAC PSU,Meraki 1025WAC PSU,MA-PWR-1025WAC,CISCO MERA
 MEMA-PWR-1100WAC,Meraki MS390 1100W AC Power Supply,Meraki MS390 1100W AC Power Supply,MA-PWR-1100WAC,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,2009.7,2009.7,,$4192.80,0,,N,N
 MEMA-PWR-150WAC,Meraki MX95 MX105 Replacement Power Adap,Meraki MX95 MX105 Replacement Power Adapter (150 WAC),MA-PWR-150WAC,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,370.21,370.21,,$772.37,0,,N,N
 MEMA-PWR-250WAC,Meraki 250WAC PSU,Meraki 250WAC PSU,MA-PWR-250WAC,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,475.99,475.99,,$993.04,0,,N,N
-MEMA-PWR-300W-INDADP,Meraki 300W AC Industrial Grade Power Ad,Meraki 300W AC Industrial Grade Power Adapter,MA-PWR-300W-INDADP,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,718.06,718.06,,$1498.04,0,17-12-2025,Y,N
+MEMA-PWR-300W-INDADP,Meraki 300W AC Industrial Grade Power Ad,Meraki 300W AC Industrial Grade Power Adapter,MA-PWR-300W-INDADP,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,718.06,718.06,,$1498.04,0,,Y,N
 MEMA-PWR-30WAC,Meraki MX64 Replacement Power Adapter (3,Meraki MX64 Replacement Power Adapter (30 WAC),MA-PWR-30WAC,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,56.07,56.07,,$143.45,0,,N,N
 MEMA-PWR-30W-AU,Meraki AC Adapter for MR Wireless Access,Meraki AC Adapter for MR Wireless Access Points (AU Plug),MA-PWR-30W-AU,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,30.68,30.68,,$63.99,0,,N,N
 MEMA-PWR-30W-AU-O,Meraki AC Adapter (AU Plug),Meraki AC Adapter (AU Plug),MA-PWR-30W-AU-O,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,15.99,15.99,,$63.99,0,,Y,N
@@ -1204,7 +1204,7 @@ MEMA-PWR-640WAC,Meraki 640WAC PSU,Meraki 640WAC PSU,MA-PWR-640WAC,CISCO MERAKI,,
 MEMA-PWR-715WAC,Meraki MS390 715W AC Power Supply,Meraki MS390 715W AC Power Supply,MA-PWR-715WAC,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,1322.18,1322.18,,$2758.42,0,,N,N
 MEMA-PWR-90WAC,Meraki MS120-8LP/MX65 Replacement Power ,Meraki MS120-8LP/MX65 Replacement Power Adapter (90 WAC),MA-PWR-90WAC,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,137.97,137.97,,$353.07,0,,N,N
 MEMA-PWR-C14-C15-1,Meraki Power Cord C14-C15 Connectors,Meraki Power Cord C14-C15 Connectors,MA-PWR-C14-C15-1,CISCO MERAKI,,CI - MERAKI MT,,,,0,0,26.44,26.44,,$55.18,0,,N,N
-MEMA-PWR-CORD-AU,Meraki AC Power Cord for MX and MS (AU P,Meraki AC Power Cord for MX and MS (AU Plug),MA-PWR-CORD-AU,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,19.2,19.2,,$41.92,-148,13-10-2025,N,N
+MEMA-PWR-CORD-AU,Meraki AC Power Cord for MX and MS (AU P,Meraki AC Power Cord for MX and MS (AU Plug),MA-PWR-CORD-AU,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,19.2,19.2,,$41.92,-160,13-10-2025,N,N
 MEMA-PWR-CORD-AU-O,Meraki AC Power Cord (AU Plug),Meraki AC Power Cord (AU Plug),MA-PWR-CORD-AU-O,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,27.2,0,,$41.92,-24,,Y,N
 MEMA-PWR-CORD-CN,Meraki AC Power Cord for MX and MS (Chin,Meraki AC Power Cord for MX and MS (China Plug),MA-PWR-CORD-CN,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,20.07,20.07,,$41.92,0,,N,N
 MEMA-PWR-CORD-EU,Meraki AC Power Cord for MX and MS (EU P,Meraki AC Power Cord for MX and MS (EU Plug),MA-PWR-CORD-EU,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,20.07,20.07,,$41.92,0,,N,N
@@ -1252,10 +1252,10 @@ MEMR44-HW,Meraki MR44 WiFi 6 Indoor AP,Meraki MR44 WiFi 6 Indoor AP,MR44-HW,CISC
 MEMR46E-HW,Meraki MR46E Wi-Fi 6 Indoor AP w Externa,Meraki MR46E Wi-Fi 6 Indoor AP w External Antenna Connectors,MR46E-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,1503.77,1503.77,,$3519.76,-22,,N,N
 MEMR46-HW,Meraki MR46 Wi-Fi 6 Indoor AP,Meraki MR46 Wi-Fi 6 Indoor AP,MR46-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,1503.77,1503.77,,$3519.76,-14,,N,N
 MEMR56-HW,Meraki MR56 Wi-Fi 6 Indoor AP,Meraki MR56 Wi-Fi 6 Indoor AP,MR56-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,1818.86,1818.86,,$4365.26,0,,N,N
-MEMR57-HW,Meraki MR57 Wi-Fi 6E Indoor AP,Meraki MR57 Wi-Fi 6E Indoor AP,MR57-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,2238.86,2238.86,,$5240.31,-5,,N,N
+MEMR57-HW,Meraki MR57 Wi-Fi 6E Indoor AP,Meraki MR57 Wi-Fi 6E Indoor AP,MR57-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,2238.86,2238.86,,$5240.31,-15,,N,N
 MEMR74-HW,EOS Meraki MR74 Cloud Managed AP,EOS Meraki MR74 Cloud Managed AP,MR74-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,1655.38,0,,$2467.37,5,,N,N
 MEMR76-HW,Meraki MR76 Wi-Fi 6 Outdoor AP,Meraki MR76 Wi-Fi 6 Outdoor AP,MR76-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,1416.59,1416.59,,$3883.86,-20,,N,N
-MEMR78-HW,Meraki MR78 Wi-Fi 6 Outdoor AP,Meraki MR78 Wi-Fi 6 Outdoor AP,MR78-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,1200.74,1200.74,,$2810.46,0,17-12-2025,N,N
+MEMR78-HW,Meraki MR78 Wi-Fi 6 Outdoor AP,Meraki MR78 Wi-Fi 6 Outdoor AP,MR78-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,1200.74,1200.74,,$2810.46,0,,N,N
 MEMR84-HW,EOS Meraki MR84 Cloud Managed AP,EOS Meraki MR84 Cloud Managed AP,MR84-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,3434.27,0,,$5293.96,0,,N,N
 MEMR86-HW,Meraki MR86 Wi-Fi 6 Outdoor AP,Meraki MR86 Wi-Fi 6 Outdoor AP,MR86-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,2309.88,2309.88,,$5406.51,-3,,N,N
 MEMS130-12X-HW,Meraki MS130-12X Cloud Mgd. 8GE + 4x(2.5,Meraki MS130-12X Cloud Mgd. 8GE + 4x(2.5GE) 240W PoE Switch,MS130-12X-HW,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,2095.39,2095.39,,$5155.94,0,,N,N
@@ -1267,15 +1267,15 @@ MEMS130-24X-HW,Meraki MS130-24X Cloud Mgd. 18GE + 6x(2.,Meraki MS130-24X Cloud M
 MEMS130-48-HW,Meraki MS130-48 Cloud Managed 48GE Switc,Meraki MS130-48 Cloud Managed 48GE Switch,MS130-48-HW,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,2514.49,2514.49,,$6187.13,0,,N,N
 MEMS130-48P,Meraki MS130-48P Cloud Managed 48GE 740W,Meraki MS130-48P Cloud Managed 48GE 740W PoE Switch,MS130-48P,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,6507.04,0,,$10030.64,0,,Y,N
 MEMS130-48P-HW,Meraki MS130-48P Cloud Managed 48GE 740W,Meraki MS130-48P Cloud Managed 48GE 740W PoE Switch,MS130-48P-HW,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,4076.52,4076.52,,$10030.64,-2,,N,N
-MEMS130-48X-HW,Meraki MS130-48X Cloud Mgd. 40GE + 8x(2.,Meraki MS130-48X Cloud Mgd. 40GE + 8x(2.5GE) 740W PoE Switch,MS130-48X-HW,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,6248.11,6248.11,,$15374.07,-1,,N,N
+MEMS130-48X-HW,Meraki MS130-48X Cloud Mgd. 40GE + 8x(2.,Meraki MS130-48X Cloud Mgd. 40GE + 8x(2.5GE) 740W PoE Switch,MS130-48X-HW,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,6248.11,6248.11,,$15374.07,-4,,N,N
 MEMS130-8-HW,Meraki MS130-8 Cloud Managed 8GE Switch,Meraki MS130-8 Cloud Managed 8GE Switch,MS130-8-HW,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,609.59,609.59,,$1499.91,0,,N,N
 MEMS130-8P,Meraki MS130-8P Cloud Managed 8GE 120W P,Meraki MS130-8P Cloud Managed 8GE 120W PoE Switch,MS130-8P,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,1672.37,0,,$2577.97,-1,,Y,N
-MEMS130-8P-HW,Meraki MS130-8P Cloud Managed 8GE 120W P,Meraki MS130-8P Cloud Managed 8GE 120W PoE Switch,MS130-8P-HW,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,1047.71,1047.71,,$2577.97,-11,,N,N
+MEMS130-8P-HW,Meraki MS130-8P Cloud Managed 8GE 120W P,Meraki MS130-8P Cloud Managed 8GE 120W PoE Switch,MS130-8P-HW,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,1047.71,1047.71,,$2577.97,-15,,N,N
 MEMS130-8P-I,Meraki MS130-8P-I Cloud Mgd 8GE 120W PoE,Meraki MS130-8P-I Cloud Mgd 8GE 120W PoE Switch Internal PSU,MS130-8P-I,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,1672.37,0,,$2577.97,0,,Y,N
 MEMS130-8P-I-HW,Meraki MS130-8P-I Cloud Mgd 8GE 120W PoE,Meraki MS130-8P-I Cloud Mgd 8GE 120W PoE Switch Internal PSU,MS130-8P-I-HW,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,1047.71,1047.71,,$2577.97,0,13-10-2025,N,N
 MEMS130-8X,Meraki MS130-8X Cloud Mgd. 6GE + 2x(2.5G,Meraki MS130-8X Cloud Mgd. 6GE + 2x(2.5GE) 120W PoE Switch,MS130-8X,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,2645.37,0,,$4077.88,0,,Y,N
 MEMS130-8X-HW,Meraki MS130-8X Cloud Mgd. 6GE + 2x(2.5G,Meraki MS130-8X Cloud Mgd. 6GE + 2x(2.5GE) 120W PoE Switch,MS130-8X-HW,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,1657.28,1657.28,,$4077.88,0,,Y,N
-MEMS130R-8P,Meraki MS130R-8P Cloud Mgd Ruggedized 8G,Meraki MS130R-8P Cloud Mgd Ruggedized 8GE 240W PoE Switch,MS130R-8P,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,4255.72,0,,$6560.24,0,17-12-2025,Y,N
+MEMS130R-8P,Meraki MS130R-8P Cloud Mgd Ruggedized 8G,Meraki MS130R-8P Cloud Mgd Ruggedized 8GE 240W PoE Switch,MS130R-8P,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,4255.72,0,,$6560.24,0,,Y,N
 MEMS130R-8P-HW,Meraki MS130R-8P Cloud Mgd Ruggedized 8G,Meraki MS130R-8P Cloud Mgd Ruggedized 8GE 240W PoE Switch,MS130R-8P-HW,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,2666.11,2666.11,,$6560.24,0,,N,N
 MEMS150-24MP-4X,Meraki MS150-24MP-4X Cld-Mngd 16GE + 8(5,Meraki MS150-24MP-4X Cld-Mngd 16GE + 8(5GE) 370W PoE Switch,MS150-24MP-4X,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,6461.65,6461.65,,$17715.81,0,,Y,N
 MEMS150-24P-4G,Meraki MS150-24P-4G L2 Stck Cld-Mngd 24G,Meraki MS150-24P-4G L2 Stck Cld-Mngd 24GE 370W PoE Switch,MS150-24P-4G,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,2633.51,2633.51,,$7220.18,0,,Y,N
@@ -1367,13 +1367,13 @@ MESTACK-T3A-3M-M,C9300L 3M Type 3A Stacking Cable used wi,C9300L 3M Type 3A Stac
 MESTACK-T3A-50CM-M,C9300L 50CM Type 3A Stacking Cable used ,C9300L 50CM Type 3A Stacking Cable used with KIT2 w/MERAKI,STACK-T3A-50CM-M,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,94.47,94.47,,$232.49,0,,N,N
 MESTACK-T4-1M-M,1M Type 4 Stacking Cable w/Meraki,1M Type 4 Stacking Cable w/Meraki,STACK-T4-1M-M,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,245.64,245.64,,$501.54,-4,,Y,N
 MEZ4C-HW,Meraki Z4C Hardware,Meraki Z4C Hardware,Z4C-HW,CISCO MERAKI,,CI - MERAKI Z,,,,0,0,1163.77,1163.77,,$2427.98,-1,,N,N
-MEZ4-HW,Meraki Z4 Hardware,Meraki Z4 Hardware,Z4-HW,CISCO MERAKI,,CI - MERAKI Z,,,,0,0,593.44,593.44,,$1406.17,-1,,N,N
+MEZ4-HW,Meraki Z4 Hardware,Meraki Z4 Hardware,Z4-HW,CISCO MERAKI,,CI - MERAKI Z,,,,0,0,593.44,593.44,,$1406.17,-6,,N,N
 T-LIC-MS120-8FP-3YR,Meraki MS120-8FP Enterprise License and,Meraki MS120-8FP Enterprise License and Support  3 Year,CILIC-MS120-8FP-3YR,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,0,0,,$246.98,0,,Y,N
 T-LIC-MS120-8FP-3YR,Meraki MS120-8FP Enterprise License and,Meraki MS120-8FP Enterprise License and Support  3 Year,MELIC-MS120-8FP-3YR,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,0,0,,$246.98,0,,Y,N
-T-LIC-MV-3YR,Meraki MV Enterprise License and Support,Meraki MV Enterprise License and Support  3YR,MELIC-MV-3YR,CISCO MERAKI,,CI - MERAKI MV,,,,0,0,0,0,,$1069.22,0,,Y,N
 T-LIC-MV-3YR,Meraki MV Enterprise License and Support,Meraki MV Enterprise License and Support  3YR,CILIC-MV-3YR,CISCO MERAKI,,CI - MERAKI MV,,,,0,0,0,0,,$1069.22,0,,Y,N
-T-MV72X-HW,Meraki Varifocal MV72 Outdoor Dome Camer,Meraki Varifocal MV72 Outdoor Dome Camera - 512GB Storage,CIMV72X-HW,CISCO MERAKI,,CI - MERAKI MV,,,,0,0,0,0,,$2225.32,0,,Y,N
+T-LIC-MV-3YR,Meraki MV Enterprise License and Support,Meraki MV Enterprise License and Support  3YR,MELIC-MV-3YR,CISCO MERAKI,,CI - MERAKI MV,,,,0,0,0,0,,$1069.22,0,,Y,N
 T-MV72X-HW,Meraki Varifocal MV72 Outdoor Dome Camer,Meraki Varifocal MV72 Outdoor Dome Camera - 512GB Storage,MEMV72X-HW,CISCO MERAKI,,CI - MERAKI MV,,,,0,0,0,0,,$2225.32,0,,Y,N
+T-MV72X-HW,Meraki Varifocal MV72 Outdoor Dome Camer,Meraki Varifocal MV72 Outdoor Dome Camera - 512GB Storage,CIMV72X-HW,CISCO MERAKI,,CI - MERAKI MV,,,,0,0,0,0,,$2225.32,0,,Y,N
 CI100G-QDD-COH-BUN,QSFP-DD 400G-ZR+ High TX Power DCO - Lic,QSFP-DD 400G-ZR+ High TX Power DCO - Licensed for 100G,100G-QDD-COH-BUN,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,33447.36,0,,$51559.38,0,,Y,N
 CI100GQSFP-LR4-4=,4 units of 100G LR4,4 units of 100G LR4,100GQSFP-LR4-4=,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,42946.42,0,,$66202.25,0,,Y,N
 CI15216-ATT-LC-10=,Bulk Attenuator - LC Connector - 10dB,Bulk Attenuator - LC Connector - 10dB,15216-ATT-LC-10=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,299.33,0,,$461.41,0,,Y,N
@@ -1465,8 +1465,8 @@ CI9200CX-DNAX-E8-3R,C9200CX DNA Essentials w/Support 8-Port ,C9200CX DNA Essenti
 CI9200CX-DNAX-E8-5R,C9200CX DNA Essentials w/Support 8-Port ,C9200CX DNA Essentials w/Support 8-Port 5Y,9200CX-DNAX-E8-5R,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,650.48,0,,$1002.72,0,,Y,N
 CI9906-LC-MSC-PKG,ASR 9906 LC Packaging Box,ASR 9906 LC Packaging Box,9906-LC-MSC-PKG,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,0,0,,$0.00,0,,Y,N
 CI9910-LC-MSC-PKG,ASR 9910 LC Packaging Box,ASR 9910 LC Packaging Box,9910-LC-MSC-PKG,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,0,0,,$0.00,0,,Y,N
-CIA900-CONS-KIT-U,ASR 900 USB Console Cabling Kit,ASR 900 USB Console Cabling Kit,204,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,0,0,,$0.00,0,,Y,N
 CIA900-CONS-KIT-U,ASR 900 USB Console Cabling Kit,ASR 900 USB Console Cabling Kit,A900-CONS-KIT-U,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,0,0,,$0.00,0,,Y,N
+CIA900-CONS-KIT-U,ASR 900 USB Console Cabling Kit,ASR 900 USB Console Cabling Kit,204,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,0,0,,$0.00,0,,Y,N
 CIA900-CONS-KIT-U=,ASR 900 USB Console Cabling Kit,ASR 900 USB Console Cabling Kit,A900-CONS-KIT-U=,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,71.57,0,,$110.34,0,,Y,N
 CIA900-DCAP-RJ45,Cisco ASR900 series Dust Cap for RJ45 - ,Cisco ASR900 series Dust Cap for RJ45 -  Qty - 1 unit,A900-DCAP-RJ45,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,14.31,0,,$22.07,0,,N,N
 CIA900-DCAP-USB,Cisco ASR900 series Dust Cap for USB -  ,Cisco ASR900 series Dust Cap for USB -  Qty - 1 unit,A900-DCAP-USB,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,14.31,0,,$22.07,0,,Y,N
@@ -1532,7 +1532,7 @@ CIA99-RP-F-FLR,ASR 9900 Fixed Chassis Route Processor S,ASR 9900 Fixed Chassis R
 CIA99-SFC3=,ASR 9900 Series Switch Fabric Card 3 Spa,ASR 9900 Series Switch Fabric Card 3 Spare,A99-SFC3=,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,109806.15,0,,$169267.11,0,,Y,N
 CIA99-SFC3-S=,ASR 9910 Switch Fabric Card 3 Spare,ASR 9910 Switch Fabric Card 3 Spare,A99-SFC3-S=,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,73204.12,0,,$112844.75,0,,Y,N
 CIA99-SFC3-T,ASR 9906 Switch Fabric Card 3,ASR 9906 Switch Fabric Card 3,A99-SFC3-T,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,58563.28,0,,$90275.79,0,,Y,N
-CIA99-SFC3-T=,ASR 9906 Switch Fabric Card 3 Spare,ASR 9906 Switch Fabric Card 3 Spare,A99-SFC3-T=,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,58563.28,0,,$90275.79,0,22-12-2025,Y,N
+CIA99-SFC3-T=,ASR 9906 Switch Fabric Card 3 Spare,ASR 9906 Switch Fabric Card 3 Spare,A99-SFC3-T=,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,58563.28,0,,$90275.79,0,,Y,N
 CIA9K-1600W-AC,ASR 9900 Series 1600W AC Power Supply fo,ASR 9900 Series 1600W AC Power Supply for ASR-9901,A9K-1600W-AC,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,7832.82,0,,$12074.38,0,,N,N
 CIA9K-24P10G-AIP-SE,Adv IP License for full scale VRFs for 2,Adv IP License for full scale VRFs for 24-port 10G/1G SE LC,A9K-24P10G-AIP-SE,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,77876.7,0,,$120047.60,0,,Y,N
 CIA9K-24P10G-AIP-TR,Adv IP License for full scale VRFs for 2,Adv IP License for full scale VRFs for 24-port 10G/1G TR LC,A9K-24P10G-AIP-TR,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,62301.36,0,,$96038.08,0,,Y,N
@@ -1553,7 +1553,7 @@ CIA9K-4HG-FLEX-SE=,ASR 9000 400GE Service Edge Combo Line C,ASR 9000 400GE Servi
 CIA9K-4HG-FLEX-TRK,ASR 9000 400G Combo FCM LC - A9K-4HG-FLE,ASR 9000 400G Combo FCM LC - A9K-4HG-FLEX-SE Tracking PID,A9K-4HG-FLEX-TRK,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,0,0,,$0.00,0,,Y,N
 CIA9K-750W-DC-RF,ASR 9000 750W DC Power Supply for ASR-90,ASR 9000 750W DC Power Supply for ASR-9001 REMANUFACTURED,A9K-750W-DC-RF,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,1581.14,0,,$2437.35,0,,Y,N
 CIA9K-8HG-FLEX-SE,ASR 9000 800G Service Edge Combo Line Ca,ASR 9000 800G Service Edge Combo Line Card - 5th Generation,A9K-8HG-FLEX-SE,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,732407.02,0,,$1129011.75,0,,Y,N
-CIA9K-8HG-FLEX-SE=,ASR 9000 800G Service Edge Combo LC - 5t,ASR 9000 800G Service Edge Combo LC - 5th Generation Spare,A9K-8HG-FLEX-SE=,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,732407.02,0,,$1129011.75,0,22-12-2025,Y,N
+CIA9K-8HG-FLEX-SE=,ASR 9000 800G Service Edge Combo LC - 5t,ASR 9000 800G Service Edge Combo LC - 5th Generation Spare,A9K-8HG-FLEX-SE=,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,732407.02,0,,$1129011.75,0,,Y,N
 CIA9K-8HG-FLEX-TR=,ASR 9000 800G Packet Transport Combo LC ,ASR 9000 800G Packet Transport Combo LC - 5th Gen Spare,A9K-8HG-FLEX-TR=,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,555618.93,0,,$856491.35,0,,Y,N
 CIA9K-9904-FAN,ASR-9904 System Fan Tray,ASR-9904 System Fan Tray,A9K-9904-FAN,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,5417.12,0,,$8350.52,0,,Y,N
 CIA9K-AC-PEM-V3,ASR9K AC Power Enclosure Module Version ,ASR9K AC Power Enclosure Module Version 3,A9K-AC-PEM-V3,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,2488.96,0,,$3836.74,0,,Y,N
@@ -1582,7 +1582,7 @@ CIA9K-NVSAT1-LIC,NV Host License for 1 nV Client,NV Host License for 1 nV Client
 CIA9K-OTHER,ASR9000; Other Network Applications; For,ASR9000; Other Network Applications; For Tracking Only,A9K-OTHER,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,0,0,,$0.00,0,,Y,N
 CIA9K-PEM-V2-FILR,ASR9K PEM Filler Compatible with PEMs AC,ASR9K PEM Filler Compatible with PEMs AC/DC V2 and DC V3,A9K-PEM-V2-FILR,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,0,0,,$0.00,0,,Y,N
 CIA9K-RSP5-TR,ASR 9000 Route Switch Processor 5 for Pa,ASR 9000 Route Switch Processor 5 for Packet Transport,A9K-RSP5-TR,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,109806.15,0,,$169267.11,0,,N,N
-CIA9K-RSP5-TR=,ASR 9000 Route Switch Processor 5 for Pa,ASR 9000 Route Switch Processor 5 for Packet Transport Spare,A9K-RSP5-TR=,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,109806.15,0,,$169267.11,0,22-12-2025,Y,N
+CIA9K-RSP5-TR=,ASR 9000 Route Switch Processor 5 for Pa,ASR 9000 Route Switch Processor 5 for Packet Transport Spare,A9K-RSP5-TR=,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,109806.15,0,,$169267.11,0,,Y,N
 CIA9K-RSP5-X-TR,ASR 9000 Route Switch Processor 5 for Pa,ASR 9000 Route Switch Processor 5 for Packet Transport-Prem,A9K-RSP5-X-TR,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,97301.38,0,,$149990.93,0,,Y,N
 CIA9K-RSP880-RL-TR,A9K RSP880 Transport Rate Limit to 440G/,A9K RSP880 Transport Rate Limit to 440G/Slot Fabric,A9K-RSP880-RL-TR,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,77303.52,0,,$119164.04,0,,Y,N
 CIA9K-RSP-FILR,A9K RSP Slot Filler,A9K RSP Slot Filler,A9K-RSP-FILR,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,732.06,0,,$1128.45,0,,Y,N
@@ -1593,6 +1593,7 @@ CIA9K-TRADITIONAL,ASR 9000 Traditional Business Model - Tr,ASR 9000 Traditional 
 CIA9K-TUNNEL-ENT,ASR 9000 RTU license for Tunnel Protocol,ASR 9000 RTU license for Tunnel Protocols,A9K-TUNNEL-ENT,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,84956.39,0,,$130961.02,0,,Y,N
 CIACC-KIT-T1=,Accessory kit with 19 inch Type 1 rack m,Accessory kit with 19 inch Type 1 rack mount,ACC-KIT-T1=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,75.16,0,,$115.87,0,,N,N
 CIACI64-N9KDK9-16.0,Nexus 9500 or 9300 ACI Base Software NX-,Nexus 9500 or 9300 ACI Base Software NX-OS Rel 16.0 64bit,ACI64-N9KDK9-16.0,CISCO SYSTEMS LTD,,CI - DATA CENTER NETWORKING,,,,0,0,0,0,,$0.00,0,,Y,N
+CIACI64-N9KDK9-16.1,Nexus 9500 or 9300 ACI Base Software NX-,Nexus 9500 or 9300 ACI Base Software NX-OS Rel 16.1 64bit,ACI64-N9KDK9-16.1,CISCO SYSTEMS LTD,,CI - DATA CENTER NETWORKING,,,,0,0,0,0,,$0.00,0,,Y,N
 CIACI-AD-XF,DCN Advantage SW license for a 10G+ Nexu,DCN Advantage SW license for a 10G+ Nexus 9K Leaf,ACI-AD-XF,CISCO SYSTEMS LTD,,CI - DATA CENTER NETWORKING,,,,0,0,32703.35,0,,$50412.51,0,,N,N
 CIACI-C9504E-APIC-B1,ACI Bundle with 2x 9504 4x100G 9736C-FX ,ACI Bundle with 2x 9504 4x100G 9736C-FX linecards and APIC,ACI-C9504E-APIC-B1,CISCO SYSTEMS LTD,,CI - DATA CENTER NETWORKING,,,,0,0,0,0,,$0.00,0,,Y,N
 CIACI-ES-GF,DCN Essential SW license for 1G Nexus 9K,DCN Essential SW license for 1G Nexus 9K Leaf,ACI-ES-GF,CISCO SYSTEMS LTD,,CI - DATA CENTER NETWORKING,,,,0,0,7507.58,0,,$11572.98,0,,N,N
@@ -1666,7 +1667,7 @@ CIAIR-ACC245LA-N=,2.4 and 5 GHz Lightning Arrestor N Conne,2.4 and 5 GHz Lightni
 CIAIR-ACC245LA-R,2.4 and 5 GHz Lightning Arrestor RP-TNC ,2.4 and 5 GHz Lightning Arrestor RP-TNC Connector,AIR-ACC245LA-R,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,315.5,315.5,,$593.60,0,,Y,N
 CIAIR-ACC370-NF-NF,N (f) to N (f) RF adapter,N (f) to N (f) RF adapter,AIR-ACC370-NF-NF,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,71.57,0,,$110.34,0,,Y,N
 CIAIR-ACC370-NM-RF=,N (m) to RP-TNC (f) RF adapter,N (m) to RP-TNC (f) RF adapter,AIR-ACC370-NM-RF=,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,71.57,0,,$110.34,0,,N,N
-CIAIR-ACC-CAT6=,RJ45 gland for use with Cat 6/6a cabling,RJ45 gland for use with Cat 6/6a cabling - 5 pack,AIR-ACC-CAT6=,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,113.07,0,,$174.32,0,08-12-2025,N,N
+CIAIR-ACC-CAT6=,RJ45 gland for use with Cat 6/6a cabling,RJ45 gland for use with Cat 6/6a cabling - 5 pack,AIR-ACC-CAT6=,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,113.07,0,,$174.32,0,,N,N
 CIAIR-ACC-KIT1=,Accessory kit for Catalyst 9124AX,Accessory kit for Catalyst 9124AX,AIR-ACC-KIT1=,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,479.56,0,,$739.27,0,,Y,N
 CIAIR-ACCPMK1570-1=,1570 Series Pole-Mount Kit (Type-1),1570 Series Pole-Mount Kit (Type-1),AIR-ACCPMK1570-1=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,249.28,249.28,,$454.60,4,,N,N
 CIAIR-ACCPMK3700,IW3700 Series Pole-Mount Kit,IW3700 Series Pole-Mount Kit,AIR-ACCPMK3700,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,284.88,0,,$439.13,0,,Y,N
@@ -1815,9 +1816,9 @@ CIAIR-DNA-TRK-1Y,CISCO DNA Wireless Term Tracker 1Y,CISCO DNA Wireless Term Trac
 CIAIR-DNA-TRK-3Y,CISCO DNA Wireless Term Tracker 3Y,CISCO DNA Wireless Term Tracker 3Y,AIR-DNA-TRK-3Y,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,0,0,,$0.00,0,,Y,N
 CIAIR-DNA-TRK-5Y,CISCO DNA Wireless Term Tracker 5Y,CISCO DNA Wireless Term Tracker 5Y,AIR-DNA-TRK-5Y,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,0,0,,$0.00,0,,Y,N
 CIAIR-DNA-TRK-7Y,CISCO DNA Wireless Term Tracker 7Y,CISCO DNA Wireless Term Tracker 7Y,AIR-DNA-TRK-7Y,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,0,0,,$0.00,0,,Y,N
-CIAIR-MNT-ART1=,Vert. pole/wall mount Kit for Catalyst 9,Vert. pole/wall mount Kit for Catalyst 9124AX w/ tilt adjust,AIR-MNT-ART1=,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,300.62,0,,$463.41,0,08-12-2025,N,N
+CIAIR-MNT-ART1=,Vert. pole/wall mount Kit for Catalyst 9,Vert. pole/wall mount Kit for Catalyst 9124AX w/ tilt adjust,AIR-MNT-ART1=,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,300.62,0,,$463.41,0,,N,N
 CIAIR-MNT-HORZ1=,Horizontal pole/wall mounting kit for Ca,Horizontal pole/wall mounting kit for Catalyst 9124AX,AIR-MNT-HORZ1=,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,178.95,0,,$275.85,0,,N,N
-CIAIR-MNT-VERT1,Vertical pole/wall mounting kit for Cata,Vertical pole/wall mounting kit for Catalyst  APs,AIR-MNT-VERT1,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,141.7,0,,$218.46,0,16-12-2025,N,N
+CIAIR-MNT-VERT1,Vertical pole/wall mounting kit for Cata,Vertical pole/wall mounting kit for Catalyst  APs,AIR-MNT-VERT1,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,141.7,0,,$218.46,0,,N,N
 CIAIR-MNT-VERT1=,Vertical pole/wall mounting kit for Cata,Vertical pole/wall mounting kit for Catalyst  APs,AIR-MNT-VERT1=,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,141.7,0,,$218.46,0,,N,N
 CIAIR-MNT-VERT2=,Vert. pole/wall with AC/DC adapter mount,Vert. pole/wall with AC/DC adapter mount for Catalyst 9124,AIR-MNT-VERT2=,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,186.11,0,,$286.87,0,,N,N
 CIAIR-MOD-SPOE,AP1800 Power over Ethernet with 1G Ether,AP1800 Power over Ethernet with 1G Ethernet module,AIR-MOD-SPOE,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,0,0,,$210.87,2,,N,N
@@ -2053,7 +2054,7 @@ CIC1100TG-BRA,Async Bracket for Cisco 1100TG,Async Bracket for Cisco 1100TG,C110
 CIC1100TG-BRA=,Async Bracket for Cisco 1100TG,Async Bracket for Cisco 1100TG,C1100TG-BRA=,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,71.89,71.89,,$149.99,0,,Y,N
 CIC1100TGX-1N24P32A,Cisco 1100 Term Gateway w/ 32 Async24-Po,Cisco 1100 Term Gateway w/ 32 Async24-Port 1 NIM (8G),C1100TGX-1N24P32A,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,9255.25,9255.25,,$19308.99,0,,Y,N
 CIC1101-4P,ISR 1101 4 Ports GE Ethernet WAN Router,ISR 1101 4 Ports GE Ethernet WAN Router,C1101-4P,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,1189.81,1189.81,,$2718.59,0,,N,N
-CIC1101-4PLTEP,ISR 1101 4P GE Ethernet and LTE Secure R,ISR 1101 4P GE Ethernet and LTE Secure Router with Pluggable,C1101-4PLTEP,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,1433.38,1433.38,,$2990.44,0,,N,N
+CIC1101-4PLTEP,ISR 1101 4P GE Ethernet and LTE Secure R,ISR 1101 4P GE Ethernet and LTE Secure Router with Pluggable,C1101-4PLTEP,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,966.13,966.13,,$2990.44,0,,N,N
 CIC1109-2PLTEGB,ISR 1109 M2M 2 Ports GE Ethernet and LTE,ISR 1109 M2M 2 Ports GE Ethernet and LTE Europe,C1109-2PLTEGB,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,1788.76,1788.76,,$3365.42,0,,Y,N
 CIC1109-4PLTE2P,ISR 1109 M2M 4P GE Ethernet LTE Adv and ,ISR 1109 M2M 4P GE Ethernet LTE Adv and DUAL Pluggables,C1109-4PLTE2P,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,1613.13,1613.13,,$3365.42,0,,Y,N
 CIC1110-TOP-PLATE,Cisco 1100 Router Top cover for contamin,Cisco 1100 Router Top cover for contamination protection,C1110-TOP-PLATE,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,179.75,179.75,,$374.98,0,,Y,N
@@ -2070,13 +2071,13 @@ CIC1117-4P,ISR 1100 4 Ports DSL Annex A/M and GE WA,ISR 1100 4 Ports DSL Annex A
 CIC1117-4PM,ISR 1100 4 Ports DSL Annex M and GE WAN ,ISR 1100 4 Ports DSL Annex M and GE WAN Router,C1117-4PM,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,1263.99,1263.99,,$2637.06,0,,Y,N
 CIC1120-TOP-PLATE,Cisco 1120 Series Top cover for contamin,Cisco 1120 Series Top cover for contamination protection,C1120-TOP-PLATE,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,179.75,179.75,,$374.98,0,,Y,N
 CIC1120-TOP-PLATE=,Cisco 1120 Series Top cover for contamin,Cisco 1120 Series Top cover for contamination protection,C1120-TOP-PLATE=,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,179.75,179.75,,$374.98,0,,Y,N
-CIC1121-4P,ISR 1100 4P Dual GE SFP Router,ISR 1100 4P Dual GE SFP Router,C1121-4P,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,948.11,948.11,,$1978.01,-1,19-01-2026,N,N
+CIC1121-4P,ISR 1100 4P Dual GE SFP Router,ISR 1100 4P Dual GE SFP Router,C1121-4P,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,948.11,948.11,,$1978.01,0,19-01-2026,N,N
 CIC1121-4PLTEP,ISR 1100 4P Dual GE SFP Router Pluggable,ISR 1100 4P Dual GE SFP Router Pluggable SMS/GPS,C1121-4PLTEP,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,963.88,963.88,,$2371.73,-22,22-12-2025,N,N
 CIC1121-4PLTEPPM,ISR 1100 4P Dual GE SFP Router Pluggable,ISR 1100 4P Dual GE SFP Router Pluggable SMS/GPS,C1121-4PLTEPPM,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,866.33,866.33,,$1696.77,0,,Y,N
 CIC1121-8P,ISR 1100 8P Dual GE SFP Router,ISR 1100 8P Dual GE SFP Router,C1121-8P,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,1136.83,1136.83,,$2371.73,-12,,N,N
 CIC1121-8PLTEP,ISR 1100 8P Dual GE SFP Router Pluggable,ISR 1100 8P Dual GE SFP Router Pluggable SMS/GPS,C1121-8PLTEP,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,1330.03,1330.03,,$2774.83,4,,N,N
 CIC1121X-8P,ISR 1100 8P Dual GE SFP WAN 8GB Router,ISR 1100 8P Dual GE SFP WAN 8GB Router,C1121X-8P,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,1433.38,1433.38,,$2990.44,0,,Y,N
-CIC1121X-8PLTEP,ISR 1100X 8P Dual GE SFP Router Pluggabl,ISR 1100X 8P Dual GE SFP Router Pluggable SMS/GPS,C1121X-8PLTEP,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,1613.13,1613.13,,$3365.42,0,01-12-2025,N,N
+CIC1121X-8PLTEP,ISR 1100X 8P Dual GE SFP Router Pluggabl,ISR 1100X 8P Dual GE SFP Router Pluggable SMS/GPS,C1121X-8PLTEP,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,1613.13,1613.13,,$3365.42,0,,N,N
 CIC1127-8PLTEP,ISR 1100 8P xDSL GE SFP Router Pluggable,ISR 1100 8P xDSL GE SFP Router Pluggable SMS/GPS,C1127-8PLTEP,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,1518.77,1518.77,,$3168.56,22,,N,N
 CIC1131-8PLTEPWZ,ISR 1100 8P Dual GE SFP Router Pluggable,ISR 1100 8P Dual GE SFP Router Pluggable SMS/GPS -Z WiFi,C1131-8PLTEPWZ,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,1827.23,1827.23,,$3731.02,0,,Y,N
 CIC1131-8PWE,ISR 1100 8P Dual GE SFP Router Pluggable,ISR 1100 8P Dual GE SFP Router Pluggable SMS/GPS - E Wifi,C1131-8PWE,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,1907.98,1907.98,,$3590.41,0,,Y,N
@@ -2084,7 +2085,7 @@ CIC1131-8PWZ,ISR 1100 8P Dual GE SFP Router Pluggable,ISR 1100 8P Dual GE SFP Ro
 CIC1131X-8PLTEPWZ,ISR 1100X 8P 8G Dual GE Router Pluggable,ISR 1100X 8P 8G Dual GE Router Pluggable SMS/GPS - Z Wifi,C1131X-8PLTEPWZ,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,2376.23,2376.23,,$4302.86,0,,N,N
 CIC1131X-8PWZ,ISR 1100X 8P Dual GE SFP Router Pluggabl,ISR 1100X 8P Dual GE SFP Router Pluggable SMS/GPS - Z Wifi,C1131X-8PWZ,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,1995.9,1995.9,,$3909.14,0,,Y,N
 CIC1161-8P,ISR 1100 8P Dual GE SFP Higher Perf Rout,ISR 1100 8P Dual GE SFP Higher Perf Router,C1161-8P,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,1900.71,1900.71,,$3965.39,0,,Y,N
-CIC1161-8PLTEP,ISR 1100 8P Dual GE SFP Higher Perf Rout,ISR 1100 8P Dual GE SFP Higher Perf Router Pluggable SMS/GPS,C1161-8PLTEP,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,2089.41,2089.41,,$4359.11,0,,N,N
+CIC1161-8PLTEP,ISR 1100 8P Dual GE SFP Higher Perf Rout,ISR 1100 8P Dual GE SFP Higher Perf Router Pluggable SMS/GPS,C1161-8PLTEP,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,1408.32,1408.32,,$4359.11,0,,N,N
 CIC1161X-8P,ISR 1100 8P Dual 8GB GE SFP Higher Perf ,ISR 1100 8P Dual 8GB GE SFP Higher Perf Router,C1161X-8P,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,2332.06,2332.06,,$4865.33,0,,Y,N
 CIC1161X-8PLTEP,ISR 1100 8P Dual GE SFP Router Pluggable,ISR 1100 8P Dual GE SFP Router Pluggable SMS/GPS EMEA & NA,C1161X-8PLTEP,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,2511.79,2511.79,,$5240.31,0,,N,N
 CIC1200-16P-2G,Catalyst 1200 16-port GE PoE 2x1G SFP,Catalyst 1200 16-port GE PoE 2x1G SFP,C1200-16P-2G,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,636.39,636.39,,$789.32,-2,,N,N
@@ -2330,8 +2331,8 @@ CIC1-MSE-WIPS-1-D,MSE Connected Mobile Exp Support Only (N,MSE Connected Mobile 
 CIC1-N9K-ADD-T,Cisco DCN Subscription for Nexus 9000 - ,Cisco DCN Subscription for Nexus 9000 - CHOOSE QTY 1 HERE,C1-N9K-ADD-T,CISCO SYSTEMS LTD,,CI - DATA CENTER NETWORKING,,,,0,0,0,0,,$0.00,0,,Y,N
 CIC1-N9K-ADD-T-1Y,Limited orderable Cisco DCN Subscription,Limited orderable Cisco DCN Subscription 1Y for Nexus 9000,C1-N9K-ADD-T-1Y,CISCO SYSTEMS LTD,,CI - DATA CENTER NETWORKING,,,,0,0,0,0,,$0.00,0,,Y,N
 CIC1-N9K-NDB-XF-5Y,Cisco ONE Nexus Data Broker License Term,Cisco ONE Nexus Data Broker License Term N9K XF 5Y,C1-N9K-NDB-XF-5Y,CISCO SYSTEMS LTD,,CI - DATA CENTER NETWORKING,,,,0,0,17644.12,0,,$27198.55,0,,Y,N
-CIC1-N9K-RENEW-T,Cisco DCN Subscription Renewal,Cisco DCN Subscription Renewal,C1-N9K-RENEW-T,CISCO SYSTEMS LTD,,CI - DATA CENTER NETWORKING,,,,0,0,0,0,,$0.00,0,,Y,N
 CIC1-N9K-RENEW-T,Cisco DCN Subscription Renewal,Cisco DCN Subscription Renewal,CIC1-N9K-RENEW-T,CISCO SYSTEMS LTD,,CI - DATA CENTER NETWORKING,,,,0,0,0,0,,$0.00,0,,Y,N
+CIC1-N9K-RENEW-T,Cisco DCN Subscription Renewal,Cisco DCN Subscription Renewal,C1-N9K-RENEW-T,CISCO SYSTEMS LTD,,CI - DATA CENTER NETWORKING,,,,0,0,0,0,,$0.00,0,,Y,N
 CIC1-N9K-SEC-XF-3Y,Data Center Networking Security License ,Data Center Networking Security License Term N9300 Fixed 3Y,C1-N9K-SEC-XF-3Y,CISCO SYSTEMS LTD,,CI - DATA CENTER NETWORKING,,,,0,0,7311.01,0,,$11269.99,0,,N,N
 CIC1-N9K-SYNCE-XF-5Y,DCN SyncE Term N9300 XF 5Y,DCN SyncE Term N9300 XF 5Y,C1-N9K-SYNCE-XF-5Y,CISCO SYSTEMS LTD,,CI - DATA CENTER NETWORKING,,,,0,0,22030.44,0,,$33960.11,0,,Y,N
 CIC1OA-C930024DNAA3,C1 OA CAT9300 24P DNAA 3Y,C1 OA CAT9300 24P DNAA 3Y,C1OA-C930024DNAA3,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,0,0,,$0.00,0,,Y,N
@@ -2512,11 +2513,11 @@ CIC8000-HSEC-DNA,U.S. Export Restriction Compliance licen,U.S. Export Restrictio
 CIC8000V-HSEC,U.S. Export Restriction Compliance licen,U.S. Export Restriction Compliance license for C8000V,C8000V-HSEC,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,0,0,,$0.00,0,,Y,N
 CIC8000V-PF,C8000V Platform Selection for DNA Subscr,C8000V Platform Selection for DNA Subscription,C8000V-PF,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,0,0,,$0.00,0,,Y,N
 CIC8100-PIM-BLANK,Cisco 8100 Series PIM Blank,Cisco 8100 Series PIM Blank,C8100-PIM-BLANK,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,0,0,,$0.00,0,,Y,N
-CIC8151-G2,Cisco 8100 Series Secure Router 8151-G2,Cisco 8100 Series Secure Router 8151-G2,C8151-G2,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,2310.9,0,,$3562.28,0,10-12-2025,Y,N
-CIC8151-G2-RM-19,Rack mount kit - 19 inch  Fixed for Cisc,Rack mount kit - 19 inch  Fixed for Cisco C8151-G2/C8161-G2,C8151-G2-RM-19,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,182.45,0,,$281.23,0,16-12-2025,Y,N
+CIC8151-G2,Cisco 8100 Series Secure Router 8151-G2,Cisco 8100 Series Secure Router 8151-G2,C8151-G2,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,2310.9,0,,$3562.28,0,,Y,N
+CIC8151-G2-RM-19,Rack mount kit - 19 inch  Fixed for Cisc,Rack mount kit - 19 inch  Fixed for Cisco C8151-G2/C8161-G2,C8151-G2-RM-19,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,182.45,0,,$281.23,0,,Y,N
 CIC8161-G2,Cisco 8100 Series Secure Router 8161-G2,Cisco 8100 Series Secure Router 8161-G2,C8161-G2,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,2797.41,0,,$4312.24,0,,Y,N
 CIC819-PWRCAB-LCK25=,C819 Power Cable Lock 25 units,C819 Power Cable Lock 25 units,C819-PWRCAB-LCK25=,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,117.3,117.3,,$220.67,0,,Y,N
-CIC8200-1N-4T,Cisco Catalyst C8200-1N-4T Router,Cisco Catalyst C8200-1N-4T Router,C8200-1N-4T,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,3229.21,3229.21,,$7945.77,-1,,N,N
+CIC8200-1N-4T,Cisco Catalyst C8200-1N-4T Router,Cisco Catalyst C8200-1N-4T Router,C8200-1N-4T,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,3229.21,3229.21,,$7945.77,-1,19-01-2026,N,N
 CIC8200L-1N-4T,Cisco Catalyst 8200L with 1-NIM slot and,Cisco Catalyst 8200L with 1-NIM slot and 4x1G WAN ports,C8200L-1N-4T,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,1655.43,1655.43,,$3530.41,0,,N,N
 CIC8200-NIM-BLANK,Cisco Catalyst 8200 Edge NIM Blank,Cisco Catalyst 8200 Edge NIM Blank,C8200-NIM-BLANK,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,110.39,110.39,,$220.67,0,,Y,N
 CIC8200-PIM-BLANK,PIM Blank for Cisco 8200 Series,PIM Blank for Cisco 8200 Series,C8200-PIM-BLANK,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,110.39,110.39,,$220.67,0,,Y,N
@@ -2551,8 +2552,8 @@ CIC8375-E-G2,Cisco C8300 Series Secure Router C8375-E,Cisco C8300 Series Secure 
 CIC83G2-ADPT-BRKT,Power Adapter Bracket for Cisco 8300 Ser,Power Adapter Bracket for Cisco 8300 Series,C83G2-ADPT-BRKT,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,182.45,0,,$281.23,0,,Y,N
 CIC8475-G2,Cisco 8400 Secure Router  C8475-G2,Cisco 8400 Secure Router  C8475-G2,C8475-G2,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,72976.05,0,,$112493.20,0,,Y,N
 CIC8475-G2,Cisco 8400 Secure Router  C8475-G2,Cisco 8400 Secure Router  C8475-G2,L-CSF1240-P-3Y,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,72976.05,0,,$112493.20,0,,Y,N
-CIC84G2-ACCKIT-19,19 inch  Rack Mount,19 inch  Rack Mount,L-CSF1240-TMC-3Y,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,0,0,,$0.00,0,,Y,N
 CIC84G2-ACCKIT-19,19 inch  Rack Mount,19 inch  Rack Mount,C84G2-ACCKIT-19,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,0,0,,$0.00,0,,Y,N
+CIC84G2-ACCKIT-19,19 inch  Rack Mount,19 inch  Rack Mount,L-CSF1240-TMC-3Y,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,0,0,,$0.00,0,,Y,N
 CIC8500-12X,Cisco Catalyst 8500-12X Edge Platform,Cisco Catalyst 8500-12X Edge Platform,C8500-12X,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,124072.15,0,,$191258.30,0,,N,N
 CIC8500-12X4QC,Cisco Catalyst 8500-12X4QC Edge Platform,Cisco Catalyst 8500-12X4QC Edge Platform,C8500-12X4QC,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,191426.44,0,,$295085.49,0,,Y,N
 CIC8500-ACCKIT-19,Cisco C8500 Accessory Kit - 19 inch  rac,Cisco C8500 Accessory Kit - 19 inch  rack,C8500-ACCKIT-19,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,0,0,,$0.00,0,,Y,N
@@ -2597,7 +2598,7 @@ CIC9120AXI-Z,C9120AX Internal 802.11ax 4x4:4 MIMO;IOT,C9120AX Internal 802.11ax 
 CIC9120AXP-Z,Cisco Catalyst 9120 Series,Cisco Catalyst 9120 Series,C9120AXP-Z,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,1819.62,1819.62,,$4259.00,0,,Y,N
 CIC9124AXD-A,Wi-Fi 6 Outdoor AP Directional Ant -A Re,Wi-Fi 6 Outdoor AP Directional Ant -A Regulatory Domain,C9124AXD-A,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,3040.53,3040.53,,$5505.84,0,,Y,N
 CIC9124AXD-DNA-OPTOT,CISCO DNA SUBSCRIPTION OPTOUT for C9124A,CISCO DNA SUBSCRIPTION OPTOUT for C9124AX,C9124AXD-DNA-OPTOT,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,0,0,,$0.00,0,,Y,N
-CIC9124AXD-Z,Wi-Fi 6 Outdoor AP Directional Ant -Z Re,Wi-Fi 6 Outdoor AP Directional Ant -Z Regulatory Domain,C9124AXD-Z,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,2294.96,2294.96,,$5505.84,0,10-12-2025,N,N
+CIC9124AXD-Z,Wi-Fi 6 Outdoor AP Directional Ant -Z Re,Wi-Fi 6 Outdoor AP Directional Ant -Z Regulatory Domain,C9124AXD-Z,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,2294.96,2294.96,,$5505.84,0,,N,N
 CIC9124AXE-DNA-OPTOT,CISCO DNA SUBSCRIPTION OPTOUT for C9124A,CISCO DNA SUBSCRIPTION OPTOUT for C9124AX,C9124AXE-DNA-OPTOT,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,0,0,,$0.00,0,,Y,N
 CIC9124AXE-ROW,Wi-Fi 6 Outdoor AP External Ant -ROW Reg,Wi-Fi 6 Outdoor AP External Ant -ROW Regulatory Domain,C9124AXE-ROW,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,3571.71,0,,$5505.84,0,,Y,N
 CIC9124AXE-Z,Wi-Fi 6 Outdoor AP External Ant -Z Regul,Wi-Fi 6 Outdoor AP External Ant -Z Regulatory Domain,C9124AXE-Z,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,2294.96,2294.96,,$5505.84,0,,N,N
@@ -2622,7 +2623,7 @@ CIC9200-24P-A,Catalyst 9200 24-port PoE+ Network Advan,Catalyst 9200 24-port PoE
 CIC9200-24P-A=,Catalyst 9200 24-port PoE+ NW-A Spare,Catalyst 9200 24-port PoE+ NW-A Spare,C9200-24P-A=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,3984.77,3984.77,,$6952.08,0,,Y,N
 CIC9200-24PB-A,Catalyst 9200 24-port PoE+ enhanced VRF ,Catalyst 9200 24-port PoE+ enhanced VRF Network Advantage,C9200-24PB-A,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,5172.6,5172.6,,$10130.95,0,,Y,N
 CIC9200-24PB-A=,Catalyst 9200 24-port PoE+ enhanced VRF ,Catalyst 9200 24-port PoE+ enhanced VRF Network Advantage,C9200-24PB-A=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,5806.84,5806.84,,$10130.95,0,,Y,N
-CIC9200-24P-E,Catalyst 9200 24-port PoE+ Network Essen,Catalyst 9200 24-port PoE+ Network Essentials,C9200-24P-E,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,2897.81,2897.81,,$6952.08,0,15-12-2025,N,N
+CIC9200-24P-E,Catalyst 9200 24-port PoE+ Network Essen,Catalyst 9200 24-port PoE+ Network Essentials,C9200-24P-E,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,2897.81,2897.81,,$6952.08,0,,N,N
 CIC9200-24P-E=,Catalyst 9200 24-port PoE+ NW-E Spare,Catalyst 9200 24-port PoE+ NW-E Spare,C9200-24P-E=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,3984.77,3984.77,,$6952.08,0,,Y,N
 CIC9200-24PXG-A,Catalyst 9200 24-port 8xmGig PoE+ Networ,Catalyst 9200 24-port 8xmGig PoE+ Network Advantage,C9200-24PXG-A,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,5202.12,5202.12,,$11886.31,0,,N,N
 CIC9200-24PXG-E,Catalyst 9200 24-port 8xmGig PoE+ Networ,Catalyst 9200 24-port 8xmGig PoE+ Network Essentials,C9200-24PXG-E,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,4954.51,4954.51,,$11886.31,0,,Y,N
@@ -2659,7 +2660,7 @@ CIC9200-ACCKIT-NONE,No Accessory Kit Selected,No Accessory Kit Selected,C9200-AC
 CIC9200CX-12-E-A-3,C9200CX 12-port NW and DNA Ess to NW and,C9200CX 12-port NW and DNA Ess to NW and DNA Adv Upgrade 3Y,C9200CX-12-E-A-3,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,1307.65,1307.65,,$2413.42,0,,Y,N
 CIC9200CX-12-E-A-5,C9200CX 12-port NW and DNA Ess to NW and,C9200CX 12-port NW and DNA Ess to NW and DNA Adv Upgrade 5Y,C9200CX-12-E-A-5,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,2179.08,2179.08,,$4021.76,0,,Y,N
 CIC9200CX-12-E-A-7,C9200CX 12-port NW and DNA Ess to NW and,C9200CX 12-port NW and DNA Ess to NW and DNA Adv Upgrade 7Y,C9200CX-12-E-A-7,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,3051.51,3051.51,,$5631.91,0,,Y,N
-CIC9200CX-12P-2X2G-A,Catalyst 9000 Compact Switch 12 port PoE,Catalyst 9000 Compact Switch 12 port PoE+ 240W Adv,C9200CX-12P-2X2G-A,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,2237.99,2237.99,,$4994.71,-2,,N,N
+CIC9200CX-12P-2X2G-A,Catalyst 9000 Compact Switch 12 port PoE,Catalyst 9000 Compact Switch 12 port PoE+ 240W Adv,C9200CX-12P-2X2G-A,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,2237.99,2237.99,,$4994.71,-3,,N,N
 CIC9200CX-12P-2X2G-E,Catalyst 9000 Compact Switch 12-Port PoE,Catalyst 9000 Compact Switch 12-Port PoE+ 240W Essentials,C9200CX-12P-2X2G-E,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,2081.92,2081.92,,$4994.71,1,19-01-2026,N,N
 CIC9200CX-12P-2XGH-A,Catalyst 9000 Compact Switch 12 port PoE,Catalyst 9000 Compact Switch 12 port PoE+ 240WHVDCAdv,C9200CX-12P-2XGH-A,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,2618.55,2618.55,,$5844.03,0,,Y,N
 CIC9200CX-12P-2XGH-E,Catalyst 9000 Compact Switch 12-Port PoE,Catalyst 9000 Compact Switch 12-Port PoE+ 240WHVDCEss,C9200CX-12P-2XGH-E,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,2618.55,2618.55,,$5844.03,0,,Y,N
@@ -2668,8 +2669,8 @@ CIC9200CX-12T-2X2G-E,Catalyst 9000 Compact Switch 12-port Dat,Catalyst 9000 Comp
 CIC9200CX-8-E-A-3,C9200CX 8-port NW and DNA Ess to NW and ,C9200CX 8-port NW and DNA Ess to NW and DNA Adv Upgrade 3Y,C9200CX-8-E-A-3,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,1307.65,1307.65,,$2413.42,0,,Y,N
 CIC9200CX-8-E-A-5,C9200CX 8-port NW and DNA Ess to NW and ,C9200CX 8-port NW and DNA Ess to NW and DNA Adv Upgrade 5Y,C9200CX-8-E-A-5,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,2179.08,2179.08,,$4021.76,0,,Y,N
 CIC9200CX-8-E-A-7,C9200CX 8-port NW and DNA Ess to NW and ,C9200CX 8-port NW and DNA Ess to NW and DNA Adv Upgrade 7Y,C9200CX-8-E-A-7,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,3051.51,3051.51,,$5631.91,0,,Y,N
-CIC9200CX-8P-2X2G-A,Catalyst 9000 Compact Switch 8 port PoE+,Catalyst 9000 Compact Switch 8 port PoE+ 240W Adv,C9200CX-8P-2X2G-A,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,2399.46,2399.46,,$4428.49,0,,N,N
-CIC9200CX-8P-2X2G-E,Catalyst 9000 Compact Switch 8 port PoE+,Catalyst 9000 Compact Switch 8 port PoE+ 240W Essentials,C9200CX-8P-2X2G-E,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,1845.89,1845.89,,$4428.49,-8,08-12-2025,N,N
+CIC9200CX-8P-2X2G-A,Catalyst 9000 Compact Switch 8 port PoE+,Catalyst 9000 Compact Switch 8 port PoE+ 240W Adv,C9200CX-8P-2X2G-A,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,2399.46,2399.46,,$4428.49,-1,,N,N
+CIC9200CX-8P-2X2G-E,Catalyst 9000 Compact Switch 8 port PoE+,Catalyst 9000 Compact Switch 8 port PoE+ 240W Essentials,C9200CX-8P-2X2G-E,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,1845.89,1845.89,,$4428.49,-10,20-12-2025,N,N
 CIC9200CX-8P-2XGH-A,Catalyst 9000 Compact Switch 8 port PoE+,Catalyst 9000 Compact Switch 8 port PoE+ 240WHVDCAdv,C9200CX-8P-2XGH-A,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,2327.04,2327.04,,$5193.44,0,,Y,N
 CIC9200CX-8P-2XGH-E,Catalyst 9000 Compact Switch 8 port PoE+,Catalyst 9000 Compact Switch 8 port PoE+ 240WHVDCEss,C9200CX-8P-2XGH-E,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,2327.04,2327.04,,$5193.44,0,,Y,N
 CIC9200CX-8UXG-2X-A,Catalyst 9000 Compact Switch 8 port UPoE,Catalyst 9000 Compact Switch 8 port UPoE with 4xmGig240WA,C9200CX-8UXG-2X-A,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,2873.09,2873.09,,$6412.11,0,,Y,N
@@ -3051,7 +3052,7 @@ CIC9200-STACK,Catalyst 9200 Stack Module,Catalyst 9200 Stack Module,C9200-STACK,
 CIC9200-STACK=,Catalyst 9200 Stack Module,Catalyst 9200 Stack Module,C9200-STACK=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,705.51,705.51,,$1504.61,0,,Y,N
 CIC9200-STACK-BLANK,Catalyst 9200 Blank Stack Module,Catalyst 9200 Blank Stack Module,C9200-STACK-BLANK,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,0,0,,$0.00,0,,Y,N
 CIC9200-STACK-KIT,Cisco Catalyst 9200 Stack Module,Cisco Catalyst 9200 Stack Module,C9200-STACK-KIT,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,1248.05,1248.05,,$2851.70,0,,N,N
-CIC9200-STACK-KIT=,Cisco Catalyst 9200 Stack Module,Cisco Catalyst 9200 Stack Module,C9200-STACK-KIT=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,1248.05,1248.05,,$2851.70,0,15-12-2025,N,N
+CIC9200-STACK-KIT=,Cisco Catalyst 9200 Stack Module,Cisco Catalyst 9200 Stack Module,C9200-STACK-KIT=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,1248.05,1248.05,,$2851.70,0,,N,N
 CIC921-4P,Cisco 900 Series Integrated Services Rou,Cisco 900 Series Integrated Services Routers,C921-4P,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,1069.59,1069.59,,$2053.00,0,,N,N
 CIC921-4PLTEAS,C921-4P FDD and TDD LTE ASEAN,C921-4P FDD and TDD LTE ASEAN,C921-4PLTEAS,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,1943.23,1943.23,,$3656.03,0,,Y,N
 CIC921-4PLTEAU,Secure GE and SFP Router for Australia 4,Secure GE and SFP Router for Australia 4G LTE / HSPA+,C921-4PLTEAU,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,1714.34,1714.34,,$3656.03,0,,N,N
@@ -3076,7 +3077,7 @@ CIC9300-24S-E-A-3,24-port NW & Cisco DNA Ess to NW & DNA A,24-port NW & Cisco DN
 CIC9300-24S-E-RF,Catalyst 9300 24-port Fiber NW-E  No PS ,Catalyst 9300 24-port Fiber NW-E  No PS REMANUFACTURED,C9300-24S-E-RF,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,25229.03,0,,$38890.77,0,,Y,N
 CIC9300-24T-A,Catalyst 9300 24-port data only Network ,Catalyst 9300 24-port data only Network Advantage,C9300-24T-A,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,4250.99,4250.99,,$10459.96,1,,N,N
 CIC9300-24T-E,Catalyst 9300 24-port data only Network ,Catalyst 9300 24-port data only Network Essentials,C9300-24T-E,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,3924.12,3924.12,,$10459.96,0,,N,N
-CIC9300-24U-A,Catalyst 9300 24-port UPOE Network Advan,Catalyst 9300 24-port UPOE Network Advantage,C9300-24U-A,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,5174.09,5174.09,,$13419.20,0,15-12-2025,N,N
+CIC9300-24U-A,Catalyst 9300 24-port UPOE Network Advan,Catalyst 9300 24-port UPOE Network Advantage,C9300-24U-A,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,5174.09,5174.09,,$13419.20,0,,N,N
 CIC9300-24UB-A,Catalyst Deep Buffer 9300 24-port UPOE N,Catalyst Deep Buffer 9300 24-port UPOE Network Advantage,C9300-24UB-A,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,7553.69,7553.69,,$16109.21,0,,N,N
 CIC9300-24UB-A=,Catalyst Deep Buffer 9300 24-port UPOE N,Catalyst Deep Buffer 9300 24-port UPOE Network Advantage,C9300-24UB-A=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,9233.42,9233.42,,$16109.21,0,,Y,N
 CIC9300-24UB-E,Catalyst 9300 Deep Buffer 24-port UPOE N,Catalyst 9300 Deep Buffer 24-port UPOE Network Essentials,C9300-24UB-E,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,9233.42,9233.42,,$16109.21,0,,Y,N
@@ -3087,7 +3088,7 @@ CIC9300-24UXB-A,Catalyst 9300 Deep Buffer 24p mGig UPOE ,Catalyst 9300 Deep Buff
 CIC9300-24UXB-A=,Catalyst 9300 Deep Buffer 24p mGig UPOE ,Catalyst 9300 Deep Buffer 24p mGig UPOE Network Advantage,C9300-24UXB-A=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,19605.24,19605.24,,$34204.50,0,,Y,N
 CIC9300-24UXB-E,Catalyst 9300 24p Deep Buff mGig UPOE Ne,Catalyst 9300 24p Deep Buff mGig UPOE Network Essentials,C9300-24UXB-E,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,13900.92,13900.92,,$34204.50,0,,Y,N
 CIC9300-24UXB-E=,Catalyst 9300 24p Deep Buff mGig UPOE Ne,Catalyst 9300 24p Deep Buff mGig UPOE Network Essentials,C9300-24UXB-E=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,19605.24,19605.24,,$34204.50,0,,Y,N
-CIC9300-24UX-E,Catalyst 9300 24-port mGig and UPOE Netw,Catalyst 9300 24-port mGig and UPOE Network Essentials,C9300-24UX-E,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,9302.83,9302.83,,$27895.43,0,15-12-2025,Y,N
+CIC9300-24UX-E,Catalyst 9300 24-port mGig and UPOE Netw,Catalyst 9300 24-port mGig and UPOE Network Essentials,C9300-24UX-E,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,9302.83,9302.83,,$27895.43,0,,Y,N
 CIC9300-48-E-A,48-port NW & DNA Essentials to NW & DNA ,48-port NW & DNA Essentials to NW & DNA Advantage Upgrade,C9300-48-E-A,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,0,0,,$0.00,0,,Y,N
 CIC9300-48-E-A-3,48-port NW & DNA Ess to NW & DNA Adv Upg,48-port NW & DNA Ess to NW & DNA Adv Upgrade License (3Y),C9300-48-E-A-3,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,3269.88,3269.88,,$8045.86,0,,Y,N
 CIC9300-48-E-A-5,48-port NW & DNA Ess to NW & DNA Adv Upg,48-port NW & DNA Ess to NW & DNA Adv Upgrade License (5Y),C9300-48-E-A-5,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,6005.37,6005.37,,$13402.65,0,,Y,N
@@ -3096,8 +3097,8 @@ CIC9300-48H-A,Catalyst 9300 48-port UPoE+ Network Adva,Catalyst 9300 48-port UPo
 CIC9300-48H-A=,Catalyst 9300 48-port UPoE+ Network Adva,Catalyst 9300 48-port UPoE+ Network Advantage,C9300-48H-A=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,13958.3,13958.3,,$24352.51,0,,Y,N
 CIC9300-48H-E,Catalyst 9300 48-port UPoE+ Network Esse,Catalyst 9300 48-port UPoE+ Network Essentials,C9300-48H-E,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,11789.59,11789.59,,$24596.34,0,,N,N
 CIC9300-48H-E=,Catalyst 9300 48-port UPoE+ Network Esse,Catalyst 9300 48-port UPoE+ Network Essentials,C9300-48H-E=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,13958.3,13958.3,,$24352.51,0,,Y,N
-CIC9300-48P-A,Catalyst 9300 48-port PoE+ Network Advan,Catalyst 9300 48-port PoE+ Network Advantage,C9300-48P-A,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,7931.86,7931.86,,$21142.79,1,,N,N
-CIC9300-48P-E,Catalyst 9300 48-port PoE+ Network Essen,Catalyst 9300 48-port PoE+ Network Essentials,C9300-48P-E,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,8592.57,8592.57,,$21142.79,2,,N,N
+CIC9300-48P-A,Catalyst 9300 48-port PoE+ Network Advan,Catalyst 9300 48-port PoE+ Network Advantage,C9300-48P-A,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,7931.86,7931.86,,$21142.79,-1,,N,N
+CIC9300-48P-E,Catalyst 9300 48-port PoE+ Network Essen,Catalyst 9300 48-port PoE+ Network Essentials,C9300-48P-E,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,8592.57,8592.57,,$21142.79,-2,,N,N
 CIC9300-48S-A,Catalyst 9300  48 GE SFP Ports modular u,Catalyst 9300  48 GE SFP Ports modular uplink Switch,C9300-48S-A,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,26020.45,26020.45,,$54285.84,0,,Y,N
 CIC9300-48S-E,Catalyst 9300  48 GE SFP Ports modular u,Catalyst 9300  48 GE SFP Ports modular uplink Switch,C9300-48S-E,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,29978.79,29978.79,,$54285.84,0,,N,N
 CIC9300-48S-E-A,48-port NW & DNA Essentials to NW & DNA ,48-port NW & DNA Essentials to NW & DNA Upgrade,C9300-48S-E-A,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,0,0,,$0.00,0,,Y,N
@@ -3300,7 +3301,7 @@ CIC9300L-24UXG-2Q-E,Catalyst 9300L 24p 8mGig Network Essenti,Catalyst 9300L 24p 
 CIC9300L-24UXG-2Q-E=,Catalyst 9300L 24p 8mGig NW-E 2x40G Upli,Catalyst 9300L 24p 8mGig NW-E 2x40G Uplink Spare,C9300L-24UXG-2Q-E=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,12139.15,12139.15,,$21178.71,0,,Y,N
 CIC9300L-24UXG4X-10A,C9300L 24p 8xmGig Netw Adv4x10G Uplink,C9300L 24p 8xmGig Netw Adv4x10G Uplink,C9300L-24UXG4X-10A,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,10810.9,10810.9,,$18861.36,0,,Y,N
 CIC9300L-24UXG4X-10E,C9300L 24p 8xmGig Netw Ess4x10G Uplink,C9300L 24p 8xmGig Netw Ess4x10G Uplink,C9300L-24UXG4X-10E,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,10810.9,10810.9,,$18861.36,0,,Y,N
-CIC9300L-24UXG-4X-A,Catalyst 9300L 24p 8mGig Network Advanta,Catalyst 9300L 24p 8mGig Network Advantage 4x10G Uplink,C9300L-24UXG-4X-A,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,8451.28,8451.28,,$18861.36,0,09-12-2025,N,N
+CIC9300L-24UXG-4X-A,Catalyst 9300L 24p 8mGig Network Advanta,Catalyst 9300L 24p 8mGig Network Advantage 4x10G Uplink,C9300L-24UXG-4X-A,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,8451.28,8451.28,,$18861.36,0,,N,N
 CIC9300L-24UXG-4X-A=,Catalyst 9300L 24p 8mGig NW-A 4x10G Upli,Catalyst 9300L 24p 8mGig NW-A 4x10G Uplink Spare,C9300L-24UXG-4X-A=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,10810.9,10810.9,,$18861.36,0,,Y,N
 CIC9300L-24UXG-4X-E,Catalyst 9300L 24p 8mGig Network Essenti,Catalyst 9300L 24p 8mGig Network Essentials 4x10G Uplink,C9300L-24UXG-4X-E,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,8254.8,8254.8,,$18861.36,0,,Y,N
 CIC9300L-24UXG-4X-E=,Catalyst 9300L 24p 8mGig NW-E 4x10G Upli,Catalyst 9300L 24p 8mGig NW-E 4x10G Uplink Spare,C9300L-24UXG-4X-E=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,10810.9,10810.9,,$18861.36,0,,Y,N
@@ -3490,7 +3491,7 @@ CIC9300L-STACK-A,Catalyst 9300L & 9300LM Stack Module,Catalyst 9300L & 9300LM St
 CIC9300L-STACK-BLANK,Catalyst 9300L Blank Stack Module,Catalyst 9300L Blank Stack Module,C9300L-STACK-BLANK,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,0,0,,$0.00,0,,Y,N
 CIC9300L-STACK-KIT,Cisco Catalyst 9300L Stacking Kit,Cisco Catalyst 9300L Stacking Kit,C9300L-STACK-KIT,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,1230.37,1230.37,,$2879.82,3,,N,N
 CIC9300L-STACK-KIT=,Cisco Catalyst 9300L Stacking Kit,Cisco Catalyst 9300L Stacking Kit,C9300L-STACK-KIT=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,1380.36,1380.36,,$2879.82,0,,N,N
-CIC9300L-STACK-KIT2,Cisco Catalyst 9300L and 9300LM Stacking,Cisco Catalyst 9300L and 9300LM Stacking Kit,C9300L-STACK-KIT2,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,1620.36,1620.36,,$2879.82,0,15-12-2025,Y,N
+CIC9300L-STACK-KIT2,Cisco Catalyst 9300L and 9300LM Stacking,Cisco Catalyst 9300L and 9300LM Stacking Kit,C9300L-STACK-KIT2,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,1620.36,1620.36,,$2879.82,0,,Y,N
 CIC9300L-STACK-KIT2=,Cisco Catalyst 9300L and 9300LM Stacking,Cisco Catalyst 9300L and 9300LM Stacking Kit,C9300L-STACK-KIT2=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,1620.36,1620.36,,$2879.82,-10,,N,N
 CIC9300L-STACKKIT-RF,Cisco Catalyst 9300L Stacking Kit REMANU,Cisco Catalyst 9300L Stacking Kit REMANUFACTURED,C9300L-STACKKIT-RF,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,1502.1,0,,$2315.49,0,,Y,N
 CIC9300-NM-2Q,Catalyst 9300 2 x 40GE Network Module,Catalyst 9300 2 x 40GE Network Module,C9300-NM-2Q,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,2814.49,2814.49,,$5627.20,0,,N,N
@@ -3501,7 +3502,7 @@ CIC9300-NM-4G,Catalyst 9300 4 x 1GE Network Module,Catalyst 9300 4 x 1GE Network
 CIC9300-NM-4G=,Catalyst 9300 4 x 1GE Network Module spa,Catalyst 9300 4 x 1GE Network Module spare,C9300-NM-4G=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,422.21,422.21,,$1191.64,0,,N,N
 CIC9300-NM-4M,Catalyst 9300 4 x mGig Network Module,Catalyst 9300 4 x mGig Network Module,C9300-NM-4M,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,1655.58,1655.58,,$3310.12,0,,N,N
 CIC9300-NM-4M=,Catalyst 9300 4 x mGig Network Module sp,Catalyst 9300 4 x mGig Network Module spare,C9300-NM-4M=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,1793.49,1793.49,,$3310.12,0,,N,N
-CIC9300-NM-8X,Catalyst 9300 8 x 10GE Network Module,Catalyst 9300 8 x 10GE Network Module,C9300-NM-8X,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,2169.68,2169.68,,$5627.20,0,22-12-2025,N,N
+CIC9300-NM-8X,Catalyst 9300 8 x 10GE Network Module,Catalyst 9300 8 x 10GE Network Module,C9300-NM-8X,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,2169.68,2169.68,,$5627.20,-6,19-01-2026,N,N
 CIC9300-NM-8X=,Catalyst 9300 8 x 10GE Network Module sp,Catalyst 9300 8 x 10GE Network Module spare,C9300-NM-8X=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,2169.68,2169.68,,$5627.20,0,,N,N
 CIC9300-NM-NONE,No Network Module Selected,No Network Module Selected,C9300-NM-NONE,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,0,0,,$0.00,0,,Y,N
 CIC9300-NW-A-24,C9300 Network Advantage  24-port license,C9300 Network Advantage  24-port license,C9300-NW-A-24,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,0,0,,$0.00,0,,Y,N
@@ -3681,7 +3682,7 @@ CIC9500-32C-E,Catalyst 9500 32-port 100G only Essentia,Catalyst 9500 32-port 100
 CIC9500-32QC-A,Catalyst 9500 32-port 40/100G only Advan,Catalyst 9500 32-port 40/100G only Advantage,C9500-32QC-A,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,44091.64,0,,$67967.63,0,,Y,N
 CIC9500-32QC-E,Catalyst 9500 32-port 40/100G only Essen,Catalyst 9500 32-port 40/100G only Essential,C9500-32QC-E,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,44091.64,0,,$67967.63,0,,N,N
 CIC9500-48Y4C,Catalyst 9500 Base PID,Catalyst 9500 Base PID,C9500-48Y4C,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,0,0,,$0.00,0,,Y,N
-CIC9500-48Y4C-A,Catalyst 9500 48-port x 1/10/25G + 4-por,Catalyst 9500 48-port x 1/10/25G + 4-port 40/100G Advantage,C9500-48Y4C-A,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,34657.75,0,,$53425.22,0,11-12-2025,N,N
+CIC9500-48Y4C-A,Catalyst 9500 48-port x 1/10/25G + 4-por,Catalyst 9500 48-port x 1/10/25G + 4-port 40/100G Advantage,C9500-48Y4C-A,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,34657.75,0,,$53425.22,0,,N,N
 CIC9500-48Y4C-A-BUN,2 x C9500-48Y4C 8 x QSFP-40/100-SRBD,2 x C9500-48Y4C 8 x QSFP-40/100-SRBD,C9500-48Y4C-A-BUN,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,68070.06,0,,$104930.57,0,,Y,N
 CIC9500-48Y4C-E,Catalyst 9500 48-port x 1/10/25G + 4-por,Catalyst 9500 48-port x 1/10/25G + 4-port 40/100G Essential,C9500-48Y4C-E,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,34657.75,0,,$53425.22,0,,N,N
 CIC9500-48Y4C-EA-3,C9500 48P25G Essentials to Advantage Upg,C9500 48P25G Essentials to Advantage Upgrade 3 Years,C9500-48Y4C-EA-3,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,16752.13,0,,$25823.57,0,,Y,N
@@ -3783,7 +3784,7 @@ CIC9600-DNA-A-3Y,Cisco Catalyst 9600 DNA Advantage 3 Year,Cisco Catalyst 9600 DN
 CIC9600-DNA-A-5Y,Cisco Catalyst 9600 DNA Advantage 5 Year,Cisco Catalyst 9600 DNA Advantage 5 Year License,C9600-DNA-A-5Y,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,57686.84,0,,$88924.75,0,,Y,N
 CIC9600-DNA-A-7Y,Cisco Catalyst 9600 DNA Advantage 7 Year,Cisco Catalyst 9600 DNA Advantage 7 Year License,C9600-DNA-A-7Y,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,80760.62,0,,$124493.20,0,,Y,N
 CIC9600-LC-24C,Cisco Catalyst 9600 Series 24-Port 40GE/,Cisco Catalyst 9600 Series 24-Port 40GE/12-Port 100GE,C9600-LC-24C,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,38651.77,0,,$59582.03,0,,Y,N
-CIC9600-LC-24C=,Cisco Catalyst 9600 Series 24-Port 40GE/,Cisco Catalyst 9600 Series 24-Port 40GE/12-Port 100GE Spare,C9600-LC-24C=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,38750.35,0,,$59582.03,0,,Y,N
+CIC9600-LC-24C=,Cisco Catalyst 9600 Series 24-Port 40GE/,Cisco Catalyst 9600 Series 24-Port 40GE/12-Port 100GE Spare,C9600-LC-24C=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,38750.35,0,,$59582.03,-2,,Y,N
 CIC9600-LC-40Y-B,Catalyst 9600 2xC9600-LC-40YL4CD BUNDLE ,Catalyst 9600 2xC9600-LC-40YL4CD BUNDLE PID ONLY-NOT ACTUAL,C9600-LC-40Y-B,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,0,0,,$0.00,0,,Y,N
 CIC9600-LC-40YL4CD,Cisco Catalyst 9600 Series 40-Port 1/10/,Cisco Catalyst 9600 Series 40-Port 1/10/25/50G2x200G2x400G,C9600-LC-40YL4CD,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,40136.83,0,,$61871.26,0,,Y,N
 CIC9600-LC-40YL4CD=,Catalyst 9600 Series 40-Port 1/10/25/50G,Catalyst 9600 Series 40-Port 1/10/25/50G2x200G2x400G Spare,C9600-LC-40YL4CD=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,40136.83,0,,$61871.26,0,,Y,N
@@ -3824,13 +3825,13 @@ CIC9800-AC-1100W=,Cisco Catalyst Wireless Controller 1100W,Cisco Catalyst Wirele
 CIC9800-AC-110W,Cisco Catalyst 9800 L Wireless Controlle,Cisco Catalyst 9800 L Wireless Controller Power Supply,C9800-AC-110W,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,0,0,,$0.00,0,,Y,N
 CIC9800-AC-110W=,Cisco Catalyst Wireless Controller 110W ,Cisco Catalyst Wireless Controller 110W AC Power Supply,C9800-AC-110W=,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,175.9,175.9,,$331.01,0,,Y,N
 CIC9800-AC-750W-R,Cisco Catalyst 9800-40 750W AC Power Sup,Cisco Catalyst 9800-40 750W AC Power Supply,C9800-AC-750W-R,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,0,0,,$0.00,0,,Y,N
-CIC9800-AC-750W-R=,Cisco Catalyst 9800-40 750W AC Power Sup,Cisco Catalyst 9800-40 750W AC Power Supply Reverse Air,C9800-AC-750W-R=,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,1430.1,0,,$2204.53,0,16-12-2025,N,N
+CIC9800-AC-750W-R=,Cisco Catalyst 9800-40 750W AC Power Sup,Cisco Catalyst 9800-40 750W AC Power Supply Reverse Air,C9800-AC-750W-R=,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,1430.1,0,,$2204.53,0,,N,N
 CIC9800-AC-750W-RED,Cisco Catalyst 9800-40 750W AC Power Sup,Cisco Catalyst 9800-40 750W AC Power Supply,C9800-AC-750W-RED,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,1430.1,0,,$2204.53,0,,N,N
 CIC9800-BLANK,Cisco 9800 Wireless Controller Module Bl,Cisco 9800 Wireless Controller Module Blank,C9800-BLANK,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,0,0,,$0.00,0,,Y,N
 CIC9800-CL-K9,Cisco Catalyst 9800-CL Wireless Controll,Cisco Catalyst 9800-CL Wireless Controller for Cloud,C9800-CL-K9,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,0,0,,$0.00,0,,N,N
 CIC9800-L-C-K9,Cisco Catalyst 9800-L Wireless Controlle,Cisco Catalyst 9800-L Wireless Controller_Copper Uplink,C9800-L-C-K9,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,9657.93,9657.93,,$22067.42,0,,N,N
-CIC9800-L-F-K9,Cisco Catalyst 9800-L Wireless Controlle,Cisco Catalyst 9800-L Wireless Controller_Fiber Uplink,C9800-L-F-K9,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,9657.93,9657.93,,$22067.42,0,,N,N
-CIC9800L-RMNT,C9800 Wireless Controller Rack Mount Tra,C9800 Wireless Controller Rack Mount Tray,C9800L-RMNT,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,237.99,237.99,,$496.52,0,,N,N
+CIC9800-L-F-K9,Cisco Catalyst 9800-L Wireless Controlle,Cisco Catalyst 9800-L Wireless Controller_Fiber Uplink,C9800-L-F-K9,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,9657.93,9657.93,,$22067.42,-2,,N,N
+CIC9800L-RMNT,C9800 Wireless Controller Rack Mount Tra,C9800 Wireless Controller Rack Mount Tray,C9800L-RMNT,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,237.99,237.99,,$496.52,-1,,N,N
 CIC9800L-RMNT=,Spare C9800 Wireless Controller Rack Mou,Spare C9800 Wireless Controller Rack Mount Tray,C9800L-RMNT=,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,237.99,237.99,,$496.52,-1,07-03-2024,N,N
 CIC9800-PWR-BLANK,Cisco 9800 Wireless Controller PS Blank,Cisco 9800 Wireless Controller PS Blank,C9800-PWR-BLANK,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,0,0,,$0.00,0,,Y,N
 CIC9K-80W-ADPT,Power Adaptor for Compact Switches 80W,Power Adaptor for Compact Switches 80W,C9K-80W-ADPT,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,148.96,148.96,,$264.73,0,,N,N
@@ -3871,7 +3872,7 @@ CIC9K-PWR-1600WAC-R=,Catalyst 9500 1600W Power Supply,Catalyst 9500 1600W Power 
 CIC9K-PWR-650WACL-R,650W AC Power Supply,650W AC Power Supply,C9K-PWR-650WACL-R,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,0,0,,$0.00,0,,Y,N
 CIC9K-PWR-650WACLR/2,650W AC Power Supply,650W AC Power Supply,C9K-PWR-650WACLR/2,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,3004.17,0,,$4630.97,0,,N,N
 CIC9K-PWR-650WAC-R,650W AC Config 4 Power Supply front to b,650W AC Config 4 Power Supply front to back cooling,C9K-PWR-650WAC-R,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,0,0,,$0.00,0,,Y,N
-CIC9K-PWR-650WAC-R/2,650W AC Config 4 Power Supply front to b,650W AC Config 4 Power Supply front to back cooling,C9K-PWR-650WAC-R/2,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,3223.12,0,,$4968.45,0,08-12-2025,N,N
+CIC9K-PWR-650WAC-R/2,650W AC Config 4 Power Supply front to b,650W AC Config 4 Power Supply front to back cooling,C9K-PWR-650WAC-R/2,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,3223.12,0,,$4968.45,0,,N,N
 CIC9K-PWR-650WAC-R=,650W AC Config 4 Power Supply front to b,650W AC Config 4 Power Supply front to back cooling,C9K-PWR-650WAC-R=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,3223.12,0,,$4968.45,1,,N,N
 CIC9K-PWR-930WDC-R,930W DC Config 4 Power Supply front to b,930W DC Config 4 Power Supply front to back cooling,C9K-PWR-930WDC-R,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,0,0,,$0.00,0,,Y,N
 CIC9K-PWR-930WDC-R/2,930W DC Config 4 Power Supply front to b,930W DC Config 4 Power Supply front to back cooling,C9K-PWR-930WDC-R/2,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,3006.26,0,,$4634.16,0,,N,N
@@ -3884,7 +3885,7 @@ CIC9K-SMART-BUILDING,Smart Building Application Identifier,Smart Building Applic
 CIC9K-T1-FANTRAY,Catalyst 9500 Type 4 front to back cooli,Catalyst 9500 Type 4 front to back cooling Fan,C9K-T1-FANTRAY,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,0,0,,$0.00,0,,Y,N
 CIC9K-T2-FANTRAY,Catalyst 9500 Type 5 front to back cooli,Catalyst 9500 Type 5 front to back cooling Fan,C9K-T2-FANTRAY,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,0,0,,$0.00,0,,Y,N
 CIC9K-WALL-TRAY,Wall Mount Bracket for 9200CX Compact Sw,Wall Mount Bracket for 9200CX Compact Switch,C9K-WALL-TRAY,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,55.88,55.88,,$99.31,0,,N,N
-CIC9K-WALL-TRAY=,Wall Mount Bracket for 9200CX Compact Sw,Wall Mount Bracket for 9200CX Compact Switch,C9K-WALL-TRAY=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,55.88,55.88,,$99.31,-2,08-12-2025,N,N
+CIC9K-WALL-TRAY=,Wall Mount Bracket for 9200CX Compact Sw,Wall Mount Bracket for 9200CX Compact Switch,C9K-WALL-TRAY=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,55.88,55.88,,$99.31,-2,,N,N
 CICAB-16AWG-AC,AC Power cord 16AWG,AC Power cord 16AWG,CAB-16AWG-AC,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,0,0,,$0.00,0,,Y,N
 CICAB-16AWG-AC=,AC Power cord 16AWG,AC Power cord 16AWG,CAB-16AWG-AC=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,129.3,129.3,,$243.30,0,,Y,N
 CICAB-25AS-MMOD=,Male DB-25 Modem Connector,Male DB-25 Modem Connector,CAB-25AS-MMOD=,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,35.79,0,,$55.18,0,,N,N
@@ -3980,7 +3981,7 @@ CICAB-C13-CBN=,Cabinet Jumper Power Cord 250 VAC 10A C1,Cabinet Jumper Power Cor
 CICAB-C15-ACA,AC Power Cord (Australia) C15 AS 3112 2.,AC Power Cord (Australia) C15 AS 3112 2.5m,CAB-C15-ACA,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,0,0,,$0.00,0,,Y,N
 CICAB-C15-ACA=,AC Power Cord (Australia) C15 AS 3112 2.,AC Power Cord (Australia) C15 AS 3112 2.5m,CAB-C15-ACA=,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,143.16,0,,$220.67,0,,Y,N
 CICAB-C15-CBN,Cabinet Jumper Power Cord  250 VAC 13A  ,Cabinet Jumper Power Cord  250 VAC 13A  C14-C15 Connectors,CAB-C15-CBN,CISCO SYSTEMS LTD,,CI - DATA CENTER NETWORKING,,,,0,0,0,0,,$0.00,0,,Y,N
-CICAB-C15-CBN=,Cabinet Jumper Power Cord 250 VAC 13A C1,Cabinet Jumper Power Cord 250 VAC 13A C14-C15 Connector,CAB-C15-CBN=,CISCO SYSTEMS LTD,,CI - DATA CENTER NETWORKING,,,,0,0,35.79,0,,$55.18,-32,19-01-2026,N,N
+CICAB-C15-CBN=,Cabinet Jumper Power Cord 250 VAC 13A C1,Cabinet Jumper Power Cord 250 VAC 13A C14-C15 Connector,CAB-C15-CBN=,CISCO SYSTEMS LTD,,CI - DATA CENTER NETWORKING,,,,0,0,35.79,0,,$55.18,0,19-01-2026,N,N
 CICAB-C15-CBN-EURA,Cabinet Jumper Power Cord 250 VAC 13A C1,Cabinet Jumper Power Cord 250 VAC 13A C14-C15 Connectors.,CAB-C15-CBN-EURA,CISCO SYSTEMS LTD,,CI - DATA CENTER NETWORKING,,,,0,0,0,0,,$0.00,0,,Y,N
 CICAB-C15-CBN-JP,Japan Cabinet Jumper Power Cord 250 VAC ,Japan Cabinet Jumper Power Cord 250 VAC 12A C14-C15,CAB-C15-CBN-JP,CISCO SYSTEMS LTD,,CI - DATA CENTER NETWORKING,,,,0,0,0,0,,$0.00,0,,Y,N
 CICAB-C19-CBN,Cabinet Jumper Power Cord  250 VAC 16A  ,Cabinet Jumper Power Cord  250 VAC 16A  C20-C19 Connectors,CAB-C19-CBN,CISCO SYSTEMS LTD,,CI - DATA CENTER NETWORKING,,,,0,0,0,0,,$0.00,0,,Y,N
@@ -4085,7 +4086,7 @@ CICAB-SPWR-100CM,Stack Power Cable 100 CM,Stack Power Cable 100 CM,CAB-SPWR-100C
 CICAB-SPWR-100CM=,Stack Power Cable 100 CM spare,Stack Power Cable 100 CM spare,CAB-SPWR-100CM=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,340.54,0,,$524.97,0,,Y,N
 CICAB-SPWR-150CM,Catalyst Stack Power Cable 150 CM - Upgr,Catalyst Stack Power Cable 150 CM - Upgrade,CAB-SPWR-150CM,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,108.07,108.07,,$220.67,0,,N,N
 CICAB-SPWR-150CM=,Catalyst Stack Power Cable 150 CM Spare,Catalyst Stack Power Cable 150 CM Spare,CAB-SPWR-150CM=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,227.67,227.67,,$475.00,0,,N,N
-CICAB-SPWR-30CM,Catalyst Stack Power Cable 30 CM,Catalyst Stack Power Cable 30 CM,CAB-SPWR-30CM,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,93.93,93.93,,$209.65,-2,19-01-2026,N,N
+CICAB-SPWR-30CM,Catalyst Stack Power Cable 30 CM,Catalyst Stack Power Cable 30 CM,CAB-SPWR-30CM,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,93.93,93.93,,$209.65,-8,19-01-2026,N,N
 CICAB-SPWR-30CM=,Catalyst Stack Power Cable 30 CM Spare,Catalyst Stack Power Cable 30 CM Spare,CAB-SPWR-30CM=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,99,99,,$231.71,4,,N,N
 CICAB-SPWR-35CM,Stack Power Cable 35 CM,Stack Power Cable 35 CM,CAB-SPWR-35CM,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,152.04,0,,$234.36,0,,Y,N
 CICAB-SS-232FC,RS-232 Cable DCE Female to Smart Serial ,RS-232 Cable DCE Female to Smart Serial 10 Feet,CAB-SS-232FC,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,143.16,0,,$220.67,0,,Y,N
@@ -4134,8 +4135,8 @@ CICAI-MRX64G2RE5,64GB DDR5-6400 RDIMM 2Rx4  (16Gb),64GB DDR5-6400 RDIMM 2Rx4  (1
 CICAI-NVES3T8K1V,3.8TB E1.S 15mm Kioxia XD7P Hg Perf Med ,3.8TB E1.S 15mm Kioxia XD7P Hg Perf Med End Gen4 1X NVMe,CAI-NVES3T8K1V,CISCO SYSTEMS LTD,,CI - CISCO COMPUTE,,,,0,0,6859.2,0,,$10761.85,0,,Y,N
 CICAI-O-ID10GC,Intel X710T2LOCPV3G1L 2x10GbE RJ45 OCP3.,Intel X710T2LOCPV3G1L 2x10GbE RJ45 OCP3.0 NIC,CAI-O-ID10GC,CISCO SYSTEMS LTD,,CI - CISCO COMPUTE,,,,0,0,1580.6,0,,$2479.93,0,,Y,N
 CICAI-O-ID10GC,Intel X710T2LOCPV3G1L 2x10GbE RJ45 OCP3.,Intel X710T2LOCPV3G1L 2x10GbE RJ45 OCP3.0 NIC,PWR-5400-AC,CISCO SYSTEMS LTD,,CI - CISCO COMPUTE,,,,0,0,1580.6,0,,$2479.93,0,,Y,N
-CICAI-P-N7D200GFO,NVIDIA OEM MCX755106AS-HEAT 2x200GbE QSF,NVIDIA OEM MCX755106AS-HEAT 2x200GbE QSFP112 PCIe Gen5 NIC,CAI-P-N7D200GFO,CISCO SYSTEMS LTD,,CI - CISCO COMPUTE,,,,0,0,14011.17,0,,$21983.05,0,,Y,N
 CICAI-P-N7D200GFO,NVIDIA OEM MCX755106AS-HEAT 2x200GbE QSF,NVIDIA OEM MCX755106AS-HEAT 2x200GbE QSFP112 PCIe Gen5 NIC,SD-AR1K-N54ASYSC,CISCO SYSTEMS LTD,,CI - CISCO COMPUTE,,,,0,0,14011.17,0,,$21983.05,0,,Y,N
+CICAI-P-N7D200GFO,NVIDIA OEM MCX755106AS-HEAT 2x200GbE QSF,NVIDIA OEM MCX755106AS-HEAT 2x200GbE QSFP112 PCIe Gen5 NIC,CAI-P-N7D200GFO,CISCO SYSTEMS LTD,,CI - CISCO COMPUTE,,,,0,0,14011.17,0,,$21983.05,0,,Y,N
 CIC-ANT9101=,2.4/5/6 GHz Ceiling Mount Omni Ant 8-por,2.4/5/6 GHz Ceiling Mount Omni Ant 8-port DART Self ID,C-ANT9101=,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,1859.56,0,,$2866.55,0,,Y,N
 CIC-ANT9103=,2.4/5/6 GHz Directional Antenna 8-port D,2.4/5/6 GHz Directional Antenna 8-port DART Self ID,C-ANT9103=,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,3291.12,0,,$5073.29,0,,Y,N
 CIC-ANT9104,2.4/5 GHz Directional Antenna 8-port DAR,2.4/5 GHz Directional Antenna 8-port DART Self ID,C-ANT9104,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,7156.3,0,,$11031.50,0,,Y,N
@@ -4300,7 +4301,7 @@ CICNAEL-VAPLK9-3Y-S,CNAE Small Virtual Appliance 3 YR Term,CNAE Small Virtual Ap
 CICNDL-DESELECT-D,Conditional Deselect,Conditional Deselect,CNDL-DESELECT-D,CISCO SYSTEMS LTD,,CI - CISCO COMPUTE,,,,0,0,0,0,,$0.00,0,,Y,N
 CIC-NIM-1X,Cisco NIM Module 1-port 10G SFP/SFP+ wit,Cisco NIM Module 1-port 10G SFP/SFP+ with MACSec,C-NIM-1X,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,3578.88,0,,$5516.86,0,,N,N
 CIC-NIM-1X=,Cisco NIM Module 1-port 10G SFP/SFP+ wit,Cisco NIM Module 1-port 10G SFP/SFP+ with MACSec,C-NIM-1X=,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,4008.32,0,,$6178.88,0,,N,N
-CIC-NIM-2T,Cisco Catalyst NIM Module 2-port 1GE SFP,Cisco Catalyst NIM Module 2-port 1GE SFP with MACSec,C-NIM-2T,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,2115.49,2115.49,,$4413.45,-2,,Y,N
+CIC-NIM-2T,Cisco Catalyst NIM Module 2-port 1GE SFP,Cisco Catalyst NIM Module 2-port 1GE SFP with MACSec,C-NIM-2T,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,2115.49,2115.49,,$4413.45,-2,19-01-2026,Y,N
 CIC-NIM-2T=,Cisco Catalyst NIM Module 2-port 1GE SFP,Cisco Catalyst NIM Module 2-port 1GE SFP with MACSec,C-NIM-2T=,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,2432.8,2432.8,,$5075.50,0,,Y,N
 CIC-NIM-4X,Cisco NIM Switch Module 4-port 10G SFP/S,Cisco NIM Switch Module 4-port 10G SFP/SFP+,C-NIM-4X,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,6993.53,0,,$10780.60,0,,Y,N
 CIC-NIM-4X=,Cisco NIM Switch Module 4-port 10G SFP/S,Cisco NIM Switch Module 4-port 10G SFP/SFP+,C-NIM-4X=,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,7236.79,0,,$11155.58,0,,N,N
@@ -4323,7 +4324,7 @@ CICON-SNT-C9200L48,SNTC-8X5XNBD Catalyst 9200L 48-port PoE+,SNTC-8X5XNBD Catalys
 CICON-SNT-C920L24A,SNTC-8X5XNBD Catalyst 9200L 24-port data,SNTC-8X5XNBD Catalyst 9200L 24-port data only  4 x 1G,CON-SNT-C920L24A,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,563.95,563.95,,$1353.83,0,,N,N
 CICON-SNT-C920L2GA,SNTC-8X5XNBD Catalyst 9200L 24-po,SNTC-8X5XNBD Catalyst 9200L 24-po,CON-SNT-C920L2GA,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,782.05,782.05,,$1877.41,0,,N,N
 CICON-SNT-C920L48T,SNTC-8X5XNBD Catalyst 9200 48-port data ,SNTC-8X5XNBD Catalyst 9200 48-port data only  4 x 10G,CON-SNT-C920L48T,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,1308.61,1308.61,,$3141.43,0,,N,N
-CICON-SNT-C9504YA4,SNTC-8X5XNBD Catalyst 9500 48-port 25/10,SNTC-8X5XNBD Catalyst 9500 48-port 25/100G only  Adva,CON-SNT-C9504YA4,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,10459.95,0,,$15864.26,0,,N,N
+CICON-SNT-C9504YA4,SNTC-8X5XNBD Catalyst 9500 48-port 25/10,SNTC-8X5XNBD Catalyst 9500 48-port 25/100G only  Adva,CON-SNT-C9504YA4,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,10459.95,0,,$15864.26,-2,,N,N
 CICON-SNT-CW9162IZ,SNTC-8X5XNBD CAT WLS 9162I AP W6E tri-ba,SNTC-8X5XNBD CAT WLS 9162I AP W6E tri-band 2x2 Reg Z,CON-SNT-CW9162IZ,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,231.8,231.8,,$635.81,0,,N,N
 CICON-SNT-N9336FX2,SNTC-8X5XNBD Nexus 9300 Series  36p 40/1,SNTC-8X5XNBD Nexus 9300 Series  36p 40/100G QSFP28,CON-SNT-N9336FX2,CISCO SYSTEMS LTD,,CI - DATA CENTER NETWORKING,,,,0,0,15419.49,0,,$23386.22,0,,N,N
 CICON-SNT-SNS3A8K9,SNTC-8X5XNBD Small Secure Network Server,SNTC-8X5XNBD Small Secure Network Server for ISE Appl,CON-SNT-SNS3A8K9,CISCO SYSTEMS LTD,,CI - SECURITY,,,,0,0,23203.23,0,,$35191.57,0,,Y,N
@@ -4384,7 +4385,7 @@ CICP-7811-NC-K9=,Cisco UC Phone 7811 Customized Model,Cisco UC Phone 7811 Custom
 CICP-7811-WMK=,Spare Wallmount Kit for Cisco UC Phone 7,Spare Wallmount Kit for Cisco UC Phone 7811,CP-7811-WMK=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,81.38,81.38,,$159.37,0,,N,N
 CICP-7821-3PCC-K9=,Cisco IP Phone 7821 with Multiplatform P,Cisco IP Phone 7821 with Multiplatform Phone firmware,CP-7821-3PCC-K9=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,208.98,208.98,,$646.84,0,,N,N
 CICP-7821-B-BEZEL=,Spare Black Bezel for Cisco UC Phone 782,Spare Black Bezel for Cisco UC Phone 7821,CP-7821-B-BEZEL=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,17.61,17.61,,$33.11,0,,Y,N
-CICP-7821-K9=,Cisco IP Phone 7821,Cisco IP Phone 7821,CP-7821-K9=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,222.45,222.45,,$646.84,-8,19-01-2026,N,N
+CICP-7821-K9=,Cisco IP Phone 7821,Cisco IP Phone 7821,CP-7821-K9=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,222.45,222.45,,$646.84,-4,19-01-2026,N,N
 CICP-7821-NC-K9=,Cisco UC Phone 7821 Customized Model,Cisco UC Phone 7821 Customized Model,CP-7821-NC-K9=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,363.72,363.72,,$684.33,0,,Y,N
 CICP-7821-S-BEZEL=,Spare Silver Bezel for Cisco UC Phone 78,Spare Silver Bezel for Cisco UC Phone 7821,CP-7821-S-BEZEL=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,17.61,17.61,,$33.11,0,,Y,N
 CICP-7821-W-K9=,Cisco IP Phone 7821 White,Cisco IP Phone 7821 White,CP-7821-W-K9=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,378.68,378.68,,$712.46,0,,N,N
@@ -4424,7 +4425,7 @@ CICP-860-K9=,Cisco 860 WW Phone and Battery Only,Cisco 860 WW Phone and Battery 
 CICP-860S-BUN-K9,Cisco 860S WW Phone with Scanner Battery,Cisco 860S WW Phone with Scanner Battery Cable Charger,CP-860S-BUN-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,3758.17,3758.17,,$8586.98,0,,Y,N
 CICP-860S-K9=,Cisco 860S WW Phone with Scanner and Bat,Cisco 860S WW Phone with Scanner and Battery Only,CP-860S-K9=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,3684.3,3684.3,,$8418.24,0,,Y,N
 CICP-8800-A-KEM=,8800 Series Audio KEM 28 Button,8800 Series Audio KEM 28 Button,CP-8800-A-KEM=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,530.66,530.66,,$1273.06,-2,,N,N
-CICP-8800-A-KEM-3PC=,Cisco 8800 series KEM for Audio IP Phone,Cisco 8800 series KEM for Audio IP Phones with MPP firmware,CP-8800-A-KEM-3PC=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,411.3,411.3,,$1273.06,-2,17-11-2025,N,N
+CICP-8800-A-KEM-3PC=,Cisco 8800 series KEM for Audio IP Phone,Cisco 8800 series KEM for Audio IP Phones with MPP firmware,CP-8800-A-KEM-3PC=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,411.3,411.3,,$1273.06,-2,,N,N
 CICP-8800-A-KEM-WMK=,28 Button KEM Wall Mount Kit for Cisco I,28 Button KEM Wall Mount Kit for Cisco IP Phone 8800 Series,CP-8800-A-KEM-WMK=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,139.87,0,,$215.61,0,,Y,N
 CICP-8800-B-AGBEZEL=,Black Anti-glaring Bezel for Cisco IP Ph,Black Anti-glaring Bezel for Cisco IP Phone 8800 series,CP-8800-B-AGBEZEL=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,23.46,23.46,,$44.13,0,,Y,N
 CICP-8800-B-BEZEL=,Black Bezel for Cisco IP Phone 8800 Seri,Black Bezel for Cisco IP Phone 8800 Series,CP-8800-B-BEZEL=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,20.25,20.25,,$44.13,0,,Y,N
@@ -4438,7 +4439,7 @@ CICP-8800-V-KEM-3PC=,Cisco 8800 series KEM for Video IP Phone,Cisco 8800 series 
 CICP-8800-WMK=,Wall Mount Kit for Cisco IP Phone 8800 S,Wall Mount Kit for Cisco IP Phone 8800 Series,CP-8800-WMK=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,77.37,77.37,,$168.74,0,,N,N
 CICP-8811-3PCC-K9=,Cisco IP Phone 8811 with Multiplatform P,Cisco IP Phone 8811 with Multiplatform Phone firmware,CP-8811-3PCC-K9=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,383.43,383.43,,$1186.80,2,,N,N
 CICP-8811-A-K9=,Cisco IP Phone 8811 Arabic Layout,Cisco IP Phone 8811 Arabic Layout,CP-8811-A-K9=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,630.81,630.81,,$1186.80,0,,Y,N
-CICP-8811-K9=,Cisco IP Phone 8811 Series,Cisco IP Phone 8811 Series,CP-8811-K9=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,494.67,494.67,,$1186.80,0,,N,N
+CICP-8811-K9=,Cisco IP Phone 8811 Series,Cisco IP Phone 8811 Series,CP-8811-K9=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,494.67,494.67,,$1186.80,-1,,N,N
 CICP-8811-W-K9=,Cisco IP Phone 8811 White,Cisco IP Phone 8811 White,CP-8811-W-K9=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,664.68,664.68,,$1250.55,0,,Y,N
 CICP-8821-SILCASE=,Cisco 8821 Silicone Carry Case,Cisco 8821 Silicone Carry Case,CP-8821-SILCASE=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,238.13,238.13,,$496.84,0,,N,N
 CICP-8831-EU-K9=,^Cisco 8831 Base/Control Panel for APAC,^Cisco 8831 Base/Control Panel for APAC,CP-8831-EU-K9=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,2136.37,0,,$3184.32,1,,N,N
@@ -4465,7 +4466,7 @@ CICP-8841-W-K9=,Cisco IP Phone 8841 White,Cisco IP Phone 8841 White,CP-8841-W-K9
 CICP-8845-A-K9=,Cisco IP phone 8845 Arabic layout,Cisco IP phone 8845 Arabic layout,CP-8845-A-K9=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,820.98,0,,$1265.55,0,,Y,N
 CICP-8851-3PCC-K9=,Cisco IP Phone 8851 with Multiplatform P,Cisco IP Phone 8851 with Multiplatform Phone firmware,CP-8851-3PCC-K9=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,494.87,494.87,,$1531.79,0,,N,N
 CICP-8851-A-K9=,Cisco IP Phone 8851 Arabic Layout,Cisco IP Phone 8851 Arabic Layout,CP-8851-A-K9=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,814.14,814.14,,$1531.79,0,,Y,N
-CICP-8851-K9=,Cisco IP Phone 8851,Cisco IP Phone 8851,CP-8851-K9=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,558.71,558.71,,$1531.79,-2,15-12-2025,N,N
+CICP-8851-K9=,Cisco IP Phone 8851,Cisco IP Phone 8851,CP-8851-K9=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,558.71,558.71,,$1531.79,-2,,N,N
 CICP-8851-NC-K9=,Cisco UC Phone 8851,Cisco UC Phone 8851,CP-8851-NC-K9=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,842.07,842.07,,$1584.28,0,,Y,N
 CICP-8851NR-K9=,Cisco IP Phone 8851 No Radio variant,Cisco IP Phone 8851 No Radio variant,CP-8851NR-K9=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,734.22,734.22,,$1531.79,0,,Y,N
 CICP-8851-W-K9=,Cisco IP Phone 8851 White,Cisco IP Phone 8851 White,CP-8851-W-K9=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,714.9,714.9,,$1595.52,0,,Y,N
@@ -4556,14 +4557,14 @@ CICS-BAR-MOUNT-KIT-,Mounting Kit for Cisco  Room Bar,Mounting Kit for Cisco  Roo
 CICS-BAR-NR-K9,Cisco Room Bar NoRadio First Light (Whit,Cisco Room Bar NoRadio First Light (White),CS-BAR-NR-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,7340.89,7340.89,,$13292.95,0,,N,N
 CICS-BARPRO-CAMCOV,Camera Cover for Room Bar Pro,Camera Cover for Room Bar Pro,CS-BARPRO-CAMCOV,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,352.73,0,,$543.72,0,,Y,N
 CICS-BARPRO-CAMCOV=,Camera Cover for Room Bar Pro - SPARE,Camera Cover for Room Bar Pro - SPARE,CS-BARPRO-CAMCOV=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,352.73,0,,$543.72,0,,N,N
-CICS-BARPRO-C-K9,Cisco Room Bar Pro Carbon Black,Cisco Room Bar Pro Carbon Black,CS-BARPRO-C-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,12286.89,12286.89,,$29041.99,4,,N,N
+CICS-BARPRO-C-K9,Cisco Room Bar Pro Carbon Black,Cisco Room Bar Pro Carbon Black,CS-BARPRO-C-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,12286.89,12286.89,,$29041.99,0,,N,N
 CICS-BARPRO-K9,Cisco Room Bar Pro First Light,Cisco Room Bar Pro First Light,CS-BARPRO-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,12286.89,12286.89,,$29041.99,0,,N,N
 CICS-BARPRO-MOUNT-,Mounting Kit for Cisco Room Bar Pro,Mounting Kit for Cisco Room Bar Pro,CS-BARPRO-MOUNT-,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
 CICS-BARPRO-MOUNT=,Mounting Kit for Cisco Room Bar Pro - SP,Mounting Kit for Cisco Room Bar Pro - SPARE,CS-BARPRO-MOUNT=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,354.52,354.52,,$654.34,0,,Y,N
 CICS-BARPRO-NR-K9,Cisco Room Bar Pro First Light - Non-Rad,Cisco Room Bar Pro First Light - Non-Radio,CS-BARPRO-NR-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,15735.63,15735.63,,$29041.99,0,,N,N
-CICS-BAR-T-C-K9,Cisco Room Bar in Carbon Black w/Navigat,Cisco Room Bar in Carbon Black w/Navigator(Table Stand),CS-BAR-T-C-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,3863.03,3863.03,,$12355.50,0,,N,N
-CICS-BAR-T-K9,Cisco Room Bar in First Light w/Navigato,Cisco Room Bar in First Light w/Navigator(Table Stand),CS-BAR-T-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,3863.03,3863.03,,$12355.50,0,01-12-2025,N,N
-CICS-BAR-W-C-K9,Cisco Room Bar in Carbon Black w/Navigat,Cisco Room Bar in Carbon Black w/Navigator(Wall Mount),CS-BAR-W-C-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,5189.61,5189.61,,$13105.46,0,,Y,N
+CICS-BAR-T-C-K9,Cisco Room Bar in Carbon Black w/Navigat,Cisco Room Bar in Carbon Black w/Navigator(Table Stand),CS-BAR-T-C-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,3863.03,3863.03,,$12355.50,-1,,N,N
+CICS-BAR-T-K9,Cisco Room Bar in First Light w/Navigato,Cisco Room Bar in First Light w/Navigator(Table Stand),CS-BAR-T-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,3863.03,3863.03,,$12355.50,0,,N,N
+CICS-BAR-W-C-K9,Cisco Room Bar in Carbon Black w/Navigat,Cisco Room Bar in Carbon Black w/Navigator(Wall Mount),CS-BAR-W-C-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,5189.61,5189.61,,$13105.46,-4,,Y,N
 CICS-BAR-W-K9,Cisco Room Bar in First Light w/Navigato,Cisco Room Bar in First Light w/Navigator(Wall Mount),CS-BAR-W-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,5189.61,5189.61,,$13105.46,0,,N,N
 CICS-BRD55P-FS,Cisco Board Pro 55 Floor Stand,Cisco Board Pro 55 Floor Stand,CS-BRD55P-FS,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,6376.9,0,,$9830.03,0,,N,N
 CICS-BRD55P-FS=,Cisco Board Pro 55 Floor Stand - SPARE,Cisco Board Pro 55 Floor Stand - SPARE,CS-BRD55P-FS=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,4711.77,4711.77,,$9830.03,0,,N,N
@@ -4587,9 +4588,9 @@ CICS-CAM-PTZ4K,Pan-Tilt-Zoom 4K 20x Camera,Pan-Tilt-Zoom 4K 20x Camera,CS-CAM-PT
 CICS-CAM-PTZ4K+,Pan-Tilt-Zoom 4K 20x Camera,Pan-Tilt-Zoom 4K 20x Camera,CS-CAM-PTZ4K+,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
 CICS-CAM-PTZ4K=,Pan-Tilt-Zoom 4K 20x Camera-SPARE,Pan-Tilt-Zoom 4K 20x Camera-SPARE,CS-CAM-PTZ4K=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,8390.99,8390.99,,$19640.00,0,,N,N
 CICS-CAM-RVPTZ-C,Cisco Room Vision PTZ Camera Carbon Blac,Cisco Room Vision PTZ Camera Carbon Black,CS-CAM-RVPTZ-C,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,8493.27,8493.27,,$19640.00,0,,Y,N
-CICS-CAM-RVPTZ-C=,Cisco Room Vision PTZ Camera Carbon Blac,Cisco Room Vision PTZ Camera Carbon Black - SPARE,CS-CAM-RVPTZ-C=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,7777.24,7777.24,,$19640.00,-2,,Y,N
+CICS-CAM-RVPTZ-C=,Cisco Room Vision PTZ Camera Carbon Blac,Cisco Room Vision PTZ Camera Carbon Black - SPARE,CS-CAM-RVPTZ-C=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,7777.24,7777.24,,$19640.00,-5,,Y,N
 CICS-CAM-RVPTZ-CBKC,Ceiling-Wall Bracket EH RoomVision PTZCa,Ceiling-Wall Bracket EH RoomVision PTZCam-Carbon Black,CS-CAM-RVPTZ-CBKC,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,372.96,372.96,,$862.45,0,,Y,N
-CICS-CAM-RVPTZ-CBKC=,Ceiling-Wall Bracket EH RoomVision PTZCa,Ceiling-Wall Bracket EH RoomVision PTZCam-Carbon Black-SPARE,CS-CAM-RVPTZ-CBKC=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,372.96,372.96,,$862.45,-2,,Y,N
+CICS-CAM-RVPTZ-CBKC=,Ceiling-Wall Bracket EH RoomVision PTZCa,Ceiling-Wall Bracket EH RoomVision PTZCam-Carbon Black-SPARE,CS-CAM-RVPTZ-CBKC=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,372.96,372.96,,$862.45,-5,,Y,N
 CICS-CAM-RVPTZ-CBKL=,Ceiling-Wall Bracket EH RoomVision PTZCa,Ceiling-Wall Bracket EH RoomVision PTZCam-Arctic White-SPARE,CS-CAM-RVPTZ-CBKL=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,386.46,386.46,,$862.45,0,,Y,N
 CICS-CAM-RVPTZ-L=,Cisco Room Vision PTZ Camera Arctic Whit,Cisco Room Vision PTZ Camera Arctic White - SPARE,CS-CAM-RVPTZ-L=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,8800.15,8800.15,,$19640.00,0,,Y,N
 CICS-CAM-RVPTZ-WBKL=,Wall Bracket E RoomVision PTZCam - Arcti,Wall Bracket E RoomVision PTZCam - Arctic White-SPARE,CS-CAM-RVPTZ-WBKL=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,285.64,285.64,,$637.46,0,,Y,N
@@ -4608,12 +4609,12 @@ CICS-CODEC-PLUS+,Cisco  Codec Plus,Cisco  Codec Plus,CS-CODEC-PLUS+,CISCO SYSTEM
 CICS-CODEC-PLUS=,Cisco Room Codec Plus - SPARE,Cisco Room Codec Plus - SPARE,CS-CODEC-PLUS=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,14172.31,0,,$21846.75,0,,N,N
 CICS-CODEC-PLUS-K9,Cisco Codec Plus - Stand Alone Codec Plu,Cisco Codec Plus - Stand Alone Codec Plus,CS-CODEC-PLUS-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,14172.31,0,,$21846.75,0,,N,N
 CICS-CODEC-PRO+,Codec Pro for Auto Expand,Codec Pro for Auto Expand,CS-CODEC-PRO+,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
-CICS-CODEC-PRO-K9,Cisco Codec Pro - Stand Alone,Cisco Codec Pro - Stand Alone,CS-CODEC-PRO-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,18304.44,18304.44,,$43914.16,0,16-12-2025,N,N
+CICS-CODEC-PRO-K9,Cisco Codec Pro - Stand Alone,Cisco Codec Pro - Stand Alone,CS-CODEC-PRO-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,18304.44,18304.44,,$43914.16,0,,N,N
 CICS-CODEC-PRO-NR+,Codec Pro for Auto Expand - No-Radio,Codec Pro for Auto Expand - No-Radio,CS-CODEC-PRO-NR+,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
 CICS-CODEC-PRO-NR-K9,Cisco Codec Pro - Stand Alone NoRadio,Cisco Codec Pro - Stand Alone NoRadio,CS-CODEC-PRO-NR-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,28487.78,0,,$43914.16,0,,Y,N
 CICS-CPRO-ANT+,Antennas for Codec Pro,Antennas for Codec Pro,CS-CPRO-ANT+,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
 CICS-CPRO-RACKEARS,Rack ears for the Codec Pro - for mounti,Rack ears for the Codec Pro - for mounting in rack,CS-CPRO-RACKEARS,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
-CICS-CPRO-RACKEARS=,Rack ears for the Codec Pro- for mountin,Rack ears for the Codec Pro- for mounting in rack,CS-CPRO-RACKEARS=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,133.58,133.58,,$298.11,0,15-12-2025,N,N
+CICS-CPRO-RACKEARS=,Rack ears for the Codec Pro- for mountin,Rack ears for the Codec Pro- for mounting in rack,CS-CPRO-RACKEARS=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,133.58,133.58,,$298.11,0,,N,N
 CICS-CPRO-WMK,Wall Mount Kit for Codec Pro,Wall Mount Kit for Codec Pro,CS-CPRO-WMK,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,210.48,210.48,,$439.13,0,,N,N
 CICS-CPRO-WMK=,Wall Mount Kit for Codec Pro,Wall Mount Kit for Codec Pro,CS-CPRO-WMK=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,210.48,210.48,,$439.13,0,,N,N
 CICS-DESK-C-FG-,Fabric Speaker Grille for Desk (Carbon),Fabric Speaker Grille for Desk (Carbon),CS-DESK-C-FG-,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
@@ -4624,7 +4625,7 @@ CICS-DESK-K9,Cisco Desk First Light (White),Cisco Desk First Light (White),CS-DE
 CICS-DESKMINI-C-K9,Cisco Desk Mini Carbon Black,Cisco Desk Mini Carbon Black,CS-DESKMINI-C-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,3388.18,3388.18,,$6918.33,0,,N,N
 CICS-DESKMINI-K9,Cisco Desk Mini First Light (White),Cisco Desk Mini First Light (White),CS-DESKMINI-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,3099.91,3099.91,,$6918.33,0,,N,N
 CICS-DESKPRO-FG-,Front Speaker Grille for Cisco Desk Pro ,Front Speaker Grille for Cisco Desk Pro  First Light (White),CS-DESKPRO-FG-,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
-CICS-DESKPRO-K9,Cisco Desk Pro,Cisco Desk Pro,CS-DESKPRO-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,6975.7,6975.7,,$22311.15,0,02-12-2025,N,N
+CICS-DESKPRO-K9,Cisco Desk Pro,Cisco Desk Pro,CS-DESKPRO-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,6975.7,6975.7,,$22311.15,0,,N,N
 CICS-DESKPRO-K9-RF,Cisco Desk Pro - unit REMANUFACTURED,Cisco Desk Pro - unit REMANUFACTURED,CS-DESKPRO-K9-RF,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,8684.15,0,,$13386.69,0,,Y,N
 CICS-DESKPRO-NR-K9,Cisco Desk Pro No-Radio,Cisco Desk Pro No-Radio,CS-DESKPRO-NR-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,15486.73,0,,$23872.93,0,,N,N
 CICS-DESKPRO-STAND-,Table Stand & Connector Cover for Desk P,Table Stand & Connector Cover for Desk Pro Series,CS-DESKPRO-STAND-,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
@@ -4667,7 +4668,7 @@ CICSF-NO-SUBS,No threat defense subscription,No threat defense subscription,CSF-
 CICS-KIT-EQ-4K-K9,Cisco Room Kit EQ PTZ4K Cam,Cisco Room Kit EQ PTZ4K Cam,CS-KIT-EQ-4K-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,18328.54,18328.54,,$41978.71,0,,Y,N
 CICS-KIT-EQ-4KNRK9--,Cisco Room Kit EQ No-Radio PTZ4K Cam Cus,Cisco Room Kit EQ No-Radio PTZ4K Cam Customized Model,CS-KIT-EQ-4KNRK9--,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,31124.28,0,,$47978.35,0,,Y,N
 CICS-KIT-EQ-4K-NRK9,Cisco Room Kit EQ No-Radio PTZ4K Cam,Cisco Room Kit EQ No-Radio PTZ4K Cam,CS-KIT-EQ-4K-NRK9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,27232.22,0,,$41978.71,0,,N,N
-CICS-KIT-EQ-C-K9,Cisco Room Kit EQ Quad Cam Carbon Black,Cisco Room Kit EQ Quad Cam Carbon Black,CS-KIT-EQ-C-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,20702.47,20702.47,,$47415.88,0,,N,N
+CICS-KIT-EQ-C-K9,Cisco Room Kit EQ Quad Cam Carbon Black,Cisco Room Kit EQ Quad Cam Carbon Black,CS-KIT-EQ-C-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,20702.47,20702.47,,$47415.88,-1,,N,N
 CICS-KIT-EQ-K9,Cisco Room Kit EQ Quad Cam First Light,Cisco Room Kit EQ Quad Cam First Light,CS-KIT-EQ-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,20702.47,20702.47,,$47415.88,0,,N,N
 CICS-KIT-EQX-C-K9,Cisco Room Kit EQX Carbon Black,Cisco Room Kit EQX Carbon Black,CS-KIT-EQX-C-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,46204.73,46204.73,,$103118.77,0,,Y,N
 CICS-KIT-EQX-WMK-C,Cisco Room Kit EQX Wall Mount Carbon Bla,Cisco Room Kit EQX Wall Mount Carbon Black,CS-KIT-EQX-WMK-C,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
@@ -4688,12 +4689,12 @@ CIC-SM-16P4M2X,Cisco Catalyst Edge SM 16-port 1G 4-port,Cisco Catalyst Edge SM 1
 CICS-MIC-ARRAY-T,Cisco Table Microphone Pro (w/11m cable),Cisco Table Microphone Pro (w/11m cable) First Light(White),CS-MIC-ARRAY-T,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,1887.42,1887.42,,$4192.80,0,,Y,N
 CICS-MIC-ARRAY-T=,Cisco Table Microphone Pro (w/11m cable),Cisco Table Microphone Pro (w/11m cable) First Light-SPARE,CS-MIC-ARRAY-T=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,1878.68,1878.68,,$4192.80,0,,N,N
 CICS-MIC-ARRAY-T-C=,Cisco Table Microphone Pro (w/11m cable),Cisco Table Microphone Pro (w/11m cable) Carbon Black-SPARE,CS-MIC-ARRAY-T-C=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,1813.16,1813.16,,$4192.80,0,,Y,N
-CICS-MIC-CLGP-CBK=,Ceiling Bracket Mounting Kit for Ceiling,Ceiling Bracket Mounting Kit for Ceiling Mic Pro - SPARE,CS-MIC-CLGP-CBK=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,227.87,227.87,,$506.22,0,,Y,N
+CICS-MIC-CLGP-CBK=,Ceiling Bracket Mounting Kit for Ceiling,Ceiling Bracket Mounting Kit for Ceiling Mic Pro - SPARE,CS-MIC-CLGP-CBK=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,227.87,227.87,,$506.22,-3,,Y,N
 CICS-MIC-CLGP-DMK,Drop Ceiling Grid Mounting Kit for Ceili,Drop Ceiling Grid Mounting Kit for Ceiling Microphone Pro,CS-MIC-CLGP-DMK,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,571.64,0,,$881.20,0,,Y,N
 CICS-MIC-CLGP-DMK=,Drop Ceiling Grid Mounting Kit Ceiling M,Drop Ceiling Grid Mounting Kit Ceiling Mic Pro - SPARE,CS-MIC-CLGP-DMK=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,396.66,396.66,,$881.20,0,,Y,N
 CICS-MIC-CLGPRO,Cisco Ceiling Microphone Pro Arctic Whit,Cisco Ceiling Microphone Pro Arctic White,CS-MIC-CLGPRO,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,5452.15,5452.15,,$12168.01,0,,Y,N
 CICS-MIC-CLGPRO=,Cisco Ceiling Microphone Pro Arctic Whit,Cisco Ceiling Microphone Pro Arctic White - SPARE,CS-MIC-CLGPRO=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,5477.5,5477.5,,$12168.01,0,,Y,N
-CICS-MIC-CLGPRO-C=,Cisco Ceiling Microphone Pro Carbon Blac,Cisco Ceiling Microphone Pro Carbon Black - SPARE,CS-MIC-CLGPRO-C=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,5477.5,5477.5,,$12168.01,0,,Y,N
+CICS-MIC-CLGPRO-C=,Cisco Ceiling Microphone Pro Carbon Blac,Cisco Ceiling Microphone Pro Carbon Black - SPARE,CS-MIC-CLGPRO-C=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,5477.5,5477.5,,$12168.01,-3,,Y,N
 CICS-MIC-CLGP-WHK,Wire Hanging Ceiling Mounting Kit for Ce,Wire Hanging Ceiling Mounting Kit for Ceiling Microphone Pro,CS-MIC-CLGP-WHK,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,267.58,0,,$412.48,0,,Y,N
 CICS-MIC-CLGP-WHK=,Wire Hanging Ceiling Mounting Kit Ceilin,Wire Hanging Ceiling Mounting Kit Ceiling Mic Pro -SPARE,CS-MIC-CLGP-WHK=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,185.69,185.69,,$412.48,0,,Y,N
 CICS-MIC-TABLE-E,Cisco Table Microphone with Euroblock pl,Cisco Table Microphone with Euroblock plug,CS-MIC-TABLE-E,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,647.74,647.74,,$1218.68,0,,N,N
@@ -4709,7 +4710,7 @@ CICS-PTZ4K-BRKT=,Bracket for wall mounting of PTZ 4K came,Bracket for wall mount
 CICS-PTZ4K-CLNGMNT,Bracket for ceiling mounting of PTZ 4K c,Bracket for ceiling mounting of PTZ 4K camera,CS-PTZ4K-CLNGMNT,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,546.11,0,,$841.83,0,,N,N
 CICS-PTZ4K-CLNGMNT=,Bracket for ceiling mounting of PTZ 4K c,Bracket for ceiling mounting of PTZ 4K camera (Spare),CS-PTZ4K-CLNGMNT=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,359.66,359.66,,$841.83,0,,N,N
 CICS-PWR-CUBE-7-,Power Supply for Desk Pro Series,Power Supply for Desk Pro Series,CS-PWR-CUBE-7-,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
-CICS-PWR-INJ-30W=,Power Injector 802.3at PoE+ 30W - SPARE,Power Injector 802.3at PoE+ 30W - SPARE,CS-PWR-INJ-30W=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,125.68,125.68,,$290.61,0,25-11-2025,Y,N
+CICS-PWR-INJ-30W=,Power Injector 802.3at PoE+ 30W - SPARE,Power Injector 802.3at PoE+ 30W - SPARE,CS-PWR-INJ-30W=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,125.68,125.68,,$290.61,0,,Y,N
 CICS-PWR-STRIP4-,Power strip 1x C14 Inlet 4x Outlet F,Power strip 1x C14 Inlet 4x Outlet F,CS-PWR-STRIP4-,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
 CICS-QCAM-CAB-COV=,Cable Cover for Quad Camera White  - SPA,Cable Cover for Quad Camera White  - SPARE,CS-QCAM-CAB-COV=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,394.52,394.52,,$880.49,1,,N,N
 CICS-QUADCAM2+,Cisco Quad Camera  First Light (White),Cisco Quad Camera  First Light (White),CS-QUADCAM2+,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
@@ -4730,7 +4731,7 @@ CICS-T10-TS-LX-,Cisco Room Navigator-Table Stand First L,Cisco Room Navigator-Ta
 CICS-T10-WM-BR=,Replacement Room Navigator WallMountBrac,Replacement Room Navigator WallMountBracketKit White -SPARE,CS-T10-WM-BR=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,115.39,115.39,,$240.73,0,,N,N
 CICS-T10-WM-C+,Cisco Room Navigator Wall Mount  Carbon ,Cisco Room Navigator Wall Mount  Carbon Black,CS-T10-WM-C+,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
 CICS-T10-WM-C-K9,Cisco Room Navigator Wall Mount Carbon B,Cisco Room Navigator Wall Mount Carbon Black,CS-T10-WM-C-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,2433.62,0,,$3751.46,0,,Y,N
-CICS-T10-WM-C-K9=,Cisco Room Navigator Wall Mount Carbon B,Cisco Room Navigator Wall Mount Carbon Black - SPARE,CS-T10-WM-C-K9=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,1563.7,1563.7,,$3751.46,0,,N,N
+CICS-T10-WM-C-K9=,Cisco Room Navigator Wall Mount Carbon B,Cisco Room Navigator Wall Mount Carbon Black - SPARE,CS-T10-WM-C-K9=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,1563.7,1563.7,,$3751.46,-9,,N,N
 CICS-T10-WM-G-,Cisco Room Navigator-Wall Mount version-,Cisco Room Navigator-Wall Mount version-First Light,CS-T10-WM-G-,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
 CICS-T10-WM-K9=,^Cisco Room Navigator - Wall mount versi,^Cisco Room Navigator - Wall mount version - Spare,CS-T10-WM-K9=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,1991.72,1991.72,,$3493.19,3,,N,N
 CICS-T10-WM-L-,Cisco Room Navigator Wall Mount First Li,Cisco Room Navigator Wall Mount First Light (White),CS-T10-WM-L-,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
@@ -4799,7 +4800,7 @@ CICW9172H-RTG,Cisco Wireless 9172H(W73 radio3 band 2x2,Cisco Wireless 9172H(W73 
 CICW9172H-SINGLE,SINGLE PACK OPTION,SINGLE PACK OPTION,CW9172H-SINGLE,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,0,0,,$0.00,0,,Y,N
 CICW9172I-CFG,Cisco Wireless 9172I(W73 radio3 band 2x2,Cisco Wireless 9172I(W73 radio3 band 2x2)Global,CW9172I-CFG,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,1037.32,1037.32,,$2427.98,0,,Y,N
 CICW9172I-RTG,Cisco Wireless 9172I(W73 radio3 band 2x2,Cisco Wireless 9172I(W73 radio3 band 2x2)Global,CW9172I-RTG,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,1037.32,1037.32,,$2427.98,0,,Y,N
-CICW9174I-CFG,Cisco Wireless 9174I (W7  3 radio  3 ban,Cisco Wireless 9174I (W7  3 radio  3 band  4x4) Global,CW9174I-CFG,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,1403.25,1403.25,,$3740.40,0,,Y,N
+CICW9174I-CFG,Cisco Wireless 9174I (W7  3 radio  3 ban,Cisco Wireless 9174I (W7  3 radio  3 band  4x4) Global,CW9174I-CFG,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,1403.25,1403.25,,$3740.40,-5,,Y,N
 CICW9174I-SINGLE,SINGLE PACK OPTION,SINGLE PACK OPTION,CW9174I-SINGLE,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,0,0,,$0.00,0,,Y,N
 CICW9176D1-CFG,Cisco Wireless 9176D1(W73 radio3 band 4x,Cisco Wireless 9176D1(W73 radio3 band 4x4UWB)Global,CW9176D1-CFG,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,2293.44,2293.44,,$5240.31,0,,Y,N
 CICW9176D1-RTG,Cisco Wireless 9176D1(W73 radio3 band 4x,Cisco Wireless 9176D1(W73 radio3 band 4x4UWB)Global,CW9176D1-RTG,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,2293.44,2293.44,,$5240.31,0,,Y,N
@@ -4961,7 +4962,7 @@ CIDNA-CAT-RENEW,DNA SUBSCRIPTION RENEW (Includes PI Supp,DNA SUBSCRIPTION RENEW 
 CIDNAC-ONPREM-PF,Cisco DNA Center On Prem Deployment Opti,Cisco DNA Center On Prem Deployment Option for WAN,DNAC-ONPREM-PF,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,0,0,,$0.00,0,,Y,N
 CIDNA-C-T0-5M-E-5Y,Cisco DNA Essentials Cloud Lic 5Y - upto,Cisco DNA Essentials Cloud Lic 5Y - upto 5M (Aggr 10M),DNA-C-T0-5M-E-5Y,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,1411.53,0,,$2175.88,0,,N,N
 CIDNA-C-T0-A-1R,Cisco DNA Advantage Cloud Lic 1Y - upto ,Cisco DNA Advantage Cloud Lic 1Y - upto 25M (Aggr 50M),DNA-C-T0-A-1R,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,1999.73,0,,$3082.57,0,,Y,N
-CIDNA-C-T0-A-3Y,Cisco DNA Advantage Cloud Lic 3Y - upto ,Cisco DNA Advantage Cloud Lic 3Y - upto 25M (Aggr 50M),DNA-C-T0-A-3Y,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,3404.41,3404.41,,$6164.71,0,,N,N
+CIDNA-C-T0-A-3Y,Cisco DNA Advantage Cloud Lic 3Y - upto ,Cisco DNA Advantage Cloud Lic 3Y - upto 25M (Aggr  50M),DNA-C-T0-A-3Y,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,2247.54,2247.54,,$6164.71,0,,N,N
 CIDNA-C-T0-A-5Y,Cisco DNA Advantage Cloud Lic 5Y - upto ,Cisco DNA Advantage Cloud Lic 5Y - upto 25M (Aggr 50M),DNA-C-T0-A-5Y,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,5607.33,5607.33,,$10153.76,0,,Y,N
 CIDNA-C-T0-E-3Y,Cisco DNA Essentials Cloud Lic 3Y - upto,Cisco DNA Essentials Cloud Lic 3Y - upto 25M (Aggr 50M),DNA-C-T0-E-3Y,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,1587.98,0,,$2447.87,0,,Y,N
 CIDNA-C-T0-E-5Y,Cisco DNA Essentials Cloud Lic 5Y - upto,Cisco DNA Essentials Cloud Lic 5Y - upto 25M (Aggr 50M),DNA-C-T0-E-5Y,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,2705.19,0,,$4170.08,0,,Y,N
@@ -5086,9 +5087,9 @@ CIDN-SW-APL-LIC,Cisco DNAC Virtual Appliance License,Cisco DNAC Virtual Applianc
 CIDOC-P60CAM-BRKT,Installation sheet for Precision 60 Came,Installation sheet for Precision 60 Camera bracket,DOC-P60CAM-BRKT,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
 CIDP04QSDD-HE0,QSFP-DD 400G-ZR+ High TX Power DCO Plugg,QSFP-DD 400G-ZR+ High TX Power DCO Pluggable - C-Band,DP04QSDD-HE0,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,43663.99,0,,$67308.43,0,,Y,N
 CIDP-9800-KEM=,Cisco Desk Phone 9800 Key Expansion Modu,Cisco Desk Phone 9800 Key Expansion Module Carbon Black,DP-9800-KEM=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,383.63,383.63,,$1115.56,-28,,Y,N
-CIDP-9841-K9=,Cisco Desk Phone 9841 Carbon Black,Cisco Desk Phone 9841 Carbon Black,DP-9841-K9=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,254.71,254.71,,$740.58,-134,,Y,N
-CIDP-9851-K9=,Cisco Desk Phone 9851 Carbon Black,Cisco Desk Phone 9851 Carbon Black,DP-9851-K9=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,319.18,319.18,,$928.07,-160,,Y,N
-CIDP-9861-K9=,Cisco Desk Phone 9861 Carbon Black,Cisco Desk Phone 9861 Carbon Black,DP-9861-K9=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,435.21,435.21,,$1265.55,-33,19-11-2025,N,N
+CIDP-9841-K9=,Cisco Desk Phone 9841 Carbon Black,Cisco Desk Phone 9841 Carbon Black,DP-9841-K9=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,254.71,254.71,,$740.58,-134,19-01-2026,Y,N
+CIDP-9851-K9=,Cisco Desk Phone 9851 Carbon Black,Cisco Desk Phone 9851 Carbon Black,DP-9851-K9=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,319.18,319.18,,$928.07,-160,19-01-2026,Y,N
+CIDP-9861-K9=,Cisco Desk Phone 9861 Carbon Black,Cisco Desk Phone 9861 Carbon Black,DP-9861-K9=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,435.21,435.21,,$1265.55,-32,19-11-2025,N,N
 CIDP-9871-K9=,Cisco Desk Phone 9871 Carbon Black,Cisco Desk Phone 9871 Carbon Black,DP-9871-K9=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,551.28,551.28,,$1603.03,-10,,Y,N
 CIDS-32S-BLANK,Filler card for Blank Expansion Module S,Filler card for Blank Expansion Module Slot,DS-32S-BLANK,CISCO SYSTEMS LTD,,CI - DATA CENTER NETWORKING,,,,0,0,0,0,,$0.00,0,,Y,N
 CIDS-32S-FAN-BLANK,Filler card for Blank FAN Slot,Filler card for Blank FAN Slot,DS-32S-FAN-BLANK,CISCO SYSTEMS LTD,,CI - DATA CENTER NETWORKING,,,,0,0,0,0,,$0.00,0,,Y,N
@@ -5544,8 +5545,8 @@ CIGLC-BX-D,1000BASE-BX SFP 1490NM,1000BASE-BX SFP 1490NM,GLC-BX-D,CISCO SYSTEMS 
 CIGLC-BX-D=,1000BASE-BX SFP 1490NM,1000BASE-BX SFP 1490NM,GLC-BX-D=,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,1165.89,1165.89,,$2868.76,0,,N,N
 CIGLC-BX-D-I=,1000BASE-BX SFP 1490NM Industrial Temper,1000BASE-BX SFP 1490NM Industrial Temperature,GLC-BX-D-I=,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,1614.13,1614.13,,$2868.76,0,,N,N
 CIGLC-BX-U,1000BASE-BX SFP 1310NM,1000BASE-BX SFP 1310NM,GLC-BX-U,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,1165.89,1165.89,,$2868.76,0,,N,N
-CIGLC-BX-U=,1000BASE-BX SFP 1310NM,1000BASE-BX SFP 1310NM,GLC-BX-U=,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,1165.89,1165.89,,$2868.76,-50,19-01-2026,N,N
-CIGLC-BX-U-I=,1000BASE-BX SFP 1310NM Industrial Temper,1000BASE-BX SFP 1310NM Industrial Temperature,GLC-BX-U-I=,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,1345.17,1345.17,,$2868.76,-5,19-01-2026,N,N
+CIGLC-BX-U=,1000BASE-BX SFP 1310NM,1000BASE-BX SFP 1310NM,GLC-BX-U=,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,1165.89,1165.89,,$2868.76,0,19-01-2026,N,N
+CIGLC-BX-U-I=,1000BASE-BX SFP 1310NM Industrial Temper,1000BASE-BX SFP 1310NM Industrial Temperature,GLC-BX-U-I=,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,1345.17,1345.17,,$2868.76,0,19-01-2026,N,N
 CIGLC-EX-SMD,1000BASE-EX SFP transceiver module SMF 1,1000BASE-EX SFP transceiver module SMF 1310nm DOM,GLC-EX-SMD,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,1789.17,1789.17,,$4402.47,0,,Y,N
 CIGLC-EX-SMD=,1000BASE-EX SFP transceiver module SMF 1,1000BASE-EX SFP transceiver module SMF 1310nm DOM,GLC-EX-SMD=,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,2018.48,2018.48,,$4402.47,1,07-10-2024,N,N
 CIGLC-FE-100BX-D,100BASE-BX10-D SFP,100BASE-BX10-D SFP,GLC-FE-100BX-D,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,403.57,403.57,,$993.06,0,,Y,N
@@ -5581,7 +5582,7 @@ CIGLC-SX-MMD=,1000BASE-SX SFP transceiver module MMF 8,1000BASE-SX SFP transceiv
 CIGLC-SX-MM-RGD,1000Mbps Multi-Mode Rugged SFP,1000Mbps Multi-Mode Rugged SFP,GLC-SX-MM-RGD,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,493.25,493.25,,$1213.71,0,,N,N
 CIGLC-SX-MM-RGD=,1000Mbps Multi-Mode Rugged SFP,1000Mbps Multi-Mode Rugged SFP,GLC-SX-MM-RGD=,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,493.25,493.25,,$1213.71,0,,N,N
 CIGLC-TE,1000BASE-T SFP transceiver module for Ca,1000BASE-T SFP transceiver module for Category 5 copper wire,GLC-TE,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,475.99,475.99,,$993.04,0,,N,N
-CIGLC-TE=,1000BASE-T SFP transceiver module for Ca,1000BASE-T SFP transceiver module for Category 5 copper wire,GLC-TE=,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,393.22,393.22,,$993.04,-24,,N,N
+CIGLC-TE=,1000BASE-T SFP transceiver module for Ca,1000BASE-T SFP transceiver module for Category 5 copper wire,GLC-TE=,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,393.22,393.22,,$993.04,-4,,N,N
 CIGLC-T-RGD,1000Base-T SFP Industrial Temp,1000Base-T SFP Industrial Temp,GLC-T-RGD,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,463.3,463.3,,$871.68,0,,N,N
 CIGLC-T-RGD=,1000Base-T SFP Industrial Temp,1000Base-T SFP Industrial Temp,GLC-T-RGD=,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,463.3,463.3,,$871.68,0,,N,N
 CIGLC-ZX-SMD,1000BASE-ZX SFP transceiver module SMF 1,1000BASE-ZX SFP transceiver module SMF 1550nm DOM,GLC-ZX-SMD,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,3582.86,3582.86,,$8815.94,0,,Y,N
@@ -5719,6 +5720,8 @@ CIIE-3100-8P2C-E,IE3100 w/8GE PoE+ 2GE ComboFixed sysNetw,IE3100 w/8GE PoE+ 2GE 
 CIIE-3100-8T2C-E,IE3100 w/8GE Copper 2GE ComboFixed sysNe,IE3100 w/8GE Copper 2GE ComboFixed sysNetwork Essentials,IE-3100-8T2C-E,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,2208.58,2208.58,,$4929.08,0,,N,N
 CIIE-3100-8T4S-E,IE3100 w/8GE Copper 4GE SFPFixed sysNetw,IE3100 w/8GE Copper 4GE SFPFixed sysNetwork Essentials,IE-3100-8T4S-E,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,4286.13,0,,$6607.11,0,,Y,N
 CIIE3100-DNA-E-L,IE 3100 DNA Essentials (upto 12 ports),IE 3100 DNA Essentials (upto 12 ports),IE3100-DNA-E-L,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,0,0,,$0.00,0,,Y,N
+CIIE3100-DNA-E-L=,Cisco DNA Essentials license for IE3100 ,Cisco DNA Essentials license for IE3100 (<12 ports),IE3100-DNA-E-L=,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,0,0,,$0.00,0,,Y,N
+CIIE3100-DNA-E-L-1Y,IE 3100 DNA Essentials  1 Year Term lice,IE 3100 DNA Essentials  1 Year Term license,IE3100-DNA-E-L-1Y,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,161.85,0,,$253.96,0,,Y,N
 CIIE3100-DNA-E-L-3Y,IE 3100 DNA Essentials (12 ports) 3 Year,IE 3100 DNA Essentials (12 ports) 3 Year Term license,IE3100-DNA-E-L-3Y,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,304.59,0,,$469.52,0,,Y,N
 CIIE3100-DNA-E-L-5Y,IE 3100 DNA Essentials (12 ports) 5 Year,IE 3100 DNA Essentials (12 ports) 5 Year Term license,IE3100-DNA-E-L-5Y,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,508.11,0,,$783.25,0,,Y,N
 CIIE3100-DNA-E-M,IE 3100 DNA Essentials (>12 ports),IE 3100 DNA Essentials (>12 ports),IE3100-DNA-E-M,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,0,0,,$0.00,0,,Y,N
@@ -5728,6 +5731,7 @@ CIIE-3200-8P2S-E,Catalyst IE3200 with 8 GE PoE+ & 2 GE SF,Catalyst IE3200 with 8
 CIIE-3200-8T2S-E,Catalyst IE3200 w/ 8 GE Copper & 2 GE SF,Catalyst IE3200 w/ 8 GE Copper & 2 GE SFP Fixed System NE,IE-3200-8T2S-E,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,3981.12,0,,$6136.95,8,,N,N
 CIIE3200-DNA-E,Cisco DNA Essentials license for IE3200 ,Cisco DNA Essentials license for IE3200 Series,IE3200-DNA-E,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,0,0,,$0.00,0,,Y,N
 CIIE3200-DNA-E=,Cisco DNA Essentials license for IE3200 ,Cisco DNA Essentials license for IE3200 Series,IE3200-DNA-E=,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,0,0,,$0.00,0,,Y,N
+CIIE3200-DNA-E-1Y,IE 3200 DNA Essentials  1 Year Term lice,IE 3200 DNA Essentials  1 Year Term license,IE3200-DNA-E-1Y,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,161.85,0,,$253.96,0,,Y,N
 CIIE3200-DNA-E-3Y,IE 3200 DNA Essentials 3 Year Term licen,IE 3200 DNA Essentials 3 Year Term license,IE3200-DNA-E-3Y,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,304.59,0,,$469.52,0,,Y,N
 CIIE3200-DNA-E-5Y,IE 3200 DNA Essentials 5 Year Term licen,IE 3200 DNA Essentials 5 Year Term license,IE3200-DNA-E-5Y,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,508.11,0,,$783.25,0,,Y,N
 CIIE-3300-8P2S-A,Catalyst IE3300 with 8 GE PoE/PoE+ and 2,Catalyst IE3300 with 8 GE PoE/PoE+ and 2 GE SFP Modular NA,IE-3300-8P2S-A,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,14336.94,0,,$22100.53,0,,N,N
@@ -5899,7 +5903,7 @@ CIISR1100-6G-DNA-PF,ISR1100 6G Series Platform Selection for,ISR1100 6G Series P
 CIISR1100-6G-PF,ISR1100-6G Platform Selection for DNA,ISR1100-6G Platform Selection for DNA,ISR1100-6G-PF,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,0,0,,$0.00,0,,Y,N
 CIISR-1100-POE2,ISR 1100 2 Ports 802.3at POE+,ISR 1100 2 Ports 802.3at POE+,ISR-1100-POE2,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,317.33,317.33,,$662.03,0,,N,N
 CIISR-1100-POE2=,ISR 1100 2 Ports 802.3at POE+,ISR 1100 2 Ports 802.3at POE+,ISR-1100-POE2=,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,343.75,343.75,,$717.21,0,,N,N
-CIISR-1100-POE4,ISR 1100 4 Ports 802.3at POE Module (4 P,ISR 1100 4 Ports 802.3at POE Module (4 POE or 2 POE+),ISR-1100-POE4,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,370.21,370.21,,$772.37,0,,N,N
+CIISR-1100-POE4,ISR 1100 4 Ports 802.3at POE Module (4 P,ISR 1100 4 Ports 802.3at POE Module (4 POE or 2 POE+),ISR-1100-POE4,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,241.36,241.36,,$772.37,0,,N,N
 CIISR-1100-POE4=,ISR 1100 4 Ports 802.3at POE Module (4 P,ISR 1100 4 Ports 802.3at POE Module (4 POE or 2 POE+),ISR-1100-POE4=,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,396.66,396.66,,$827.54,76,,N,N
 CIISR1100X-4G,ISR1100 Series Router 4 Eth LAN/WAN Port,ISR1100 Series Router 4 Eth LAN/WAN Ports 8GB RAM,ISR1100X-4G,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,1433.38,1433.38,,$2990.44,0,,Y,N
 CIISR1100X-6G,ISR1100 Router 4 GE LAN/WAN Ports and 2 ,ISR1100 Router 4 GE LAN/WAN Ports and 2 SFP ports 8GB RAM,ISR1100X-6G,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,4129.39,4129.39,,$8615.10,0,,Y,N
@@ -6662,7 +6666,7 @@ CIMEM-4460-16G,16G DRAM (1 DIMM) for Cisco ISR 4461,16G DRAM (1 DIMM) for Cisco 
 CIMEM-4460-8G,8G DRAM (1 DIMM) for Cisco ISR 4460,8G DRAM (1 DIMM) for Cisco ISR 4460,MEM-4460-8G,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,0,0,,$0.00,0,,Y,N
 CIMEM-4460-DP-4G,4G DRAM for Cisco ISR 4460 Data Plane,4G DRAM for Cisco ISR 4460 Data Plane,MEM-4460-DP-4G,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,0,0,,$0.00,0,,Y,N
 CIMEM8XX-512U1GBD=,DRAM Upgrade 512 MB to 1GB,DRAM Upgrade 512 MB to 1GB,MEM8XX-512U1GBD=,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,404.66,404.66,,$761.34,0,,Y,N
-CIMEM-C8200-16GB,Cisco Catalyst 8200 Edge 16GB memory,Cisco Catalyst 8200 Edge 16GB memory,MEM-C8200-16GB,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,1765.95,1765.95,,$3530.79,-2,,N,N
+CIMEM-C8200-16GB,Cisco Catalyst 8200 Edge 16GB memory,Cisco Catalyst 8200 Edge 16GB memory,MEM-C8200-16GB,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,1765.95,1765.95,,$3530.79,-2,19-01-2026,N,N
 CIMEM-C8200-32GB,Cisco Catalyst 8200 Edge 32GB memory,Cisco Catalyst 8200 Edge 32GB memory,MEM-C8200-32GB,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,5726.18,0,,$8826.96,0,,Y,N
 CIMEM-C8200-4GB,Cisco Catalyst 8200 Edge 4GB memory,Cisco Catalyst 8200 Edge 4GB memory,MEM-C8200-4GB,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,0,0,,$0.00,0,,Y,N
 CIMEM-C8200-8GB,Cisco Catalyst 8200 Edge 8GB memory,Cisco Catalyst 8200 Edge 8GB memory,MEM-C8200-8GB,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,0,0,,$0.00,0,,Y,N
@@ -6762,7 +6766,7 @@ CIN520-CBL-BRKT=,NCS 520 Cable Bracket,NCS 520 Cable Bracket,N520-CBL-BRKT=,CISC
 CIN520-RCKMT-19-D2A=,NCS 520 19 inch  Rackmount for 8 Port AC,NCS 520 19 inch  Rackmount for 8 Port AC,N520-RCKMT-19-D2A=,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,143.16,0,,$220.67,18,,N,N
 CIN520-S-I,Cisco NCS 520 Series IP Access License,Cisco NCS 520 Series IP Access License,N520-S-I,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,4153.44,0,,$6402.54,0,,Y,N
 CIN520-S-M,Cisco NCS 520 Series Metro Access Licens,Cisco NCS 520 Series Metro Access License,N520-S-M,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,1384.48,0,,$2134.18,0,,N,N
-CIN520-S-M2I=,Cisco NCS 520 Series Metro Access to IP ,Cisco NCS 520 Series Metro Access to IP Access Upgrade Lic,N520-S-M2I=,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,2768.96,0,,$4268.36,-10,,Y,N
+CIN520-S-M2I=,Cisco NCS 520 Series Metro Access to IP ,Cisco NCS 520 Series Metro Access to IP Access Upgrade Lic,N520-S-M2I=,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,2768.96,0,,$4268.36,0,,Y,N
 CIN540-12Z20G-TRK,NCS 540 Denali Base HW tracking,NCS 540 Denali Base HW tracking,N540-12Z20G-TRK,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,0,0,,$0.00,0,,Y,N
 CIN540-24Q2C2DD-SYS,NCS540-2x400G QSFP-DD+2x100G+24x25G,NCS540-2x400G QSFP-DD+2x100G+24x25G,N540-24Q2C2DD-SYS,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,60813.36,0,,$93744.33,0,,Y,N
 CIN540-24Q8L2DD-FAN1,Fan Tracking PID for N540-24Q8L2DD-SYS,Fan Tracking PID for N540-24Q8L2DD-SYS,N540-24Q8L2DD-FAN1,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,0,0,,$0.00,0,,Y,N
@@ -7033,6 +7037,7 @@ CIND-M2-240G-D,ND 240GB M.2 SATA Micron G2 SSD,ND 240GB M.2 SATA Micron G2 SSD,N
 CIND-M2-HWRAID-D,ND Cisco Boot optimized M.2 Raid control,ND Cisco Boot optimized M.2 Raid controller,ND-M2-HWRAID-D,CISCO SYSTEMS LTD,,CI - DATA CENTER NETWORKING,,,,0,0,255.96,0,,$394.58,0,,Y,N
 CIND-MRX32G1RE3,ND 32GB DDR5-5600 RDIMM 1Rx4 (16Gb),ND 32GB DDR5-5600 RDIMM 1Rx4 (16Gb),ND-MRX32G1RE3,CISCO SYSTEMS LTD,,CI - DATA CENTER NETWORKING,,,,0,0,2776.74,0,,$4280.36,0,,Y,N
 CIND-NODE-G5S,Nexus Dashboard Node,Nexus Dashboard Node,ND-NODE-G5S,CISCO SYSTEMS LTD,,CI - DATA CENTER NETWORKING,,,,0,0,117977.95,0,,$181864.01,0,,Y,N
+CIND-NODE-G5S-PROMO,Nexus Dashboard Node Promotion - Approva,Nexus Dashboard Node Promotion - Approval Required,ND-NODE-G5S-PROMO,CISCO SYSTEMS LTD,,CI - DATA CENTER NETWORKING,,,,0,0,0,0,,$0.00,0,,Y,N
 CIND-NODE-L4,Nexus Dashboard Node,Nexus Dashboard Node,ND-NODE-L4,CISCO SYSTEMS LTD,,CI - DATA CENTER NETWORKING,,,,0,0,72976.05,0,,$112493.20,0,,Y,N
 CIND-NODE-L4=,Nexus Dashboard Node Spare,Nexus Dashboard Node Spare,ND-NODE-L4=,CISCO SYSTEMS LTD,,CI - DATA CENTER NETWORKING,,,,0,0,72976.05,0,,$112493.20,0,,Y,N
 CIND-OCP3-KIT-D,C2XX OCP 3.0 Interposer W/Mech Assy,C2XX OCP 3.0 Interposer W/Mech Assy,ND-OCP3-KIT-D,CISCO SYSTEMS LTD,,CI - DATA CENTER NETWORKING,,,,0,0,88.2,0,,$135.94,0,,Y,N
@@ -7163,7 +7168,7 @@ CINXA-FAN-160CFM-PI,Nexus Fan 160CFM port side intake airflo,Nexus Fan 160CFM po
 CINXA-FAN-30CFM-B,Nexus Fan 30CFM port side intake airflow,Nexus Fan 30CFM port side intake airflow,NXA-FAN-30CFM-B,CISCO SYSTEMS LTD,,CI - DATA CENTER NETWORKING,,,,0,0,0,0,,$0.00,0,,Y,N
 CINXA-FAN-30CFM-B=,Nexus Fan 30CFM port side intake airflow,Nexus Fan 30CFM port side intake airflow Spare,NXA-FAN-30CFM-B=,CISCO SYSTEMS LTD,,CI - DATA CENTER NETWORKING,,,,0,0,195.21,0,,$300.92,0,,N,N
 CINXA-FAN-30CFM-F,Nexus Fan 30CFM port side exhaust airflo,Nexus Fan 30CFM port side exhaust airflow,NXA-FAN-30CFM-F,CISCO SYSTEMS LTD,,CI - DATA CENTER NETWORKING,,,,0,0,0,0,,$0.00,0,,Y,N
-CINXA-FAN-30CFM-F=,Nexus Fan 30CFM port side exhaust airflo,Nexus Fan 30CFM port side exhaust airflow Spare,NXA-FAN-30CFM-F=,CISCO SYSTEMS LTD,,CI - DATA CENTER NETWORKING,,,,0,0,216.7,0,,$334.03,0,17-12-2025,N,N
+CINXA-FAN-30CFM-F=,Nexus Fan 30CFM port side exhaust airflo,Nexus Fan 30CFM port side exhaust airflow Spare,NXA-FAN-30CFM-F=,CISCO SYSTEMS LTD,,CI - DATA CENTER NETWORKING,,,,0,0,216.7,0,,$334.03,0,,N,N
 CINXA-FAN-35CFM-PE,Nexus Fan 35CFM port side exhaust airflo,Nexus Fan 35CFM port side exhaust airflow,NXA-FAN-35CFM-PE,CISCO SYSTEMS LTD,,CI - DATA CENTER NETWORKING,,,,0,0,0,0,,$0.00,0,,Y,N
 CINXA-FAN-35CFM-PE=,Nexus Fan 35CFM port side exhaust airflo,Nexus Fan 35CFM port side exhaust airflow Spare,NXA-FAN-35CFM-PE=,CISCO SYSTEMS LTD,,CI - DATA CENTER NETWORKING,,,,0,0,288.92,0,,$445.37,0,,N,N
 CINXA-FAN-35CFM-PI,Nexus Fan  35CFM  port side intake airfl,Nexus Fan  35CFM  port side intake airflow,NXA-FAN-35CFM-PI,CISCO SYSTEMS LTD,,CI - DATA CENTER NETWORKING,,,,0,0,0,0,,$0.00,0,,Y,N
@@ -7325,7 +7330,7 @@ CIOPTOUT-USE-UCSM,Customer using alternate systems mgt. to,Customer using altern
 CIORDERING-UC,Order a Flex subscription for CUBE CME o,Order a Flex subscription for CUBE CME or SRST licenses,ORDERING-UC,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
 CIP-5GS6-GL,5G Sub-6 pluggable interface module (PIM,5G Sub-6 pluggable interface module (PIM),P-5GS6-GL,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,2421.92,2421.92,,$5052.82,0,,Y,N
 CIP-5GS6-GL=,5G Sub-6 pluggable interface module (PIM,5G Sub-6 pluggable interface module (PIM),P-5GS6-GL=,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,2421.92,2421.92,,$5052.82,-1,,N,N
-CIP-5GS6-R16SA-GL,5G Sub-6 Standalone (SA) pluggable inter,5G Sub-6 Standalone (SA) pluggable interface module (PIM),P-5GS6-R16SA-GL,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,2833.91,0,,$4368.49,0,,N,N
+CIP-5GS6-R16SA-GL,5G Sub-6 Standalone (SA) pluggable inter,5G Sub-6 Standalone (SA) pluggable interface module (PIM),P-5GS6-R16SA-GL,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,2784.32,0,,$4368.49,0,,N,N
 CIP-5GS6-R16SA-GL=,5G Sub-6 Standalone (SA) pluggable inter,5G Sub-6 Standalone (SA) pluggable interface module (PIM),P-5GS6-R16SA-GL=,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,2833.91,0,,$4368.49,0,,N,N
 CIP-BLANK,Blank Pluggable,Blank Pluggable,P-BLANK,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,0,0,,$0.00,0,,Y,N
 CIPI-DNAC1-TRK-1Y,DNA4C1 PI LFAS Tracker SKU 0-12M,DNA4C1 PI LFAS Tracker SKU 0-12M,PI-DNAC1-TRK-1Y,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,0,0,,$0.00,0,,Y,N
@@ -7334,7 +7339,7 @@ CIPI-DNAC1-TRK-5Y,DNA4C1 PI LFAS Tracker SKU 5Y,DNA4C1 PI LFAS Tracker SKU 5Y,PI
 CIPI-LFAS-AP-T,Prime AP Term Licenses,Prime AP Term Licenses,PI-LFAS-AP-T,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,0,0,,$0.00,0,,Y,N
 CIPI-LFAS-T,Prime Infrastructure Lifecycle & Assuran,Prime Infrastructure Lifecycle & Assurance Term - Smart Lic,PI-LFAS-T,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,0,0,,$0.00,0,,Y,N
 CIP-LTEA7-EAL,CAT7 LTE Advanced PIM for EMEA APAC LATA,CAT7 LTE Advanced PIM for EMEA APAC LATAM,P-LTEA7-EAL,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,1277.08,0,,$1968.63,-21,19-01-2026,Y,N
-CIP-LTEA7-EAL=,CAT7 LTE Advanced PIM for EMEA APAC LatA,CAT7 LTE Advanced PIM for EMEA APAC LatAm,P-LTEA7-EAL=,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,1277.08,0,,$1968.63,0,10-12-2025,N,N
+CIP-LTEA7-EAL=,CAT7 LTE Advanced PIM for EMEA APAC LatA,CAT7 LTE Advanced PIM for EMEA APAC LatAm,P-LTEA7-EAL=,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,1277.08,0,,$1968.63,0,,N,N
 CIP-LTEA-LA,CAT6 LTE Advanced Pluggable for APAC LAT,CAT6 LTE Advanced Pluggable for APAC LATAM and ANZ,P-LTEA-LA,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,959.66,959.66,,$1805.51,0,,N,N
 CIP-LTEAP18-GL,CAT18 LTE Advanced PRO Pluggable for ALL,CAT18 LTE Advanced PRO Pluggable for ALL Global Regions,P-LTEAP18-GL,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,1842.65,0,,$2840.45,0,,Y,N
 CIP-LTE-IN,CAT4 LTE Pluggable India & China,CAT4 LTE Pluggable India & China,P-LTE-IN,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,891.89,891.89,,$1678.02,0,,Y,N
@@ -7416,7 +7421,7 @@ CIPWR-ADPT-DC=,Power Adaptor Spare for Compact Switch D,Power Adaptor Spare for 
 CIPWR-ADPT-RF,Power Adaptor  for Compact Switch REMANU,Power Adaptor  for Compact Switch REMANUFACTURED,PWR-ADPT-RF,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,90.01,0,,$138.75,0,,Y,N
 CIPWRADPT-WM-18-AU,Power adaptor 18W for C1200 and C1300 sw,Power adaptor 18W for C1200 and C1300 switches (ANZ),PWRADPT-WM-18-AU,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,0,0,,$0.00,0,,Y,N
 CIPWR-C1-1100WAC-P,1100W AC 80+ platinum Config 1 Power Sup,1100W AC 80+ platinum Config 1 Power Supply,PWR-C1-1100WAC-P,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,0,0,,$0.00,0,,Y,N
-CIPWR-C1-1100WAC-P/2,1100W AC 80+ platinum Config 1 Secondary,1100W AC 80+ platinum Config 1 Secondary Power Supply,PWR-C1-1100WAC-P/2,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,1616.63,1616.63,,$4192.80,-2,18-12-2025,N,N
+CIPWR-C1-1100WAC-P/2,1100W AC 80+ platinum Config 1 Secondary,1100W AC 80+ platinum Config 1 Secondary Power Supply,PWR-C1-1100WAC-P/2,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,1616.63,1616.63,,$4192.80,-2,,N,N
 CIPWR-C1-1100WAC-P=,1100W AC 80+ platinum Config 1 Power Sup,1100W AC 80+ platinum Config 1 Power Supply Spare,PWR-C1-1100WAC-P=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,1616.63,1616.63,,$4192.80,0,,N,N
 CIPWR-C1-1100WACP-RF,1100W AC 80+ platinum Config 1 Power Sup,1100W AC 80+ platinum Config 1 Power Supply REMANUFACTURED,PWR-C1-1100WACP-RF,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,1632.24,0,,$2516.10,0,,Y,N
 CIPWR-C1-1100WAC-UP,Upgrade option 1100W AC 80+ platinum Con,Upgrade option 1100W AC 80+ platinum Config 1 Power Supply,PWR-C1-1100WAC-UP,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,1110.63,1110.63,,$2317.08,0,,N,N
@@ -7427,7 +7432,7 @@ CIPWR-C1-350WAC-P,350W AC 80+ platinum Config 1 Power Supp,350W AC 80+ platinum 
 CIPWR-C1-350WAC-P/2,350W AC 80+ platinum Config 1 Secondary ,350W AC 80+ platinum Config 1 Secondary Power Supply,PWR-C1-350WAC-P/2,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,612.82,612.82,,$1434.38,0,,N,N
 CIPWR-C1-350WAC-P=,350W AC 80+ platinum Config 1 Power Supp,350W AC 80+ platinum Config 1 Power Supply Spare,PWR-C1-350WAC-P=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,672.6,672.6,,$1434.38,4,09-09-2024,N,N
 CIPWR-C1-715WAC-P,715W AC 80+ platinum Config 1 Power Supp,715W AC 80+ platinum Config 1 Power Supply,PWR-C1-715WAC-P,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,0,0,,$0.00,0,,Y,N
-CIPWR-C1-715WAC-P/2,715W AC 80+ platinum Config 1 SecondaryP,715W AC 80+ platinum Config 1 SecondaryPower Supply,PWR-C1-715WAC-P/2,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,1207.23,1207.23,,$2758.42,0,,N,N
+CIPWR-C1-715WAC-P/2,715W AC 80+ platinum Config 1 SecondaryP,715W AC 80+ platinum Config 1 SecondaryPower Supply,PWR-C1-715WAC-P/2,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,1207.23,1207.23,,$2758.42,-6,,N,N
 CIPWR-C1-715WAC-P=,715W AC 80+ platinum Config 1 Power Supp,715W AC 80+ platinum Config 1 Power Supply Spare,PWR-C1-715WAC-P=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,1034.83,1034.83,,$2758.42,-26,,N,N
 CIPWR-C1-715WAC-UP,Upgrade to 715W AC 80+ platinum Config 1,Upgrade to 715W AC 80+ platinum Config 1 Power Supply,PWR-C1-715WAC-UP,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,744.97,744.97,,$1324.04,0,,Y,N
 CIPWR-C1-715WDC,715W DC  Power Supply,715W DC  Power Supply,PWR-C1-715WDC,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,1862.47,1862.47,,$3310.12,0,,N,N
@@ -7560,12 +7565,12 @@ CIQSFP-100G-AOC25M,100GBASE QSFP Active Optical Cable 25m,100GBASE QSFP Active O
 CIQSFP-100G-AOC2M=,100GBASE QSFP Active Optical Cable 2m,100GBASE QSFP Active Optical Cable 2m,QSFP-100G-AOC2M=,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,2855.94,0,,$4402.47,0,,N,N
 CIQSFP-100G-AOC30M,100GBASE QSFP Active Optical Cable 30m,100GBASE QSFP Active Optical Cable 30m,QSFP-100G-AOC30M,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,3428.56,0,,$5285.15,0,,Y,N
 CIQSFP-100G-AOC3M,100GBASE QSFP Active Optical Cable 3m,100GBASE QSFP Active Optical Cable 3m,QSFP-100G-AOC3M,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,2855.94,0,,$4402.47,0,,N,N
-CIQSFP-100G-AOC3M=,100GBASE QSFP Active Optical Cable 3m,100GBASE QSFP Active Optical Cable 3m,QSFP-100G-AOC3M=,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,2855.94,0,,$4402.47,-4,19-01-2026,N,N
+CIQSFP-100G-AOC3M=,100GBASE QSFP Active Optical Cable 3m,100GBASE QSFP Active Optical Cable 3m,QSFP-100G-AOC3M=,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,2855.94,0,,$4402.47,0,19-01-2026,N,N
 CIQSFP-100G-AOC5M=,100GBASE QSFP Active Optical Cable 5m,100GBASE QSFP Active Optical Cable 5m,QSFP-100G-AOC5M=,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,3142.27,0,,$4843.81,0,,N,N
 CIQSFP-100G-AOC5M-RF,100GBASE QSFP Active Optical Cable 5m RE,100GBASE QSFP Active Optical Cable 5m REMANUFACTURED,QSFP-100G-AOC5M-RF,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,1885.2,0,,$2906.07,0,,Y,N
 CIQSFP-100G-AOC7M=,100GBASE QSFP Active Optical Cable 7m,100GBASE QSFP Active Optical Cable 7m,QSFP-100G-AOC7M=,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,3142.27,0,,$4843.81,0,,Y,N
 CIQSFP-100G-CU1M,100GBASE-CR4 Passive Copper Cable 1m,100GBASE-CR4 Passive Copper Cable 1m,QSFP-100G-CU1M,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,465.26,0,,$717.21,0,,Y,N
-CIQSFP-100G-CU1M=,100GBASE-CR4 Passive Copper Cable 1m,100GBASE-CR4 Passive Copper Cable 1m,QSFP-100G-CU1M=,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,465.26,0,,$717.21,0,08-12-2025,N,N
+CIQSFP-100G-CU1M=,100GBASE-CR4 Passive Copper Cable 1m,100GBASE-CR4 Passive Copper Cable 1m,QSFP-100G-CU1M=,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,465.26,0,,$717.21,0,,N,N
 CIQSFP-100G-CU2M,100GBASE-CR4 Passive Copper Cable 2m,100GBASE-CR4 Passive Copper Cable 2m,QSFP-100G-CU2M,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,465.26,0,,$717.21,0,,Y,N
 CIQSFP-100G-CU2M=,100GBASE-CR4 Passive Copper Cable 2m,100GBASE-CR4 Passive Copper Cable 2m,QSFP-100G-CU2M=,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,465.26,0,,$717.21,18,,N,N
 CIQSFP-100G-CU3M,100GBASE-CR4 Passive Copper Cable 3m,100GBASE-CR4 Passive Copper Cable 3m,QSFP-100G-CU3M,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,465.26,0,,$717.21,0,,N,N
@@ -7576,7 +7581,7 @@ CIQSFP-100G-CWDM4-S=,100GBASE CWDM4 QSFP Transceiver LC 2km o,100GBASE CWDM4 QSF
 CIQSFP-100G-DR-S,100G QSFP28 Transceiver 100GBASE-DR 500m,100G QSFP28 Transceiver 100GBASE-DR 500m SMF duplex LC,QSFP-100G-DR-S,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,2426.46,0,,$3740.40,0,,Y,N
 CIQSFP-100G-DR-S=,100G QSFP28 Transceiver 100GBASE-DR 500m,100G QSFP28 Transceiver 100GBASE-DR 500m SMF duplex LC,QSFP-100G-DR-S=,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,2426.46,0,,$3740.40,0,,N,N
 CIQSFP-100G-ER4L-S=,100GBASE QSFP Transceiver 40KM reach ove,100GBASE QSFP Transceiver 40KM reach over SMF Duplex LC,QSFP-100G-ER4L-S=,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,107358.86,0,,$165494.60,0,,Y,N
-CIQSFP-100G-FR-S=,100G QSFP28 Transceiver 100G-FR 2km SMF ,100G QSFP28 Transceiver 100G-FR 2km SMF duplex LC,QSFP-100G-FR-S=,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,3642.72,0,,$5615.29,0,,N,N
+CIQSFP-100G-FR-S=,100G QSFP28 Transceiver 100G-FR 2km SMF ,100G QSFP28 Transceiver 100G-FR 2km SMF duplex LC,QSFP-100G-FR-S=,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,3642.72,0,,$5615.29,-4,,N,N
 CIQSFP-100G-FR-S-RF,100G QSFP28 Transceiver100G-FR 2kmSMFdup,100G QSFP28 Transceiver100G-FR 2kmSMFduplexLC REMANUFACTURED,QSFP-100G-FR-S-RF,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,2185.62,0,,$3369.17,0,,Y,N
 CIQSFP-100G-LR4-S,100GBASE LR4 QSFP Transceiver LC 10km ov,100GBASE LR4 QSFP Transceiver LC 10km over SMF,QSFP-100G-LR4-S,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,42939.26,0,,$66191.22,0,,Y,N
 CIQSFP-100G-LR4-S=,100GBASE LR4 QSFP Transceiver LC 10km ov,100GBASE LR4 QSFP Transceiver LC 10km over SMF,QSFP-100G-LR4-S=,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,42939.26,0,,$66191.22,0,,N,N
@@ -7659,8 +7664,8 @@ CIR2XX-RAID5,Enable RAID 5 Setting,Enable RAID 5 Setting,R2XX-RAID5,CISCO SYSTEM
 CIR2XX-RAID5D,Enable RAID 5 Setting,Enable RAID 5 Setting,R2XX-RAID5D,CISCO SYSTEMS LTD,,CI - CISCO COMPUTE,,,,0,0,1.18,0,,$1.81,0,,Y,N
 CIR2XX-RAID6,Enable RAID 6 Setting,Enable RAID 6 Setting,R2XX-RAID6,CISCO SYSTEMS LTD,,CI - CISCO COMPUTE,,,,0,0,0.82,0,,$1.87,0,,Y,N
 CIRACK-KIT-T1=,19 23 24 inch and ETSI Type 1 rack mount,19 23 24 inch and ETSI Type 1 rack mount kit,RACK-KIT-T1=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,307.89,307.89,,$579.27,0,,N,N
-CIRACKMNT-19-CMPACT,19 in Rackmount for 9200CX switches,19 in Rackmount for 9200CX switches,RACKMNT-19-CMPACT,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,93.13,93.13,,$165.51,-1,,N,N
-CIRACKMNT-19-CMPACT=,19 in Rackmount for 9200CX switches,19 in Rackmount for 9200CX switches,RACKMNT-19-CMPACT=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,93.13,93.13,,$165.51,-11,08-12-2025,N,N
+CIRACKMNT-19-CMPACT,19 in Rackmount for 9200CX switches,19 in Rackmount for 9200CX switches,RACKMNT-19-CMPACT,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,93.13,93.13,,$165.51,-5,,N,N
+CIRACKMNT-19-CMPACT=,19 in Rackmount for 9200CX switches,19 in Rackmount for 9200CX switches,RACKMNT-19-CMPACT=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,93.13,93.13,,$165.51,-12,,N,N
 CIR-CISCO-S-EPNMC-K9,Cisco EPN Manager Smart - Electronic,Cisco EPN Manager Smart - Electronic,R-CISCO-S-EPNMC-K9,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,0,0,,$0.00,0,,Y,N
 CIRCKMNT-19-CMPCT=,19in RackMount for Catalyst 35602960ME-3,19in RackMount for Catalyst 35602960ME-3400 Compact Switch,RCKMNT-19-CMPCT=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,91.42,91.42,,$165.51,0,,N,N
 CIRCKMNT-23-CMPCT=,23in RackMount for Catalyst 35602960ME-3,23in RackMount for Catalyst 35602960ME-3400 Compact Switch,RCKMNT-23-CMPCT=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,93.13,93.13,,$165.51,0,,Y,N
@@ -7674,7 +7679,7 @@ CIR-ISE-VMC-K9=,Cisco ISE Virtual Machine Common PID,Cisco ISE Virtual Machine C
 CIRM-RGD-19IN=,19IN rack-mount kit for IE Rackmount Swi,19IN rack-mount kit for IE Rackmount Switches,RM-RGD-19IN=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,107.38,0,,$165.51,0,,Y,N
 CIR-OS-L-E,Cisco OS Essentials - Large (Embedded Pe,Cisco OS Essentials - Large (Embedded Perpetual),R-OS-L-E,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,4234.58,0,,$6527.65,0,,Y,N
 CIR-OS-M-E,Cisco OS Essentials - Medium (Embedded P,Cisco OS Essentials - Medium (Embedded Perpetual),R-OS-M-E,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,1749.51,0,,$2696.87,0,,Y,N
-CIR-OS-S-E,Cisco OS Essentials - Small (Embedded  P,Cisco OS Essentials - Small (Embedded  Perpetual),R-OS-S-E,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,577.84,0,,$906.62,0,16-12-2025,Y,N
+CIR-OS-S-E,Cisco OS Essentials - Small (Embedded  P,Cisco OS Essentials - Small (Embedded  Perpetual),R-OS-S-E,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,577.84,0,,$906.62,0,,Y,N
 CIR-OS-XL-E,Cisco OS Essentials - XLarge (Embedded  ,Cisco OS Essentials - XLarge (Embedded  Perpetual),R-OS-XL-E,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,13868.27,0,,$21758.84,0,,Y,N
 CIROUT-P-C8200-E-7Y,Cisco Routing Essentials On-Premise Lic ,Cisco Routing Essentials On-Premise Lic for C8200 - 7Y,ROUT-P-C8200-E-7Y,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,800.33,0,,$1233.73,0,,Y,N
 CIROUT-P-C8300-E-7Y,Cisco Routing Essentials On-Premise Lic ,Cisco Routing Essentials On-Premise Lic for C8300 - 7Y,ROUT-P-C8300-E-7Y,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,1105.66,0,,$1704.37,0,,Y,N
@@ -7858,7 +7863,7 @@ CISFP-10/25G-CSR-S=,Dual Rate 10/25GBASE-CSR SFP Module,Dual Rate 10/25GBASE-CSR
 CISFP-10/25G-CSRS-RF,Dual Rate 10/25GBASE-CSR SFP Module REMA,Dual Rate 10/25GBASE-CSR SFP Module REMANUFACTURED,SFP-10/25G-CSRS-RF,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,940.18,0,,$1449.28,0,,Y,N
 CISFP-10/25G-LR-I=,10/25GBASE-LR-I SFP28 iTemp Module,10/25GBASE-LR-I SFP28 iTemp Module,SFP-10/25G-LR-I=,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,3650.44,0,,$5627.20,0,,Y,N
 CISFP-10/25G-LR-S,10/25GBASE-LR SFP28 Module,10/25GBASE-LR SFP28 Module,SFP-10/25G-LR-S,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,3149.41,0,,$4854.83,0,,Y,N
-CISFP-10/25G-LR-S=,10/25GBASE-LR SFP28 Module,10/25GBASE-LR SFP28 Module,SFP-10/25G-LR-S=,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,2124.75,2124.75,,$4854.83,5,,N,N
+CISFP-10/25G-LR-S=,10/25GBASE-LR SFP28 Module,10/25GBASE-LR SFP28 Module,SFP-10/25G-LR-S=,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,2124.75,2124.75,,$4854.83,1,,N,N
 CISFP-10/25G-LR-S-RF,10/25GBASE-LR SFP28 Module REMANUFACTURE,10/25GBASE-LR SFP28 Module REMANUFACTURED,SFP-10/25G-LR-S-RF,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,1890.08,0,,$2913.58,0,,Y,N
 CISFP-10G-AOC10M,10GBASE Active Optical SFP+ Cable 10M,10GBASE Active Optical SFP+ Cable 10M,SFP-10G-AOC10M,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,233.16,233.16,,$573.74,0,,Y,N
 CISFP-10G-AOC10M=,10GBASE Active Optical SFP+ Cable 10M,10GBASE Active Optical SFP+ Cable 10M,SFP-10G-AOC10M=,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,233.16,233.16,,$573.74,0,,N,N
@@ -7885,7 +7890,7 @@ CISFP-10G-ER=,10GBASE-ER SFP Module,10GBASE-ER SFP Module,SFP-10G-ER=,CISCO SYST
 CISFP-10G-ER-S,10GBASE-ER SFP Module Enterprise-Class,10GBASE-ER SFP Module Enterprise-Class,SFP-10G-ER-S,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,7085,7085,,$17433.25,0,,Y,N
 CISFP-10G-ER-S=,10GBASE-ER SFP Module Enterprise-Class,10GBASE-ER SFP Module Enterprise-Class,SFP-10G-ER-S=,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,7629.77,7629.77,,$17433.25,0,,N,N
 CISFP-10G-LR,10GBASE-LR SFP Module,10GBASE-LR SFP Module,SFP-10G-LR,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,3582.86,3582.86,,$8815.94,0,,N,N
-CISFP-10G-LR=,10GBASE-LR SFP Module,10GBASE-LR SFP Module,SFP-10G-LR=,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,3582.86,3582.86,,$8815.94,0,,N,N
+CISFP-10G-LR=,10GBASE-LR SFP Module,10GBASE-LR SFP Module,SFP-10G-LR=,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,3582.86,3582.86,,$8815.94,-1,,N,N
 CISFP-10G-LRM,10GBASE-LRM SFP Module,10GBASE-LRM SFP Module,SFP-10G-LRM,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,986.51,986.51,,$2427.42,0,,Y,N
 CISFP-10G-LRM=,10GBASE-LRM SFP Module,10GBASE-LRM SFP Module,SFP-10G-LRM=,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,986.51,986.51,,$2427.42,0,,N,N
 CISFP-10G-LR-RF,10GBASE-LR SFP Module REMANUFACTURED,10GBASE-LR SFP Module REMANUFACTURED,SFP-10G-LR-RF,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,3431.08,0,,$5289.05,0,,Y,N
@@ -7898,7 +7903,7 @@ CISFP-10G-SR=,10GBASE-SR SFP Module,10GBASE-SR SFP Module,SFP-10G-SR=,CISCO SYST
 CISFP-10G-SR-I,10GBASE-SR SFP Module Industrial Tempera,10GBASE-SR SFP Module Industrial Temperature,SFP-10G-SR-I,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,974.92,974.92,,$1765.39,0,,Y,N
 CISFP-10G-SR-I=,10GBASE-SR SFP Module Industrial Tempera,10GBASE-SR SFP Module Industrial Temperature,SFP-10G-SR-I=,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,974.92,974.92,,$1765.39,0,,N,N
 CISFP-10G-SR-S,10GBASE-SR SFP Module Enterprise-Class,10GBASE-SR SFP Module Enterprise-Class,SFP-10G-SR-S,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,627.8,627.8,,$1544.71,0,,N,N
-CISFP-10G-SR-S=,10GBASE-SR SFP Module Enterprise-Class,10GBASE-SR SFP Module Enterprise-Class,SFP-10G-SR-S=,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,627.8,627.8,,$1544.71,0,22-12-2025,N,N
+CISFP-10G-SR-S=,10GBASE-SR SFP Module Enterprise-Class,10GBASE-SR SFP Module Enterprise-Class,SFP-10G-SR-S=,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,627.8,627.8,,$1544.71,-20,22-12-2025,N,N
 CISFP-10G-T-X=,10GBASE-T SFP+ transceiver module for Ca,10GBASE-T SFP+ transceiver module for Category 6A cables,SFP-10G-T-X=,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,676.05,676.05,,$1544.71,-4,,N,N
 CISFP10G-USR,10GBASE-USR Module,10GBASE-USR Module,SFP10G-USR,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,892.37,892.37,,$2195.72,0,,Y,N
 CISFP-10G-ZR,Cisco 10GBASE-ZR SFP10G Module for SMF,Cisco 10GBASE-ZR SFP10G Module for SMF,SFP-10G-ZR,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,14349.34,14349.34,,$35307.87,0,,Y,N
@@ -7921,7 +7926,7 @@ CISFP-25G-AOC7M=,25GBASE Active Optical SFP28 Cable 7M,25GBASE Active Optical SF
 CISFP-25G-ER-I=,25GBASE-ER SFP28 iTemp Module,25GBASE-ER SFP28 iTemp Module,SFP-25G-ER-I=,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,10140.83,10140.83,,$23170.79,0,,Y,N
 CISFP-25G-SL=,25GBASE-SR SFP SL Module,25GBASE-SR SFP SL Module,SFP-25G-SL=,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,851.39,0,,$1312.42,0,,N,N
 CISFP-25G-SR-S,25GBASE-SR SFP Module,25GBASE-SR SFP Module,SFP-25G-SR-S,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,915.23,915.23,,$2195.72,0,,N,N
-CISFP-25G-SR-S=,25GBASE-SR SFP Module,25GBASE-SR SFP Module,SFP-25G-SR-S=,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,915.23,915.23,,$2195.72,-140,08-12-2025,N,N
+CISFP-25G-SR-S=,25GBASE-SR SFP Module,25GBASE-SR SFP Module,SFP-25G-SR-S=,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,915.23,915.23,,$2195.72,0,19-01-2026,N,N
 CISFP-H10GB-ACU10M,Active Twinax cable assembly 10m,Active Twinax cable assembly 10m,SFP-H10GB-ACU10M,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,367.69,367.69,,$904.77,0,,Y,N
 CISFP-H10GB-ACU10M=,Active Twinax cable assembly 10m,Active Twinax cable assembly 10m,SFP-H10GB-ACU10M=,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,367.69,367.69,,$904.77,0,,N,N
 CISFP-H10GB-ACU7M,Active Twinax cable assembly 7m,Active Twinax cable assembly 7m,SFP-H10GB-ACU7M,CISCO SYSTEMS LTD,,CI - DC CNTR/NTW/ENT SW/IOT/SP,,,,0,0,322.86,322.86,,$794.43,0,,Y,N
@@ -8202,7 +8207,7 @@ CISTACK-T1-1M,1M Type 1 Stacking Cable,1M Type 1 Stacking Cable,STACK-T1-1M,CISC
 CISTACK-T1-1M=,1M Type 1 Stacking Cable,1M Type 1 Stacking Cable,STACK-T1-1M=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,330.68,0,,$509.76,0,,N,N
 CISTACK-T1-3M,3M Type 1 Stacking Cable,3M Type 1 Stacking Cable,STACK-T1-3M,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,282.85,282.85,,$662.03,0,,N,N
 CISTACK-T1-3M=,3M Type 1 Stacking Cable,3M Type 1 Stacking Cable,STACK-T1-3M=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,318.73,318.73,,$764.66,0,,N,N
-CISTACK-T1-50CM,50CM Type 1 Stacking Cable,50CM Type 1 Stacking Cable,STACK-T1-50CM,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,89.7,89.7,,$220.67,-2,19-01-2026,N,N
+CISTACK-T1-50CM,50CM Type 1 Stacking Cable,50CM Type 1 Stacking Cable,STACK-T1-50CM,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,89.7,89.7,,$220.67,-8,19-01-2026,N,N
 CISTACK-T1-50CM=,50CM Type 1 Stacking Cable,50CM Type 1 Stacking Cable,STACK-T1-50CM=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,96.59,96.59,,$231.71,4,,N,N
 CISTACK-T1A-1M,1M Type 1 Stacking Cable,1M Type 1 Stacking Cable,STACK-T1A-1M,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,316.23,0,,$487.47,0,,Y,N
 CISTACK-T1A-50CM,50CM Type 1 Stacking Cable,50CM Type 1 Stacking Cable,STACK-T1A-50CM,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,158.11,0,,$243.74,0,,Y,N
@@ -8869,4 +8874,5 @@ CIXR-N560-7.6-K9-TRK,NCS 560 Series IOS-XR Software K9 Tracki,NCS 560 Series IOS
 CIXR-NC55-P-07.10,NCS 5500 IOS XR Software,NCS 5500 IOS XR Software,XR-NC55-P-07.10,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,35398.5,0,,$54567.09,0,,Y,N
 CIXR-NC57-24.2-K9TRK,NCS 5700 Software Tracking PID 24.1 K9,NCS 5700 Software Tracking PID 24.1 K9,XR-NC57-24.2-K9TRK,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,0,0,,$0.00,0,,Y,N
 CIXR-NC57-24.2-TRK,NCS 5700 Software Tracking PID 24.1,NCS 5700 Software Tracking PID 24.1,XR-NC57-24.2-TRK,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,0,0,,$0.00,0,,Y,N
+IE3100-DNA-E-M-1Y,IE 3100 DNA Essentials  1 Year Term lice,IE 3100 DNA Essentials  1 Year Term license,IE3100-DNA-E-L-1Y,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,161.85,0,,$253.96,0,,Y,N
 WCC9300-NM-8X,Catalyst 9300 8 x 10GE Network Module,Catalyst 9300 8 x 10GE Network Module,C9300-NM-8X,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,1964.93,1964.93,,$5239.79,0,,Y,N
