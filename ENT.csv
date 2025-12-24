@@ -385,7 +385,7 @@ MECW9172H-CFG,Cisco Wireless 9172H(W73 radio3 band 2x2,Cisco Wireless 9172H(W73 
 MECW9172H-RTG,Cisco Wireless 9172H(W73 radio3 band 2x2,Cisco Wireless 9172H(W73 radio3 band 2x2)Global,CW9172H-RTG,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,941.27,941.27,,$2053.00,0,,Y,N
 MECW9172I-CFG,Cisco Wireless 9172I(W73 radio3 band 2x2,Cisco Wireless 9172I(W73 radio3 band 2x2)Global,CW9172I-CFG,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,1037.32,1037.32,,$2427.98,-14,19-01-2026,N,N
 MECW9172I-RTG,Cisco Wireless 9172I(W73 radio3 band 2x2,Cisco Wireless 9172I(W73 radio3 band 2x2)Global,CW9172I-RTG,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,1037.32,1037.32,,$2427.98,-4,,N,N
-MECW9174I-RTG,Cisco Wireless 9174I (W7  3 radio  3 ban,Cisco Wireless 9174I (W7  3 radio  3 band  4x4) Global,CW9174I-RTG,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,974.65,974.65,,$3740.40,,,Y,N
+MECW9174I-RTG,Cisco Wireless 9174I (W7  3 radio  3 ban,Cisco Wireless 9174I (W7  3 radio  3 band  4x4) Global,CW9174I-RTG,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,974.65,974.65,,$3740.40,0,,Y,N
 MECW9176D1-CFG,Cisco Wireless 9176D1(W73 radio3 band 4x,Cisco Wireless 9176D1(W73 radio3 band 4x4UWB)Global,CW9176D1-CFG,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,2293.44,2293.44,,$5240.31,-16,,Y,N
 MECW9176D1-RTG,Cisco Wireless 9176D1(W73 radio3 band 4x,Cisco Wireless 9176D1(W73 radio3 band 4x4UWB)Global,CW9176D1-RTG,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,2293.44,2293.44,,$5240.31,0,,N,N
 MECW9176I-CFG,Cisco Wireless 9176I(W73 radio3 band 4x4,Cisco Wireless 9176I(W73 radio3 band 4x4UWB)Global,CW9176I-CFG,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,2047.29,2047.29,,$4677.84,-142,,Y,N
@@ -583,7 +583,7 @@ MELIC-MS210-48-5YR,Meraki MS210-48 Enterprise License and S,Meraki MS210-48 Ente
 MELIC-MS210-48-7YR,Meraki MS210-48 Enterprise License and S,Meraki MS210-48 Enterprise License and Support 7 Year,LIC-MS210-48-7YR,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,1153.85,1153.85,,$2913.87,0,,Y,N
 MELIC-MS210-48FP-10Y,Meraki MS210-48FP Enterprise License and,Meraki MS210-48FP Enterprise License and Support 10 Year,LIC-MS210-48FP-10Y,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,2342.9,2342.9,,$5916.59,0,,Y,N
 MELIC-MS210-48FP-1D,Meraki MS210-48FP Enterprise License and,Meraki MS210-48FP Enterprise License and Support-1 Day,LIC-MS210-48FP-1D,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,1.09,1.09,,$2.72,0,,Y,N
-MELIC-MS210-48FP-1YR,Meraki MS210-48FP Enterprise License and,Meraki MS210-48FP Enterprise License and Support 1 Year,LIC-MS210-48FP-1YR,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,312.35,312.35,,$788.76,0,,Y,N
+MELIC-MS210-48FP-1YR,Meraki MS210-48FP Enterprise License and,Meraki MS210-48FP Enterprise License and Support 1 Year,LIC-MS210-48FP-1YR,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,312.35,312.35,,$788.76,0,,N,N
 MELIC-MS210-48FP-3YR,Meraki MS210-48FP Enterprise License and,Meraki MS210-48FP Enterprise License and Support 3 Year,LIC-MS210-48FP-3YR,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,702.96,702.96,,$1775.16,0,,N,N
 MELIC-MS210-48FP-5YR,Meraki MS210-48FP Enterprise License and,Meraki MS210-48FP Enterprise License and Support 5 Year,LIC-MS210-48FP-5YR,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,1171.08,1171.08,,$2957.39,0,,N,N
 MELIC-MS210-48FP-7YR,Meraki MS210-48FP Enterprise License and,Meraki MS210-48FP Enterprise License and Support 7 Year,LIC-MS210-48FP-7YR,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,1639.96,1639.96,,$4141.43,0,,Y,N
