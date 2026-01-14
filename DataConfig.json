@@ -171,12 +171,12 @@
 		"SupplierCode" : "Merge Audio Visual NZ",
 		"SupplierName" : "Merge Communications Ltd",
 		"SheetName" : "MAV.csv",
-		"PartNumberColumn" : "Manufacture Code",
+		"PartNumberColumn" : "Manufacturers Code",
 		"PriceColumn" : "Buy Price Ex GST",
-		"StockColumn" : "Merge SOH",
-		"DescriptionColumn" : "Model Name",
-		"EtaColumn" : "Next Order ETA",
-		"EanColumn" : "Manufacturer EAN"
+		"StockColumn" : "stock on hand",
+		"DescriptionColumn" : "Description",
+		"EtaColumn" : null,
+		"EanColumn" : "EAN/UPC Barcode"
 	}
 	,
 	{
