@@ -1,60 +1,111 @@
-Manufacturer EAN ,Manufacture Code,Model Name ,Maxhub website link ,Warranty,Merge SOH,Next order Qty,Next Order ETA,Buy Price Ex GST, RRP Ex GST 
-6927433605548,E6521,"E2.1 65"" Education IFP",https://www.maxhub.com/en/education-series/,5-Year,0,,,1934,3496
-6927433605531,E7521,"E2.1 75"" Education IFP",,5-Year,0,1,Jan-30,2424,4920
-6927433605555,E8621,"E2.1 86"" Education IFP",,5-Year,0,1,Jan-30,3158,6602
-6927433605562,U6530,"U3 65"" Google Certified IFP",https://www.maxhub.com/en/u3_series/,5-Year,1,3,Dec-10,2436,4190
-6927433605579,U7530,"U3 75"" Google Certified IFP",,5-Year,2,3,Dec-10,3177,5463
-6927433605586,U8630,"U3 86"" Google Certified IFP",,5-Year,0,0,,4085,7026
-6927433605111,B8610,"B86"" Education IFP with wings",https://www.maxhub.com/en/smart_blackboard/,3-Year,0,1,Dec-10,3553,6697
-6927433605128,B86AB,B86 Black board,,3-Year,0,1,Dec-10,469,878
-6927433605135,B86AW,White board wings,,3-Year,0,1,Dec-10,469,878
-6927433605104,OPS72-i5,Win10 i5 OPS Module,TBA,3-Year,0,2,Dec-10,1085,2013
-6927433605753,OPS72-i7,Win10 i7 OPS Module ,,3-Year,0,3,Dec-10,1489,3323
-6927433605982,CSP20,CSP20 Capture System Host,https://www.maxhub.com/en/capture-system/,3-Year,1,0,,3894,6496
-6927433606002,EW20S,Student Camera,,3-Year,1,0,,809,1349
-6927433605999,EW20T,Teacher Camera,,3-Year,1,0,,809,1349
-6927433605975,CM20OD,Omni-Directional Microphones,,3-Year,1,0,,809,1349
-6927433606132,V5550,"V7 Xboard 55"" IFP",https://www.maxhub.com/en/xboard_v7_series/,3-Year,0,10,Dec-10,2407,4091
-6927433606149,V6550,"V7 Xboard 65"" IFP",,3-Year,0,5,Dec-10,3181,5408
-6927433606156,V7550,"V7 Xboard 75"" IFP",,3-Year,1,4,Dec-10,4149,7054
-6927433606163,V8650,"V7 Xboard 86"" IFP",,3-Year,0,2,Dec-10,5503,9354
-6927433607290,MT71-i5E,Win11 Pro on i5 OPS Module,TBA,3-Year,4,10,Dec-10,1170,1990
-6927433607306,MT71-i7F,Win11 Pro on i7 OPS Module ,,3-Year,0,20,Dec-10,1553,2641
-6927433606248,V655T,"MTR V7 Xboard 65"" IFP",TBA,3-Year,0,2,Dec-10,4581,7788
-6927433606262,V865T,"MTR V7 Xboard 86"" IFP",,3-Year,0,1,Dec-10,7024,11941
-6927433604374,ND43CMA,"43"" Commercial Dsiplay",https://www.maxhub.com/en/cma_series/,3-Year,2,,,796,1353
-6927433604381,ND55CMA,"55"" Commercial Dsiplay",,3-Year,5,,,1006,1711
-6927433604398,ND65CMA,"65"" Commercial Dsiplay",,3-Year,4,,,1451,2467
-6927433604404,ND75CMA,"75"" Commercial Dsiplay",,3-Year,5,,,2013,3422
-6927433604411,ND86CMA,"86"" Commercial Dsiplay",,3-Year,3,,,2692,4576
-6927433604428,ND98CMA,"98"" Commercial Dsiplay",,3-Year,1,,,5213,8862
-6927433606118,UW92NA,"92"" Ultra-Wide Commercial Display",https://www.maxhub.com/en/uw-series92/,3-Year,2,,,5958,10128
-6927433605050,UW105NA,"105"" Ultra-Wide Commercial Display",https://www.maxhub.com/en/uw-series/,3-Year,2,,,11420,19414
-6927433605593,ND55CMA-T,"55"" High Brightness Display",https://www.maxhub.com/en/cma_t_series/,3-Year,2,,,1158,1968
-6927433605609,ND65CMA-T,"65"" High Brightness Display",,3-Year,1,,,1709,2905
-6927433605616,ND75CMA-T,"75"" High Brightness Display",,3-Year,0,,,2411,4098
-6927433605517,ND65CMD,"65"" Meeting Room Display",https://www.maxhub.com/en/cmd_series/,3-Year,0,3,Dec-10,1170,1990
-6927433605524,ND75CMD,"75"" Meeting Rom Display",,3-Year,0,,,1596,2713
-6927433605104,OPS72-i5,Win10 i5 OPS Module,N/A,3-Year,0,,,1085,2013
-6927433605753,OPS72-i7,Win10 i7 OPS Module ,,3-Year,0,5,Dec-10,1489,3323
-6927433605166,XCore-Kit,XCore Kit,https://www.maxhub.com/en/xcore-kit/,3-Year,5,5,Dec-10,1056,1699
-6927433605173,XT10-VB-Kit,XCore Videobar Kit,https://www.maxhub.com/en/xt10-vb-kit/,3-Year,14,,,1539,2099
-6927433605180,XT10-WS-Kit,XCore Webcam Kit,https://www.maxhub.com/en/xt10-ws-kit/,3-Year,5,,,1539,2099
-6927433606101,XCore-Kit-Pro,Xcore Pro Kit,https://www.maxhub.com/en/xcore-kit-pro,3-Year,0,10,Dec-10,2146,2399
-,XT20-PS-Kit,Xcore Pro PTZ Kit,TBA,,0,,,3909,4955
-6927433605494,ST33G,Mobile Trolley,N/A,1-Year,0,8,Dec-10,328,557
-6927433604022,EST09,Electric Lift Trolley,,1-Year,0,4,Dec-10,1170,1990
-6927433604039,EST11,Electric Lift Tilt Trolley,,1-Year,0,3,Dec-10,1489,2532
-6927433602981,UC M31,M31 180 Camera,https://www.maxhub.com/en/ucm31,3-Year,1,0,,615,1046
-6927433602998,UC M40,M40 360 Camera,https://www.maxhub.com/en/ucm40,3-Year,1,0,,819,1393
-6927433605357,UC-W31,W31 Webcam 4K,https://www.maxhub.com/en/uc-w31/,3-Year,3,0,,309,525
-6927433605968,UC P30,P30 PTZ Camera 4K,https://www.maxhub.com/en/uc-p30,3-Year,1,12,Dec-10,1700,2890
-6971039693119,UCBM35,BM35 Bluetooth Speakerphone (MS Certified),https://www.maxhub.com/en/bm35,3-Year,3,20,Dec-10,309,525
-6927433606378,UCBM45,BM45 Bluetooth Speakerphone (MS Certified),TBA,3-Year,0,24,Dec-10,372,633
-6927433603421,UC S07,S07 BYOD Videobar (MS Certified),https://www.maxhub.com/en/s07,3-Year,3,4,Dec-10,681,1158
-6927433603414,UC S15,S15 Andriod Videobar,https://www.maxhub.com/en/ucs15,3-Year,0,8,Dec-10,979,1664
-6927433604350,WT13,Wireless Dongle,https://www.maxhub.com/en/wireless-dongle/,1-Year,0,20,Dec-10,168,286
-6927433604367,WB05,Wireless Box,https://www.maxhub.com/en/box/,3-Year,0,5,Dec-10,530,901
-6927433604497,TCP10M,"10.1"" Touch Control Tabletop",TBA,3-Year,0,8,Dec-10,613,1042
-6927433605500,SL22MC,Smart Lectern,https://www.maxhub.com/en/smart-lectern/,3-Year,1,,,4734,8048
-6927433605951,USB-10M,10m USB-C Cable,TBA,,0,10,Dec-10,253,430
+Brand name,suppliers Code,Manufacturers Code,EAN/UPC Barcode,Product group,Description,Buy Price Ex GST,RRP Inc. GST,weight (Kg),warranty (mth),Unit per box (shipper),stock on hand
+Maxhub CVTE,MHCM20,CM20,6927433606002,Capture Systems,MAXHUB Capture System CM20 Omnidirectional Microphone 6 microphone array Double microphone synergy 360° pick up angle Pickup radius?8m 2 microphones in one package,$898.00,"$1,486.40",1.3,,2,1
+Maxhub CVTE,MHCM30,CM30,,Capture Systems,MAXHUB Mobile Capture System CM30 Omnidirectional Microphone 6 microphone array Double microphone synergy 360° pick up angle Pickup radius?8m 2 microphones in one package,$898.00,"$1,486.40",1.3,,1,0
+Maxhub CVTE,MHCSP20,CSP20,6927433605975,Capture Systems,"MAXHUB Capture System CSP20 Capture Host Linux system Screen size: 15.6"" Resolution: 1920 x 1080 Capacitive touch screen ROM: 1TB","$4,325.00","$7,158.16",2.8,,1,2
+Maxhub CVTE,MHCSP50,CSP50,,Capture Systems,MAXHUB Mobile Capture System CSP50 Capture Host Screen Size: 15.6” Resolution 1920 x 1080 Capacitive Touch Screen ROM: 1TB Inbuilt Wifi  with Travel Case,"$7,917.00","$13,103.74",,,,0
+Maxhub CVTE,MHDST01,DST01,,Accessories,MAXHUB Express Room Stand,$591.00,"$1,144.02",,,,9
+Maxhub CVTE,MHE6521,E6521,6927433605548,Education IFP,"MAXHUB E series E6521 65"" Interactive Touch Display Screen size: 65""  4K Resolution Android 13 system 8GB RAM, 64GB ROM IR Touch, 40 touch points 2 x 20W speaker","$2,148.00","$3,097.33",,,,0
+Maxhub CVTE,MHE6530,E6530,,Education IFP,"MAXHUB E series E6530 65"" Interactive Touch Display Screen size: 65"" 4K Resolution Android 13 system 8GB RAM, 64GB ROM IR Touch, 40 touch points 2 x 20W speaker","$2,075.00","$3,097.33",,,,3
+Maxhub CVTE,MHE7521,E7521,6927433605531,Education IFP,"MAXHUB E series E7521 75"" Interactive Touch Display Screen size: 75""  4K Resolution Android 13 system 8GB RAM, 64GB ROM IR Touch, 40 touch points 2 x 20W speaker","$2,692.00","$3,881.03",,,,0
+Maxhub CVTE,MHE7530,E7530,,Education IFP,"MAXHUB E series E7530 75"" Interactive Touch Display Screen size: 75"" 4K Resolution Android 13 system 8GB RAM, 64GB ROM IR Touch, 40 touch points 2 x 20W speaker","$2,599.00","$3,881.03",,,,0
+Maxhub CVTE,MHE8621,E8621,6927433605555,Education IFP,"MAXHUB E series E8621 86"" Interactive Touch Display Screen size: 86""  4K Resolution Android 13 system 8GB RAM, 64GB ROM IR Touch, 40 touch points 2 x 20W speaker","$3,507.00","$5,056.60",,,,0
+Maxhub CVTE,MHE8630,E8630,,Education IFP,"MAXHUB E series E8630 86"" Interactive Touch Display Screen size: 86"" 4K Resolution Android 13 system 8GB RAM, 64GB ROM IR Touch, 40 touch points 2 x 20W speaker","$3,385.00","$5,056.60",,,,0
+Maxhub CVTE,MHEP50,EP50,,UC Products,MAXHUB Mobile Capture System EP50 PTZ Camera 40x Zoom AI Tracking Wireless Connection 6Hr Use From Full Charge 2 Cameras in Set,"$8,583.00","$14,206.80",,,,0
+Maxhub CVTE,MHEST09,EST09,6927433604022,Accessories,MAXHUB EST09 Electronic Stand Height Adjustable (Electronic),"$1,300.00","$2,078.91",37,,1,0
+Maxhub CVTE,MHEST11,EST11,6927433604039,Accessories,MAXHUB EST11 Electronic Stand Height Adjustable (Electronic) Tilt (90°),"$1,645.00","$2,738.09",57,,1,2
+Maxhub CVTE,MHEW1MT71E,EW1MT71E,,Extended Warranties,MAXHUB 1-Year Extended Warranty - MT71E,$184.00,$211.60,,,1,996
+Maxhub CVTE,MHEW1MT71F,EW1MT71F,,Extended Warranties,MAXHUB 1-Year Extended Warranty - MH71F,$244.00,$0.00,,,1,993
+Maxhub CVTE,MHEW1ND55CMA,EW1ND55CMA,,Extended Warranties,MAXHUB 1-Year Extended Warranty - ND55CMA,$74.00,$0.00,,,1,997
+Maxhub CVTE,MHEW1ND86CMA,EW1ND86CMA,,Extended Warranties,MAXHUB 1-Year Extended Warranty - ND86CMA,$367.00,$0.00,,,1,99
+Maxhub CVTE,MHEW1U7530,EW1U7530,,Extended Warranties,MAXHUB 1-Year Extended Warranty - U7530,$333.00,$0.00,,,1,1000
+Maxhub CVTE,MHEW1U8630,EW1U8630,,Extended Warranties,MAXHUB 1-Year Extended Warranty - U8630,$384.00,$0.00,,,1,1000
+Maxhub CVTE,MHEW1V5550,EW1V5550,,Extended Warranties,MAXHUB 1-Year Extended Warranty - V5550,$252.00,$0.00,,,1,997
+Maxhub CVTE,MHEW1V6550,EW1V6550,,Extended Warranties,MAXHUB 1-Year Extended Warranty - V6550,$334.00,$0.00,,,1,997
+Maxhub CVTE,MHEW1V7550,EW1V7550,,Extended Warranties,MAXHUB 1-Year Extended Warranty - V7550,$435.00,$0.00,,,1,997
+Maxhub CVTE,MHEW1V8650,EW1V8650,,Extended Warranties,MAXHUB 1-Year Extended Warranty - V8650,$577.00,$0.00,,,1,998
+Maxhub CVTE,MHEW20S,EW20S,6927433605982,Capture Systems,"MAXHUB Capture System EW20S Student Camera 8MP camera, 95° HFOV 8x digital zoom PoE supported",$898.00,"$1,486.40",1,,1,1
+Maxhub CVTE,MHEW20T,EW20T,6927433605999,Capture Systems,"MAXHUB Capture System EW20T Teacher Camera 8MP camera, 42° HFOV 8x digital zoom PoE supported",$898.00,"$1,486.40",1,,1,2
+Maxhub CVTE,MHEWMT71E,EWMT71E,,Extended Warranties,MAXHUB 2-Year Extended Warranty - MT71E,$331.00,$0.00,,,1,1000
+Maxhub CVTE,MHEWMT71F,EWMT71F,,Extended Warranties,MAXHUB 2-Year Extended Warranty - MH71F,$440.00,$0.00,,,1,992
+Maxhub CVTE,MHEWND43CMA,EWND43CMA,,Extended Warranties,MAXHUB 2-Year Extended Warranty - ND43CMA,$109.00,$0.00,,,1,1000
+Maxhub CVTE,MHEWND55CMA,EWND55CMA,,Extended Warranties,MAXHUB 2-Year Extended Warranty - ND55CMA,$137.00,$0.00,,,1,982
+Maxhub CVTE,MHEWND55CMA-T,EWND55CMA-T,,Extended Warranties,MAXHUB 2-Year Extended Warranty - ND55CMA-T,$158.00,$0.00,,,1,1000
+Maxhub CVTE,MHEWND65CMA,EWND65CMA,,Extended Warranties,MAXHUB 2-Year Extended Warranty - ND65CMA,$198.00,$0.00,,,1,999
+Maxhub CVTE,MHEWND65CMA-T,EWND65CMA-T,,Extended Warranties,MAXHUB 2-Year Extended Warranty - ND65CMA-T,$233.00,$0.00,,,1,1000
+Maxhub CVTE,MHEWND65CMD,EWND65CMD,,Extended Warranties,MAXHUB 2-Year Extended Warranty - ND65CMD,$160.00,$0.00,,,1,1000
+Maxhub CVTE,MHEWND75CMA,EWND75CMA,,Extended Warranties,MAXHUB 2-Year Extended Warranty - ND75CMA,$275.00,$0.00,,,1,1000
+Maxhub CVTE,MHEWND75CMA-T,EWND75CMA-T,,Extended Warranties,MAXHUB 2-Year Extended Warranty - ND75CMA-T,$329.00,$0.00,,,1,1000
+Maxhub CVTE,MHEWND75CMD,EWND75CMD,,Extended Warranties,MAXHUB 2-Year Extended Warranty - ND75CMD,$218.00,$0.00,,,1,1000
+Maxhub CVTE,MHEWND86CMA,EWND86CMA,,Extended Warranties,MAXHUB 2-Year Extended Warranty - ND86CMA,$367.00,$0.00,,,1,1000
+Maxhub CVTE,MHEWND98CMA,EWND98CMA,,Extended Warranties,MAXHUB 2-Year Extended Warranty - ND98CMA,$711.00,$0.00,,,1,1000
+Maxhub CVTE,MHEWOPS72-I5,EWOPS72-I5,,Extended Warranties,MAXHUB 2-Year Extended Warranty - OPS72-I5,$307.00,$0.00,,,1,1000
+Maxhub CVTE,MHEWOPS72-I7,EWOPS72-I7,,Extended Warranties,MAXHUB 2-Year Extended Warranty - OPS72-i7,$422.00,$0.00,,,1,1000
+Maxhub CVTE,MHEWU6530,EWU6530,,Extended Warranties,MAXHUB 2-Year Extended Warranty - U6530,$460.00,$0.00,,,1,1000
+Maxhub CVTE,MHEWU7530,EWU7530,,Extended Warranties,MAXHUB 2-Year Extended Warranty - U7530,$600.00,$0.00,,,1,1000
+Maxhub CVTE,MHEWU8630,EWU8630,,Extended Warranties,MAXHUB 2-Year Extended Warranty - U8630,$771.00,$0.00,,,1,1000
+Maxhub CVTE,MHEWV50,EWV50,,Extended Warranties,MAXHUB V50 MTR Videobar 2-Year Warranty Extension,$650.00,$0.00,,,,98
+Maxhub CVTE,MHEWV5550,EWV5550,,Extended Warranties,MAXHUB 2-Year Extended Warranty - V5550,$454.00,$0.00,,,1,996
+Maxhub CVTE,MHEWV6550,EWV6550,,Extended Warranties,MAXHUB 2-Year Extended Warranty - V6550,$601.00,$0.00,,,1,1000
+Maxhub CVTE,MHEWV655T,EWV655T,,Extended Warranties,"MAXHUB V7 MTR 65"" IFP 2-Year Warranty Extension",$905.00,$0.00,,,,98
+Maxhub CVTE,MHEWV7550,EWV7550,,Extended Warranties,MAXHUB 2-Year Extended Warranty - V7550,$783.00,$0.00,,,1,999
+Maxhub CVTE,MHEWV755T,EWV755T,,Extended Warranties,"MAXHUB V7 MTR 75"" IFP 2-Year Warranty Extension","$1,098.00",$0.00,,,,2
+Maxhub CVTE,MHEWV8650,EWV8650,,Extended Warranties,MAXHUB 2-Year Extended Warranty - V8650,"$1,039.00",$0.00,,,1,998
+Maxhub CVTE,MHEWV865T,EWV865T,,Extended Warranties,"MAXHUB V7 MTR 86"" IFP 2-Year Warranty Extension","$1,366.00",$0.00,,,,100
+Maxhub CVTE,MHEWXT10,EWXT10,,Extended Warranties,MAXHUB Extended Warranty - 2 Years X CORE KIT,$316.00,$0.00,,,1,1000
+Maxhub CVTE,MHEWXT10VB,EWXT10VB,,Extended Warranties,MAXHUB Extended Warranty - 2 Years X CORE KIT VB,$461.00,$0.00,,,1,1000
+Maxhub CVTE,MHEWXT10WS,EWXT10WS,,Extended Warranties,MAXHUB Extended Warranty - 2 Years X CORE KIT WS,$461.00,$0.00,,,1,1000
+Maxhub CVTE,MHLM50,LM50,,Capture Systems,MAXHUB Mobile Capture System Lapel Microphone Set AI Noise Reduction 7 Hours Of Use From Full Charge 28 Hours Of Use When Case Is Fully Charged Wireless Connection,$610.00,"$1,009.18",,,,0
+Maxhub CVTE,MHLX165V07,LX165V07,,AIO LED,"Maxhub Gen-3 Raptor 165"" 1.9mm Pixel Pitch AIO LED 1920*1080P (FHD) 20% less power consumption Android On Board (Optional Windows OPS) 4x30W speaker","$40,198.00","$54,337.50",,,1,0
+Maxhub CVTE,MHMT71e-i5,MT71e-i5,6927433607290,OPS,"MAXHUB V7 Series OPS - MAXHUB OS Intel i5-12450H,16GB RAM, 256GB SSD Windows 11 Pro","$1,255.00","$1,671.69",1.75,,1,3
+Maxhub CVTE,MHMT71f-i7,MT71f-i7,6927433607306,OPS,"MAXHUB V7 Series OPS - MAXHUB OS Intel i7-12650H, 16GB RAM, 512GB SSD Windows 11 Pro","$1,665.00","$2,089.86",1.75,,1,3
+Maxhub CVTE,MHND43CMA,ND43CMA,6927433604374,Commercial Display,"MAXHUB CMA Series ND43CMA 43"" 4K Commercial Display Screen size: 43"" 4K Display, Anti-Glare, 500 nits brightness Android 11.0, 4G RAM, 32G Storage WiFi-6 supported 2 x 16W Built-in Speakers Orientation: Portrait / Landscape, 7×24 operation hours Power saving: Energy Star, Erp",$852.00,"$1,280.07",13.85,,1,0
+Maxhub CVTE,MHND55CMA,ND55CMA,6927433604381,Commercial Display,"MAXHUB CMA Series ND55CMA 55"" 4K Commercial Display Screen size: 55"" 4K Display, Anti-Glare, 500 nits brightness Android 11.0, 4G RAM, 32G Storage WiFi-6 supported 2 x 16W Built-in Speakers Orientation: Portrait / Landscape, 7×24 operation hours Power saving: Energy Star, Erp","$1,078.00","$1,618.90",19.5,,1,-17
+Maxhub CVTE,MHND55CMA-T,ND55CMA-T,6927433605593,Commercial Display,"MAXHUB CMA-T Series ND55CMA-T 55"" 4K Commercial Display Screen size: 55""  4K Display, 25% Anti-Glare, 800 nits brightness Android 11.0, 4G RAM, 32G Storage WiFi-6 supported 2 x 16W Built-in Speakers Orientation: Portrait / Landscape, 7×24 operation hours Power saving: Energy Star, Erp","$1,286.00","$1,859.61",,,,2
+Maxhub CVTE,MHND65CMA,ND65CMA,6927433604398,Commercial Display,"MAXHUB CMA Series ND65CMA 4K Commercial Display Screen size: 65"" 4K Display, Anti-Glare, 500 nits brightness Android 11.0, 4G RAM, 32G Storage WiFi-6 supported 2 x 16W Built-in Speakers Orientation: Portrait / Landscape, 7×24 operation hours Power saving: Energy Star, Erp","$1,576.00","$2,334.22",33.25,,1,-1
+Maxhub CVTE,MHND65CMB,ND65CMB,,Commercial Display,"MAXHUB CMB Series ND65CMB 4K Commercial Display 4K, Anti-Glare, 500 nits brightness Android 11.0, 4G RAM, 32G Storage WiFi-6 supported 2 x 16W Built-in Speakers Orientation: Portrait / Landscape, 7×24 operation hours Power saving: Energy Star, Erp","$1,576.00","$2,334.22",33.25,,1,-1
+Maxhub CVTE,MHND65CMD,ND65CMD,6927433605517,Commercial Display,"MAXHUB CMD Series ND65CMD 65"" 4K Commercial Display Screen size: 65""  4K Display, 300 nits brightness Android 11.0, 4G RAM, 32G Storage WiFi-6 supported 2 x 10W Built-in Speakers 7×16 operation hours Power saving: Energy Star","$1,300.00","$1,882.44",,,1,1
+Maxhub CVTE,MHND75CMA,ND75CMA,6927433604404,Commercial Display,"MAXHUB CMA Series ND75CMA 4K Commercial Display Screen size: 75"" 4K Display, Anti-Glare, 500 nits brightness Android 11.0, 4G RAM, 32G Storage WiFi-6 supported 2 x 16W Built-in Speakers Orientation: Portrait / Landscape, 7×24 operation hours Power saving: Energy Star, Erp","$2,205.00","$3,237.80",48.15,,1,-2
+Maxhub CVTE,MHND75CMB,ND75CMB,,Commercial Display,"MAXHUB CMA Series ND75CMB 4K Commercial Display 4K Display, Anti-Glare, 500 nits brightness Android 11.0, 4G RAM, 32G Storage WiFi-6 supported 2 x 16W Built-in Speakers Orientation: Portrait / Landscape, 7×24 operation hours Power saving: Energy Star, Erp","$2,205.00","$3,237.80",48.15,,1,-8
+Maxhub CVTE,MHND86CMA,ND86CMA,6927433604411,Commercial Display,"MAXHUB CMA Series ND86CMA 86"" 4K Commercial Display Screen size: 86"" 4K Display, Anti-Glare, 500 nits brightness Android 11.0, 4G RAM, 32G Storage WiFi-6 supported 2 x 16W Built-in Speakers Orientation: Portrait / Landscape, 7×24 operation hours Power saving: Energy Star, Erp","$2,884.00","$4,329.61",60.75,,1,1
+Maxhub CVTE,MHND98CMA,ND98CMA,6927433604428,Commercial Display,"MAXHUB 4K Commercial Display CMA Series ND98CMA  Screen size: 98"" 4K Display, Anti-Glare, 500 nits brightness Android 11.0, 4G RAM, 32G Storage WiFi-6 supported 2 x 16W Built-in Speakers Orientation: Portrait / Landscape, 7×24 operation hours Power saving: Energy Star, Erp","$5,583.00","$8,385.42",90.8,,1,2
+Maxhub CVTE,MHOPS72A-I5,OPS72A-I5,6927433605104,Accessories,MAXHUB OPS72A 12th Gen Intel-i5 Windows OPS Module CPU: 12th Gen Intel Core - i5 RAM: 16G ROM: 256G Compatible with E&B&U series IFP and CMA&UW series display Not a standard configuration,"$1,205.00","$1,567.14",,,1,0
+Maxhub CVTE,MHOPS72A-I7,OPS72A-I7,6927433605753,OPS,"MAXHUB OPS72 12th Gen Intel-i7 Windows 11 OPS Module CPU: 12th Gen Intel Core - i7 RAM: 16G ROM: 256G Compatible with Education E Series, B Series & U Series IFPs and CMA Series & UW Series Commercial Displays","$1,600.00","$1,985.31",,,1,0
+Maxhub CVTE,MHOPS72-i5,OPS72-i5,,OPS,"MAXHUB OPS72 12th Gen Intel-i5 Windows 11 OPS Module CPU: 12th Gen Intel Core - i5 RAM: 8G ROM: 128G Compatible with Education E Series, B Series & U Series IFPs and CMA Series & UW Series Commercial Displays","$1,164.00","$1,985.31",,,1,0
+Maxhub CVTE,MHP22MB,P22MB,,Lectern,"MAXHUB Digital Lectern P-Cap, I5-OPS","$5,258.00",,,,,0
+Maxhub CVTE,MHPA50,PA50,,UC Products,MAXHUB Mobile Capture System Travel Case,$567.00,$938.78,,,1,0
+Maxhub CVTE,MHSL22MC,SL22MC,6927433605500,Lectern,"MAXHUB Smart Lectern SL22MC 21.5-inch touch display, 450nit high brightness 16GB RAM 256GB ROM OPS72C - Windows 10 IoT Enterprise","$5,258.00","$8,703.23",42.6,,1,1
+Maxhub CVTE,MHSP08,SP08,,Accessories,MAXHUB Electromagnetic Pen 1024 pressure levels,$78.00,,,,,3
+Maxhub CVTE,MHST33,ST33,,Accessories,"Mobile stand. Max load 100kg. For 55""/65""/75""/86"" panels",$364.00,$602.38,23.5,,1,0
+Maxhub CVTE,MHST41,ST41,,Accessories,MAXHUB Mobile Stand,$364.00,,,,,0
+Maxhub CVTE,MHT10PB-USB-10m,T10PB-USB-10m,6927433605951,Accessories,10M USB-C cable for Xcore Kit,$281.00,$465.47,,,,29
+Maxhub CVTE,MHTCP10M,TCP10M,6927433604497,Accessories,"MAXHUB TCP10M 10.1"" Touch Control Panel 1920(H)×1080(V) Android 10.0 RAM 4G+ ROM 16G Capacitance touch recognition Compatible with MH OS PC only",$681.00,"$1,126.53",1.86,,1,3
+Maxhub CVTE,MHU50,U50,,UC Products,MAXHUB XBar U50 Videobar,"$1,288.00",$0.00,,,,2
+Maxhub CVTE,MHU6530,U6530,6927433605562,Education IFP,"MAXHUB U series U6530 65"" Interactive Touch Display Screen size: 65""  4K Resolution Android 13 system, Google EDLA certified 8GB RAM, 64GB ROM IR Touch, 50 touch points 2 x 8W+2 x 18W speaker, 8 microphone array","$2,706.00","$3,901.48",,,1,1
+Maxhub CVTE,MHU6540,U6540,,Education IFP,"MAXHUB NEW U series 65"" Interactive Touch Display Screen size: 65"" 4K Resolution Android 15 system, Google EDLA certified 16GB RAM, 256GB ROM IR Touch, 50 touch points, 8-microphone array, 12m Pickup 2.2 SkyWave Speakers 74W max output, 50MP Camera, 115 DFOV","$2,789.00",$0.00,,,,1
+Maxhub CVTE,MHU7530,U7530,6927433605579,Education IFP,"MAXHUB U series U7530 75"" Interactive Touch Display Screen size: 75"" 4K Resolution Android 13 system, Google EDLA certified 8GB RAM, 64GB ROM IR Touch, 50 touch points 2 x 8W+2 x 18W speaker, 8 microphone array","$3,528.00","$5,087.26",,,1,0
+Maxhub CVTE,MHU7540,U7540,,Education IFP,"MAXHUB NEW U series 75"" Interactive Touch Display Screen size: 75"" 4K Resolution Android 15 system, Google EDLA certified 16GB RAM, 256GB ROM IR Touch, 50 touch points, 8-microphone array, 12m Pickup 2.2 SkyWave Speakers 74W max output, 50MP Camera, 115 DFOV","$3,518.00",$0.00,,,,2
+Maxhub CVTE,MHUCBM35,UCBM35,6971039693119,UC Products,"MAXHUB UC BM35 Microsoft Teams Rooms Speakerphone Microsoft Teams Rooms Certified 8 microphone array, 6m pickup range 5W+3W speaker USB-C 2.0, Bluetooth 5.3, 2.4GHz operation",$343.00,$529.37,0.46,,1,6
+Maxhub CVTE,MHUCBM45,UCBM45,6927433606378,UC Products,"MAXHUB UC BM45 Microsoft Teams Rooms Speakerphone Microsoft Teams Rooms Certified 8 microphone array, 8m pickup range 5W speaker USB-C x 1, RJ45 x 2 Support AEC, ANC, AGC, De-reverberation Supports up to 8 units cascades",$414.00,$638.89,0.47,,1,4
+Maxhub CVTE,MHUCP30,UCP30,6927433605968,UC Products,"MAXHUB UC P30 4K Microsoft Teams Rooms PTZ Camera Dual lens, 4K video resolution Telephoto lens: 1/1.8"" CMOS, 8MP camera, 12x optical zoom, DFOV 90° Panoramic lens: 1/2.8"" CMOS, 8MP camera, DFOV 120° Support Auto Framing, Speaker Tracking, Presenter Tracking Support PoE+","$1,888.00","$2,298.95",3.95,,1,11
+Maxhub CVTE,MHUCS07,UCS07,6927433603421,UC Products,"MAXHUB UC S07 4K Microsoft Teams Rooms Videobar Microsoft Teams Rooms Certified 1/2.3"" Sony CMOS, 12MP 4K Camera, DFOV 120° 6 microphone array 8W+3W speaker USB-C 2.0",$756.00,"$1,168.25",2.93,,1,3
+Maxhub CVTE,MHUCS15,UCS15,6927433603414,UC Products,"MAXHUB UC S15 Android 4K Videobar Android system, 4GB RAM, 16GB ROM 1/2.3"" Sony CMOS, 12MP 4K Camera, DFOV 120° 6 microphone array 8W+3W speaker USB-C 2.0, Wi-Fi 6 supported","$1,087.00","$1,679.37",3,,1,0
+Maxhub CVTE,MHUCW31,UCW31,6927433605357,UC Products,"MAXHUB UC W31 4K Microsoft Teams Rooms USB Camera Microsoft Teams Rooms Certified IMX577 Sony CMOS, 12MP 4K Camera, HFOV 109°, DFOV 117.8° 2 microphone array, 4m pickup range (for AI feature only) USB-C x 1",$343.00,$529.37,0.5,,1,2
+Maxhub CVTE,MHUW105NA,UW105NA,6927433605050,Commercial Display,"MAXHUB 5K 21:9 Commercial Display UW Series UW105NA  Screen size: 105'' 5K Display, 21:9, Anti-Glare, 400 nits brightness Android 13, 8G RAM, 64G ROM Built-in 2×16W+15W Speakers Orientation: Portrait, 7×16 operation hours Power saving: Energy Star, ErP","$12,230.00","$18,369.19",118.5,,1,2
+Maxhub CVTE,MHUW92NA,UW92NA,6927433606118,Commercial Display,"MAXHUB 5K 21:9 Commercial Display UW Series UW92NA Screen size: 92'' 5K Display, 21:9, Anti-Glare, 600 nits brightness Android 13, 8G RAM, 64G ROM Built-in 2×20W+20W Speakers Orientation: Portrait / Landscape, 7×24 operation hours Power saving: Energy Star","$6,382.00","$9,583.33",,,1,0
+Maxhub CVTE,MHV50,V50,,MTR,MAXHUB V50 MTR Videobar with Touch Console - Android Medium  Sized Meeting Room,"$2,895.00",$0.00,,,,1
+Maxhub CVTE,MHV5550,V5550,6927433606132,Corporate IFP,"MAXHUB XBoard V7 series V5550 55"" All-in-one Conference Interactive Touch Display Screen size: 55""  4K Resolution display 50MP x 3 trident camera system 16-mic array, 15m pick up range IR recognition, 50 points touch 2 x 10W speaker + 20W subwoofer  (PC module sold separately)","$2,576.00","$4,423.98",32.5,,1,0
+Maxhub CVTE,MHV555T,V555T,,MTR,"MAXHUB XBoard V7 series V555T 55"" Microsoft Teams Rooms Interactive Touch Display Screen size: 55"" 4K Resolution display 50MP Dual camera system 16-mic array, 15m pick up range IR recognition, 50 points touch 2 x 10W speaker + 20W subwoofer PC module included in the box, 12th Gen Intel core - i5","$4,030.00","$8,421.60",45.6,,1,3
+Maxhub CVTE,MHV6550,V6550,6927433606149,Corporate IFP,"MAXHUB XBoard V7 series V6550 65"" All-in-one Conference Interactive Touch Display Screen size: 65""  4K Resolution display 50MP x 3 trident camera system 16-mic array, 15m pick up range IR recognition, 50 points touch 2 x 10W speaker + 20W subwoofer  (PC module sold separately)","$3,457.00","$5,847.78",45.6,,1,4
+Maxhub CVTE,MHV655T,V655T,6927433606248,MTR,"MAXHUB XBoard V7 series V655T 65"" Microsoft Teams Rooms Interactive Touch Display Screen size: 65""  4K Resolution display 50MP Dual camera system 16-mic array, 15m pick up range IR recognition, 50 points touch 2 x 10W speaker + 20W subwoofer PC module included in the box, 12th Gen Intel core - i5","$5,135.00","$8,421.60",45.6,,1,0
+Maxhub CVTE,MHV7550,V7550,6927433606156,Corporate IFP,"MAXHUB XBoard V7 series V7550 75"" All-in-one Conference Interactive Touch Display Screen size: 75""  4K Resolution display 50MP x 3 trident camera system 16-mic array, 15m pick up range IR recognition, 50 points touch 2 x 10W speaker + 20W subwoofer  (PC module sold separately)","$4,485.00","$7,627.55",61.1,,1,3
+Maxhub CVTE,MHV755T,V755T,,MTR,"MAXHUB XBoard V7 series V755T 75"" Microsoft Teams Rooms Interactive Touch Display Screen size: 75"" 4K Resolution display 50MP x 3 trident camera system 16-mic array, 15m pick up range IR recognition, 50 points touch 2 x 10W speaker + 20W subwoofer PC module included in the box, 12th Gen Intel core - i5","$6,224.00","$8,421.60",45.6,,1,1
+Maxhub CVTE,MHV8650,V8650,6927433606163,Corporate IFP,"MAXHUB XBoard V7 series V8650 86"" All-in-one Conference Interactive Touch Display Screen size: 86""  4K Resolution display 50MP x 3 trident camera system 16-mic array, 15m pick up range IR recognition, 50 points touch 2 x 10W speaker + 20W subwoofer  (PC module sold separately)","$5,375.00","$10,115.31",74.55,,1,4
+Maxhub CVTE,MHV865T,V865T,6927433606262,MTR,"MAXHUB XBoard V7 series V865T 86"" Microsoft Teams Rooms Interactive Touch Display Screen size: 86""  4K Resolution display 50MP x 3 trident camera system 16-mic array, 15m pick up range IR recognition, 50 points touch 2 x 10W speaker + 20W subwoofer PC module included in the box, 12th Gen Intel core - i5","$7,750.00","$12,912.07",74.55,,1,1
+Maxhub CVTE,MHW70,W70,,MTR,MAXHUB W70 MTR Videobar with Touch Console - Windows,"$3,892.00",$0.00,,,,1
+Maxhub CVTE,MHWB05,WB05,6927433604367,Screenshare,MAXHUB Wireless Screenshare Box,$588.00,$973.98,1.4,,1,2
+Maxhub CVTE,MHWIB10A,WIB10A,6927433601908,Accessories,UC S10 and UC S10 Pro TV Bracket,$38.00,$64.54,0.15,,1,3
+Maxhub CVTE,MHWT13,WT13,6927433604350,Screenshare,MAXHUB Wireless Presentation Dongle (Driverless),$187.00,$309.02,0.2,,1,17
+Maxhub CVTE,MHXcore Pro-Kit,Xcore Pro-Kit,6927433606101,MTR,"MAXHUB XCore Kit Pro Microsoft Teams Room Intel-i5 Window Compute with Touch Console Bundle XC25T - 12th Gen Intel 10-Core - i5 Processor, 16GB RAM, 256GB ROM TCP30T - Capacitive Touch 11.6” 1920(H)×1080(V)","$2,361.00","$3,051.47",6.1,,1,1
+Maxhub CVTE,MHXcore-Kit,Xcore-Kit,6927433605166,MTR,"MAXHUB XCore Kit Microsoft Teams Room  Intel-i3 Window Compute with Touch Console Bundle XC13T - Intel i3-1220P, 8GB RAM, 128GB ROM TCP20T - Capacitive Touch 10.1” 1920(H)×1200(V)","$1,165.00","$1,567.14",7.5,,1,0
+Maxhub CVTE,MHXT10-VB Kit,XT10-VB Kit,"6927433605173, 6927433605449, 6927433605456",MTR,"MAXHUB XT10-VB Kit Microsoft Teams Rooms on Windows with Video Bar Bundle XC13T - Intel i3-1220P, 8GB RAM, 128GB ROM TCP20T - Capacitive Touch 10.1” 1920(H)×1200(V) UC S07 - 12MP 4K Camera, 6 microphone array, 8W+3W speaker","$1,750.00","$2,298.95",10.3,,1,7
+Maxhub CVTE,MHXT10-WS Kit,XT10-WS Kit,6927433605180,MTR,"MAXHUB XT10-WS Kit Microsoft Teams Rooms on Windows with Camera Speakerphone Bundle XT13T - Intel i3-1220P, 8GB RAM, 128GB ROM TCP20T -  Capacitive Touch 10.1” 1920(H)×1200(V) UC W31 - 12MP 4K Camera IMX577 Sony CMOS UC BM35 - 8 microphone array, 6m pickup range, 5W+3W speaker","$1,708.00","$2,298.95",9.9,,1,0
