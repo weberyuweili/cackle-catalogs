@@ -394,6 +394,7 @@ MECW9176I-RTG,Cisco Wireless 9176I(W73 radio3 band 4x4,Cisco Wireless 9176I(W73 
 MECW9178I-CFG,Cisco Wireless 9178I(W74 radio3 band 4x4,Cisco Wireless 9178I(W74 radio3 band 4x4UWB) Global,CW9178I-CFG,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,2457.55,2457.55,,$5615.29,0,,Y,N
 MECW9178I-RTG,Cisco Wireless 9178I(W74 radio3 band 4x4,Cisco Wireless 9178I(W74 radio3 band 4x4UWB)Global,CW9178I-RTG,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,2457.55,2457.55,,$5615.29,0,,N,N
 MECW-ACC-DESK1-00,Wall Plate AP Desktop Stand,Wall Plate AP Desktop Stand,CW-ACC-DESK1-00,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,243.69,0,,$375.66,0,,Y,N
+MECW-ACC-KIT1-00,Accessory kit for CW9163E  Catalyst and ,Accessory kit for CW9163E  Catalyst and Meraki,CW-ACC-KIT1-00,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,182.78,0,,$281.74,0,,Y,N
 MECW-ACC-SPACER1-00,Wall Plate AP Spacer Kit,Wall Plate AP Spacer Kit,CW-ACC-SPACER1-00,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,146.21,0,,$225.40,0,,Y,N
 MECW-ANT-D1-NS-00,8/9/9 dBi Directional Patch N connectorC,8/9/9 dBi Directional Patch N connectorCatalyst and Meraki,CW-ANT-D1-NS-00,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,1674.19,0,,$2580.78,0,,N,N
 MECW-ANT-GPS2-S-00,GPS/GNSS Antenna Outdoor SMA connectorCa,GPS/GNSS Antenna Outdoor SMA connectorCatalyst and Meraki,CW-ANT-GPS2-S-00,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,414.3,0,,$638.62,0,,Y,N
@@ -434,7 +435,7 @@ MELIC-DISPLAY-3Y,Meraki Display Software License and Supp,Meraki Display Softwar
 MELIC-DISPLAY-5Y,Meraki Display Software License and Supp,Meraki Display Software License and Support 5YR,LIC-DISPLAY-5Y,CISCO MERAKI,,CI - MERAKI MV,,,,0,0,1087.52,1087.52,,$2268.85,0,,Y,N
 MELIC-ENT-10YR,Meraki MR Enterprise License 10YR,Meraki MR Enterprise License 10YR,LIC-ENT-10YR,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,1306.07,1306.07,,$2724.80,0,,N,N
 MELIC-ENT-1D,Meraki MR Enterprise License-1 Day,Meraki MR Enterprise License-1 Day,LIC-ENT-1D,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,0.6,0.6,,$1.25,0,,Y,N
-MELIC-ENT-1YR,Meraki MR Enterprise License 1YR,Meraki MR Enterprise License 1YR,LIC-ENT-1YR,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,174.13,174.13,,$363.31,-29,,N,N
+MELIC-ENT-1YR,Meraki MR Enterprise License 1YR,Meraki MR Enterprise License 1YR,LIC-ENT-1YR,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,174.13,174.13,,$363.31,-32,,N,N
 MELIC-ENT-3YR,Meraki MR Enterprise License 3YR,Meraki MR Enterprise License 3YR,LIC-ENT-3YR,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,391.83,391.83,,$817.44,-37,29-12-2025,N,N
 MELIC-ENT-5YR,Meraki MR Enterprise License 5YR,Meraki MR Enterprise License 5YR,LIC-ENT-5YR,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,653.02,653.02,,$1362.40,-14,,N,N
 MELIC-ENT-7YR,Meraki MR Enterprise License 7YR,Meraki MR Enterprise License 7YR,LIC-ENT-7YR,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,914.24,914.24,,$1907.36,0,,N,N
@@ -752,7 +753,7 @@ MELIC-MT-7Y,Meraki MT Enterprise License and Support,Meraki MT Enterprise Licens
 MELIC-MV-10YR,Meraki MV Enterprise License and Support,Meraki MV Enterprise License and Support 10YR,LIC-MV-10YR,CISCO MERAKI,,CI - MERAKI MV,,,,0,0,2341.4,2341.4,,$4539.51,0,,Y,N
 MELIC-MV-1D,Meraki MV Enterprise License and Support,Meraki MV Enterprise License and Support-1 Day,LIC-MV-1D,CISCO MERAKI,,CI - MERAKI MV,,,,0,0,1.07,1.07,,$2.11,0,,Y,N
 MELIC-MV-1YR,Meraki MV Enterprise License and Support,Meraki MV Enterprise License and Support 1YR,LIC-MV-1YR,CISCO MERAKI,,CI - MERAKI MV,,,,0,0,308.27,308.27,,$597.64,0,,N,N
-MELIC-MV-3YR,Meraki MV Enterprise License and Support,Meraki MV Enterprise License and Support 3YR,LIC-MV-3YR,CISCO MERAKI,,CI - MERAKI MV,,,,0,0,701.76,701.76,,$1360.58,-8,,N,N
+MELIC-MV-3YR,Meraki MV Enterprise License and Support,Meraki MV Enterprise License and Support 3YR,LIC-MV-3YR,CISCO MERAKI,,CI - MERAKI MV,,,,0,0,701.76,701.76,,$1360.58,-18,,N,N
 MELIC-MV-5YR,Meraki MV Enterprise License and Support,Meraki MV Enterprise License and Support 5YR,LIC-MV-5YR,CISCO MERAKI,,CI - MERAKI MV,,,,0,0,1170.25,1170.25,,$2268.85,0,,N,N
 MELIC-MV-7YR,Meraki MV Enterprise License and Support,Meraki MV Enterprise License and Support 7YR,LIC-MV-7YR,CISCO MERAKI,,CI - MERAKI MV,,,,0,0,1638.69,1638.69,,$3177.11,0,,N,N
 MELIC-MV-CA180-1YR,Meraki MV 180 Day Cloud Archive License ,Meraki MV 180 Day Cloud Archive License 1YR,LIC-MV-CA180-1YR,CISCO MERAKI,,CI - MERAKI MV,,,,0,0,1296.24,0,,$1998.18,0,,Y,N
@@ -898,7 +899,7 @@ MELIC-MX67-ENT-10YR,Meraki MX67 Enterprise License and Suppo,Meraki MX67 Enterpr
 MELIC-MX67-ENT-1D,Meraki MX67 Enterprise License and Suppo,Meraki MX67 Enterprise License and Support-1 Day,LIC-MX67-ENT-1D,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,1.02,1.02,,$2.14,0,,Y,N
 MELIC-MX67-ENT-1YR,Meraki MX67 Enterprise License and Suppo,Meraki MX67 Enterprise License and Support 1YR,LIC-MX67-ENT-1YR,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,294.55,294.55,,$621.25,0,,N,N
 MELIC-MX67-ENT-3YR,Meraki MX67 Enterprise License and Suppo,Meraki MX67 Enterprise License and Support 3YR,LIC-MX67-ENT-3YR,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,663.16,663.16,,$1398.73,0,,N,N
-MELIC-MX67-ENT-5YR,Meraki MX67 Enterprise License and Suppo,Meraki MX67 Enterprise License and Support 5YR,LIC-MX67-ENT-5YR,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,1104.98,1104.98,,$2330.61,0,,Y,N
+MELIC-MX67-ENT-5YR,Meraki MX67 Enterprise License and Suppo,Meraki MX67 Enterprise License and Support 5YR,LIC-MX67-ENT-5YR,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,1104.98,1104.98,,$2330.61,0,,N,N
 MELIC-MX67-ENT-7YR,Meraki MX67 Enterprise License and Suppo,Meraki MX67 Enterprise License and Support 7YR,LIC-MX67-ENT-7YR,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,1546.79,1546.79,,$3262.49,0,,Y,N
 MELIC-MX67-SDW-10Y,Meraki MX67 Secure SD-WAN Plus License a,Meraki MX67 Secure SD-WAN Plus License and Support 10YR,LIC-MX67-SDW-10Y,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,6246.61,6246.61,,$13175.30,0,,Y,N
 MELIC-MX67-SDW-1D,Meraki MX67 Secure SD-WAN Plus License a,Meraki MX67 Secure SD-WAN Plus License and Support 1D,LIC-MX67-SDW-1D,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,2.85,2.85,,$6.05,0,,Y,N
@@ -963,7 +964,7 @@ MELIC-MX68-SDW-7Y,Meraki MX68 Secure SD-WAN Plus License a,Meraki MX68 Secure SD
 MELIC-MX68-SEC-10YR,Meraki MX68 Advanced Security License an,Meraki MX68 Advanced Security License and Support 10YR,LIC-MX68-SEC-10YR,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,4735.11,4735.11,,$9987.28,0,,Y,N
 MELIC-MX68-SEC-1D,Meraki MX68 Advanced Security License an,Meraki MX68 Advanced Security License and Support-1 Day,LIC-MX68-SEC-1D,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,2.2,2.2,,$4.60,0,,Y,N
 MELIC-MX68-SEC-1YR,Meraki MX68 Advanced Security License an,Meraki MX68 Advanced Security License and Support 1YR,LIC-MX68-SEC-1YR,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,631.3,631.3,,$1331.52,0,,N,N
-MELIC-MX68-SEC-3YR,Meraki MX68 Advanced Security License an,Meraki MX68 Advanced Security License and Support 3YR,LIC-MX68-SEC-3YR,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,1420.2,1420.2,,$2995.46,0,,N,N
+MELIC-MX68-SEC-3YR,Meraki MX68 Advanced Security License an,Meraki MX68 Advanced Security License and Support 3YR,LIC-MX68-SEC-3YR,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,1420.2,1420.2,,$2995.46,-6,,N,N
 MELIC-MX68-SEC-5YR,Meraki MX68 Advanced Security License an,Meraki MX68 Advanced Security License and Support 5YR,LIC-MX68-SEC-5YR,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,2367.56,2367.56,,$4993.64,-1,,N,N
 MELIC-MX68-SEC-7YR,Meraki MX68 Advanced Security License an,Meraki MX68 Advanced Security License and Support 7YR,LIC-MX68-SEC-7YR,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,3314.08,3314.08,,$6990.01,0,,Y,N
 MELIC-MX68W-ENT-10YR,Meraki MX68W Enterprise License and Supp,Meraki MX68W Enterprise License and Support 10YR,LIC-MX68W-ENT-10YR,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,2842.11,2842.11,,$5994.55,0,,Y,N
@@ -1099,7 +1100,7 @@ MELIC-Z4C-ENT-3Y,Meraki Z4C Enterprise License and Suppor,Meraki Z4C Enterprise 
 MELIC-Z4C-ENT-5Y,Meraki Z4C Enterprise License and Suppor,Meraki Z4C Enterprise License and Support 5 Year,LIC-Z4C-ENT-5Y,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,943.27,943.27,,$1967.90,0,,Y,N
 MELIC-Z4C-ENT-7Y,Meraki Z4C Enterprise License and Suppor,Meraki Z4C Enterprise License and Support 7 Year,LIC-Z4C-ENT-7Y,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,1320.56,1320.56,,$2755.08,0,,Y,N
 MELIC-Z4C-SEC-10Y,Meraki Z4C Secure Teleworker License and,Meraki Z4C Secure Teleworker License and Support 10 Year,LIC-Z4C-SEC-10Y,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,3337.71,3337.71,,$6963.36,0,,Y,N
-MELIC-Z4C-SEC-1Y,Meraki Z4C Secure Teleworker License and,Meraki Z4C Secure Teleworker License and Support 1 Year,LIC-Z4C-SEC-1Y,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,445.03,445.03,,$928.45,0,,Y,N
+MELIC-Z4C-SEC-1Y,Meraki Z4C Secure Teleworker License and,Meraki Z4C Secure Teleworker License and Support 1 Year,LIC-Z4C-SEC-1Y,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,445.03,445.03,,$928.45,0,,N,N
 MELIC-Z4C-SEC-3Y,Meraki Z4C Secure Teleworker License and,Meraki Z4C Secure Teleworker License and Support 3 Year,LIC-Z4C-SEC-3Y,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,1001.31,1001.31,,$2089.01,0,,N,N
 MELIC-Z4C-SEC-5Y,Meraki Z4C Secure Teleworker License and,Meraki Z4C Secure Teleworker License and Support 5 Year,LIC-Z4C-SEC-5Y,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,1668.85,1668.85,,$3481.69,0,,Y,N
 MELIC-Z4C-SEC-7Y,Meraki Z4C Secure Teleworker License and,Meraki Z4C Secure Teleworker License and Support 7 Year,LIC-Z4C-SEC-7Y,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,2336.4,2336.4,,$4874.35,0,,Y,N
@@ -1239,7 +1240,6 @@ MEMA-SFP-1GB-TX,Meraki 1 GbE SFP Copper Module,Meraki 1 GbE SFP Copper Module,MA
 MEMA-STND-1,Meraki Z3 Vertical Desktop Stand,Meraki Z3 Vertical Desktop Stand,MA-STND-1,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,47.7,47.7,,$99.49,0,,N,N
 MEMA-UMNT-MR-A2,Meraki MR Adaptor for Cisco Universal Mo,Meraki MR Adaptor for Cisco Universal Mounts,MA-UMNT-MR-A2,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,31.79,31.79,,$66.32,0,,N,N
 MEMA-UMNT-MR-A3,Meraki MR Adaptor for Aruba Universal Mo,Meraki MR Adaptor for Aruba Universal Mounts,MA-UMNT-MR-A3,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,31.79,31.79,,$66.32,0,,Y,N
-MEMG21E-HW-WW,Meraki MG21E Cellular Gateway External A,Meraki MG21E Cellular Gateway External Antennas - Worldwide,MG21E-HW-WW,CISCO MERAKI,,CI - MERAKI MG,,,,0,0,1462.83,0,,$2254.97,0,,N,N
 MEMG41,Meraki MG41 Cellular Gateway,Meraki MG41 Cellular Gateway,MG41,CISCO MERAKI,,CI - MERAKI MG,,,,0,0,1133.68,1133.68,,$2862.92,0,,Y,N
 MEMG41E-HW,Meraki MG41 Cellular Gateway External An,Meraki MG41 Cellular Gateway External Antennas,MG41E-HW,CISCO MERAKI,,CI - MERAKI MG,,,,0,0,1268.86,1268.86,,$3204.29,0,,N,N
 MEMG41-HW,Meraki MG41 Cellular Gateway,Meraki MG41 Cellular Gateway,MG41-HW,CISCO MERAKI,,CI - MERAKI MG,,,,0,0,1177.91,1177.91,,$2974.59,0,,N,N
@@ -1249,7 +1249,7 @@ MEMG51-HW,Meraki MG51 Cellular Gateway,Meraki MG51 Cellular Gateway,MG51-HW,CISC
 MEMG52E-HW,Meraki MG52E Cellular Gateway with suppo,Meraki MG52E Cellular Gateway with support for 5G Standalone,MG52E-HW,CISCO MERAKI,,CI - MERAKI MG,,,,0,0,2721.91,0,,$4195.82,0,,Y,N
 MEMG52-HW,Meraki MG52 Cellular Gateway with suppor,Meraki MG52 Cellular Gateway with support for 5G Standalone,MG52-HW,CISCO MERAKI,,CI - MERAKI MG,,,,0,0,2468.7,0,,$3805.52,0,,Y,N
 MEMR28-HW,Meraki MR28 Wi-Fi 6 Indoor AP,Meraki MR28 Wi-Fi 6 Indoor AP,MR28-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,365.32,365.32,,$973.82,-8,21-01-2026,N,N
-MEMR36H-HW,Meraki MR36H Wi-Fi 6 Cloud Managed AP,Meraki MR36H Wi-Fi 6 Cloud Managed AP,MR36H-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,593.66,593.66,,$1837.57,-178,,N,N
+MEMR36H-HW,Meraki MR36H Wi-Fi 6 Cloud Managed AP,Meraki MR36H Wi-Fi 6 Cloud Managed AP,MR36H-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,593.66,593.66,,$1837.57,-178,21-01-2026,N,N
 MEMR36-HW,Meraki MR36 Wi-Fi 6 Indoor AP,Meraki MR36 Wi-Fi 6 Indoor AP,MR36-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,596.97,596.97,,$1548.23,0,,N,N
 MEMR44-HW,Meraki MR44 WiFi 6 Indoor AP,Meraki MR44 WiFi 6 Indoor AP,MR44-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,997.89,997.89,,$2520.00,-5,13-10-2025,N,N
 MEMR46E-HW,Meraki MR46E Wi-Fi 6 Indoor AP w Externa,Meraki MR46E Wi-Fi 6 Indoor AP w External Antenna Connectors,MR46E-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,1565.27,1565.27,,$3663.67,-22,,N,N
@@ -1305,7 +1305,7 @@ MEMS250-48-HW,Meraki MS250-48 L3 Stck Cld-Mngd 48x Gig,Meraki MS250-48 L3 Stck C
 MEMS250-48LP-HW,Meraki MS250-48LP L3 Stck Cld-Mngd 48x G,Meraki MS250-48LP L3 Stck Cld-Mngd 48x GigE 370W PoE Switch,MS250-48LP-HW,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,9768.93,9768.93,,$23445.43,0,,N,N
 MEMS450-12-HW,Meraki MS450-L3 Stack Cld-Mngd 12x40GE A,Meraki MS450-L3 Stack Cld-Mngd 12x40GE Aggregation Switch,MS450-12-HW,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,34547.5,0,,$53255.26,0,,Y,N
 MEMT10,Meraki MT10 Indoor Temperature and Humid,Meraki MT10 Indoor Temperature and Humidity Sensor,MT10,CISCO MERAKI,,CI - MERAKI MT,,,,0,0,123.31,123.31,,$281.74,0,,Y,N
-MEMT10-HW,Meraki MT10 Indoor Temperature and Humid,Meraki MT10 Indoor Temperature and Humidity Sensor,MT10-HW,CISCO MERAKI,,CI - MERAKI MT,,,,0,0,123.31,123.31,,$281.74,0,,N,N
+MEMT10-HW,Meraki MT10 Indoor Temperature and Humid,Meraki MT10 Indoor Temperature and Humidity Sensor,MT10-HW,CISCO MERAKI,,CI - MERAKI MT,,,,0,0,123.31,123.31,,$281.74,-1,,N,N
 MEMT11-HW,Meraki Probe Sensor,Meraki Probe Sensor,MT11-HW,CISCO MERAKI,,CI - MERAKI MT,,,,0,0,123.31,123.31,,$281.74,0,,N,N
 MEMT12-HW,Meraki MT12 Indoor Water Leak Sensor,Meraki MT12 Indoor Water Leak Sensor,MT12-HW,CISCO MERAKI,,CI - MERAKI MT,,,,0,0,123.31,123.31,,$281.74,0,,N,N
 MEMT14-HW,Meraki MT14 Indoor Air Quality Sensor,Meraki MT14 Indoor Air Quality Sensor,MT14-HW,CISCO MERAKI,,CI - MERAKI MT,,,,0,0,205.52,205.52,,$469.57,0,,N,N
@@ -1333,7 +1333,7 @@ MEMV63M-HW,Meraki Fixed Lens Mini-dome Outdoor 8MP ,Meraki Fixed Lens Mini-dome 
 MEMV63X-HW,Meraki Fixed Lens MV63X Mini-dome Outdoo,Meraki Fixed Lens MV63X Mini-dome Outdoor 4K Camera- 1TB,MV63X-HW,CISCO MERAKI,,CI - MERAKI MV,,,,0,0,2312.23,2312.23,,$4876.91,0,,Y,N
 MEMV72-HW,Meraki Varifocal MV72 Outdoor HD Dome Ca,Meraki Varifocal MV72 Outdoor HD Dome Camera - 256GB Storage,MV72-HW,CISCO MERAKI,,CI - MERAKI MV,,,,0,0,1332.48,1332.48,,$2810.46,-4,,N,N
 MEMV72X-HW,Meraki Varifocal MV72 Outdoor Dome Camer,Meraki Varifocal MV72 Outdoor Dome Camera - 512GB Storage,MV72X-HW,CISCO MERAKI,,CI - MERAKI MV,,,,0,0,1510.26,1510.26,,$3185.44,0,,N,N
-MEMV73M-HW,Meraki Varifocal Lens MV73 Dome 8MP Outd,Meraki Varifocal Lens MV73 Dome 8MP Outdoor Camera- 512GB,MV73M-HW,CISCO MERAKI,,CI - MERAKI MV,,,,0,0,2783.94,0,,$4291.46,0,,Y,N
+MEMV73M-HW,Meraki Varifocal Lens MV73 Dome 8MP Outd,Meraki Varifocal Lens MV73 Dome 8MP Outdoor Camera- 512GB,MV73M-HW,CISCO MERAKI,,CI - MERAKI MV,,,,0,0,2783.94,0,,$4291.46,-10,,Y,N
 MEMV73X-HW,Meraki Varifocal Lens MV73X Dome 8MP Out,Meraki Varifocal Lens MV73X Dome 8MP Outdoor Camera- 1TB,MV73X-HW,CISCO MERAKI,,CI - MERAKI MV,,,,0,0,3543.52,0,,$5462.38,0,,N,N
 MEMV84X,Meraki varifocal multi imager 20MP Outdo,Meraki varifocal multi imager 20MP Outdoor Camera- 4TB,MV84X,CISCO MERAKI,,CI - MERAKI MV,,,,0,0,9137.37,0,,$14085.32,0,,Y,N
 MEMV93-HW,Meraki 360-degree MV93 Outdoor Rated Fis,Meraki 360-degree MV93 Outdoor Rated Fish Eye Camera- 256GB,MV93-HW,CISCO MERAKI,,CI - MERAKI MV,,,,0,0,1479.49,1479.49,,$3120.53,0,,N,N
@@ -1351,7 +1351,7 @@ MEMX67W-HW,Meraki MX67W Router/Security Appliance w,Meraki MX67W Router/Security
 MEMX68,Meraki MX68 Router/Security Appliance,Meraki MX68 Router/Security Appliance,MX68,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,825.23,825.23,,$2199.71,0,,Y,N
 MEMX68CW-HW-WW,Meraki MX68CW LTE & 802.11ac Router/Secu,Meraki MX68CW LTE & 802.11ac Router/Security Appliance - WW,MX68CW-HW-WW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,1671.73,1671.73,,$4456.11,-1,21-01-2026,N,N
 MEMX68CW-WW,Meraki MX68CW LTE & 802.11ac Router/Secu,Meraki MX68CW LTE & 802.11ac Router/Security Appliance - WW,MX68CW-WW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,1608.97,1608.97,,$4288.85,-25,,Y,N
-MEMX68-HW,Meraki MX68 Router/Security Appliance,Meraki MX68 Router/Security Appliance,MX68-HW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,857.42,857.42,,$2285.50,-1,,N,N
+MEMX68-HW,Meraki MX68 Router/Security Appliance,Meraki MX68 Router/Security Appliance,MX68-HW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,857.42,857.42,,$2285.50,-3,,N,N
 MEMX68W-HW,Meraki MX68W Router/Security Appliance w,Meraki MX68W Router/Security Appliance with 802.11ac,MX68W-HW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,1340.42,1340.42,,$3215.77,0,,N,N
 MEMX75-HW,Meraki MX75 Router/Security Appliance,Meraki MX75 Router/Security Appliance,MX75-HW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,1037.95,1037.95,,$3688.43,-7,27-01-2026,N,N
 MEMX85,Meraki MX85 Router/Security Appliance,Meraki MX85 Router/Security Appliance,MX85,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,2069.3,2069.3,,$5515.84,0,,Y,N
@@ -3610,6 +3610,7 @@ CIC9400-LC-48HN=,Cisco Catalyst 9400 Series 48-Port UPOE+,Cisco Catalyst 9400 Se
 CIC9400-LC-48HN-B,Catalyst 9400 2xC9400-LC-48HN BUNDLE PID,Catalyst 9400 2xC9400-LC-48HN BUNDLE PID ONLY-NOT ACTUAL HW,C9400-LC-48HN-B,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,7170.74,0,,$11053.75,0,,N,N
 CIC9400-LC-48HX,Cisco Catalyst 9400 Series 48-Port UPOE+,Cisco Catalyst 9400 Series 48-Port UPOE+ 10G mGig,C9400-LC-48HX,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,23420.94,0,,$36103.60,0,,Y,N
 CIC9400-LC-48HX=,Cisco Catalyst 9400 Series 48-Port UPOE+,Cisco Catalyst 9400 Series 48-Port UPOE+ 10G mGig,C9400-LC-48HX=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,23420.94,0,,$36103.60,0,,Y,N
+CIC9400-LC-48HX-B,Catalyst 9400 2xC9400-LC-48HX BUNDLE PID,Catalyst 9400 2xC9400-LC-48HX BUNDLE PID ONLY-NOT ACTUAL HW,C9400-LC-48HX-B,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,14964.41,0,,$23478.66,0,,Y,N
 CIC9400-LC-48P,Cisco Catalyst 9400 Series 48-Port POE+ ,Cisco Catalyst 9400 Series 48-Port POE+ 10/100/1000 (RJ-45),C9400-LC-48P,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,11175.59,0,,$17227.28,0,,N,N
 CIC9400-LC-48P=,Cisco Catalyst 9400 Series 48-Port POE+ ,Cisco Catalyst 9400 Series 48-Port POE+ 10/100/1000 (RJ-45),C9400-LC-48P=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,11175.59,0,,$17227.28,0,,N,N
 CIC9400-LC-48P-B,Catalyst 9400 2xC9400-LC-48P BUNDLE PID ,Catalyst 9400 2xC9400-LC-48P BUNDLE PID ONLY-NOT ACTUAL HW,C9400-LC-48P-B,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,0,0,,$0.00,0,,Y,N
@@ -6795,7 +6796,7 @@ CIN520-10G-2,Cisco NCS 520 Series 2-Port 10G Upgrade ,Cisco NCS 520 Series 2-Por
 CIN520-10G-2=,Cisco NCS 520 Series 2-Port 10G Upgrade ,Cisco NCS 520 Series 2-Port 10G Upgrade License,N520-10G-2=,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,2080.49,0,,$3207.08,0,,Y,N
 CIN520-CBL-BRKT,NCS 520 Cable Bracket,NCS 520 Cable Bracket,N520-CBL-BRKT,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,71.7,0,,$110.54,0,,N,N
 CIN520-CBL-BRKT=,NCS 520 Cable Bracket,NCS 520 Cable Bracket,N520-CBL-BRKT=,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,71.57,0,,$110.34,6,,N,N
-CIN520-RCKMT-19-D2A=,NCS 520 19 inch  Rackmount for 8 Port AC,NCS 520 19 inch  Rackmount for 8 Port AC,N520-RCKMT-19-D2A=,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,143.16,0,,$220.67,18,,N,N
+CIN520-RCKMT-19-D2A=,NCS 520 19 inch  Rackmount for 8 Port AC,NCS 520 19 inch  Rackmount for 8 Port AC,N520-RCKMT-19-D2A=,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,143.16,0,,$220.67,17,,N,N
 CIN520-S-I,Cisco NCS 520 Series IP Access License,Cisco NCS 520 Series IP Access License,N520-S-I,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,4160.98,0,,$6414.17,0,,Y,N
 CIN520-S-M,Cisco NCS 520 Series Metro Access Licens,Cisco NCS 520 Series Metro Access License,N520-S-M,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,1386.99,0,,$2138.06,0,,N,N
 CIN520-S-M2I=,Cisco NCS 520 Series Metro Access to IP ,Cisco NCS 520 Series Metro Access to IP Access Upgrade Lic,N520-S-M2I=,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,2773.99,0,,$4276.11,0,,Y,N
@@ -7395,6 +7396,7 @@ CIPSU-12VDC-70W-GR=,Powersupply - AC/DC 12V 6.25A grey,Powersupply - AC/DC 12V 6
 CIPSU-12VDC-86W-,Powersupply - AC/DC  12.3V  86W  7A  Gra,Powersupply - AC/DC  12.3V  86W  7A  Gray,PSU-12VDC-86W-,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
 CIPSU-24VDC-270W-,Powersupply - AC/DC 24V 270W,Powersupply - AC/DC 24V 270W,PSU-24VDC-270W-,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
 CIPSU2KW-ACPI,2000W AC Power Module with Port-side Air,2000W AC Power Module with Port-side Air Intake,PSU2KW-ACPI,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,0,0,,$0.00,0,,Y,N
+CIPSU2KW-ACPI=,2000W AC Power Module with Port-side Air,2000W AC Power Module with Port-side Air Intake,PSU2KW-ACPI=,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,3929.59,0,,$6057.49,-8,,Y,N
 CIPSU2KW-DCPI,2000W 48V DC Power Module with Port-side,2000W 48V DC Power Module with Port-side Air Intake,PSU2KW-DCPI,CISCO SYSTEMS LTD,,CI - IOT,,,,0,0,0,0,,$0.00,0,,Y,N
 CIPSU-80W-AC,Power adaptor 80W AC for Catalyst Micro ,Power adaptor 80W AC for Catalyst Micro switches,PSU-80W-AC,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,125.78,125.78,,$232.13,0,,N,N
 CIPSU-L-74W-ADPT,Slim 74W power adaptor for Catalyst Micr,Slim 74W power adaptor for Catalyst Micro switches,PSU-L-74W-ADPT,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,150.59,0,,$232.13,0,,Y,N
