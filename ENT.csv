@@ -434,7 +434,7 @@ MELIC-DISPLAY-3Y,Meraki Display Software License and Supp,Meraki Display Softwar
 MELIC-DISPLAY-5Y,Meraki Display Software License and Supp,Meraki Display Software License and Support 5YR,LIC-DISPLAY-5Y,CISCO MERAKI,,CI - MERAKI MV,,,,0,0,1087.52,1087.52,,$2268.85,0,,Y,N
 MELIC-ENT-10YR,Meraki MR Enterprise License 10YR,Meraki MR Enterprise License 10YR,LIC-ENT-10YR,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,1306.07,1306.07,,$2724.80,0,,N,N
 MELIC-ENT-1D,Meraki MR Enterprise License-1 Day,Meraki MR Enterprise License-1 Day,LIC-ENT-1D,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,0.6,0.6,,$1.25,0,,Y,N
-MELIC-ENT-1YR,Meraki MR Enterprise License 1YR,Meraki MR Enterprise License 1YR,LIC-ENT-1YR,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,174.13,174.13,,$363.31,-32,,N,N
+MELIC-ENT-1YR,Meraki MR Enterprise License 1YR,Meraki MR Enterprise License 1YR,LIC-ENT-1YR,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,174.13,174.13,,$363.31,-3,,N,N
 MELIC-ENT-3YR,Meraki MR Enterprise License 3YR,Meraki MR Enterprise License 3YR,LIC-ENT-3YR,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,391.83,391.83,,$817.44,-37,29-12-2025,N,N
 MELIC-ENT-5YR,Meraki MR Enterprise License 5YR,Meraki MR Enterprise License 5YR,LIC-ENT-5YR,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,653.02,653.02,,$1362.40,-11,16-01-2026,N,N
 MELIC-ENT-7YR,Meraki MR Enterprise License 7YR,Meraki MR Enterprise License 7YR,LIC-ENT-7YR,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,914.24,914.24,,$1907.36,0,,N,N
@@ -1113,7 +1113,7 @@ MELIC-Z4-SEC-1Y,Meraki Z4 Secure Teleworker License and ,Meraki Z4 Secure Telewo
 MELIC-Z4-SEC-3Y,Meraki Z4 Secure Teleworker License and ,Meraki Z4 Secure Teleworker License and Support 3 Year,LIC-Z4-SEC-3Y,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,818.18,818.18,,$1725.70,0,,N,N
 MELIC-Z4-SEC-5Y,Meraki Z4 Secure Teleworker License and ,Meraki Z4 Secure Teleworker License and Support 5 Year,LIC-Z4-SEC-5Y,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,1363.63,1363.63,,$2876.17,0,,Y,N
 MELIC-Z4-SEC-7Y,Meraki Z4 Secure Teleworker License and ,Meraki Z4 Secure Teleworker License and Support 7 Year,LIC-Z4-SEC-7Y,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,1909.1,1909.1,,$4026.65,0,,Y,N
-MEMA-ANT-20,Meraki Dual-band Omni Antennas,Meraki Dual-band Omni Antennas,MA-ANT-20,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,210.86,210.86,,$439.93,-4,19-01-2026,N,N
+MEMA-ANT-20,Meraki Dual-band Omni Antennas,Meraki Dual-band Omni Antennas,MA-ANT-20,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,210.86,210.86,,$439.93,0,19-01-2026,N,N
 MEMA-ANT-21,Meraki 5GHz Sector Antenna,Meraki 5GHz Sector Antenna,MA-ANT-21,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,369.81,369.81,,$771.55,0,,N,N
 MEMA-ANT-23,Meraki 2.4GHz Sector Antenna,Meraki 2.4GHz Sector Antenna,MA-ANT-23,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,369.81,369.81,,$771.55,0,,N,N
 MEMA-ANT-25,Meraki Dual Band Patch Antenna,Meraki Dual Band Patch Antenna,MA-ANT-25,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,369.81,369.81,,$771.55,0,,N,N
@@ -1121,13 +1121,13 @@ MEMA-ANT-27,Meraki Dual Band Sector Antenna,Meraki Dual Band Sector Antenna,MA-A
 MEMA-ANT-3-A5,Meraki Indoor Dual-band Dipole Antennas ,Meraki Indoor Dual-band Dipole Antennas 5-pack for MR42E,MA-ANT-3-A5,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,179.07,179.07,,$373.61,0,,Y,N
 MEMA-ANT-3-A6,Meraki Indoor Dual-band Dipole Ant 6-pac,Meraki Indoor Dual-band Dipole Ant 6-pack for MR46E/MR53E,MA-ANT-3-A6,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,210.86,210.86,,$439.93,0,,N,N
 MEMA-ANT-3-B5,Meraki Indoor Bendable Dual-band Dipole ,Meraki Indoor Bendable Dual-band Dipole Ant 5pk for MR42E,MA-ANT-3-B5,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,179.07,179.07,,$373.61,0,,N,N
-MEMA-ANT-3-B6,Meraki Indoor Bendable Dual-band Dipole ,Meraki Indoor Bendable Dual-band Dipole Ant 6pk MR46E/MR53E,MA-ANT-3-B6,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,210.86,210.86,,$439.93,-1,,N,N
+MEMA-ANT-3-B6,Meraki Indoor Bendable Dual-band Dipole ,Meraki Indoor Bendable Dual-band Dipole Ant 6pk MR46E/MR53E,MA-ANT-3-B6,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,210.86,210.86,,$439.93,0,,N,N
 MEMA-ANT-3-C5,Meraki Indoor Dual-band Panel Omni Anten,Meraki Indoor Dual-band Panel Omni Antenna 5-port for MR42E,MA-ANT-3-C5,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,422.82,422.82,,$882.09,0,,Y,N
 MEMA-ANT-3-C6,Meraki Indoor Dual-band Panel Omni Ant 6,Meraki Indoor Dual-band Panel Omni Ant 6port MR46E/MR53E,MA-ANT-3-C6,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,528.76,528.76,,$1103.16,0,,Y,N
 MEMA-ANT-3-D5,Meraki Indoor Dual-band Downtilt Omni An,Meraki Indoor Dual-band Downtilt Omni Antenna 5port (MR42E),MA-ANT-3-D5,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,422.82,422.82,,$882.09,0,,N,N
 MEMA-ANT-3-D6,Meraki Indoor Dual-band Downtilt Omni An,Meraki Indoor Dual-band Downtilt Omni Ant 6port MR46E/MR53E,MA-ANT-3-D6,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,528.76,528.76,,$1103.16,0,,Y,N
 MEMA-ANT-3-E5,Meraki Indoor Dual-band Wide Patch Anten,Meraki Indoor Dual-band Wide Patch Antenna 5-port for MR42E,MA-ANT-3-E5,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,634.75,634.75,,$1324.23,0,,N,N
-MEMA-ANT-3-E6,Meraki Indoor Dual-band Wide Patch Ant 6,Meraki Indoor Dual-band Wide Patch Ant 6port MR46E/MR53E,MA-ANT-3-E6,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,634.75,634.75,,$1324.23,-21,,N,N
+MEMA-ANT-3-E6,Meraki Indoor Dual-band Wide Patch Ant 6,Meraki Indoor Dual-band Wide Patch Ant 6port MR46E/MR53E,MA-ANT-3-E6,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,634.75,634.75,,$1324.23,0,,N,N
 MEMA-ANT-3-F5,Meraki Indoor Dual-band Narrow Patch Ant,Meraki Indoor Dual-band Narrow Patch Antenna 5-port (MR42E),MA-ANT-3-F5,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,1482.45,1482.45,,$3092.84,0,,Y,N
 MEMA-ANT-3-F6,Meraki Indoor Dual-band Narrow Patch Ant,Meraki Indoor Dual-band Narrow Patch Ant 6-port MR46E/MR53E,MA-ANT-3-F6,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,1482.45,1482.45,,$3092.84,0,,Y,N
 MEMA-ANT-C1-A,Meraki MG21E Dipole Antenna (1 pair),Meraki MG21E Dipole Antenna (1 pair),MA-ANT-C1-A,CISCO MERAKI,,CI - MERAKI MG,,,,0,0,43.76,43.76,,$110.54,0,,N,N
@@ -1251,12 +1251,12 @@ MEMR28-HW,Meraki MR28 Wi-Fi 6 Indoor AP,Meraki MR28 Wi-Fi 6 Indoor AP,MR28-HW,CI
 MEMR36H-HW,Meraki MR36H Wi-Fi 6 Cloud Managed AP,Meraki MR36H Wi-Fi 6 Cloud Managed AP,MR36H-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,593.66,593.66,,$1837.57,0,21-01-2026,N,N
 MEMR36-HW,Meraki MR36 Wi-Fi 6 Indoor AP,Meraki MR36 Wi-Fi 6 Indoor AP,MR36-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,596.97,596.97,,$1548.23,0,,N,N
 MEMR44-HW,Meraki MR44 WiFi 6 Indoor AP,Meraki MR44 WiFi 6 Indoor AP,MR44-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,997.89,997.89,,$2520.00,0,13-10-2025,N,N
-MEMR46E-HW,Meraki MR46E Wi-Fi 6 Indoor AP w Externa,Meraki MR46E Wi-Fi 6 Indoor AP w External Antenna Connectors,MR46E-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,1565.27,1565.27,,$3663.67,-22,,N,N
+MEMR46E-HW,Meraki MR46E Wi-Fi 6 Indoor AP w Externa,Meraki MR46E Wi-Fi 6 Indoor AP w External Antenna Connectors,MR46E-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,1565.27,1565.27,,$3663.67,0,,N,N
 MEMR46-HW,Meraki MR46 Wi-Fi 6 Indoor AP,Meraki MR46 Wi-Fi 6 Indoor AP,MR46-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,1565.27,1565.27,,$3663.67,0,,N,N
 MEMR56-HW,Meraki MR56 Wi-Fi 6 Indoor AP,Meraki MR56 Wi-Fi 6 Indoor AP,MR56-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,1818.86,1818.86,,$4365.26,0,,N,N
-MEMR57-HW,Meraki MR57 Wi-Fi 6E Indoor AP,Meraki MR57 Wi-Fi 6E Indoor AP,MR57-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,2330.43,2330.43,,$5454.57,-19,21-01-2026,N,N
+MEMR57-HW,Meraki MR57 Wi-Fi 6E Indoor AP,Meraki MR57 Wi-Fi 6E Indoor AP,MR57-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,2330.43,2330.43,,$5454.57,-19,,N,N
 MEMR74-HW,EOS Meraki MR74 Cloud Managed AP,EOS Meraki MR74 Cloud Managed AP,MR74-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,1655.38,0,,$2467.37,5,,N,N
-MEMR76-HW,Meraki MR76 Wi-Fi 6 Outdoor AP,Meraki MR76 Wi-Fi 6 Outdoor AP,MR76-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,1474.53,1474.53,,$4042.67,-2,16-01-2026,N,N
+MEMR76-HW,Meraki MR76 Wi-Fi 6 Outdoor AP,Meraki MR76 Wi-Fi 6 Outdoor AP,MR76-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,1474.53,1474.53,,$4042.67,0,16-01-2026,N,N
 MEMR78-HW,Meraki MR78 Wi-Fi 6 Outdoor AP,Meraki MR78 Wi-Fi 6 Outdoor AP,MR78-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,1249.85,1249.85,,$2925.38,0,,N,N
 MEMR84-HW,EOS Meraki MR84 Cloud Managed AP,EOS Meraki MR84 Cloud Managed AP,MR84-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,3440.51,0,,$5303.58,0,,N,N
 MEMR86-HW,Meraki MR86 Wi-Fi 6 Outdoor AP,Meraki MR86 Wi-Fi 6 Outdoor AP,MR86-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,2404.31,2404.31,,$5627.57,0,21-01-2026,N,N
@@ -1442,7 +1442,7 @@ CI4G-CAB-ULL-50=,50-ft (15M) Ultra Low Loss LMR 400 Cable,50-ft (15M) Ultra Low 
 CI4G-LTE-ANTM-D,4G LTE articulating dipole antenna 700MH,4G LTE articulating dipole antenna 700MHz-2600MHz bands,4G-LTE-ANTM-D,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,117.51,117.51,,$221.07,0,,N,N
 CI4G-LTE-ANTM-D=,4G LTE articulating dipole antenna 700MH,4G LTE articulating dipole antenna 700MHz-2600MHz bands,4G-LTE-ANTM-D=,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,117.51,117.51,,$221.07,0,,N,N
 CI4G-LTE-ANTM-O-3-B,4G LTE 3 in 1 outdoor Black antenna 700M,4G LTE 3 in 1 outdoor Black antenna 700MHz-2600MHz bands,4G-LTE-ANTM-O-3-B,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,1175.02,1175.02,,$2210.75,0,,Y,N
-CI4G-LTE-ANTM-O-3-B=,4G LTE 3 in 1 outdoor Black antenna 700M,4G LTE 3 in 1 outdoor Black antenna 700MHz-2600MHz bands,4G-LTE-ANTM-O-3-B=,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,1233.79,1233.79,,$2321.29,0,,Y,N
+CI4G-LTE-ANTM-O-3-B=,4G LTE 3 in 1 outdoor Black antenna 700M,4G LTE 3 in 1 outdoor Black antenna 700MHz-2600MHz bands,4G-LTE-ANTM-O-3-B=,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,1233.79,1233.79,,$2321.29,0,,N,N
 CI4G-LTE-ANTM-O-3-C,4G LTE 3 in 1 outdoor Blue antenna 700MH,4G LTE 3 in 1 outdoor Blue antenna 700MHz-2600MHz bands,4G-LTE-ANTM-O-3-C,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,1175.02,1175.02,,$2210.75,0,,Y,N
 CI4G-LTE-ANTM-O-3-C=,4G LTE 3 in 1 outdoor Blue antenna 700MH,4G LTE 3 in 1 outdoor Blue antenna 700MHz-2600MHz bands,4G-LTE-ANTM-O-3-C=,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,1233.79,1233.79,,$2321.29,0,,Y,N
 CI4G-LTE-ANTM-O-3-R,4G LTE 3 in 1 outdoor Red antenna 700MHz,4G LTE 3 in 1 outdoor Red antenna 700MHz-2600MHz bands,4G-LTE-ANTM-O-3-R,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,1175.02,1175.02,,$2210.75,0,,Y,N
@@ -5678,7 +5678,7 @@ CIHS-W-322Q-C-USBA,Headset 322 Wired Dual Carbon Black USB-,Headset 322 Wired Du
 CIHS-W-322Q-C-USBC,Headset 322 Wired Dual Carbon Black USB-,Headset 322 Wired Dual Carbon Black USB-C Teams Qualified,HS-W-322Q-C-USBC,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,138.96,138.96,,$430.14,0,,Y,N
 CIHS-WL-700-CBLKITC=,Headset USB-C Accessory Kit - SPARE,Headset USB-C Accessory Kit - SPARE,HS-WL-700-CBLKITC=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,85.3,0,,$131.48,0,,Y,N
 CIHS-WL-720-DSKCH-A,720 Series Wireless Headset Desk Chargin,720 Series Wireless Headset Desk Charging Stand,HS-WL-720-DSKCH-A,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
-CIHS-WL-720-DSKCH-A=,720 Series Wireless Headset Desk Chargin,720 Series Wireless Headset Desk Charging Stand w/USB-A,HS-WL-720-DSKCH-A=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,170.59,0,,$262.96,0,,Y,N
+CIHS-WL-720-DSKCH-A=,720 Series Wireless Headset Desk Chargin,720 Series Wireless Headset Desk Charging Stand w/USB-A,HS-WL-720-DSKCH-A=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,170.59,0,,$262.96,0,,N,N
 CIHS-WL-721-BUNA-C,Headset 721 Wireless Single On-ear Carbo,Headset 721 Wireless Single On-ear Carbon Black USBA Bundle,HS-WL-721-BUNA-C,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,329.43,329.43,,$957.93,2,,N,N
 CIHS-WL-721-BUNAS-C,Headset 721 Wireless Single+Stand Carbon,Headset 721 Wireless Single+Stand Carbon Black USBA Bundle,HS-WL-721-BUNAS-C,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,394.04,394.04,,$1145.76,0,,Y,N
 CIHS-WL-721-C,Headset 721 Wireless Single On-ear - Car,Headset 721 Wireless Single On-ear - Carbon Black,HS-WL-721-C,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,0,0,,$0.00,0,,Y,N
