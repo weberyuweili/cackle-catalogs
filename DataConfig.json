@@ -286,4 +286,16 @@
 		"EtaColumn" : null,
 		"EanColumn" : "GTIN"
 	}
+	,
+	{
+		"SupplierCode" : "Westan NZ Ltd",
+		"SupplierName" : "Westan (NZ) Limited",
+		"SheetName" : "Kramer.csv",
+		"PartNumberColumn" : "Part Number",
+		"PriceColumn" : "R4 - BUY",
+		"StockColumn" : null,
+		"DescriptionColumn" : "Product Description",
+		"EtaColumn" : null,
+		"EanColumn" : null
+	}
 ]
