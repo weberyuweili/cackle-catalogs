@@ -1,31 +1,4 @@
 BRAND,STOCKCODE,DESCRIPTION,STOCK CLASS,MSRP (excl),TRADE (excl),SOH,STOCK GROUP,UPC
-Aurora Multimedia,DXE-122A,Aurora 1x2 HDMI 2.0A 4K Splitter,DISCOUNT,735,99,3,Automation & Control,0
-Aurora Multimedia,IPX-TC1-C,Aurora 4K Transceiver with IPBase T,DISCOUNT,3309,499,6,Automation & Control,737212163437
-Aurora Multimedia,IPX-TC1-F,Aurora 4K Transceiver with IPBase T,DISCOUNT,3701,499,10,Automation & Control,737212163444
-Aurora Multimedia,IPX-TCW3-C-W,Aurora 4K Transceiver Wall Plate,DISCOUNT,3545,499,5,Automation & Control,737212163482
-Aurora Multimedia,IPX-TCW3-F-W,Aurora 4K Transceiver Wall Plate,DISCOUNT,3937,499,5,Automation & Control,737212163505
-Aurora Multimedia,IPX-USB2,Aurora IPX USB 2.0 Option Card,DISCOUNT,607,99,6,Automation & Control,737212164861
-Aurora Multimedia,MCX-VTH,Aurora VGA to HDMI® converter,DISCOUNT,392,99,3,Automation & Control,73721263635
-Aurora Multimedia,ORC-1C-W,Aurora One Room-One Cable Complete Kit,DISCOUNT,5797,899,4,Automation & Control,
-Aurora Multimedia,PS0094-4,Aurora 48v DC 24 Watt Power Supply,DISCOUNT,80,9,11,Automation & Control,737212164694
-Aurora Multimedia,QXP-2,Aurora NX Series Controller,DISCOUNT,2358,299,10,Automation & Control,737212163178
-Aurora Multimedia,QXP-2-IPX,Aurora IPX Embedded Linux Control Server,DISCOUNT,23211,299,9,Automation & Control,
-AVS,CM2215B,AVS Cable King Pack 22mm,DISCOUNT,10,0.5,1031,AV Accessories,9421901838751
-AVS,AHDDP270,AVS Theatre Adapter,DISCOUNT,10,0.99,185,Cables & Connectivity,9421901838010
-AVS,AHDMX44,AVS Theatre HDMI 4x4 Matrix,DISCOUNT,80,29,19,Cables & Connectivity,9421901838072
-AVS,AIR35T,In-Line 3.5mm Stereo Socket,DISCOUNT,12.99,0.99,239,Cables & Connectivity,9421901838591
-AVS,AIRDNG,AVS Theatre IR Extender,DISCOUNT,10,0.99,38,Cables & Connectivity,9421901838133
-AVS,AIREM1,AVS Theatre IR Extender,DISCOUNT,15,0.99,65,Cables & Connectivity,9421901838140
-AVS,AIREM2,AVS Theatre IR Extender,DISCOUNT,15,0.99,60,Cables & Connectivity,9421901838157
-AVS,AIREM3,AVS Theatre IR Extender,DISCOUNT,15,0.99,27,Cables & Connectivity,9421901838164
-AVS,AIRHDMIK,AVS Theatre IR Extender,DISCOUNT,30,9.99,16,Cables & Connectivity,9421901838195
-AVS,AIRHDRC,AVS Theatre IR Receiver,DISCOUNT,31.3,0.99,19,Cables & Connectivity,9421901838201
-AVS,AIRHDTM,AVS Theatre IR Transmitter,DISCOUNT,31.3,0.99,35,Cables & Connectivity,9421901838218
-AVS,AIRRC1,AVS Theatre IR Extender,DISCOUNT,15,0.99,10,Cables & Connectivity,9421901838225
-AVS,ATIAG,AVS iA Cable Lightning & Micro USB Gold,DISCOUNT,14,0.5,142,Cables & Connectivity,9421901838652
-AVS,ATIAP,AVS iA Cable Lightning & Micro USB Pink,DISCOUNT,14,0.5,872,Cables & Connectivity,9421904917057
-AVS,ATR2000,AVS Theatre HDMI Cable,DISCOUNT,80,19.99,160,Cables & Connectivity,9421903115782
-AVS,ATSP416P,AVS Theatre Speaker Cable,DISCOUNT,150,29,1,Cables & Connectivity,9421901838300
 AVS,AFBB,AVS Brushed Wall Plate WHITE,NORMAL,22.94,16.06,1877,Cables & Connectivity,9421903115812
 AVS,AFBBK,AVS Brushed Wall Plate BLACK,NORMAL,22.94,16.06,1960,Cables & Connectivity,9421901838744
 AVS,SAFR15,AVS AV Rack 15RU,NORMAL,770.83,549,10,Professional AV Solutions,9421904917002
@@ -42,7 +15,7 @@ AVS,SAR4UBP,4U Blanking Panels,NORMAL,24,17,37,Professional AV Solutions,9421903
 AVS,SAVC3780B,"AVS VC Cart 37-80"" Panel",NORMAL,799,599,42,Professional AV Solutions,9421904917040
 AVS,SAVC5590B,"AVS VC Cart 55-90"" Panel",NORMAL,899,649,22,Professional AV Solutions,9421904917934
 AVS,SAVC75X2,AVS Dual Screen Adapter,NORMAL,434.77,301.85,0,Professional AV Solutions,9421904917552
-AVS,MLASM,Metal Lab Adjustable Side Speaker Mount,SPECIAL ORDER ONLY,782,548,3,No Group Selected,0
+AVS,MLASM,Metal Lab Adjustable Side Speaker Mount,SPECIAL ORDER ONLY,782,548,3,No Group Selected,
 AVS,MLOWM75JBSC,Metal Lab Outdoor Wall Mount for 75,SPECIAL ORDER ONLY,POA,POA,0,No Group Selected,
 AVS,MLCAB,"Metal Lab Ceiling Adapter, Black",SPECIAL ORDER ONLY,POA,POA,0,Professional AV Solutions,
 AVS,MLF2CCB,"Metal Lab Floor To Ceiling Column, Black",SPECIAL ORDER ONLY,POA,POA,0,Professional AV Solutions,
@@ -61,7 +34,7 @@ Chief,FCA800HS,Above/Below HuddleSHOT Camera Shelf,DISCOUNT,941.15,299,3,Profess
 Chief,FCA800K,ConferenceSHOT ePTZ FCA MOUNT L DISPLAY,DISCOUNT,245.33,49,1,Professional AV Solutions,841872176086
 Chief,FCA801,Fusion 14inch Above/Below Shelf,DISCOUNT,322.47,69,1,Professional AV Solutions,841872163826
 Chief,FCA810E,IntelliSHOT FCA MOUNT XL DISPLAY,DISCOUNT,430.47,199,1,Professional AV Solutions,841872176031
-Chief,FCA810VE,Fusion Above/Below ViewShare Kit,DISCOUNT,2160,499,1,Professional AV Solutions,0
+Chief,FCA810VE,Fusion Above/Below ViewShare Kit,DISCOUNT,2160,499,1,Professional AV Solutions,
 Chief,FCA812,Fusion Lower Component Shelf,DISCOUNT,430.47,99,1,Professional AV Solutions,841872165837
 Chief,FCA821,Chief Fusion Center Camera Shelf 14in,DISCOUNT,387.74,79,1,Professional AV Solutions,841872162683
 Chief,FCAC,FUSION LCM Menu Board Accessories,DISCOUNT,216,99,7,Professional AV Solutions,841872161082
@@ -225,7 +198,7 @@ Chief,LFAUB,Chief Large Fusion Floor Stand,NORMAL,3255.72,2299,12,Professional A
 Chief,LPAUB,Chief Large Mobile Cart,NORMAL,1712.86,1199,6,Professional AV Solutions,841872155951
 Chief,LSA1U,Chief Large Fixed Wall Mount 90kg,NORMAL,362.84,253.98,23,Professional AV Solutions,841872163710
 Chief,LSM1U,"Large Micro-Adjustable Fixed 42-86"" 90kg",NORMAL,383.69,269.25,191,Professional AV Solutions,841872163260
-Chief,LSTU,Chief Fixed Wall Mount,NORMAL,312.8571429,219,2,Professional AV Solutions,841872117225
+Chief,LSTU,Chief Fixed Wall Mount,NORMAL,384.29,269,2,Professional AV Solutions,841872117225
 Chief,LTA1U,Large Fusion Tilt Wall Mount,NORMAL,555.71,389,6,Professional AV Solutions,841872163727
 Chief,LTM1U,Large Micro-Adjustable Tilt 90kg,NORMAL,621.43,435,15,Professional AV Solutions,841872163277
 Chief,LVS1U,Video Wall Landscape Mounting,NORMAL,1007.14,705,12,Professional AV Solutions,841872161150
@@ -1351,15 +1324,15 @@ TouchBoard,TBMS-BRK-WEBCAM1,TouchBoard Webcam Mount Adjustable,SPECIAL ORDER ONL
 TouchBoard,TBMS-BRK-WEBCAM2,TouchBoard Webcam Mount Fixed,SPECIAL ORDER ONLY,POA,POA,0,Professional AV Solutions,
 TouchBoard,TBMS-FREE-FH,Free Standing Fixed Height System,SPECIAL ORDER ONLY,2608,1956,0,Professional AV Solutions,
 TouchBoard,TBMS-FREE-FH-DUAL,TouchBoard Fixed Free Stand Dual Screen,SPECIAL ORDER ONLY,POA,POA,0,Professional AV Solutions,
-TouchBoard,TBMS-FREE-HA-CENT,TouchBoard Motorised Free Stand Column,SPECIAL ORDER ONLY,2872,2154,0,Professional AV Solutions,0
+TouchBoard,TBMS-FREE-HA-CENT,TouchBoard Motorised Free Stand Column,NORMAL,2872,2154,20+,Professional AV Solutions,0
 TouchBoard,TBMS-FREE-MOB-DUAL,TouchBoard Fixed Height Dual Monitor Car,SPECIAL ORDER ONLY,POA,POA,0,Professional AV Solutions,
 TouchBoard,TBMS-MOB-FH,TouchBoard Fixed Height Cart,SPECIAL ORDER ONLY,2191,1643,0,Professional AV Solutions,
-TouchBoard,TBMS-MOB-HA-A,TouchBoard Motorised Cart Actuator Lift,SPECIAL ORDER ONLY,2695,2021,0,Professional AV Solutions,
-TouchBoard,TBMS-MOB-HA-CENT,TouchBoard Motorised Cart Centre Column,SPECIAL ORDER ONLY,2752,2064,0,Professional AV Solutions,
+TouchBoard,TBMS-MOB-HA-A,TouchBoard Motorised Cart Actuator Lift,NORMAL,2695,2021,20+,Professional AV Solutions,
+TouchBoard,TBMS-MOB-HA-CENT,TouchBoard Motorised Cart Centre Column,NORMAL,2752,2064,20+,Professional AV Solutions,
 TouchBoard,TBMS-MOB-HA-CENT-DEMO,TouchBoard Motorised Cart Centre Column,SPECIAL ORDER ONLY,2752,2064,1,Professional AV Solutions,
 TouchBoard,TBMS-MOB-HA-TE,TouchBoard Motirised Table Easle,SPECIAL ORDER ONLY,2932,2199,0,Professional AV Solutions,
 TouchBoard,TBMS-WALL-HA-C,TouchBoard Motorised Wall Mount Column L,SPECIAL ORDER ONLY,2752,2064,0,Professional AV Solutions,
-TouchBoard,TBMS-WALL-HA-CENT,TouchBoard Motorised Wall Mount Centre C,SPECIAL ORDER ONLY,2953,2568,0,Professional AV Solutions,
+TouchBoard,TBMS-WALL-HA-CENT,TouchBoard Motorised Wall Mount Centre C,NORMAL,2953,2568,3,Professional AV Solutions,
 TouchBoard,WALLAC,TouchBoard TBMS-WALL-HA-C BOX 2/2,SPECIAL ORDER ONLY,POA,POA,0,Professional AV Solutions,
 TouchBoard,WALLFR,TouchBoard TBMS-WALL-HA-C BOX 1/2,SPECIAL ORDER ONLY,POA,POA,0,Professional AV Solutions,
 Vaddio,440-1005-008,"Vaddio USB 3.0  Cable, 8m",DISCOUNT,700,149,4,Unified Communications,840077505844
@@ -1408,3 +1381,203 @@ Vestel,XN86A-3F,"Vestel Extreme Series XN86 - 86"" 24/7",DISCOUNT,3749,1999,2,Vi
 Vestel,XN86D-4H,"NEW Vestel Extreme XN86+ - 86"" 24/7",DISCOUNT,3749,1999,7,Visual Solutions,
 Vestel,XN98B-4F,"Vestel Extreme Series XN98 - 98"" 24/7",DISCOUNT,6874,5000,1,Visual Solutions,
 Vestel,30102186,ASSY TCON LG 2D LC550EQY-SMA3 CN,NORMAL,154.13,107.89,1,Visual Solutions,0
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
