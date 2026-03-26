@@ -1239,7 +1239,7 @@ MEMA-PWR-640WAC,Meraki 640WAC PSU,Meraki 640WAC PSU,MA-PWR-640WAC,CISCO MERAKI,,
 MEMA-PWR-715WAC,Meraki MS390 715W AC Power Supply,Meraki MS390 715W AC Power Supply,MA-PWR-715WAC,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,1250.74,1250.74,,$2609.38,0,,N,N
 MEMA-PWR-90WAC,Meraki MS120-8LP/MX65 Replacement Power ,Meraki MS120-8LP/MX65 Replacement Power Adapter (90 WAC),MA-PWR-90WAC,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,130.51,130.51,,$334.00,0,,N,N
 MEMA-PWR-C14-C15-1,Meraki Power Cord C14-C15 Connectors,Meraki Power Cord C14-C15 Connectors,MA-PWR-C14-C15-1,CISCO MERAKI,,CI - MERAKI MT,,,,0,0,25.01,25.01,,$52.20,0,,N,N
-MEMA-PWR-CORD-AU,Meraki AC Power Cord for MX and MS (AU P,Meraki AC Power Cord for MX and MS (AU Plug),MA-PWR-CORD-AU,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,18.16,18.16,,$39.66,-186,13-10-2025,N,N
+MEMA-PWR-CORD-AU,Meraki AC Power Cord for MX and MS (AU P,Meraki AC Power Cord for MX and MS (AU Plug),MA-PWR-CORD-AU,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,18.16,18.16,,$39.66,-187,13-10-2025,N,N
 MEMA-PWR-CORD-AU-O,Meraki AC Power Cord (AU Plug),Meraki AC Power Cord (AU Plug),MA-PWR-CORD-AU-O,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,18.16,18.16,,$39.66,2,,Y,N
 MEMA-PWR-CORD-CN,Meraki AC Power Cord for MX and MS (Chin,Meraki AC Power Cord for MX and MS (China Plug),MA-PWR-CORD-CN,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,18.99,18.99,,$39.66,0,,N,N
 MEMA-PWR-CORD-EU,Meraki AC Power Cord for MX and MS (EU P,Meraki AC Power Cord for MX and MS (EU Plug),MA-PWR-CORD-EU,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,18.99,18.99,,$39.66,0,,N,N
@@ -1283,13 +1283,13 @@ MEMG52-HW,Meraki MG52 Cellular Gateway with suppor,Meraki MG52 Cellular Gateway 
 MEMR28-HW,Meraki MR28 Wi-Fi 6 Indoor AP,Meraki MR28 Wi-Fi 6 Indoor AP,MR28-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,390.75,390.75,,$1041.61,0,30-03-2026,N,N
 MEMR33-HW,Meraki MR20 Cloud Managed AP,Meraki MR20 Cloud Managed AP,MR33-HW,CISCO MERAKI,,CI - MERAKI SME,,,,0,0,611.85,0,,$963.62,0,,N,N
 MEMR36H-HW,Meraki MR36H Wi-Fi 6 Cloud Managed AP,Meraki MR36H Wi-Fi 6 Cloud Managed AP,MR36H-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,634.99,634.99,,$1965.47,0,,N,N
-MEMR36-HW,Meraki MR36 Wi-Fi 6 Indoor AP,Meraki MR36 Wi-Fi 6 Indoor AP,MR36-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,638.51,638.51,,$1656.00,-14,,N,N
+MEMR36-HW,Meraki MR36 Wi-Fi 6 Indoor AP,Meraki MR36 Wi-Fi 6 Indoor AP,MR36-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,638.51,638.51,,$1656.00,-16,,N,N
 MEMR44-HW,Meraki MR44 WiFi 6 Indoor AP,Meraki MR44 WiFi 6 Indoor AP,MR44-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,1067.36,1067.36,,$2695.42,-5,13-10-2025,N,N
 MEMR46E-HW,Meraki MR46E Wi-Fi 6 Indoor AP w Externa,Meraki MR46E Wi-Fi 6 Indoor AP w External Antenna Connectors,MR46E-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,1674.22,1674.22,,$3918.70,0,,N,N
 MEMR46-HW,Meraki MR46 Wi-Fi 6 Indoor AP,Meraki MR46 Wi-Fi 6 Indoor AP,MR46-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,1674.22,1674.22,,$3918.70,-2,,N,N
 MEMR56-HW,Meraki MR56 Wi-Fi 6 Indoor AP,Meraki MR56 Wi-Fi 6 Indoor AP,MR56-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,1818.86,1818.86,,$4365.26,0,,N,N
 MEMR57-HW,Meraki MR57 Wi-Fi 6E Indoor AP,Meraki MR57 Wi-Fi 6E Indoor AP,MR57-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,2492.62,2492.62,,$5834.25,0,,N,N
-MEMR74-HW,EOS Meraki MR74 Cloud Managed AP,EOS Meraki MR74 Cloud Managed AP,MR74-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,1655.38,0,,$2467.37,5,,N,N
+MEMR74-HW,EOS Meraki MR74 Cloud Managed AP,EOS Meraki MR74 Cloud Managed AP,MR74-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,1655.38,0,,$2467.37,4,,N,N
 MEMR76-HW,Meraki MR76 Wi-Fi 6 Outdoor AP,Meraki MR76 Wi-Fi 6 Outdoor AP,MR76-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,1577.17,1577.17,,$4324.07,0,,N,N
 MEMR78-HW,Meraki MR78 Wi-Fi 6 Outdoor AP,Meraki MR78 Wi-Fi 6 Outdoor AP,MR78-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,1336.84,1336.84,,$3129.01,0,,N,N
 MEMR84-HW,EOS Meraki MR84 Cloud Managed AP,EOS Meraki MR84 Cloud Managed AP,MR84-HW,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,3248.71,0,,$5007.92,0,,N,N
@@ -1310,7 +1310,7 @@ MEMS130-8-HW,Meraki MS130-8 8GE Switch (excludes powe,Meraki MS130-8 8GE Switch 
 MEMS130-8P,Meraki MS130-8P Cloud Managed 8GE 120W P,Meraki MS130-8P Cloud Managed 8GE 120W PoE Switch,MS130-8P,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,1096.55,1096.55,,$2698.15,0,,N,N
 MEMS130-8P-HW,Meraki MS130-8P  8GE 120W PoE Switch (ex,Meraki MS130-8P  8GE 120W PoE Switch (excludes power cord),MS130-8P-HW,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,1096.55,1096.55,,$2698.15,0,11-03-2026,N,N
 MEMS130-8P-I,Meraki MS130-8P-I Cloud Mgd 8GE 120W PoE,Meraki MS130-8P-I Cloud Mgd 8GE 120W PoE Switch Internal PSU,MS130-8P-I,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,1096.55,1096.55,,$2698.15,0,,Y,N
-MEMS130-8P-I-HW,Meraki MS130-8P-I 8GE 120W PoE Switch (e,Meraki MS130-8P-I 8GE 120W PoE Switch (excludes power cord),MS130-8P-I-HW,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,1096.55,1096.55,,$2698.15,0,13-10-2025,N,N
+MEMS130-8P-I-HW,Meraki MS130-8P-I 8GE 120W PoE Switch (e,Meraki MS130-8P-I 8GE 120W PoE Switch (excludes power cord),MS130-8P-I-HW,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,1096.55,1096.55,,$2698.15,-1,13-10-2025,N,N
 MEMS130-8X,Meraki MS130-8X Cloud Mgd. 6GE + 2x(2.5G,Meraki MS130-8X Cloud Mgd. 6GE + 2x(2.5GE) 120W PoE Switch,MS130-8X,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,1734.55,1734.55,,$4267.98,0,,Y,N
 MEMS130-8X-HW,Meraki MS130-8X 6GE + 2x(2.5GE) Switch (,Meraki MS130-8X 6GE + 2x(2.5GE) Switch (excludes power cord),MS130-8X-HW,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,1734.55,1734.55,,$4267.98,0,,Y,N
 MEMS130R-8P,Meraki MS130R-8P Cloud Mgd Ruggedized 8G,Meraki MS130R-8P Cloud Mgd Ruggedized 8GE 240W PoE Switch,MS130R-8P,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,2790.41,2790.41,,$6866.05,0,,N,N
@@ -3672,7 +3672,7 @@ CIC9500-24Q-E-A-3,9500 DNA Essentials to Advantage 3 Year ,9500 DNA Essentials t
 CIC9500-24Q-E-A-5,9500 DNA Essentials to Advantage 5 Year ,9500 DNA Essentials to Advantage 5 Year License,C9500-24Q-E-A-5,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,24726.57,0,,$38116.23,0,,Y,N
 CIC9500-24X-A,Catalyst 9500 16-port 10G 8-port 10G swi,Catalyst 9500 16-port 10G 8-port 10G switch,C9500-24X-A,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,24416.23,0,,$37637.82,0,,Y,N
 CIC9500-24X-E,Catalyst 9500 16-port 10G 8-port 10G swi,Catalyst 9500 16-port 10G 8-port 10G switch,C9500-24X-E,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,24416.23,0,,$37637.82,0,,Y,N
-CIC9500-24Y4C-A,Catalyst 9500 24x1/10/25G  and 4-port 40,Catalyst 9500 24x1/10/25G  and 4-port 40/100G Advantage,C9500-24Y4C-A,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,34149.09,0,,$52641.11,-4,,N,N
+CIC9500-24Y4C-A,Catalyst 9500 24x1/10/25G  and 4-port 40,Catalyst 9500 24x1/10/25G  and 4-port 40/100G Advantage,C9500-24Y4C-A,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,34149.09,0,,$52641.11,0,06-04-2026,N,N
 CIC9500-24Y4C-E,Catalyst 9500 24x1/10/25G  and 4-port 40,Catalyst 9500 24x1/10/25G  and 4-port 40/100G Essential,C9500-24Y4C-E,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,34149.09,0,,$52641.11,0,,N,N
 CIC9500-24Y4C-EA-3,C9500 24P25G Essentials to Advantage Upg,C9500 24P25G Essentials to Advantage Upgrade 3 Years,C9500-24Y4C-EA-3,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,9036.72,0,,$13930.19,0,,N,N
 CIC9500-24Y4C-EA-5,C9500 24P25G Essentials to Advantage Upg,C9500 24P25G Essentials to Advantage Upgrade 5 Years,C9500-24Y4C-EA-5,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,14458.77,0,,$22288.30,0,,Y,N
@@ -3884,7 +3884,7 @@ CIC9K-SMART-BUILDING,Smart Building Application Identifier,Smart Building Applic
 CIC9K-T1-FANTRAY,Catalyst 9500 Type 4 front to back cooli,Catalyst 9500 Type 4 front to back cooling Fan,C9K-T1-FANTRAY,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,0,0,,$0.00,0,,Y,N
 CIC9K-T2-FANTRAY,Catalyst 9500 Type 5 front to back cooli,Catalyst 9500 Type 5 front to back cooling Fan,C9K-T2-FANTRAY,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,0,0,,$0.00,0,,Y,N
 CIC9K-WALL-TRAY,Wall Mount Bracket for 9200CX Compact Sw,Wall Mount Bracket for 9200CX Compact Switch,C9K-WALL-TRAY,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,52.86,52.86,,$93.95,0,,N,N
-CIC9K-WALL-TRAY=,Wall Mount Bracket for 9200CX Compact Sw,Wall Mount Bracket for 9200CX Compact Switch,C9K-WALL-TRAY=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,52.86,52.86,,$93.95,0,,N,N
+CIC9K-WALL-TRAY=,Wall Mount Bracket for 9200CX Compact Sw,Wall Mount Bracket for 9200CX Compact Switch,C9K-WALL-TRAY=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,52.86,52.86,,$93.95,-1,,N,N
 CICAB-16AWG-AC,AC Power cord 16AWG,AC Power cord 16AWG,CAB-16AWG-AC,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,0,0,,$0.00,0,,Y,N
 CICAB-16AWG-AC=,AC Power cord 16AWG,AC Power cord 16AWG,CAB-16AWG-AC=,CISCO SYSTEMS LTD,,CI - ENTERPRISE SWITCHING,,,,0,0,122.32,122.32,,$230.15,0,,Y,N
 CICAB-25AS-MMOD=,Male DB-25 Modem Connector,Male DB-25 Modem Connector,CAB-25AS-MMOD=,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,33.86,0,,$52.20,0,,N,N
@@ -4600,7 +4600,7 @@ CICS-BARPRO-MOUNT=,Mounting Kit for Cisco Room Bar Pro - SP,Mounting Kit for Cis
 CICS-BARPRO-NR-K9,Cisco Room Bar Pro First Light - Non-Rad,Cisco Room Bar Pro First Light - Non-Radio,CS-BARPRO-NR-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,17608.25,17608.25,,$32498.16,0,,N,N
 CICS-BAR-T-C-K9,Cisco Room Bar in Carbon Black w/Navigat,Cisco Room Bar in Carbon Black w/Navigator(Table Stand),CS-BAR-T-C-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,3664.78,3664.78,,$13523.69,0,,N,N
 CICS-BAR-T-C-K9-RF,CiscoRoomBarinCarbonBlackw/Navigator(Tbl,CiscoRoomBarinCarbonBlackw/Navigator(TblStnd) REMANUFACTURED,CS-BAR-T-C-K9-RF,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,4726.71,0,,$7286.26,0,,Y,N
-CICS-BAR-T-K9,Cisco Room Bar in First Light w/Navigato,Cisco Room Bar in First Light w/Navigator(Table Stand),CS-BAR-T-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,4083.21,4083.21,,$13059.76,-1,,N,N
+CICS-BAR-T-K9,Cisco Room Bar in First Light w/Navigato,Cisco Room Bar in First Light w/Navigator(Table Stand),CS-BAR-T-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,4083.21,4083.21,,$13059.76,0,02-04-2026,N,N
 CICS-BAR-W-C-K9,Cisco Room Bar in Carbon Black w/Navigat,Cisco Room Bar in Carbon Black w/Navigator(Wall Mount),CS-BAR-W-C-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,5485.61,5485.61,,$13852.95,0,,Y,N
 CICS-BAR-W-K9,Cisco Room Bar in First Light w/Navigato,Cisco Room Bar in First Light w/Navigator(Wall Mount),CS-BAR-W-K9,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,5485.61,5485.61,,$13852.95,0,,N,N
 CICS-BRD55P-FS,Cisco Board Pro 55 Floor Stand,Cisco Board Pro 55 Floor Stand,CS-BRD55P-FS,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,6032.35,0,,$9298.90,0,,N,N
@@ -5485,7 +5485,7 @@ CIFPR2K-ASASC-5,Cisco Firepower 2100 - Add 5 Security Co,Cisco Firepower 2100 - 
 CIFPR2K-ENC-K9,Cisco Firepower 2000 Series ASA Strong E,Cisco Firepower 2000 Series ASA Strong Encryption (3DES/AES),FPR2K-ENC-K9,CISCO SYSTEMS LTD,,CI - SECURITY,,,,0,0,0,0,,$0.00,0,,Y,N
 CIFPR2K-EXCLUDE-SUBS,Cisco Firepower 2100 Series - Exclude Su,Cisco Firepower 2100 Series - Exclude Subscriptions,FPR2K-EXCLUDE-SUBS,CISCO SYSTEMS LTD,,CI - SECURITY,,,,0,0,0,0,,$0.00,0,,Y,N
 CIFPR3100-FTD-HA-BUN,Cisco Secure Firewall 3K Threat Defense ,Cisco Secure Firewall 3K Threat Defense Chss Subs HA Bundle,FPR3100-FTD-HA-BUN,CISCO SYSTEMS LTD,,CI - SECURITY,,,,0,0,0,0,,$0.00,0,,Y,N
-CIFPR3105-ASA-K9,Cisco Secure Firewall 3105 ASA Appliance,Cisco Secure Firewall 3105 ASA Appliance 1U,FPR3105-ASA-K9,CISCO SYSTEMS LTD,,CI - SECURITY,,,,0,0,31765.4,31765.4,,$64861.80,-5,,Y,N
+CIFPR3105-ASA-K9,Cisco Secure Firewall 3105 ASA Appliance,Cisco Secure Firewall 3105 ASA Appliance 1U,FPR3105-ASA-K9,CISCO SYSTEMS LTD,,CI - SECURITY,,,,0,0,31765.4,31765.4,,$64861.80,0,,Y,N
 CIFPR3105-BSE,Cisco Secure Firewall 3105 Base Lic,Cisco Secure Firewall 3105 Base Lic,FPR3105-BSE,CISCO SYSTEMS LTD,,CI - SECURITY,,,,0,0,0,0,,$0.00,0,,Y,N
 CIFPR3105-NGFW-K9,Cisco Secure Firewall 3105 NGFW Applianc,Cisco Secure Firewall 3105 NGFW Appliance 1U,FPR3105-NGFW-K9,CISCO SYSTEMS LTD,,CI - SECURITY,,,,0,0,31765.4,31765.4,,$64861.80,0,,N,N
 CIFPR3105-P,Cloud Management  for FPR 3105,Cloud Management  for FPR 3105,FPR3105-P,CISCO SYSTEMS LTD,,CI - SECURITY,,,,0,0,0,0,,$0.00,0,,Y,N
@@ -6070,7 +6070,7 @@ CIL-AC-PLS-P-G,Secure Client Advantage Perpetual Licens,Secure Client Advantage 
 CIL-AC-VPNO-100=,Cisco AnyConnect VPN Only 100 Simultaneo,Cisco AnyConnect VPN Only 100 Simultaneous (eDelivery),L-AC-VPNO-100=,CISCO SYSTEMS LTD,,CI - SECURITY,,,,0,0,14719.66,14719.66,,$25685.51,0,,Y,N
 CIL-AC-VPNO-1K=,Cisco AnyConnect VPN Only 1K Simultaneou,Cisco AnyConnect VPN Only 1K Simultaneous (eDelivery),L-AC-VPNO-1K=,CISCO SYSTEMS LTD,,CI - SECURITY,,,,0,0,58333.89,0,,$89922.21,0,,Y,N
 CIL-AC-VPNO-25=,Cisco AnyConnect VPN Only 25 Simultaneou,Cisco AnyConnect VPN Only 25 Simultaneous (eDelivery),L-AC-VPNO-25=,CISCO SYSTEMS LTD,,CI - SECURITY,,,,0,0,4125.49,4125.49,,$7332.16,0,,N,N
-CIL-AC-VPNO-250=,Cisco AnyConnect VPN Only 250 Simultaneo,Cisco AnyConnect VPN Only 250 Simultaneous (eDelivery),L-AC-VPNO-250=,CISCO SYSTEMS LTD,,CI - SECURITY,,,,0,0,33040.02,33040.02,,$58721.53,-1,,Y,N
+CIL-AC-VPNO-250=,Cisco AnyConnect VPN Only 250 Simultaneo,Cisco AnyConnect VPN Only 250 Simultaneous (eDelivery),L-AC-VPNO-250=,CISCO SYSTEMS LTD,,CI - SECURITY,,,,0,0,33040.02,33040.02,,$58721.53,0,,Y,N
 CIL-AC-VPNO-2500=,Cisco AnyConnect VPN Only 2500 Simultane,Cisco AnyConnect VPN Only 2500 Simultaneous (eDelivery),L-AC-VPNO-2500=,CISCO SYSTEMS LTD,,CI - SECURITY,,,,0,0,104767.67,0,,$161500.26,0,,Y,N
 CIL-AC-VPNO-50=,Cisco AnyConnect VPN Only 50 Simultaneou,Cisco AnyConnect VPN Only 50 Simultaneous (eDelivery),L-AC-VPNO-50=,CISCO SYSTEMS LTD,,CI - SECURITY,,,,0,0,7357.2,7357.2,,$12838.16,0,,Y,N
 CIL-AC-VPNO-500=,Cisco AnyConnect VPN Only 500 Simultaneo,Cisco AnyConnect VPN Only 500 Simultaneous (eDelivery),L-AC-VPNO-500=,CISCO SYSTEMS LTD,,CI - SECURITY,,,,0,0,41014.19,41014.19,,$71568.87,0,,Y,N
@@ -6517,7 +6517,7 @@ CIL-FPR3140T-URL=,Cisco Secure Firewall 3140 URL Filtering,Cisco Secure Firewall
 CIL-FPR3140T-URL-1Y,Cisco Secure Firewall 3140 URL Filtering,Cisco Secure Firewall 3140 URL Filtering 1Y Subs,L-FPR3140T-URL-1Y,CISCO SYSTEMS LTD,,CI - SECURITY,,,,0,0,15622.23,15622.23,,$39451.11,0,,Y,N
 CIL-FPR3140T-URL-3Y,Cisco Secure Firewall 3140 URL Filtering,Cisco Secure Firewall 3140 URL Filtering 3Y Subs,L-FPR3140T-URL-3Y,CISCO SYSTEMS LTD,,CI - SECURITY,,,,0,0,42180.03,42180.03,,$106518.01,0,,Y,N
 CIL-FPR3K-ASA-BPU=,Cisco Secure Firewall 3100 Universal PLR,Cisco Secure Firewall 3100 Universal PLR ASA Base License,L-FPR3K-ASA-BPU=,CISCO SYSTEMS LTD,,CI - SECURITY,,,,0,0,0,0,,$0.00,0,,Y,N
-CIL-FPR3K-ASASC-10=,Cisco Secure Firewall 3100 - Add 10 Secu,Cisco Secure Firewall 3100 - Add 10 Security Context License,L-FPR3K-ASASC-10=,CISCO SYSTEMS LTD,,CI - SECURITY,,,,0,0,7196.66,0,,$11093.69,-2,,Y,N
+CIL-FPR3K-ASASC-10=,Cisco Secure Firewall 3100 - Add 10 Secu,Cisco Secure Firewall 3100 - Add 10 Security Context License,L-FPR3K-ASASC-10=,CISCO SYSTEMS LTD,,CI - SECURITY,,,,0,0,7196.66,0,,$11093.69,0,,Y,N
 CIL-FPR4110T-T=,Cisco FPR4110 Threat Defense Threat Prot,Cisco FPR4110 Threat Defense Threat Protection License,L-FPR4110T-T=,CISCO SYSTEMS LTD,,CI - SECURITY,,,,0,0,0,0,,$0.00,0,,Y,N
 CIL-FPR4110T-T-1Y,Cisco FPR4110 Threat Defense Threat Prot,Cisco FPR4110 Threat Defense Threat Protection 1Y Subs,L-FPR4110T-T-1Y,CISCO SYSTEMS LTD,,CI - SECURITY,,,,0,0,29467.58,0,,$45424.53,0,,Y,N
 CIL-FPR4110T-TC=,Cisco FPR4110 Threat Defense Threat and ,Cisco FPR4110 Threat Defense Threat and URL License,L-FPR4110T-TC=,CISCO SYSTEMS LTD,,CI - SECURITY,,,,0,0,0,0,,$0.00,0,,Y,N
