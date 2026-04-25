@@ -4744,7 +4744,7 @@ CIC-SM-16P4M2X,Cisco Catalyst Edge SM 16-port 1G 4-port,Cisco Catalyst Edge SM 1
 CICS-MIC-ARRAY-T,Cisco Table Microphone Pro (w/11m cable),Cisco Table Microphone Pro (w/11m cable) First Light(White),CS-MIC-ARRAY-T,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,2723.84,2723.84,,$6050.89,0,,Y,N
 CICS-MIC-ARRAY-T=,Cisco Table Microphone Pro (w/11m cable),Cisco Table Microphone Pro (w/11m cable) First Light-SPARE,CS-MIC-ARRAY-T=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,2711.23,2711.23,,$6050.89,0,,N,N
 CICS-MIC-ARRAY-T-C=,Cisco Table Microphone Pro (w/11m cable),Cisco Table Microphone Pro (w/11m cable) Carbon Black-SPARE,CS-MIC-ARRAY-T-C=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,2616.7,2616.7,,$6050.89,0,,Y,N
-CICS-MIC-CLGP-CBK=,Ceiling Bracket Mounting Kit for Ceiling,Ceiling Bracket Mounting Kit for Ceiling Mic Pro - SPARE,CS-MIC-CLGP-CBK=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,228.32,228.32,,$507.23,0,,Y,N
+CICS-MIC-CLGP-CBK=,Ceiling Bracket Mounting Kit for Ceiling,Ceiling Bracket Mounting Kit for Ceiling Mic Pro - SPARE,CS-MIC-CLGP-CBK=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,228.32,228.32,,$507.23,0,,N,N
 CICS-MIC-CLGP-DMK,Drop Ceiling Grid Mounting Kit for Ceili,Drop Ceiling Grid Mounting Kit for Ceiling Microphone Pro,CS-MIC-CLGP-DMK,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,572.78,0,,$882.96,0,,Y,N
 CICS-MIC-CLGP-DMK=,Drop Ceiling Grid Mounting Kit Ceiling M,Drop Ceiling Grid Mounting Kit Ceiling Mic Pro - SPARE,CS-MIC-CLGP-DMK=,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,397.46,397.46,,$882.96,0,,Y,N
 CICS-MIC-CLGPRO,Cisco Ceiling Microphone Pro Arctic Whit,Cisco Ceiling Microphone Pro Arctic White,CS-MIC-CLGPRO,CISCO SYSTEMS LTD,,CI - COLLABORATION,,,,0,0,8240.97,8240.97,,$18392.02,0,,Y,N
@@ -4858,7 +4858,7 @@ CICW9172H-CFG,Cisco Wireless 9172H(W73 radio3 band 2x2,Cisco Wireless 9172H(W73 
 CICW9172H-RTG,Cisco Wireless 9172H(W73 radio3 band 2x2,Cisco Wireless 9172H(W73 radio3 band 2x2)Global,CW9172H-RTG,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,1662.61,0,,$2562.94,0,,Y,N
 CICW9172H-SINGLE,SINGLE PACK OPTION,SINGLE PACK OPTION,CW9172H-SINGLE,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,0,0,,$0.00,0,,Y,N
 CICW9172I-CFG,Cisco Wireless 9172I(W73 radio3 band 2x2,Cisco Wireless 9172I(W73 radio3 band 2x2)Global,CW9172I-CFG,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,1231.83,1231.83,,$3031.07,-22,11-05-2026,Y,N
-CICW9172I-RTG,Cisco Wireless 9172I(W73 radio3 band 2x2,Cisco Wireless 9172I(W73 radio3 band 2x2)Global,CW9172I-RTG,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,1966.3,0,,$3031.07,0,,Y,N
+CICW9172I-RTG,Cisco Wireless 9172I(W73 radio3 band 2x2,Cisco Wireless 9172I(W73 radio3 band 2x2)Global,CW9172I-RTG,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,1966.3,0,,$3031.07,0,,N,N
 CICW9174E-RTG,Cisco Wireless 9174E (W7 3 radio 3 band ,Cisco Wireless 9174E (W7 3 radio 3 band 4x4),CW9174E-RTG,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,3107.3,0,,$4789.95,0,,Y,N
 CICW9174I-CFG,Cisco Wireless 9174I (W7 3 radio 3 band ,Cisco Wireless 9174I (W7 3 radio 3 band 4x4) Global,CW9174I-CFG,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,1996.28,1996.28,,$4561.30,0,,Y,N
 CICW9174I-RTG,Cisco Wireless 9174I (W7 3 radio 3 band ,Cisco Wireless 9174I (W7 3 radio 3 band 4x4) Global,CW9174I-RTG,CISCO SYSTEMS LTD,,CI - WIRELESS,,,,0,0,2958.99,0,,$4561.30,0,,Y,N
