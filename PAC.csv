@@ -270,7 +270,7 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 90058095,Samsung A35 Silicone Case Black,39.00,23.74,157,EF-PA356TBEGWW,8806095542508
 90058100,Samsung A35 Silicone Case Light Blue,39.00,23.74,46,EF-PA356TLEGWW,8806095542478
 90058105,Samsung A35 Silicone Case Lime,39.00,23.74,0,EF-PA356TMEGWW,8806095542461
-90058110,Samsung A35 Card Slot Case Black,29.00,17.65,26,EF-OA356TBEGWW,8806095542492
+90058110,Samsung A35 Card Slot Case Black,29.00,17.65,6,EF-OA356TBEGWW,8806095542492
 90058115,Samsung A35 Card Slot Case Lime,29.00,17.65,0,EF-OA356TMEGWW,8806095542485
 90058120,Samsung A35 Clear Case Transparancy,29.00,17.65,0,EF-QA356CTEGWW,8806095546643
 90059020,In Touch Samsung A35 Vanguard Drop Protection Case Clear,29.95,13.02,110,IT-VAN4921,6009553001391
@@ -878,7 +878,7 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 90072180,Zagg Samsung S26 Ultra Glass Elite Camera Rings Black,34.95,22.34,0,200121131,840390380890
 90058230,Creative Live!Cam Sync 4K Webcam Black,149.95,95.19,0,73VF092000000,5390660195570
 90068290,Creative Live!Cam 4K Webcam Black,149.95,95.19,26,73VF099000000,5390660196706
-90024915,Creative Pebble 2.0 Speaker USB - Black,54.95,34.88,191,51MF1680AA000,054651192027
+90024915,Creative Pebble 2.0 Speaker USB - Black,54.95,34.88,190,51MF1680AA000,054651192027
 90024920,Creative Pebble 2.0 Speaker USB - White,54.95,34.88,18,51MF1680AA001,054651192133
 90027660,Creative Pebble Plus 2.1 Speaker USB Black,99.95,60.84,75,51MF0480AA000,054651192454
 90032875,Creative Pebble V2 USB-C Powered Speaker Black,69.95,44.40,37,51MF1695AA000,54651192935
@@ -909,7 +909,7 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 90062930,Creative Outlier Go Open Ear Headphones Blue,139.95,66.93,0,51EF1210AA001,5390660196270
 90021865,Audioengine HD6 Powered Speakers - Walnut,1199.00,834.09,0,HD6-INT-WAL,819955270143
 90021870,Audioengine HD6 Powered Speakers - Satin Black,1199.00,834.09,5,HD6-INT-BLK,819955270167
-90021895,Audioengine HD3 Powered Desktop Speakers - Walnut,599.00,416.70,2,HD3-WAL(115/230V),852225007032
+90021895,Audioengine HD3 Powered Desktop Speakers - Walnut,599.00,416.70,1,HD3-WAL(115/230V),852225007032
 90021900,Audioengine HD3 Powered Desktop Speakers - Satin Black,599.00,416.72,0,HD3-BLK (115/230V),852225007056
 90021905,Audioengine 5+ Classic Powered Bookshelf Speakers - Satin Black,699.00,486.26,0,A5+INT-BLK (230V),819955230048
 90021910,Audioengine 5+ Classic Powered Bookshelf Speakers - Hi-Gloss White,699.00,486.26,1,A5+INT-WHT,819955230024
@@ -925,7 +925,7 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 90027135,Audioengine 2+ Wireless Desktop Speakers - Gloss Red,429.00,312.00,6,A2+BT-RED,852225007186 
 90032920,Audioengine A1 Wireless Speaker System,359.00,249.74,0,A1,852225007285
 90039545,Creative T60 Premium 2.0 Speakers with BT,179.95,114.23,13,51MF1705AA002,054651194809
-90048380,Creative Stage Air V2 Under Monitor Soundbar Black,129.95,82.49,123,51MF8395AA000,54651195059
+90048380,Creative Stage Air V2 Under Monitor Soundbar Black,129.95,82.49,118,51MF8395AA000,54651195059
 90054250,Audioengine N22 (Gen2) Desktop Power Amplifier Satin Black,429.00,298.43,2,N22,852225007346
 90057745,Audioengine 2+ Wireless Desktop Speakers - Blue,499.00,347.13,0,,852225007544
 90057750,Audioengine HD6 Powered Speakers - White,1199.00,834.09,0,HD6-INT-WHT,852225007100
@@ -987,7 +987,7 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 90055620,Samsung 25W Charger Type C (no cable) Compact Black,35.00,22.83,933,EP-T2510NBEGAU,8806094912135
 90055625,Samsung 25W Compact Charger Type C (no cable) White,35.00,22.83,0,EP-T2510NWEGAU,8806094912098
 90058328,Samsung Charging Dual Car Charger MicroUSB Black,49.95,30.40,2,113017,8806088426402
-90058965,Samsung 45W Charger With Cable Black,74.00,48.26,525,EP-T4511XBEGAU,8806095611921
+90058965,Samsung 45W Charger With Cable Black,74.00,48.26,625,EP-T4511XBEGAU,8806095611921
 90059075,Mophie 30W Charger & Cable Type C to C White,49.95,24.10,0,409912208,840056189300
 90059080,Mophie 30W Charger & Cable Type C to C Black,49.95,20.95,0,409912212,840056189348
 90060765,Mophie 45W GaN Wall Charger 2 x USB-C White,54.95,23.50,0,409912228,840056189508
@@ -1066,7 +1066,7 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 40034330,Samsung Watch8 40mm BT  Silver,0.00,476.00,0,SM-L320NZSAXNZ,8806097434467
 90048560,Samsung Galaxy Watch5 Pro LTE Black,849.00,553.70,0,SM-R925FZKAXNZ,8806094558142
 90048635,Samsung Galaxy Watch5 40mm BT Silver,449.00,331.87,0,SM-R900NZSAXNZ,8806094543506
-90073380,Samsung 2026 60W Power Adapter (no cable) Black,79.00,48.09,300,EP-T6010NBEGAU,8806097740377
+90073380,Samsung 2026 60W Power Adapter (no cable) Black,79.00,48.09,631,EP-T6010NBEGAU,8806097740377
 90073385,Samsung Super Fast Charger 45W w cable White,74.00,45.04,150,EP-T4511XWEGAU,8806097740490
 90073390,Samsung Super Fast Charger 45W White,59.00,35.91,150,EP-T4511NWEGAU,8806097740612
 80003995,Mobling Samsung S26 Ultimate Bundle (3m/SP/30W/LP) Clear,139.95,42.59,257,,9420311522113
