@@ -437,7 +437,7 @@ MECW-ANT-GPS2-S-00,GPS/GNSS Antenna Outdoor SMA connectorCa,GPS/GNSS Antenna Out
 MECW-ANT-O1-NS-00,4/8/8 dBi Omni Dipole N connector Cataly,4/8/8 dBi Omni Dipole N connector Catalyst and Meraki,CW-ANT-O1-NS-00,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,297.27,0,,$458.25,-56,19-11-2025,N,N
 MECW-AP-LITE,Enterprise Wi-Fi 6 Bundle (MR36),Enterprise Wi-Fi 6 Bundle (MR36),CW-AP-LITE,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,0,0,,$0.00,0,,N,N
 MECW-AP-PRO,Enterprise Wi-Fi 6E Bundle (CW9162),Enterprise Wi-Fi 6E Bundle (CW9162),CW-AP-PRO,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,0,0,,$0.00,0,,Y,N
-MECW-INJ-8,MGig(10G)60W802.3bt PoE Injector(Power C,MGig(10G)60W802.3bt PoE Injector(Power Cord Not Included),CW-INJ-8,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,535.1,0,,$824.85,0,27-05-2026,N,N
+MECW-INJ-8,MGig(10G)60W802.3bt PoE Injector(Power C,MGig(10G)60W802.3bt PoE Injector(Power Cord Not Included),CW-INJ-8,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,535.1,0,,$824.85,0,,N,N
 MECW-MNT-ART2-00,Articulating AP Arm,Articulating AP Arm,CW-MNT-ART2-00,CISCO MERAKI,,CI - MERAKI MR,,,,0,0,237.81,0,,$366.60,0,22-05-2026,N,N
 MEEAB-MX67-ENT-3Y,Meraki MX67 ENT Enterprise Agreement 3Y ,Meraki MX67 ENT Enterprise Agreement 3Y - Booking Only,EAB-MX67-ENT-3Y,CISCO MERAKI,,CI - MERAKI EA NETW INFR SUITE,,,,0,0,885.5,0,,$1365.01,0,,Y,N
 MEEAB-MX67W-ENT-3Y,Meraki MX67W ENT Enterprise Agreement 3Y,Meraki MX67W ENT Enterprise Agreement 3Y - Booking Only,EAB-MX67W-ENT-3Y,CISCO MERAKI,,CI - MERAKI EA NETW INFR SUITE,,,,0,0,949.9,0,,$1464.28,0,,Y,N
@@ -985,7 +985,7 @@ MELIC-MX68CW-ENT-5YR,Meraki MX68CW Enterprise License and Sup,Meraki MX68CW Ente
 MELIC-MX68CW-ENT-7YR,Meraki MX68CW Enterprise License and Sup,Meraki MX68CW Enterprise License and Support 7YR,LIC-MX68CW-ENT-7YR,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,2039.62,2039.62,,$4773.98,0,,Y,N
 MELIC-MX68CW-SDW-10Y,Meraki MX68CW Secure SD-WAN Plus License,Meraki MX68CW Secure SD-WAN Plus License and Support 10YR,LIC-MX68CW-SDW-10Y,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,9440.77,9440.77,,$22097.15,0,,Y,N
 MELIC-MX68CW-SDW-1D,Meraki MX68CW Secure SD-WAN Plus License,Meraki MX68CW Secure SD-WAN Plus License and Support 1D,LIC-MX68CW-SDW-1D,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,4.34,4.34,,$10.16,0,,Y,N
-MELIC-MX68CW-SDW-1Y,Meraki MX68CW Secure SD-WAN Plus License,Meraki MX68CW Secure SD-WAN Plus License and Support 1YR,LIC-MX68CW-SDW-1Y,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,1258.77,1258.77,,$2946.29,0,05-06-2026,N,N
+MELIC-MX68CW-SDW-1Y,Meraki MX68CW Secure SD-WAN Plus License,Meraki MX68CW Secure SD-WAN Plus License and Support 1YR,LIC-MX68CW-SDW-1Y,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,1258.77,1258.77,,$2946.29,0,,N,N
 MELIC-MX68CW-SDW-3Y,Meraki MX68CW Secure SD-WAN Plus License,Meraki MX68CW Secure SD-WAN Plus License and Support 3YR,LIC-MX68CW-SDW-3Y,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,2832.62,2832.62,,$6630.03,0,,N,N
 MELIC-MX68CW-SDW-5Y,Meraki MX68CW Secure SD-WAN Plus License,Meraki MX68CW Secure SD-WAN Plus License and Support 5YR,LIC-MX68CW-SDW-5Y,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,4145.26,4145.26,,$11049.46,0,,N,N
 MELIC-MX68CW-SDW-7Y,Meraki MX68CW Secure SD-WAN Plus License,Meraki MX68CW Secure SD-WAN Plus License and Support 7YR,LIC-MX68CW-SDW-7Y,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,6608.92,6608.92,,$15468.89,0,,Y,N
@@ -1093,7 +1093,7 @@ MELIC-MX95-SDW-5Y,Meraki MX95 Secure SD-WAN Plus License a,Meraki MX95 Secure SD
 MELIC-MX95-SDW-7Y,Meraki MX95 Secure SD-WAN Plus License a,Meraki MX95 Secure SD-WAN Plus License and Support 7YR,LIC-MX95-SDW-7Y,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,30098.51,30098.51,,$62793.83,0,,Y,N
 MELIC-MX95-SEC-10Y,Meraki MX95 Advanced Security License an,Meraki MX95 Advanced Security License and Support 10YR,LIC-MX95-SEC-10Y,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,31157.26,31157.26,,$65002.66,0,,Y,N
 MELIC-MX95-SEC-1Y,Meraki MX95 Advanced Security License an,Meraki MX95 Advanced Security License and Support 1YR,LIC-MX95-SEC-1Y,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,4154.25,4154.25,,$8666.90,0,,N,N
-MELIC-MX95-SEC-3Y,Meraki MX95 Advanced Security License an,Meraki MX95 Advanced Security License and Support 3YR,LIC-MX95-SEC-3Y,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,9346.84,9346.84,,$19500.09,0,09-06-2026,N,N
+MELIC-MX95-SEC-3Y,Meraki MX95 Advanced Security License an,Meraki MX95 Advanced Security License and Support 3YR,LIC-MX95-SEC-3Y,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,9346.84,9346.84,,$19500.09,0,,N,N
 MELIC-MX95-SEC-5Y,Meraki MX95 Advanced Security License an,Meraki MX95 Advanced Security License and Support 5YR,LIC-MX95-SEC-5Y,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,12193.07,12193.07,,$32501.33,0,,N,N
 MELIC-MX95-SEC-7Y,Meraki MX95 Advanced Security License an,Meraki MX95 Advanced Security License and Support 7YR,LIC-MX95-SEC-7Y,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,21809.57,21809.57,,$45500.80,0,,Y,N
 MELIC-MX-SDW-L-1Y,Meraki L 1 year SD-WAN Plus Per Device L,Meraki L 1 year SD-WAN Plus Per Device License and Support,LIC-MX-SDW-L-1Y,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,2440.29,0,,$3761.74,0,,Y,N
@@ -1405,7 +1405,7 @@ MEMX67C-WW,Meraki MX67C LTE Router/Security Applian,Meraki MX67C LTE Router/Secu
 MEMX67-HW,Meraki MX67 Router/Security Appliance,Meraki MX67 Router/Security Appliance,MX67-HW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,677.61,677.61,,$1806.20,-72,,N,N
 MEMX67W-HW,Meraki MX67W Router/Security Appliance w,Meraki MX67W Router/Security Appliance with 802.11ac,MX67W-HW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,1164.51,1164.51,,$2793.76,0,,N,N
 MEMX68,Meraki MX68 Router/Security Appliance,Meraki MX68 Router/Security Appliance,MX68,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,970.11,970.11,,$2585.87,0,,Y,N
-MEMX68CW-HW-WW,Meraki MX68CW LTE & 802.11ac Router/Secu,Meraki MX68CW LTE & 802.11ac Router/Security Appliance - WW,MX68CW-HW-WW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,1891.46,1891.46,,$5041.77,0,27-05-2026,N,N
+MEMX68CW-HW-WW,Meraki MX68CW LTE & 802.11ac Router/Secu,Meraki MX68CW LTE & 802.11ac Router/Security Appliance - WW,MX68CW-HW-WW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,1891.46,1891.46,,$5041.77,0,,N,N
 MEMX68CW-WW,Meraki MX68CW LTE & 802.11ac Router/Secu,Meraki MX68CW LTE & 802.11ac Router/Security Appliance - WW,MX68CW-WW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,1891.46,1891.46,,$5041.77,0,,N,N
 MEMX68-HW,Meraki MX68 Router/Security Appliance,Meraki MX68 Router/Security Appliance,MX68-HW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,970.11,970.11,,$2585.87,-1,05-06-2026,N,N
 MEMX68W-HW,Meraki MX68W Router/Security Appliance w,Meraki MX68W Router/Security Appliance with 802.11ac,MX68W-HW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,1516.56,1516.56,,$3638.40,0,,N,N
@@ -1414,7 +1414,7 @@ MEMX75-HW,Meraki MX75 Router/Security Appliance,Meraki MX75 Router/Security Appl
 MEMX85,Meraki MX85 Router/Security Appliance,Meraki MX85 Router/Security Appliance,MX85,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,2432.58,2432.58,,$6484.15,0,,Y,N
 MEMX85-HW,Meraki MX85 Router/Security Appliance,Meraki MX85 Router/Security Appliance,MX85-HW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,2432.58,2432.58,,$6484.15,-2,05-06-2026,N,N
 MEMX95,Meraki MX95 Router/Security Appliance,Meraki MX95 Router/Security Appliance,MX95,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,4870.02,4870.02,,$12981.26,0,,Y,N
-MEMX95-HW,Meraki MX95 Router/Security Appliance,Meraki MX95 Router/Security Appliance,MX95-HW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,4870.02,4870.02,,$12981.26,-7,11-06-2026,N,N
+MEMX95-HW,Meraki MX95 Router/Security Appliance,Meraki MX95 Router/Security Appliance,MX95-HW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,4870.02,4870.02,,$12981.26,-7,,N,N
 MEPWR-C1-1100WAC-P-M,C9000 1100W AC Platinum Power Supply w/M,C9000 1100W AC Platinum Power Supply w/MERAKI,PWR-C1-1100WAC-P-M,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,1665.72,1665.72,,$4098.60,0,,N,N
 MEPWR-C11100WACP-M-O,C9000 1100W AC Platinum Power Supply w/M,C9000 1100W AC Platinum Power Supply w/MERAKI,PWR-C11100WACP-M-O,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,2658.84,0,,$4098.60,0,,Y,N
 MEPWR-C11900WACP-M-O,C9000 1900W AC platinum Power Supply w/M,C9000 1900W AC platinum Power Supply w/MERAKI,PWR-C11900WACP-M-O,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,3638.65,0,,$5609.01,0,,Y,N
@@ -1432,7 +1432,7 @@ MESTACK-T3A-3M-M,C9300L 3M Type 3A Stacking Cable used wi,C9300L 3M Type 3A Stac
 MESTACK-T3A-50CM-M,C9300L 50CM Type 3A Stacking Cable used ,C9300L 50CM Type 3A Stacking Cable used with KIT2 w/MERAKI,STACK-T3A-50CM-M,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,92.36,92.36,,$227.30,0,,N,N
 MESTACK-T4-1M-M,1M Type 4 Stacking Cable w/Meraki,1M Type 4 Stacking Cable w/Meraki,STACK-T4-1M-M,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,240.15,240.15,,$490.34,0,,Y,N
 MESTACK-T4-3M-M,3M Type 4 Stacking Cable w/Meraki,3M Type 4 Stacking Cable w/Meraki,STACK-T4-3M-M,CISCO MERAKI,,CI - MERAKI MS,,,,0,0,360.2,360.2,,$735.49,0,,Y,N
-MEZ4C-HW,Meraki Z4C Hardware,Meraki Z4C Hardware,Z4C-HW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,1370.57,1370.57,,$2859.39,0,27-05-2026,N,N
+MEZ4C-HW,Meraki Z4C Hardware,Meraki Z4C Hardware,Z4C-HW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,1370.57,1370.57,,$2859.39,0,,N,N
 MEZ4CX,Meraki Z4C Hardware,Meraki Z4C Hardware,Z4CX,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,1370.57,1370.57,,$2859.39,0,,Y,N
 MEZ4-HW,Meraki Z4 Hardware,Meraki Z4 Hardware,Z4-HW,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,698.88,698.88,,$1656.02,0,,N,N
 MEZ4X,Meraki Z4 Hardware,Meraki Z4 Hardware,Z4X,CISCO MERAKI,,CI - MERAKI MX,,,,0,0,698.88,698.88,,$1656.02,0,,Y,N
