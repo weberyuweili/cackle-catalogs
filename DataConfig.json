@@ -136,9 +136,9 @@
 		"SupplierName" : "Midwich New Zealand",
 		"SheetName" : "MDW.csv",
 		"PartNumberColumn" : "Part Number",
-		"PriceColumn" : "TRADE EX",
+		"PriceColumn" : "Trade ex GST",
 		"StockColumn" : null,
-		"DescriptionColumn" : "Description",
+		"DescriptionColumn" : "Short Description",
 		"EtaColumn" : null,
 		"EanColumn" : null
 	}
