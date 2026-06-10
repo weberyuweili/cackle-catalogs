@@ -298,4 +298,16 @@
 		"EtaColumn" : null,
 		"EanColumn" : null
 	}
+	,
+	{
+		"SupplierCode" : "JPRO",
+		"SupplierName" : "JPRO",
+		"SheetName" : "JPRO.csv",
+		"PartNumberColumn" : "Stockcode",
+		"PriceColumn" : "Dealer_ex_GST",
+		"StockColumn" : null,
+		"DescriptionColumn" : "Description",
+		"EtaColumn" : null,
+		"EanColumn" : null
+	}
 ]
