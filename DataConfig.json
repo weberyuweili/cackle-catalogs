@@ -172,7 +172,7 @@
 		"SupplierName" : "Merge Communications Ltd",
 		"SheetName" : "MAV.csv",
 		"PartNumberColumn" : "Manufacturers Code",
-		"PriceColumn" : "Buy Price Ex GST",
+		"PriceColumn" : "Buy price NZ$ Ex.GST",
 		"StockColumn" : "stock on hand",
 		"DescriptionColumn" : "Description",
 		"EtaColumn" : null,
