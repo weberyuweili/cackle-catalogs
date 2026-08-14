@@ -85,10 +85,10 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 80004155,Mobling by ITSKINS S25 Ultra Hybrid with Magsafe Clear,59.95,26.07,0,SGZU-HMACR-TRSM,4894465921477
 80004175,Mobling iPhone 17 3m Eco Drop  Case Clear,59.95,26.07,0,,9420311522809
 80004190,Mobling iPhone Air 3m Eco Drop  Case Clear,59.95,26.07,103,,9420311522816
-80004205,Mobling iPhone 17 Pro 3m Eco Drop  Case Clear,59.95,26.07,1096,,9420311522823
-80004210,Mobling iPhone 17 Pro Silicone Eco Case Black,59.95,26.07,31,,9420311522861
+80004205,Mobling iPhone 17 Pro 3m Eco Drop  Case Clear,59.95,26.07,0,,9420311522823
+80004210,Mobling iPhone 17 Pro Silicone Eco Case Black,59.95,26.07,0,,9420311522861
 80004220,Mobling iPhone 17 Pro Max 3m Eco Drop  Case Clear,59.95,26.07,32,,9420311522830
-80004225,Mobling iPhone 17 Pro Max Silicone Eco Case Black,59.95,26.07,21,,9420311522878
+80004225,Mobling iPhone 17 Pro Max Silicone Eco Case Black,59.95,26.07,0,,9420311522878
 80004300,Mobling Samsung A07 1m Eco Drop Case Clear,39.95,17.39,148,,9420311523226
 80004305,Mobling Samsung A17 1m Eco Drop Case Clear,39.95,17.39,0,,9420311523233
 80004310,Mobling Samsung S25FE 3m Eco Drop Case Clear,59.95,26.07,1,,9420311523240
@@ -121,6 +121,7 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 90034965,In Touch Samsung A52 Milano Wallet Case Black,34.95,18.23,0,IT-MIL3584,6009707687723
 90034970,In Touch Samsung A72 Milano Wallet Case Black,34.95,18.23,0,IT-MIL3585,6009707687730
 90035020,In Touch Samsung S21 Plus Milano Wallet Case Black,34.95,18.23,0,IT-MIL3580,6009707687617
+90038325,Samsung Galaxy S Pen Pro Black,199.00,129.78,0,EJ-P5450SBEGWW,8806092661295
 90041800,In Touch Samsung S22 Milano Wallet Case Black,34.95,18.23,0,IT-MIL4021,6009707688348
 90041810,In Touch Samsung S22 Ultra Milano Wallet Case Black,34.95,18.23,0,IT-MIL4023,6009707688362
 90043310,Samsung S21 FE Silicone with Strap Cover White,69.00,39.00,0,EF-GG990TWEGWW,8806094191837
@@ -524,6 +525,7 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 90074120,Samsung A37 Card Slot Cover Black,39.00,23.74,30,EF-OA376TBEGWW,8806099038052
 90074135,Samsung A37 Rugged Case Black,35.00,21.30,73,EF-RA376CBEGWW,8806099037826
 90074165,Samsung A57 Card Slot Cover Black,39.00,23.74,74,EF-OA576TBEGWW,8806099037789
+90074180,Samsung A57 Rugged Case Black,35.00,21.30,58,EF-RA576CBEGWW,8806099037819
 90074380,Zagg Essential Snap Wallet With Kickstand and Card Slot Grey,49.95,26.05,0,702416449,840390333063
 90074385,Zagg Premium Snap Wallet With Kickstand and Card Slot Black,69.95,36.45,0,702416003,840390328472
 90074390,Zagg Premium Snap Wallet With Kickstand and Card Slot Brown,69.95,36.45,0,702416003,840390328489
@@ -680,7 +682,7 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 90060530,Otterbox iPhone 16 Defender MagSafe Black,109.99,57.80,0,77-95961,840304767977
 90060535,Otterbox iPhone 16 Defender XT Clear Clear/Black,129.99,67.80,8,77-96056,840304768844
 90060540,Otterbox iPhone 16 Fre MagSafe Black,139.99,85.19,0,77-96144,840304769681
-90060545,Otterbox iPhone 16 Symmetry MagSafe Clear,89.99,46.93,16,77-96369,840304771912
+90060545,Otterbox iPhone 16 Symmetry MagSafe Clear,89.99,46.93,14,77-96369,840304771912
 90060555,Otterbox iPhone 16 Symmetry MagSafe Black,89.99,46.93,11,77-96542,840304773626
 90060560,Otterbox iPhone 16 Pro Defender MagSafe Black,109.99,57.80,0,77-95975,840304768110
 90060565,Otterbox iPhone 16 Pro Defender MagSafe Green,109.99,57.80,0,77-95983,840304768196
@@ -775,7 +777,7 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 90064175,Otterbox Samsung S25 Ultra Symmetry Clear Magnets Clear,89.95,46.93,56,77-97520,840304783823
 90064180,Otterbox Samsung S25 Ultra Symmetry Clear Magnets Stardust,89.95,46.93,24,77-97524,840304783908
 90064185,Otterbox Samsung S25 Ultra Symmetry Clear Magnets Pink,89.95,46.93,0,77-97600,840304789269
-90064190,Otterbox Samsung S25 Ultra Symmetry Magnets Black,89.95,46.93,31,77-97513,840304786367
+90064190,Otterbox Samsung S25 Ultra Symmetry Magnets Black,89.95,46.93,30,77-97513,840304786367
 90064195,Otterbox Samsung S25 Ultra Symmetry Magnets Blue,89.95,46.93,0,77-97597,840304789207
 90064200,Otterbox Samsung S25 Ultra Symmetry Soft-Touch Blue/Purple,89.95,46.93,0,77-97579,840304788842
 90064205,Otterbox Samsung S25 Ultra Symmetry Soft-Touch Black,89.95,46.93,0,77-97577,840304788804
@@ -810,7 +812,7 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 90067120,Otterbox iPhone 17 Defender Pro XT Green,129.95,67.80,0,77-98478,840434713202
 90067125,Otterbox iPhone 17 Pro Max Defender Pro XT Black/Clear,129.95,67.80,166,77-98534,840434714322
 90067135,Otterbox iPhone 17 Pro Max Defender Pro XT Green,129.95,67.80,0,77-98532,840434714285
-90067140,Otterbox iPhone 17 Pro Defender Pro XT Black/Clear,129.95,67.80,328,77-98516,840434713967
+90067140,Otterbox iPhone 17 Pro Defender Pro XT Black/Clear,129.95,67.80,88,77-98516,840434713967
 90067150,Otterbox iPhone 17 Pro Defender Pro XT Green,129.95,67.80,0,77-98514,840434713929
 90067175,Otterbox iPhone Air React Black/Clear,59.95,24.60,0,77-98611,840434715862
 90067180,Otterbox iPhone Air React Black,59.95,24.60,0,77-99284,840434730308
@@ -825,7 +827,7 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 90067250,Otterbox iPhone 17 Pro React Black/Clear,59.95,24.60,0,77-98631,840434716265
 90067255,Otterbox iPhone 17 Pro React Black,59.95,24.60,0,77-99293,840434730360
 90067260,Otterbox iPhone 17 Pro React Clear,59.95,24.60,0,77-99280,840434730162
-90067265,Otterbox iPhone 17 Pro React Pink,59.95,24.60,3,77-98634,840434716326
+90067265,Otterbox iPhone 17 Pro React Pink,59.95,24.60,0,77-98634,840434716326
 90067270,Otterbox iPhone 17 Pro React Stardust,59.95,24.60,0,77-99281,840434730186
 90067275,Otterbox iPhone 17 React Folio Black/Clear,79.95,41.70,14,77-98586,840434715367
 90067280,Otterbox iPhone 17 Pro Max React Folio Black/Clear,79.95,41.70,0,77-98589,840434715428
@@ -844,12 +846,12 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 90067360,Otterbox iPhone 17 Pro Max Symmetry Purple,89.95,46.93,0,77-98872,840434721085
 90067365,Otterbox iPhone 17 Pro Max Symmetry Blue,89.95,46.93,0,77-98874,840434721122
 90067370,Otterbox iPhone 17 Pro Max Symmetry Stardust,89.95,46.93,0,77-98863,840434720903
-90067375,Otterbox iPhone 17 Pro Max Symmetry Black,89.95,46.93,4,77-99434,840434733705
+90067375,Otterbox iPhone 17 Pro Max Symmetry Black,89.95,46.93,0,77-99434,840434733705
 90067380,Otterbox iPhone 17 Pro Symmetry Black Tint,89.95,46.93,0,77-98851,840434720668
 90067385,Otterbox iPhone 17 Pro Symmetry clear,89.95,46.93,0,77-98831,840434720262
 90067390,Otterbox iPhone 17 Pro Symmetry Purple,89.95,46.93,0,77-98847,840434720583
 90067395,Otterbox iPhone 17 Pro Symmetry Blue,89.95,46.93,0,77-98849,840434720620
-90067400,Otterbox iPhone 17 Pro Symmetry Stardust,89.95,46.93,90,77-98838,840434720408
+90067400,Otterbox iPhone 17 Pro Symmetry Stardust,89.95,46.93,42,77-98838,840434720408
 90067405,Otterbox iPhone 17 Pro Symmetry Black,89.95,46.93,0,77-99427,840434733583
 90067410,Otterbox iPhone Air Symmetry Cactus Leather Grey,99.95,52.10,0,77-99041,840434724468
 90067415,Otterbox iPhone Air Symmetry Cactus Leather Brown,99.95,52.10,0,77-99033,840434724307
@@ -912,7 +914,7 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 80004125,Mobling iPhone 17e/16e/15/14 Glass Screen Protector Clear,29.95,13.02,0,,9420311522632
 80004370,Mobling iPhone 17/16 Pro Glass Screen Protector Clear,29.95,13.02,182,,9420311523653
 80004375,Mobling iPhone Air Glass Screen Protector Clear,29.95,13.02,169,,9420311523660
-80004380,Mobling iPhone 17 Pro Glass Screen Protector Clear,29.95,13.02,90,,9420311523677
+80004380,Mobling iPhone 17 Pro Glass Screen Protector Clear,29.95,13.02,0,,9420311523677
 80004385,Mobling iPhone 17 Pro Max Glass Screen Protector Clear,29.95,13.02,113,,9420311523684
 80004390,Mobling Samsung A07 Glass Screen Protector Clear,29.95,16.93,343,,9420311523691
 80004395,Mobling Samsung A17 / A26 Glass Screen Protector Clear,29.95,16.93,409,,9420311523707
@@ -1098,30 +1100,48 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 90067160,Otterbox iPhone 17 Glass Screen Protector Clear,49.95,24.60,0,77-98674,840434717125
 90067165,Otterbox iPhone 17 Pro Max Glass Screen Protector Clear,49.95,24.60,0,77-98686,840434717361
 90067170,Otterbox iPhone 17 Pro Glass Screen Protector Clear,49.95,24.60,0,77-98682,840434717286
+90067520,Zagg iPhone 17 Glass Elite Screen Protector Clear,49.95,23.89,0,200118643,840390356147
 90067540,Zagg iPhone Air Glass Elite Screen Protector Clear,49.95,23.89,89,200118644,840390356154
 90067545,Zagg iPhone Air Privacy Glass Screen Protector,59.95,28.67,0,200118664,840390356352
 90067550,Zagg iPhone Air Glass XTR Screen Protector Clear,69.95,33.45,23,200118668,840390356390
+90067560,Zagg iPhone 17 Pro Glass Elite Screen Protector Clear,49.95,23.89,41,200118645,840390356161
 90067565,Zagg iPhone 17 Pro Privacy Glass Screen Protector,59.95,28.67,0,200118665,840390356369
-90067570,Zagg iPhone 17 Pro Glass XTR Screen Protector Clear,69.95,33.45,58,200118669,840390356406
+90067570,Zagg iPhone 17 Pro Glass XTR Screen Protector Clear,69.95,33.45,8,200118669,840390356406
+90067580,Zagg iPhone 17 Pro Max Glass Elite Screen Protector Clear,49.95,23.89,28,200118646,840390356178
 90067585,Zagg iPhone 17 Pro Max Privacy Glass Screen Protector,59.95,28.67,0,200118666,840390356376
-90067590,Zagg iPhone 17 Pro Max Glass XTR Screen Protector Clear,69.95,33.45,38,200118670,840390356413
+90067590,Zagg iPhone 17 Pro Max Glass XTR Screen Protector Clear,69.95,33.45,0,200118670,840390356413
 90067605,Zagg iPhone 17 Glass+ Screen Protector Bulk 5pk,34.95,15.20,400,200120495,840390374400
 90067610,Zagg iPhone Air Glass+ Screen Protector Bulk 5pk,34.95,15.20,45,200120496,840390374417
 90067615,Zagg iPhone 17 Pro Glass+ Screen Protector Bulk 5pk,34.95,15.20,90,200120497,840390374424
 90067625,Zagg iPhone 17 Glass XTR Screen Protector Bulk 5pk,69.95,30.41,0,200120499,840390374448
 90067630,Zagg iPhone Air Glass XTR Screen Protector Bulk 5pk,69.95,30.41,0,200120500,840390374455
 90067645,Zagg iPhone 17 Pro Max Glass+ Screen Protector Bulk 5pk,34.95,15.20,80,200120498,840390374431
+90068650,Zagg iPad A16 Glass Elite Screen Protector (10th Gen) Clear,69.95,40.55,13,200118468,840390354181
 90069785,Zagg Samsung S25FE Glass+ SIM Screen Protector Clear - 5pk,34.95,15.20,0,200120904,840390378460
 90069790,Zagg Samsung S25 FE Glass Elite Screen Protector Clear,49.95,23.89,18,200120466,840390374103
+90070065,Samsung Tab S11 Ultra Screen Protector Clear,55.00,33.48,0,EF-UX930CTEGWW,8806097734888
+90070085,Samsung Tab S11 Screen Protector Clear,39.00,23.74,0,EF-UX730CTEGWW,8806097734864
 90070475,Otterbox Samsung A17/A16 Glass Screen Protector,49.95,17.20,0,77-97714,840304791521
 90070480,Otterbox Samsung S25FE Glass Screen Protector,49.95,17.20,0,77-99267,840434729142
 90072185,Zagg Samsung S26 Glass Elite Screen Protector Clear,49.95,23.86,0,200121077,840390380364
 90072190,Zagg Samsung S26+ Glass Elite Screen Protector Clear,49.95,23.86,59,200121078,840390380371
 90072195,Zagg Samsung S26 Ultra Glass Elite Screen Protector Clear,49.95,23.86,479,200121079,840390380388
 90072210,Zagg Samsung S26 Ultra Glass XTR Screen Protector Clear,69.95,33.45,423,200121087,840390380463
+90072230,Zagg Samsung S26 Glass+ ISIM Screen Protector Clear - 5pk,34.95,15.96,835,200121553,840390385116
+90072235,Zagg Samsung S26+ Glass+ ISIM Screen Protector Clear - 5pk,34.95,15.96,765,200121554,840390385123
+90072240,Zagg Samsung S26 Ultra Glass+ ISIM Screen Protector Clear - 5pk,34.95,15.96,3420,200121555,840390385130
 90072245,Zagg Samsung S26 XTR ISIM Screen Protector Clear - 5pk,69.95,31.96,15,200121583,840390385406
+90072275,Zagg Samsung A07/A06 Glass+ Screen Protector Clear,29.95,11.20,79,100118467,840390354167
+90072280,Zagg Samsung A17/A16 Glass+ Screen Protector Clear,29.95,11.20,0,200117209,840390341549
+90072310,Zagg iPad A16 Removable 4-Way Privacy Filter Privacy,89.95,46.82,0,100320688,840390376336
+90072340,Zagg Universal 14' (16:10) Removable 2-Way Privacy Filter Privacy,119.95,62.10,0,100320533,840390373496
+90072345,Zagg Universal 14' (16:9) Removable 2-Way Privacy Filter Privacy,119.95,62.10,0,100320532,840390373458
+90072350,Zagg Universal 13.3' (16:9) Removable 2-Way Privacy Filter Privacy,109.95,57.83,0,100320531,840390374684
+90072360,Zagg Universal 16' (16:10) Removable 2-Way Privacy Filter Privacy,129.95,67.95,0,100320535,840390374707
 90072505,Zagg ISOD Elite Matte Film Small - Smartphones Order in mutiples of 25,59.95,26.07,0,200217942,840390348944
+90072515,Zagg ISOD Elite Matte Film Matless - Smartphones Order in mutiples of 25,59.95,26.07,0,200217940,840390348920
 90073805,Otterbox iPad A16 10th Gen Glass Screen Protector Clear,69.95,24.95,0,77-93950,840304743520
+90073865,Zagg Samsung A27 Glass+ ISIM Screen Protector 5pk,34.95,15.20,355,200121904,840390388643
 90074395,Zagg Apple Watch 46mm S10/11 Glass Elite 360 Bumper Clear,39.95,20.82,0,200116714,840390335616
 90074400,Zagg Apple Watch 42mm S10/11 Glass Elite 360 Bumper Clear,39.95,20.82,0,200116713,840390335609
 90075785,Zagg Samsung Z Flip8 Glass Elite Screen Protector Clear,39.95,21.89,225,200122559,840390395009
@@ -1129,7 +1149,20 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 90075795,Zagg Samsung Z Fold8 Glass Elite Screen Protector Clear,49.95,27.36,58,200122561,840390395023
 90077995,Samsung Z Fold8 Ultra Anti-reflecting Film Transparent,35.00,19.78,0,EF-UF976CTEGWW,8806099229429
 90078155,Samsung Z Flip8 Anti-reflecting Film Transparent,35.00,19.78,0,EF-UF776CTEGWW,8806099229450
+90079595,Zagg ISOD Elite Large Plus Film order in qty's of 10,79.95,34.76,0,200220659,840390375964
 40040545,Samsung Tab A11+ Book Cover  Black,0.00,36.00,0,EF-BX230PBEGWW,
+90068705,Zagg Keyboard Messenger Folio2 iPad A16/10th Gen Grey,139.95,83.90,0,103010822,840056174269
+90068710,Zagg Pro Keys Keyboard iPad A16/10th Gen Black,189.95,118.00,0,103410814,840056174184
+90068715,Zagg Pro Keys Keyboard iPad Air 11' (M2) Black,199.95,124.20,0,103407976,840056143692
+90068720,Zagg Pro Keys 2 Keyboard iPad Air 11' (M2) Black,279.95,173.90,0,103414639,840390314802
+90068725,Zagg Pro Keys 2 Keyboard iPad Air 13' (M2/M3) Black,329.95,191.30,0,103414651,840390314925
+90068730,Zagg Pro Keys 2 Keyboard iPad Pro 13' (M4) Black,329.95,191.30,0,103414675,840390315168
+90070050,Samsung Tab S11 Ultra Book Cover Keyboard Slim Black,339.00,191.61,7,EF-DX930UBEGWW,8806097734932
+90070055,Samsung Tab S11 Ultra Book Cover Black,169.00,95.52,0,EF-BX930PBEGWW,8806097734925
+90070070,Samsung Tab S11 Book Cover Keyboard Slim Black,239.00,135.09,8,EF-DX730UBEGWW,8806097734956
+90070075,Samsung Tab S11 Book Cover Black,139.00,78.57,0,EF-BX730PBEGWW,8806097735007
+90072385,Samsung Tab A11+ Book Cover Black,89.00,48.76,0,EF-BX230PBEGWW,8806097850359
+90072405,Samsung Tab A11 Book Cover Black,59.00,34.89,0,EF-BX130PBEGWW,8806097807827
 90074415,Otterbox Samsung Tab A8 Defender Black,179.95,101.50,0,77-88168,840262377119
 90094775,UAG Samsung Galaxy Tab A8 Scout Black,0.00,32.50,1,90094775,810070369279
 90055330,Zagg Samsung S24 Lens Protector,24.95,15.10,240,100113971,840390306623
@@ -1236,7 +1269,7 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 90022515,Creative Sound Blaster Play! 3 USB DAC Amp and Sound Card,49.95,32.58,6,70SB173000000,054651191273
 90058235,Creative Sound Blaster X5 DAC Amplifier Black,449.95,293.45,2,70SB182000000,5390660192524
 90073790,Creative G6 USB-C Gaming Sound Card Black,299.95,208.66,0,70SB177000003,5390660196744
-90021945,Audioengine B1 (Next Gen) Bluetooth Music Receiver Grey,299.00,208.00,2,B1,819955270099
+90021945,Audioengine B1 (Next Gen) Bluetooth Music Receiver Grey,299.00,208.00,0,B1,819955270099
 90021970,Audioengine D1 32-Bit (Gen2) DAC/Headphone Amp Grey,299.00,208.00,3,D1,819955250039
 90058845,Audioengine D1P 32Bit Portable DAC/AMP Grey,299.00,208.00,2,D1P,852225007384
 80002245,Mobling Braided Cable USB-A to Lightning - 1.2m Black,24.95,10.87,0,S-DC-002-1.2M,9420311507882
@@ -1270,18 +1303,18 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 90028585,Samsung Charging Travel Adapter - 25W - USB-C Black,49.95,32.58,0,EP-TA800XBEGAU,8801643998974
 90031065,In Touch Alarm Clock with Wireless Charger - Black,79.95,31.29,0,IT-WCC3038-BK,6009707685910
 90032575,Samsung Charging Wireless Convertible 9W - Black,79.95,52.14,0,EP-N3300TBEGAU,8806090650208
-90033230,Samsung Charging Wireless Trio - Black,159.95,104.32,0,EP-P6300TBEGAU,8806090703782
+90033230,Samsung Charging Wireless Trio - Black,159.95,104.32,43,EP-P6300TBEGAU,8806090703782
 90034585,Samsung Charging TA 25W (No Cable) - Black,35.00,22.83,0,EP-TA800NBEGAU,8806090973376
 90034770,Otterbox Dual Port Charger 30W USB-C 18W PD + USB-A 12W Black,39.95,24.32,0,78-80029,840104227527
-90038385,Samsung 65W Charger Power Adapter Trio Black,99.00,64.57,3,EP-T6530NBEGAU,8806092673892
+90038385,Samsung 65W Charger Power Adapter Trio Black,99.00,64.57,83,EP-T6530NBEGAU,8806092673892
 90038430,mophie Snap+ Wireless Vent Mount Black,99.95,52.15,0,401307636,840056140103
 90043235,Samsung Charging Wireless Duo 15W Black,149.00,97.17,21,EP-P5400TBEGAU,8806092978720
 90043240,Samsung Charging Wireless Single Pad 15W Black,99.00,64.57,0,EP-P2400TBEGAU,8806092978652
 90043265,Samsung Charging Fast Car Charger Duo 40W Black,49.00,31.96,0,EP-L4020NBEGWW,8806094000764
 90055620,Samsung 25W Charger Type C (no cable) Compact Black,35.00,22.83,4581,EP-T2510NBEGAU,8806094912135
-90055625,Samsung 25W Compact Charger Type C (no cable) White,35.00,22.83,105,EP-T2510NWEGAU,8806094912098
+90055625,Samsung 25W Compact Charger Type C (no cable) White,35.00,22.83,129,EP-T2510NWEGAU,8806094912098
 90058328,Samsung Charging Dual Car Charger MicroUSB Black,49.95,30.40,2,113017,8806088426402
-90058965,Samsung 45W Charger With Cable Black,74.00,48.26,0,EP-T4511XBEGAU,8806095611921
+90058965,Samsung 45W Charger With Cable Black,74.00,48.26,179,EP-T4511XBEGAU,8806095611921
 90059075,Mophie 30W Charger & Cable Type C to C White,49.95,24.10,0,409912208,840056189300
 90059080,Mophie 30W Charger & Cable Type C to C Black,49.95,20.95,0,409912212,840056189348
 90060765,Mophie 45W GaN Wall Charger 2 x USB-C White,54.95,23.50,0,409912228,840056189508
@@ -1292,7 +1325,7 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 90060790,Mophie 3 in 1 MS Ext Stand Phone- Watch-Pods Grey,199.95,179.00,0,401311463,840056181663
 90064280,Samsung Qi2 Wireless Charger Single Pad Black,49.00,25.57,0,GP-PWU024WIBBW,8800289130007
 90064290,Samsung Qi2 Wireless Car Charger Black,109.00,56.87,0,GP-PWU024WICBW,8800289130021
-90064295,Samsung 45W Charger No cable Black,59.00,35.91,0,EP-T4511NBEGAU,8806097078227
+90064295,Samsung 45W Charger No cable Black,59.00,35.91,204,EP-T4511NBEGAU,8806097078227
 90065280,Otterbox Car Charger 25W - USB C Black,39.95,22.73,0,77-98234,840434707867
 90065285,Otterbox Car Charger 32W - 20W USB C & 12W USB A Black,49.95,28.43,0,77-98235,840434707881
 90065290,Otterbox Car Charger 65W - 2 x USB C Black,79.95,45.51,0,77-98236,840434707904
@@ -1322,10 +1355,14 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 90060810,Mophie Powerbank 20k mAh 20W 2A1C White,84.95,44.32,0,401112179,840056189010
 90065335,Otterbox Wireless Powerbank Magsafe 5K - 7.5W USB-C White,79.95,45.50,0,78-81463,840304781201
 90065340,Otterbox Wireless Powerbank Magsafe 5K - 7.5W USB-C Black,79.95,45.50,0,78-81461,840304781188
+90068575,Mophie Powerstation 10K 30W Black,89.95,53.64,42,401114330,840390311634
 90068580,Mophie Powerstation XL 20K 45W - Laptop Black,129.95,77.49,16,401114331,840390311641
+90068585,Mophie Powerstation Pro XL 25k 140W - Laptop Black,219.95,127.50,0,401114332,840390311658
 90070025,Mophie Powerstation Mini 5K Red Bull,69.95,38.50,0,401118113,840390350763
 90070030,Mophie Powerstation 10K Red Bull,99.95,55.02,0,401118114,840390350770
 90073375,Samsung 5k Ah Wireless Battery Pack White,89.00,54.17,0,EB-U2500XJEGWW,8806097918448
+90077050,Mophie 10k Powerbank Power Boost PD 1C1A 15W/12W Black,69.95,36.50,4,401121036,840390379931
+90077180,Mophie 10k Powerstation Plus 30W USB C, 18W LTG Black,119.95,67.70,15,401114384,840390312136
 90024291,Emtec MicroSD Memory Card 16GB Class 10 With SD Adapter Gold,12.99,6.48,0,ECMSDM16GHC10GP,3126170112910
 90024392,Emtec MicroSD Memory Card 32GB Class 10 With SD Adapter Gold,29.95,19.01,38,ECMSDM32GHC10GP,3126170112941
 90024493,Emtec MicroSD Memory Card 64GB Class 10 With SD Adapter Gold,34.95,22.19,0,ECMSDM64GXC10GP,
@@ -1380,14 +1417,17 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 40040920,Samsung Watch9 40mm  Cream,0.00,488.00,0,SM-L340NZEAXNZ,
 90048560,Samsung Galaxy Watch5 Pro LTE Black,849.00,553.70,0,SM-R925FZKAXNZ,8806094558142
 90048635,Samsung Galaxy Watch5 40mm BT Silver,449.00,331.87,0,SM-R900NZSAXNZ,8806094543506
-90053290,Samsung SmartTag2 1 Pack Black,49.00,31.96,0,EI-T5600BBEGWW,8806095031415
-90053295,Samsung SmartTag2 1 Pack White,49.00,31.96,0,EI-T5600BWEGWW,8806095031408
-90053300,Samsung SmartTag2 4 Pack Black 2 + White 2,159.00,103.70,0,EI-T5600KWEGWW,8806095031392
-90073380,Samsung 60W Charger 2026 Model (no cable) Black,79.00,48.09,0,EP-T6010NBEGAU,8806097740377
+90053290,Samsung SmartTag2 1 Pack Black,49.00,31.96,105,EI-T5600BBEGWW,8806095031415
+90053295,Samsung SmartTag2 1 Pack White,49.00,31.96,47,EI-T5600BWEGWW,8806095031408
+90053300,Samsung SmartTag2 4 Pack Black 2 + White 2,159.00,103.70,79,EI-T5600KWEGWW,8806095031392
+90073380,Samsung 60W Charger 2026 Model (no cable) Black,79.00,48.09,159,EP-T6010NBEGAU,8806097740377
 90073385,Samsung 45W Charger With Cable White,74.00,45.04,0,EP-T4511XWEGAU,8806097740490
 90073390,Samsung 45W Charger No Cable White,59.00,35.91,0,EP-T4511NWEGAU,8806097740612
 90040270,Creative Live!Cam Sync V2 1080p Webcam Black,79.95,50.75,2,73VF088000000,54651194694
 90047995,Creative Sound Blaster X4 Hi-Res 7.1  USB DAC and Amp Black,279.95,194.75,0,70SB181500000,5390660194733
+90068740,Zagg Pro Connect 4-Port Hub HDMI 4K, 1A1C, 100W Pass thru Grey,109.95,68.30,0,109913194,840056199514
+90068745,Zagg Pro Wireless Hub 15W Qi HDMI 4K, 1A1C, 100W Pass thru Grey,169.95,105.55,0,109816213,840390330550
+90068755,Zagg Pro Connect 9 Port Hub 2 HDMI, 2C1A, Eithernet, AUX, Grey,279.95,202.80,0,109816215,840390330574
 80003995,Mobling Samsung S26 Ultimate Bundle (3m/SP/30W/LP) Clear,139.95,42.59,189,,9420311522113
 80004005,Mobling Samsung S25 Ultra Ultimate Bundle Clear,129.95,56.50,0,,9420311522137
 80004240,Mobling iPhone 17 Ess  Bundle(3MC\SP\30W\Cable) Clear,139.95,60.85,0,,9420311522908
@@ -1426,6 +1466,8 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 90067695,Zagg iPhone 17 Pro Max Premium Smart Bundle Clear,264.00,156.68,0,700619334,840390362643
 90067700,Zagg iPhone 17 Pro Essential Bundle Clear,140.00,76.70,0,700619345,840390362759
 90067705,Zagg iPhone 17 Pro Max Essential Bundle Clear,140.00,76.70,0,700619346,840390362766
+90069770,Zagg Samsung A07 Bundle Case and Screen Protector Clear,59.95,31.50,151,700521063,840390380227
+90069775,Zagg Samsung A17 Bundle Case and Screen Protector Clear,59.95,31.50,0,700520701,840390376466
 90069780,Zagg Samsung S25 FE Bundle Case and Screen Protector Clear,59.95,31.50,0,700520702,840390376473
 90072120,Zagg Samsung S26 Ultra Premium 3-in-1 Bundle Clear,129.95,67.80,197,700521546,840390385048
 90072135,Zagg Samsung S26 Ultra Premium Smart Bundle Clear,259.00,153.71,615,700621549,840390385079
@@ -1485,6 +1527,8 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 90069590,Otterbox Tumbler With Lid Blue,49.95,7.76,0,77-63281,660543518518
 90069595,Otterbox Tumbler With Lid Lavender,49.95,9.00,0,77-63282,660543518532
 90069600,Otterbox Tumbler With Lid White,49.95,7.76,0,77-63283,660543518556
+90074310,Zagg Pro Stylus 2 Wireless iPad Pencil Grey,139.95,84.50,0,109912139,840056188624
+90074320,Zagg Stylus G2 For Tablet with USI 1.0 or 2.0 Grey,139.95,84.50,0,109917203,840390341471
 90078915,Watch Ultra2 Band Peakform Band Black,129.00,72.91,0,ET-SBL71MBEGWW,8806099288259
 90078920,Watch Ultra2 Band Peakform Band Olive,129.00,72.91,0,ET-SBL71MGEGWW,8806099288211
 90078925,Watch Ultra2 Band Peakform Band Taupe,129.00,72.91,0,ET-SBL71MSEGWW,8806099288174
