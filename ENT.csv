@@ -3279,7 +3279,7 @@ CICG-ANTI-TAMPER,Cellular Gateway Anti-Tamper Bracket,Cellular Gateway Anti-Tamp
 CICG-BRACKET-1,Cellular Gateway Low Profile Mounting Br,Cellular Gateway Low Profile Mounting Bracket (Default),CG-BRACKET-1,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,0,0,,$0.00,0,,Y,N
 CICG-POE-AT,PoE option for Cisco Cellular Gateway (E,PoE option for Cisco Cellular Gateway (EIO) - non FRUable,CG-POE-AT,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,209.52,0,,$322.98,0,,N,N
 CICGR-LA-NF-NF=,Lightning Arrestor for Cisco CGR1120 and,Lightning Arrestor for Cisco CGR1120 and IW3702,CGR-LA-NF-NF=,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,435.21,0,,$670.86,0,,Y,N
-CICGR-LA-NM-NF=,Lightning Arrestor for Cisco CGR1240 and,Lightning Arrestor for Cisco CGR1240 and IW3702,CGR-LA-NM-NF=,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,435.21,0,,$670.86,0,,Y,N
+CICGR-LA-NM-NF=,Lightning Arrestor for Cisco CGR1240 and,Lightning Arrestor for Cisco CGR1240 and IW3702,CGR-LA-NM-NF=,CISCO SYSTEMS LTD,,CI - ENTERPRISE ROUTING,,,,0,0,435.21,0,,$670.86,0,,N,N
 CICIMC-LATEST,IMC SW (Recommended) latest release for ,IMC SW (Recommended) latest release for C-Series Servers.,CIMC-LATEST,CISCO SYSTEMS LTD,,CI - CISCO COMPUTE,,,,0,0,0,0,,$0.00,0,,Y,N
 CICIMC-LATEST-D,IMC SW (Recommended) latest release for ,IMC SW (Recommended) latest release for C-Series Servers.,CIMC-LATEST-D,CISCO SYSTEMS LTD,,CI - CISCO COMPUTE,,,,0,0,0,0,,$0.00,0,,Y,N
 CICIMC-SUP-BASE-K9=,IMC Supervisor One-time Site Installatio,IMC Supervisor One-time Site Installation License,CIMC-SUP-BASE-K9=,CISCO SYSTEMS LTD,,CI - CISCO COMPUTE,,,,0,0,453.27,0,,$1039.14,0,,N,N
