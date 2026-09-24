@@ -83,7 +83,7 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 80004145,Mobling by ITSKINS S25 Hybrid with Magsafe Clear,59.95,26.07,0,SGZR-HMACR-TRSM,4894465112226
 80004150,Mobling by ITSKINS S25+ Hybrid with Magsafe Clear,59.95,26.07,87,SGZP-HMACR-TRSM,4894465349172
 80004155,Mobling by ITSKINS S25 Ultra Hybrid with Magsafe Clear,59.95,26.07,0,SGZU-HMACR-TRSM,4894465921477
-80004175,Mobling iPhone 17 3m Eco Drop  Case Clear,59.95,26.07,71,,9420311522809
+80004175,Mobling iPhone 17 3m Eco Drop  Case Clear,59.95,26.07,70,,9420311522809
 80004190,Mobling iPhone Air 3m Eco Drop  Case Clear,59.95,26.07,94,,9420311522816
 80004205,Mobling iPhone 17 Pro/18 Pro 3m Eco Drop Case Clear,59.95,26.07,659,,9420311522823
 80004210,Mobling iPhone 17 Pro/18 Pro Silicone Eco Case Black,59.95,26.07,0,,9420311522861
@@ -106,6 +106,8 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 80004515,Mobling Samsung A37 Folio Wallet Case Black,59.95,26.07,231,,9420311524308
 80004530,Mobling Samsung A27 Folio Wallet Case Black,59.95,26.07,234,,9420311524315
 80004620,Mobling Magnetic Wallet with Card Pocket and Stand Black,59.95,26.07,71,,9420311524889
+80004635,Mobling Samsung S26FE 3m Eco Drop Case Magsafe Clear,59.95,26.07,0,,9420311524827
+80004645,Mobling Samsung S26FE Folio Wallet Case Black,59.95,26.07,185,,9420311524858
 90033325,In Touch iPhone 7/8/SE Milano Wallet Case Black,34.95,18.23,0,IT-MIL3496,6009707686801
 90033330,In Touch iPhone 11 Milano Wallet Case Black,34.95,18.23,0,IT-MIL3537,6009707687211
 90033335,In Touch iPhone 12 Mini Milano Wallet Case Black,34.95,18.23,0,IT-MIL3497,6009707686818
@@ -391,7 +393,7 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 90063820,Zagg Samsung S25+ Crystal Palace Snap Case Clear,59.95,38.16,38,702317277,840390342201
 90063825,Zagg Samsung S25 Ultra Crystal Palace Snap Case Clear,59.95,38.16,0,702317278,840390342218
 90064275,Samsung Magnetic Card Wallet  PU leather Black,49.00,25.57,0,GP-TOU024SAGBW,8809894146670
-90064340,Samsung A56 Rugged Case Black,35.00,16.74,21,EF-RA566CBEGWW,8806097072065
+90064340,Samsung A56 Rugged Case Black,35.00,16.74,20,EF-RA566CBEGWW,8806097072065
 90064380,Samsung A36 Rugged Case Black,35.00,16.74,82,EF-RA366CBEGWW,8806097099604
 90064405,Samsung A26 Rugged Case Black,35.00,16.74,56,EF-RA266CBEGWW,8806097076018
 90064560,In Touch iPhone 16e Vanguard Case Clear,34.95,13.02,0,IT-VAN5035,6009553002565
@@ -579,6 +581,7 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 90078195,Samsung Z Flip8 Flipsuit Card with Case  Lucky Green,69.00,39.00,0,GP-FFF776CUCTW,6979932960024
 90078200,Samsung Z Flip8 Flipsuit Card with Case Summer Red,69.00,39.00,0,GP-FFF776CUDTW,6979932960031
 90078210,Samsung A27 Card Slot Case Black,39.00,22.04,65,EF-OA276TBEGWW,8806099398774
+90079415,Samsung S26FE Silicone Magnet Black,69.00,39.00,46,EF-ES741CBEGWW,8806099398842
 80002775,Mobling iPhone 12 Mini Drop Protection Case - Clear,39.95,17.37,0,,9420311512329
 80002780,Mobling iPhone 12/12 Pro Drop Protection Case - Clear,39.95,15.63,5,,9420311512343
 80002785,Mobling iPhone 12 Pro Max Drop Protection Case - Clear,39.95,17.37,0,,9420311512367
@@ -638,7 +641,7 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 90052165,OtterBox iPhone 15 Defender XT Black,129.95,67.80,0,77-97534,840304783724
 90052170,OtterBox iPhone 16e/15/14 Defender XT Clear,129.95,67.80,0,77-98196,840434707102
 90052175,OtterBox iPhone 17e/16e/15 Symmetry MagSafe Clear,89.95,46.93,4,77-93109,840304734849
-90052185,OtterBox iPhone 17e/16e/15/14 Symmetry MagSafe Black,89.95,46.95,25,77-92928,840304733071
+90052185,OtterBox iPhone 17e/16e/15/14 Symmetry MagSafe Black,89.95,46.95,24,77-92928,840304733071
 90052275,OtterBox iPhone 15 Pro Symmetry MagSafe Clear,89.95,46.93,0,77-93026,840304734047
 90052280,OtterBox iPhone 15 Pro Symmetry MagSafe Stardust Clear,89.95,46.93,0,77-93034,840304734122
 90052285,OtterBox iPhone 15 Pro Symmetry MagSafe Black,89.95,46.93,0,77-92836,840304732180
@@ -890,6 +893,7 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 90072865,Otterbox Samsung S26 Symmetry Magnet Case Stardust,89.95,46.93,0,77-99979,840434747061
 90072870,Otterbox Samsung S26 Ultra Symmetry Magnet Case Clear,89.95,46.93,395,77-99972,840434746927
 90072875,Otterbox Samsung S26 Ultra Symmetry Clear Magnets Stardust,89.95,46.93,256,77-99981,840434747108
+90078355,Otterbox Samsung S26FE Defender Black,129.95,67.80,126,77-000840,840434772810
 80002455,Mobling iPhone 11/XR Full Screen Glass Protector Clear,29.90,12.75,1,,9420311509558
 80002545,Mobling Samsung A90 5G Full Screen Glass Protector - Clear,29.90,14.34,0,,9420311510295
 80002625,Mobling Samsung A11 Full Screen Glass Protector - Clear,29.90,14.34,0,,9420311511186
@@ -917,7 +921,7 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 80004110,Mobling Samsung A26 Glass Screen Protector Clear,29.95,13.02,42,,9420311522601
 80004120,Mobling Samsung A56 Glass Screen Protector Clear,29.95,13.02,0,,9420311522625
 80004125,Mobling iPhone 17e/16e/15/14 Glass Screen Protector Clear,29.95,13.02,0,,9420311522632
-80004370,Mobling iPhone 17/16 Pro Glass Screen Protector Clear,29.95,13.02,38,,9420311523653
+80004370,Mobling iPhone 17/16 Pro Glass Screen Protector Clear,29.95,13.02,37,,9420311523653
 80004375,Mobling iPhone Air Glass Screen Protector Clear,29.95,13.02,169,,9420311523660
 80004380,Mobling iPhone 17 Pro/18 Pro Glass Screen Protector Clear,29.95,13.02,90,,9420311523677
 80004385,Mobling iPhone 17 Pro Max/18PM Glass Screen Protector Clear,29.95,13.02,100,,9420311523684
@@ -929,7 +933,7 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 80004460,Mobling Samsung S26 Ultra Glass Screen Protector Clear,29.95,13.02,211,,9420311524018
 80004480,Mobling iPhone 17e/16e/15/14 Glass Screen Protector Clear,29.95,13.02,25,,9420311524087
 80004510,Mobling Samsung A57 Glass Screen Protector Clear,29.95,13.02,0,,9420311524353
-80004525,Mobling Samsung A37/A36 Glass Screen Protector Clear,29.95,13.02,147,,9420311524360
+80004525,Mobling Samsung A37/A36 Glass Screen Protector Clear,29.95,13.02,47,,9420311524360
 80004540,Mobling Samsung A27 Glass Screen Protector Clear,29.95,13.02,226,,9420311524377
 90031110,Zagg Samsung S20 InvisibleShield Ultra - Screen Protector,39.95,20.84,0,200204858,840056115170
 90031115,Zagg Samsung S20+ InvisibleShield Ultra - Screen Protector,39.95,20.84,0,200204859,840056115187
@@ -1119,7 +1123,7 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 90067615,Zagg iPhone 17 Pro/18 Pro Glass+ Screen Protector Bulk 5pk,34.95,15.20,0,200120497,840390374424
 90067625,Zagg iPhone 17 Glass XTR Screen Protector Bulk 5pk,69.95,30.41,0,200120499,840390374448
 90067630,Zagg iPhone Air Glass XTR Screen Protector Bulk 5pk,69.95,30.41,0,200120500,840390374455
-90067645,Zagg iPhone 17 Pro Max/18 PM Glass+ Screen Protector Bulk 5pk,34.95,15.20,60,200120498,840390374431
+90067645,Zagg iPhone 17 Pro Max/18 PM Glass+ Screen Protector Bulk 5pk,34.95,15.20,35,200120498,840390374431
 90068650,Zagg iPad A16 Glass Elite Screen Protector (10th Gen) Clear,69.95,40.55,13,200118468,840390354181
 90069785,Zagg Samsung S25FE Glass+ SIM Screen Protector Clear - 5pk,34.95,15.20,0,200120904,840390378460
 90069790,Zagg Samsung S25 FE Glass Elite Screen Protector Clear,49.95,23.89,13,200120466,840390374103
@@ -1153,6 +1157,9 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 90075795,Zagg Samsung Z Fold8 Glass Elite Screen Protector Clear,49.95,27.36,148,200122561,840390395023
 90077995,Samsung Z Fold8 Ultra Anti-reflecting Film Transparent,35.00,19.78,0,EF-UF976CTEGWW,8806099229429
 90078155,Samsung Z Flip8 Anti-reflecting Film Transparent,35.00,19.78,0,EF-UF776CTEGWW,8806099229450
+90078325,Zagg Samsung S26FE Glass Elite Screen Protector Clear,49.95,23.89,101,200122580,840390395214
+90078370,Otterbox Samsung S26FE Glass Screen Protector Clear,49.95,17.37,0,77-000867,840434773084
+90079265,Zagg Samsung S26FE Glass+ ISIM Screen Protector Clear  - 5pk,34.95,15.96,175,200122920,840390398338
 90079595,Zagg ISOD Elite Large Plus Film order in qty's of 10,79.95,34.76,0,200220659,840390375964
 40040545,Samsung Tab A11+ Book Cover  Black,0.00,36.00,0,EF-BX230PBEGWW,
 90068680,Zagg iPad A16 Hampton Folio Case (10th Gen) Black,69.95,40.55,10,702319595,840390365408
@@ -1283,12 +1290,12 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 80002430,Mobling Braided Cable USB-C to USB-C - 1.2m Black,24.95,10.87,0,S-TY-003-1.2M,9420311509312
 80004030,Mobling Magnetic Cable USB-C to USB-C - 1.2m White,39.95,17.39,0,,9420311522267
 80004035,Mobling GRS Braided Cable USB-C to USB-C - 1.2m Black,29.95,13.04,419,,9420311522274
-80004040,Mobling GRS Braided Cable USB-C to Lightning - 1.2m Black,44.95,19.56,162,,9420311522281
+80004040,Mobling GRS Braided Cable USB-C to Lightning - 1.2m Black,44.95,19.56,157,,9420311522281
 80004165,Mobling GRS Braided Cable USB-A to USB-C - 1.2m Black,29.95,13.04,133,,9420311522731
 80004275,Mobling Magnetic Cable USB-C to USB-C - 1.2m Black,39.95,17.37,979,,9420311523172
 80004280,Mobling Magnetic Cable USB-C to USB-C - 1.2m Pink,39.95,17.37,752,,9420311523189
 90018542,Samsung Data/Charge Cable Combo USB Type C to Micro USB White,19.95,13.01,0,EP-DG930DWEGWW,8806088571447
-90032590,Samsung Data/Charge Cable USB-C to USB-C (3A) Black,19.95,13.01,97,EP-DA705BBEGWW,8801643993566
+90032590,Samsung Data/Charge Cable USB-C to USB-C (3A) Black,19.95,13.01,94,EP-DA705BBEGWW,8801643993566
 90043270,Samsung Charging 1.8m Cable (3A) Black,35.00,19.78,0,EP-DX310JBEGWW,8806094043716
 90043280,Samsung Charging 1.8m Cable (5A) Black,45.00,25.43,0,EP-DX510JBEGWW,8806094293500
 90053305,Otterbox 2m Premium Pro Cable Lightning to C 60W Black,59.95,31.28,0,78-80890,840262378871
@@ -1439,7 +1446,7 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 80004255,Mobling iPhone 17 Pro Max Ess  Bundle(3MC\SP\30W\Cable) Clear,139.95,60.85,0,,9420311522939
 80004260,Mobling Samsung S26 Ultra Ultimate Bundle (3m/SP/30W/LP) Clear,139.95,42.59,28,,9420311522946
 80004545,Mobling Samsung A57 Bundle - Case and SP Clear,59.95,26.07,275,,9420311524384
-80004550,Mobling Samsung A37/A36 Bundle - Case and SP Clear,59.95,26.07,96,,9420311524391
+80004550,Mobling Samsung A37/A36 Bundle - Case and SP Clear,59.95,26.07,196,,9420311524391
 80004560,Mobling Honor X9D Case  & SP Bundle Frosted Black,59.95,26.07,0,,9420311524414
 80004565,Mobling Samsung A27 Bundle - Case and SP Clear,59.95,26.07,162,,9420311524445
 90048465,ITSKINS iPhone 14 Pro Max Spec Spectrum + Glass Transparent,49.95,30.40,0,AP4M-SPTDC-TRSP,4894465384821
@@ -1449,11 +1456,11 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 90061175,Zagg Samsung A06 Bundle Glass SP and Case Clear,59.95,31.50,3,100516458,840390333155
 90061180,Zagg Samsung S24FE Bundle Glass SP, Case, Charger Clear,129.95,73.20,0,100616665,840390335104
 90062585,Zagg Samsung A16 Bundle Glass SP and Case Clear,59.95,31.50,6,700517194,840390341358
-90063020,In Touch iPhone 16 Bundle Vanguard Case and SP Black,44.95,22.67,55,IT-VSP5099,6009553002367
+90063020,In Touch iPhone 16 Bundle Vanguard Case and SP Black,44.95,22.67,0,IT-VSP5099,6009553002367
 90063025,In Touch iPhone 16 Plus Bundle Vanguard Case and SP Black,44.95,22.67,0,IT-VSP5100,6009553002176
 90063030,In Touch iPhone 16 Pro Bundle Vanguard Case and SP Black,44.95,22.67,237,IT-VSP5101,6009553002411
 90063035,In Touch iPhone 16 Pro Max Bundle Vanguard Case and SP Black,44.95,22.67,0,IT-VSP5102,6009553002190
-90063040,In Touch iPhone 16 Bundle Vanguard Case and SP Clear,44.95,22.67,113,IT-VSP5093,6009553002374
+90063040,In Touch iPhone 16 Bundle Vanguard Case and SP Clear,44.95,22.67,0,IT-VSP5093,6009553002374
 90063045,In Touch iPhone 16 Plus Bundle Vanguard Case and SP Clear,44.95,22.67,0,IT-VSP5094,6009553002213
 90063050,In Touch iPhone 16 Pro Bundle Vanguard Case and SP Clear,44.95,22.67,297,IT-VSP5095,6009553002428
 90063055,In Touch iPhone 16 Pro Max Bundle Vanguard Case and SP Clear,44.95,22.67,0,IT-VSP5096,6009553002237
@@ -1567,6 +1574,28 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 90079060,Watch9 Band Misty Band M/L Blue,79.00,44.65,0,ET-SXL35LLEGWW,8806099287405
 90080200,Audioengine DS1M Desktop Speaker Stands (Small) White,79.00,51.52,0,DS1M,850069393168
 90080205,Audioengine DS1M Desktop Speaker Stands (Small) Red,79.00,51.52,0,DS1M,850069393144
+90080260,Creality CR-Wood white pine CR-wood White Pine Wood White,58.99,22.34,0,3301130001,6971636408666
+90080265,Creality Silk Silver CR-Silk Silver Silk Silver,47.99,18.63,0,3301120007,6971636408901
+90080270,Creality Hyper Rainbow S/Lake Hyper Rainbow Spring Lake Rainbow Spring Lake,55.99,21.57,0,3301010424,6971636403630
+90080275,Creality Hyper R/bow BL/Short Hyper Rainbow W/ Blossom-Short Rainbow Wild Blossom Short,55.99,21.57,0,3301010425,6971636403654
+90080280,Creality Hyper R/bow BL-Long Hyper Rainbow W/Blossom-Long Rainbow Wild Blossom Long,55.99,21.57,0,3301010426,6971636403685
+90080285,Creality Hyper PLA/RFID GRN Hyper PLA RFID Stardust Green Stardust Green,48.99,18.46,0,3301010567,6977905743179
+90080290,Creality Hyper PLA RFID PINK Hyper PLA RFID Stardust Pink Stardust Pink,48.99,18.46,0,3301010570,6977905743216
+90080295,Creality Hyper PLA RFID PURP Hyper PLA RFID Stardust Purple Stardust Purple,48.99,18.46,0,3301010575,6977905743209
+90080300,Creality CR-Silk rainbow CR-Silk Rainbow Silk Rainbow,47.99,18.63,0,3301120003,6971636405832
+90080305,Creality CR-Silk-Purple CR-Silk Pink-purple Silk Pink & Purple,47.99,18.63,0,3301120013,6971636405559
+90080310,Creality CR-Silk Blue-Green CR-Silk Blue-Green Silk Blue & Green,47.99,18.63,0,3301120011,6971636405382
+90080315,Creality CR-Silk red copper CR-Silk red copper Silk Red copper,47.99,18.63,0,3301120002,6971636408949
+90080320,Creality CR-Silk Golden CR-Silk Golden Silk Golden,47.99,18.63,0,3301120001,6971636408895
+90080325,Soleyin Ultra PLA Mac Purple Soleyin Ultra PLA Mac Purple Macaron Purple,33.99,13.24,0,3301010600,6977905741274
+90080330,Soleyin Ultra PLA Botan Green Soleyin Ultra PLA Botan Green Botanic Green,33.99,13.24,0,3301010604,6977905741359
+90080335,Soleyin Ultra PLA Moon Stone Soleyin Ultra PLA Moon Stone Moon Stone,33.99,13.24,0,3301010514,6977905749171
+90080340,Soleyin Ultra PLA Rosehip Soleyin Ultra PLA Rosehip Rosehip,33.99,13.24,0,3301010601,6977905741328
+90080345,Soleyin Ultra PLA Light Green Soleyin Ultra PLA Light Green Light green,33.99,13.24,0,3301010603,6977905741366
+90080350,Creality Hyper PLA RFID Black Hyper PLA RFID Black Black,46.99,18.46,0,3301010406,6977905740277
+90080355,Creality Hyper PLA RFID White Hyper PLA RFID White White,46.99,18.46,0,3301010405,6977905740284
+90080360,Creality Hyper PLA RFID Grey Hyper PLA RFID Grey Grey,46.99,18.46,0,3301010466,6977905740253
+90080625,Creality Hyper PLA-Peach Fuzz Hyper PLA -1KG Peach Fuzz,41.99,14.00,0,3301010414,6971636403326
 40032190,Samsung A26 Rugged Case  Black,0.00,16.85,0,EF-RA266CBEGWW,8806097076018
 40035750,Samsung Tab A9 Book Cover  Black,0.00,37.00,0,EF-BX110TBEGWW,8806095300511
 40035755,Samsung Tab A9 Book Cover  Blue,0.00,37.00,0,EF-BX110TLEGWW,8806095300498
