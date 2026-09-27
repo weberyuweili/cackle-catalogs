@@ -50,7 +50,7 @@ MHEWXT10,EWXT10,,Maxhub CVTE,Extended Warranties,MAXHUB Extended Warranty - 2 Ye
 MHEWXT10VB,EWXT10VB,,Maxhub CVTE,Extended Warranties,MAXHUB Extended Warranty - 2 Years X CORE KIT VB,$217.67,,,1,1000,$0.00
 MHEWXT10WS,EWXT10WS,,Maxhub CVTE,Extended Warranties,MAXHUB Extended Warranty - 2 Years X CORE KIT WS,$217.67,,,1,1000,$0.00
 MHMT61-i7,MT61-i7,,Maxhub CVTE,OPS,"MAXHUB V6 Series Win IoT i7 OPS 16GB RAM, 256GB SSD","$2,026.00",,,,1,$0.00
-MHMT71f-i7,MT71f-i7,6927433607306,Maxhub CVTE,OPS,"MAXHUB V7 Series OPS - MAXHUB OS Intel i7-12650H, 16GB RAM, 512GB SSD Windows 11 Pro","$2,115.93",1.75,,1,29,"$3,743.25"
+MHMT71f-i7,MT71f-i7,6927433607306,Maxhub CVTE,OPS,"MAXHUB V7 Series OPS - MAXHUB OS Intel i7-12650H, 16GB RAM, 512GB SSD Windows 11 Pro","$2,115.93",1.75,,1,26,"$3,743.25"
 MHND50CMB,ND50CMB,,Maxhub CVTE,Commercial Display,"MAXHUB CMB Series Commercial Display
 Screen size: 50"" 
 4K Display, Anti-Glare, 500 nits brightness, 25% haze
@@ -61,7 +61,7 @@ MTR compatibility
 1080P BYOM
 Power saving: EPEAT Silver+EEI E",$985.76,,,,2,"$1,777.03"
 MHND55CMB,ND55CMB,,Maxhub CVTE,Commercial Display,"MAXHUB CMB Series ND55CMB 55"" 4K Commercial Display, Anti-Glare, 500 nits brightness Android 14, 4G RAM, 32G Storage WiFi-6 supported 2 x 16W Built-in Speakers Orientation: Portrait / Landscape, 7_24 operation hours Power saving: Energy Star, Erp","$1,105.71",19.5,,1,9,"$1,993.26"
-MHND65CMB,ND65CMB,,Maxhub CVTE,Commercial Display,"MAXHUB CMB Series ND65CMB 4K Commercial Display 4K, Anti-Glare, 500 nits brightness Android 11.0, 4G RAM, 32G Storage WiFi-6 supported 2 x 16W Built-in Speakers Orientation: Portrait / Landscape, 7_24 operation hours Power saving: Energy Star, Erp","$1,557.15",33.25,,1,21,"$2,807.08"
+MHND65CMB,ND65CMB,,Maxhub CVTE,Commercial Display,"MAXHUB CMB Series ND65CMB 4K Commercial Display 4K, Anti-Glare, 500 nits brightness Android 11.0, 4G RAM, 32G Storage WiFi-6 supported 2 x 16W Built-in Speakers Orientation: Portrait / Landscape, 7_24 operation hours Power saving: Energy Star, Erp","$1,557.15",33.25,,1,20,"$2,807.08"
 MHND75CMB,ND75CMB,,Maxhub CVTE,Commercial Display,"MAXHUB CMB Series ND75CMB 4K Commercial Display 4K Display, Anti-Glare, 500 nits brightness Android 11.0, 4G RAM, 32G Storage WiFi-6 supported 2 x 16W Built-in Speakers Orientation: Portrait / Landscape, 7_24 operation hours Power saving: Energy Star, Erp","$2,100.19",48.15,,1,5,"$3,786.02"
 MHND86CMB,ND86CMB,,Maxhub CVTE,Commercial Display,"MAXHUB CMB Series Commercial Display
 Screen size: 86"" 
@@ -90,11 +90,12 @@ Operating temperature 	0_-40_
 Video output 	MJPG output: 2448 _ 3264, 3120 _ 4208
 Flicker control 	50 Hz",$280.68,3.15,,,10,$495.90
 MHSP08,SP08,,Maxhub CVTE,Accessories,MAXHUB Electromagnetic Pen 1024 pressure levels,$75.00,,,,3,
-MHST33,ST33,,Maxhub CVTE,Accessories,"Mobile stand. Max load 100kg. For 55""/65""/75""/86"" panels",$347.00,23.5,,1,4,$602.38
+MHST33,ST33,,Maxhub CVTE,Accessories,"Mobile stand. Max load 100kg. For 55""/65""/75""/86"" panels",$347.00,23.5,,1,2,$602.38
 MHT10PB-USB-10m,T10PB-USB-10m,6927433605951,Maxhub CVTE,Accessories,10M USB-C cable for Xcore Kit,$420.83,,,,29,$734.85
 MHTCP10M,TCP10M,6927433604497,Maxhub CVTE,Accessories,"MAXHUB TCP10M 10.1"" Touch Control Panel 1920(H)_1080(V) Android 10.0 RAM 4G+ ROM 16G Capacitive touch recognition Compatible with MH OS PC only",$700.57,1.86,,1,4,"$1,223.60"
 MHTCP30WM,TCP30WM,,Maxhub CVTE,Accessories,MAXHUB XCore Kit Wall Mount,$85.14,,,,4,$148.35
 MHTCP33T,TCP33T,,Maxhub CVTE,MTR,MAXHUB Touch Console for use with MAXHUB MTR IFP,"$1,026.52",,,,2,"$1,792.85"
+MHU50,U50,,Maxhub CVTE,UC Products,MAXHUB XBar U50 Videobar,"$1,366.56",5.3,,,4,"$2,467.46"
 MHU6540,U6540,,Maxhub CVTE,Education IFP,"MAXHUB NEW U series 65"" Interactive Touch Display Screen size: 65"" 4K Resolution Android 15 system, Google EDLA certified 16GB RAM, 256GB ROM IR Touch, 50 touch points, 8-microphone array, 12m Pickup 2.2 SkyWave Speakers 74W max output, 50MP Camera, 115 DFOV","$2,683.26",45.35,,,3,"$4,740.83"
 MHU7540,U7540,,Maxhub CVTE,Education IFP,"MAXHUB NEW U series 75"" Interactive Touch Display Screen size: 75"" 4K Resolution Android 15 system, Google EDLA certified 16GB RAM, 256GB ROM IR Touch, 50 touch points, 8-microphone array, 12m Pickup 2.2 SkyWave Speakers 74W max output, 50MP Camera, 115 DFOV","$3,464.66",58.1,,,5,"$6,121.43"
 MHU8640,U8640,,Maxhub CVTE,Education IFP,"MAXHUB NEW U series 86"" Interactive Touch Display Screen size: 86"" 4K Resolution Android 15 system, Google EDLA certified 16GB RAM, 256GB ROM IR Touch, 50 touch points, 8  microphone array, 12m Pickup 2.2 SkyWave Speakers 74W max output, 50MP Camera, 115 DFOV","$4,423.45",66.5,,1,4,"$5,468.25"
