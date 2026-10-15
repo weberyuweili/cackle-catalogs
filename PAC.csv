@@ -108,12 +108,12 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 80004500,Mobling Samsung A57 Folio Wallet Case Black,59.95,26.07,95,,9420311524292
 80004515,Mobling Samsung A37 Folio Wallet Case Black,59.95,26.07,181,,9420311524308
 80004530,Mobling Samsung A27 Folio Wallet Case Black,59.95,26.07,223,,9420311524315
-80004590,Mobling iPhone 18 Pro Max 3m Eco Drop Case Clear,59.95,26.07,339,,9420311524803
+80004590,Mobling iPhone 18 Pro Max 3m Eco Drop Case Clear,59.95,26.07,335,,9420311524803
 80004595,Mobling iPhone 18 Pro 3m Eco Drop Case Clear,59.95,26.07,0,,9420311524810
 80004600,Mobling iPhone 18 Pro Max Silicone Eco Case Black,59.95,26.07,173,,9420311524834
 80004605,Mobling iPhone 18 Pro Silicone Eco Case Black,59.95,26.07,132,,9420311524841
 80004620,Mobling Magnetic Wallet with Card Pocket and Stand Black,59.95,26.07,0,,9420311524889
-80004635,Mobling Samsung S26FE 3m Eco Drop Case Magsafe Clear,59.95,26.07,187,,9420311524827
+80004635,Mobling Samsung S26FE 3m Eco Drop Case Magsafe Clear,59.95,26.07,185,,9420311524827
 80004645,Mobling Samsung S26FE Folio Wallet Case Black,59.95,26.07,146,,9420311524858
 90033325,In Touch iPhone 7/8/SE Milano Wallet Case Black,34.95,18.23,0,IT-MIL3496,6009707686801
 90033330,In Touch iPhone 11 Milano Wallet Case Black,34.95,18.23,0,IT-MIL3537,6009707687211
@@ -522,7 +522,7 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 90073170,Samsung S26+ Silicone Magnet Case Black,89.00,50.30,120,EF-ES947CBEGWW,8806097934707
 90073210,Samsung S26+ Rugged Case Black,75.00,42.39,14,EF-RS947CBEGWW,8806097935704
 90073235,Samsung S26 Ultra Carbon Magnet Case Black,129.00,72.91,350,EF-KS948SNEGWW,8806099133634
-90073240,Samsung S26 Ultra Carbon Magnet Case Dark Blue,129.00,72.91,190,EF-KS948SCEGWW,8806099133641
+90073240,Samsung S26 Ultra Carbon Magnet Case Dark Blue,129.00,72.91,191,EF-KS948SCEGWW,8806099133641
 90073245,Samsung S26 Ultra Carbon Magnet Case Dark Grey,129.00,72.91,8,EF-KS948SSEGWW,8806099133627
 90073250,Samsung S26 Ultra Carbon Magnet Case Red,129.00,72.91,8,EF-KS948SREGWW,8806099133733
 90073255,Samsung S26 Ultra Silicone Magnet Case Black,89.00,50.30,29,EF-ES948CBEGWW,8806097887225
@@ -934,16 +934,16 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 90077645,Otterbox iPhone 18 Pro Defender Pro XT Clear/Black,129.95,67.80,675,77-000978,840434775088
 90077690,Otterbox iPhone 18 Pro Lumen Black,89.95,46.93,178,77-001170,840434776931
 90077705,Otterbox iPhone 18 Pro Lumen Clear Clear,89.95,46.93,96,77-001114,840434776399
-90077710,Otterbox iPhone 18 Pro Lumen Clear Stardust,89.95,46.93,112,77-001121,840434776467
-90077755,Otterbox iPhone 18 Pro Symmetry Stand Clear/Purple,109.95,57.40,113,77-001218,840434777419
-90077760,Otterbox iPhone 18 Pro Symmetry Stand Clear/Black,109.95,57.40,222,77-001206,840434777297
+90077710,Otterbox iPhone 18 Pro Lumen Clear Stardust,89.95,46.93,107,77-001121,840434776467
+90077755,Otterbox iPhone 18 Pro Symmetry Stand Clear/Purple,109.95,57.40,108,77-001218,840434777419
+90077760,Otterbox iPhone 18 Pro Symmetry Stand Clear/Black,109.95,57.40,217,77-001206,840434777297
 90077765,Otterbox iPhone 18 Pro Symmetry Stand Clear/Blue,109.95,57.40,158,77-001212,840434777358
 90077810,Otterbox iPhone 18 Pro Max Defender Pro XT Clear/Black,129.95,67.80,506,77-000989,840434775187
 90077855,Otterbox iPhone 18 Pro Max Lumen Black,89.95,46.93,293,77-001176,840434776993
 90077870,Otterbox iPhone 18 Pro Max Lumen Clear Clear,89.95,46.93,107,77-001142,840434776672
 90077875,Otterbox iPhone 18 Pro Max Lumen Clear Stardust,89.95,46.93,78,77-001149,840434776733
-90077920,Otterbox iPhone 18 Pro Max Symmetry Stand Clear/Purple,109.95,57.40,9,77-001233,840434777563
-90077925,Otterbox iPhone 18 Pro Max Symmetry Stand Clear/Black,109.95,57.40,218,77-001221,840434777440
+90077920,Otterbox iPhone 18 Pro Max Symmetry Stand Clear/Purple,109.95,57.40,1,77-001233,840434777563
+90077925,Otterbox iPhone 18 Pro Max Symmetry Stand Clear/Black,109.95,57.40,213,77-001221,840434777440
 90077930,Otterbox iPhone 18 Pro Max Symmetry Stand Clear/Blue,109.95,57.40,101,77-001227,840434777501
 90078355,Otterbox Samsung S26FE Defender Black,129.95,67.80,68,77-000840,840434772810
 90079845,Otterbox Samsung A57 React Black,49.95,28.20,0,77-000446,840434758869
@@ -1080,8 +1080,8 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 90058905,Zagg ISOD Elite Film Screen Protector -Smartphone Order in qty of 25,49.95,21.72,515,200211365,840056180307
 90058910,Zagg ISOD Elite Film Screen Protector -Medium Order in qty of 10,59.95,26.07,0,200211366,840056180314
 90058915,Zagg ISOD Elite Film Screen Protector -Large Order in qty of 10,69.95,30.41,0,200211367,840056180321
-90058920,Zagg ISOD Elite Matless Film Screen Protector -Wearable Order in qty of 25,29.95,13.02,875,200211433,840056181250
-90058925,Zagg ISOD Elite Matless Film Screen Protector -Smartphone Order in qty of 25,49.95,21.72,4375,200211434,840056181267
+90058920,Zagg ISOD Elite Matless Film Screen Protector -Wearable Order in qty of 25,29.95,13.02,825,200211433,840056181250
+90058925,Zagg ISOD Elite Matless Film Screen Protector -Smartphone Order in qty of 25,49.95,21.72,4150,200211434,840056181267
 90058930,Zagg ISOD Extreme Film Screen Protector -Smartphone Order in qty of 25,59.95,26.07,0,200213414,840390301819
 90058935,Zagg ISOD Extreme Matless Film Screen Protector -Smartphone Order in qty of 25,59.95,26.07,0,200213415,840390301826
 90058940,Zagg ISOD Privacy Matte M-less Screen Protector -Smartphone Order in qty of 25,59.95,26.07,300,200213413,840390301802
@@ -1178,12 +1178,12 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 90067590,Zagg iPhone 17 Pro Max/18 PM Glass XTR Screen Protector Clear,69.95,33.45,0,200118670,840390356413
 90067605,Zagg iPhone 17 Glass+ Screen Protector Bulk 5pk,34.95,15.20,460,200120495,840390374400
 90067610,Zagg iPhone Air Glass+ Screen Protector Bulk 5pk,34.95,15.20,20,200120496,840390374417
-90067615,Zagg iPhone 17 Pro/18 Pro Glass+ Screen Protector Bulk 5pk,34.95,15.20,360,200120497,840390374424
+90067615,Zagg iPhone 17 Pro/18 Pro Glass+ Screen Protector Bulk 5pk,34.95,15.20,336,200120497,840390374424
 90067625,Zagg iPhone 17 Glass XTR Screen Protector Bulk 5pk,69.95,30.41,0,200120499,840390374448
 90067630,Zagg iPhone Air Glass XTR Screen Protector Bulk 5pk,69.95,30.41,0,200120500,840390374455
 90067635,Zagg iPhone 17 Pro/18 Pro Glass XTR Screen Protector Bulk 5pk,69.95,30.41,0,200120501,840390374462
 90067640,Zagg iPhone 17 Pro Max/18 PM Glass XTR Screen Protector Bulk 5pk,69.95,30.41,0,200120502,840390374479
-90067645,Zagg iPhone 17 Pro Max/18 PM Glass+ Screen Protector Bulk 5pk,34.95,15.20,645,200120498,840390374431
+90067645,Zagg iPhone 17 Pro Max/18 PM Glass+ Screen Protector Bulk 5pk,34.95,15.20,641,200120498,840390374431
 90068650,Zagg iPad A16 Glass Elite Screen Protector (10th Gen) Clear,69.95,40.55,13,200118468,840390354181
 90069785,Zagg Samsung S25FE Glass+ SIM Screen Protector Clear - 5pk,34.95,15.20,0,200120904,840390378460
 90069790,Zagg Samsung S25 FE Glass Elite Screen Protector Clear,49.95,23.89,0,200120466,840390374103
@@ -1197,7 +1197,7 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 90072210,Zagg Samsung S26 Ultra Glass XTR Screen Protector Clear,69.95,33.45,0,200121087,840390380463
 90072230,Zagg Samsung S26 Glass+ ISIM Screen Protector Clear - 5pk,34.95,15.96,365,200121553,840390385116
 90072235,Zagg Samsung S26+ Glass+ ISIM Screen Protector Clear - 5pk,34.95,15.96,630,200121554,840390385123
-90072240,Zagg Samsung S26 Ultra Glass+ ISIM Screen Protector Clear - 5pk,34.95,15.96,2660,200121555,840390385130
+90072240,Zagg Samsung S26 Ultra Glass+ ISIM Screen Protector Clear - 5pk,34.95,15.96,2640,200121555,840390385130
 90072245,Zagg Samsung S26 XTR ISIM Screen Protector Clear - 5pk,69.95,31.96,15,200121583,840390385406
 90072275,Zagg Samsung A06/A07/A08 Glass+ Screen Protector Clear,29.95,11.20,0,100118467,840390354167
 90072280,Zagg Samsung A17/A16 Glass+ Screen Protector Clear,29.95,11.20,0,200117209,840390341549
@@ -1234,7 +1234,7 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 90068715,Zagg Pro Keys Keyboard iPad Air 11' (M2) Black,199.95,124.20,0,103407976,840056143692
 90068720,Zagg Pro Keys 2 Keyboard iPad Air 11' (M2) Black,279.95,173.90,0,103414639,840390314802
 90068725,Zagg Pro Keys 2 Keyboard iPad Air 13' (M2/M3) Black,329.95,191.30,0,103414651,840390314925
-90068730,Zagg Pro Keys 2 Keyboard iPad Pro 13' (M4) Black,299.95,169.54,0,103414675,840390315168
+90068730,Zagg Pro Keys 2 Keyboard iPad Pro 13' (M4) Black,299.95,169.54,35,103414675,840390315168
 90070050,Samsung Tab S11 Ultra Book Cover Keyboard Slim Black,339.00,191.61,0,EF-DX930UBEGWW,8806097734932
 90070055,Samsung Tab S11 Ultra Book Cover Black,169.00,95.52,0,EF-BX930PBEGWW,8806097734925
 90070070,Samsung Tab S11 Book Cover Keyboard Slim Black,239.00,135.09,8,EF-DX730UBEGWW,8806097734956
@@ -1267,20 +1267,20 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 90075800,Zagg Samsung Z Flip8 Camera Ring Protector Clear,29.95,17.83,75,200122571,840390395122
 90075805,Zagg Samsung Z Fold8 Ultra Camera Ring Protector Clear,29.95,17.83,96,200122572,840390395139
 90075810,Zagg Samsung Z Fold8 Camera Ring Protector Clear,29.95,17.83,147,200122573,840390395146
-90076255,Zagg iPhone 18 Pro/Pro Max Glass Elite Camera Rings Black,29.95,21.27,525,200122075,840390390059
+90076255,Zagg iPhone 18 Pro/Pro Max Glass Elite Camera Rings Black,29.95,21.27,500,200122075,840390390059
 90058230,Creative Live!Cam Sync 4K Webcam Black,149.95,95.19,0,73VF092000000,5390660195570
 90068290,Creative Live!Cam 4K Webcam Black,149.95,95.19,19,73VF099000000,5390660196706
 90024915,Creative Pebble 2.0 Speaker USB - Black,54.95,34.88,138,51MF1680AA000,054651192027
-90024920,Creative Pebble 2.0 Speaker USB - White,54.95,34.88,56,51MF1680AA001,054651192133
-90027660,Creative Pebble Plus 2.1 Speaker USB Black,99.95,60.84,75,51MF0480AA000,054651192454
+90024920,Creative Pebble 2.0 Speaker USB - White,54.95,34.88,55,51MF1680AA001,054651192133
+90027660,Creative Pebble Plus 2.1 Speaker USB Black,99.95,60.84,73,51MF0480AA000,054651192454
 90032875,Creative Pebble V2 USB-C Powered Speaker Black,69.95,44.40,50,51MF1695AA000,54651192935
 90052105,Creative Katana V2X Gaming Soundbar with Subwoofer Black,559.95,355.45,3,51MF8400AA001,054651195387
 90071460,Soundcore Select 4 Go Bluetooth Speaker Black,59.00,33.35,13,A31X1012,194644249007
-40034640,Samsung Buds Core  Black,0.00,66.11,117,SM-R410NZKAASA,8806097406631
+40034640,Samsung Buds Core  Black,0.00,66.11,0,SM-R410NZKAASA,8806097406631
 40034645,Samsung Buds Core  White,0.00,66.11,0,SM-R410NZWAASA,8806097406624
 40034650,Samsung Buds Core  Black,0.00,66.11,0,SM-R410NZKAASA,8806097406631
 40034655,Samsung Buds Core  White,0.00,66.11,0,SM-R410NZWAASA,8806097406624
-90034580,Samsung Earphones USB-C Version Black,45.00,29.35,156,EO-IC100BBEGWW,8806090270079
+90034580,Samsung Earphones USB-C Version Black,45.00,29.35,154,EO-IC100BBEGWW,8806090270079
 90035080,Samsung Earphones USB-C Version White,45.00,29.35,0,EO-IC100BWEGWW,8806090270031
 90048385,Creative Chat USB Headset Black,89.95,54.75,5,51EF0980AA000,054651194830
 90059430,Creative Zen Hybrid 2 Over Ear Headset Black,159.95,76.50,0,51EF1140AA001,5390660196003
@@ -1294,7 +1294,7 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 40037755,Samsung Buds4  Black,0.00,179.00,0,SM-R540NZKAASA,8806097997931
 40037760,Samsung Buds4  White,0.00,179.00,0,SM-R540NZWAASA,8806097998259
 40037820,Samsung Buds4 Pro  Black,0.00,242.00,0,SM-R640NZKAASA,8806097984870
-40037830,Samsung Buds4  Black,0.00,179.00,5,SM-R540NZKAASA,8806097997931
+40037830,Samsung Buds4  Black,0.00,179.00,0,SM-R540NZKAASA,8806097997931
 40037835,Samsung Buds4  White,0.00,179.00,0,SM-R540NZWAASA,8806097998259
 90048690,Galaxy Buds2  Bora Purple,279.00,181.96,0,SM-R177NLVAASA,8806092612822
 90048700,Galaxy Buds2  Graphite,279.00,181.96,0,SM-R177NZKAASA,
@@ -1326,7 +1326,7 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 90027135,Audioengine 2+ Wireless Desktop Speakers - Gloss Red,429.00,312.00,0,90027135,852225007186 
 90032920,Audioengine A1 Wireless Speaker System,359.00,249.74,0,A1,852225007285
 90039545,Creative T60 Premium 2.0 Speakers with BT,179.95,114.23,8,51MF1705AA002,054651194809
-90048380,Creative Stage Air V2 Under Monitor Soundbar Black,129.95,82.49,66,51MF8395AA000,54651195059
+90048380,Creative Stage Air V2 Under Monitor Soundbar Black,129.95,82.49,65,51MF8395AA000,54651195059
 90049355,Creative Pebble V3 Speakers Black,99.95,63.45,21,51MF1700AA000,054651193963
 90054250,Audioengine N22 (Gen2) Desktop Power Amplifier Satin Black,429.00,298.43,1,N22,852225007346
 90057745,Audioengine 2+ Wireless Desktop Speakers - Blue,499.00,347.13,0,,852225007544
@@ -1336,11 +1336,11 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 90062935,Audioengine S6 Powered Subwoofer Black,549.00,381.91,0,,860011449560
 90062940,Audioengine S6 Powered Subwoofer White,549.00,381.91,0,,852225007575
 90062945,Audioengine 5+ Wireless Powered Speakers (pair) - Blue,849.00,590.71,0,A5+BT-INT-BLK,860011449577
-90064215,Creative Pebble SE 2.0 Speaker Black,64.95,41.23,54,51MF1725AA000,5390660196355
+90064215,Creative Pebble SE 2.0 Speaker Black,64.95,41.23,53,51MF1725AA000,5390660196355
 90064220,Creative Pebble SE 2.0 Speaker White,64.95,41.23,65,51MF1725AA001,5390660196386
 90064965,Audioengine B2 Bluetooth Speaker - White,349.00,242.73,0,B2+WHT (230V),852225007391
 90064970,Audioengine 2+ (Next Gen) Wireless Desktop Speakers Green,499.00,347.13,0,A2+BT-INT-GRN,860011449584
-90065440,Creative Pebble Pro  Black,139.95,88.84,2,51MF1710AA000,5390660195174
+90065440,Creative Pebble Pro  Black,139.95,88.84,1,51MF1710AA000,5390660195174
 90068960,Audioengine 2+ (Next Gen) Wireless Desktop Speakers Satin Black,499.00,347.13,0,A2+BT-BLK,852225007162 
 90068965,Audioengine 2+ (Next Gen) Wireless Desktop Speakers Gloss White,499.00,347.13,0,A2+BT-INT-WHT,852225007179 
 90068970,Audioengine 2+ (Next Gen) Wireless Desktop Speakers Blue,499.00,347.13,0,,852225007544
@@ -1362,7 +1362,7 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 80004275,Mobling Magnetic Cable USB-C to USB-C - 1.2m Black,39.95,17.37,947,,9420311523172
 80004280,Mobling Magnetic Cable USB-C to USB-C - 1.2m Pink,39.95,17.37,722,,9420311523189
 90018542,Samsung Data/Charge Cable Combo USB Type C to Micro USB White,19.95,13.01,0,EP-DG930DWEGWW,8806088571447
-90032590,Samsung Data/Charge Cable USB-C to USB-C (3A) Black,19.95,13.01,82,EP-DA705BBEGWW,8801643993566
+90032590,Samsung Data/Charge Cable USB-C to USB-C (3A) Black,19.95,13.01,81,EP-DA705BBEGWW,8801643993566
 90043270,Samsung Charging 1.8m Cable (3A) Black,35.00,19.78,0,EP-DX310JBEGWW,8806094043716
 90043280,Samsung Charging 1.8m Cable (5A) Black,45.00,25.43,0,EP-DX510JBEGWW,8806094293500
 90053305,Otterbox 2m Premium Pro Cable Lightning to C 60W Black,59.95,31.28,0,78-80890,840262378871
@@ -1381,25 +1381,25 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 90021770,Samsung Charging Dual Car Charger USB-C White,49.95,32.58,1,113127,8806088592510
 90028585,Samsung Charging Travel Adapter - 25W - USB-C Black,49.95,32.58,0,EP-TA800XBEGAU,8801643998974
 90032575,Samsung Charging Wireless Convertible 9W - Black,79.95,52.14,0,EP-N3300TBEGAU,8806090650208
-90033230,Samsung Charging Wireless Trio - Black,159.95,104.32,14,EP-P6300TBEGAU,8806090703782
+90033230,Samsung Charging Wireless Trio - Black,159.95,104.32,11,EP-P6300TBEGAU,8806090703782
 90034585,Samsung Charging TA 25W (No Cable) - Black,35.00,22.83,0,EP-TA800NBEGAU,8806090973376
 90034770,Otterbox Dual Port Charger 30W USB-C 18W PD + USB-A 12W Black,39.95,24.32,0,78-80029,840104227527
-90038385,Samsung 65W Charger Power Adapter Trio Black,99.00,64.57,80,EP-T6530NBEGAU,8806092673892
+90038385,Samsung 65W Charger Power Adapter Trio Black,99.00,64.57,78,EP-T6530NBEGAU,8806092673892
 90038430,mophie Snap+ Wireless Vent Mount Black,99.95,52.15,0,401307636,840056140103
 90043235,Samsung Charging Wireless Duo 15W Black,149.00,97.17,3,EP-P5400TBEGAU,8806092978720
 90043240,Samsung Charging Wireless Single Pad 15W Black,99.00,64.57,0,EP-P2400TBEGAU,8806092978652
 90043265,Samsung Charging Fast Car Charger Duo 40W Black,49.00,31.96,0,EP-L4020NBEGWW,8806094000764
-90055620,Samsung 25W Charger Type C (no cable) Compact Black,35.00,22.83,3499,EP-T2510NBEGAU,8806094912135
+90055620,Samsung 25W Charger Type C (no cable) Compact Black,35.00,22.83,3491,EP-T2510NBEGAU,8806094912135
 90055625,Samsung 25W Compact Charger Type C (no cable) White,35.00,22.83,116,EP-T2510NWEGAU,8806094912098
 90058328,Samsung Charging Dual Car Charger MicroUSB Black,49.95,30.40,2,113017,8806088426402
-90058965,Samsung 45W Charger With Cable Black,74.00,48.26,266,EP-T4511XBEGAU,8806095611921
+90058965,Samsung 45W Charger With Cable Black,74.00,48.26,257,EP-T4511XBEGAU,8806095611921
 90059075,Mophie 30W Charger & Cable Type C to C White,49.95,24.10,0,409912208,840056189300
 90059080,Mophie 30W Charger & Cable Type C to C Black,49.95,20.95,0,409912212,840056189348
 90060765,Mophie 45W GaN Wall Charger 2 x USB-C White,54.95,23.50,0,409912228,840056189508
 90060770,Mophie 67W GaN Wall Charger 2 x USB-C White,89.95,50.00,0,409909306,840056158054
 90060775,Mophie 120W GaN Wall Charger 3 x USB-C + USB A White,159.95,89.00,10,409909311,840056158108
 90060780,Mophie 3 in 1 MS Travel Kit Phone- Watch-Pods Black,249.95,160.00,2,401311506,840056182561
-90060785,Mophie 3 in 1 Qi2 Stand Apple/Android Compatible White,249.95,160.00,0,401314106,840390307941
+90060785,Mophie 3 in 1 Qi2 Stand Apple/Android Compatible White,249.95,160.00,3,401314106,840390307941
 90060790,Mophie 3 in 1 MS Ext Stand Phone- Watch-Pods Grey,199.95,179.00,0,401311463,840056181663
 90064280,Samsung Qi2 Wireless Charger Single Pad Black,49.00,25.57,0,GP-PWU024WIBBW,8800289130007
 90064290,Samsung Qi2 Wireless Car Charger Black,109.00,56.87,0,GP-PWU024WICBW,8800289130021
@@ -1418,8 +1418,8 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 90070015,Mophie Wireless Charging Stand 15W - Apple/Samsung Watch adp Black,139.95,89.87,8,401305844,840056125728
 90070020,Mophie Snap+ Multi Device Travel Charger Black,199.95,119.23,8,401309743,840056162846
 90074485,ITSKINS Hybrid Charging Pod Universal Watch and Airpod Black,29.95,15.63,100,SAMW-ITCHG-BLCK,4894995008662
-90075110,Samsung Wireless Charger Qi2 25W Dark Gray,69.00,37.20,250,EP-P2900BBEGWW,8806097912835
-90075115,Samsung Wireless Charger Qi2 25W + TA Dark Gray,129.00,69.55,126,EP-P2900TBEGAU,8806097961505
+90075110,Samsung Wireless Charger Qi2 25W Dark Gray,69.00,37.20,248,EP-P2900BBEGWW,8806097912835
+90075115,Samsung Wireless Charger Qi2 25W + TA Dark Gray,129.00,69.55,125,EP-P2900TBEGAU,8806097961505
 90076220,Mophie Snap+ Ring Kit 2 Pack Black,24.95,15.18,0,409907724,840056140684
 90077040,Mophie 45W Bundle 2C PD Wall Charger & C-C Cable Black,69.95,39.51,0,409918277,840390352439
 90077045,Mophie 45W Bundle 2C PD Wall Charger & C-C Cable White,69.95,39.51,0,409918000,840390349613
@@ -1675,7 +1675,7 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 40035750,Samsung Tab A9 Book Cover  Black,0.00,37.00,0,EF-BX110TBEGWW,8806095300511
 40035755,Samsung Tab A9 Book Cover  Blue,0.00,37.00,0,EF-BX110TLEGWW,8806095300498
 40035760,Samsung Tab A9 Book Cover  White,0.00,37.00,0,EF-BX110TWEGWW,8806095300504
-40035765,Samsung Tab A11 Book Cover  Black,0.00,35.58,7,EF-BX130PBEGWW,
+40035765,Samsung Tab A11 Book Cover  Black,0.00,35.58,0,EF-BX130PBEGWW,
 40035770,Samsung Tab A11 Book Cover  White,0.00,35.58,0,EF-BX130PWEGWW,
 40035775,Samsung S25FE Standing Grip Cover Black,0.00,45.46,0,EF-GS731CBEGWW,8806097679554
 40035780,Samsung S25FE Silicone Cover  Black,0.00,23.72,0,EF-PS731CBEGWW,8806097670117
