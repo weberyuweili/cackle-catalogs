@@ -1,6 +1,6 @@
 Brand ,Part Number ,Short Description,Long Description,Trade ex GST,RRP inc GST
 Airtame,AT-CD1-ROOMS-1Y,Airtame Hub with 1yr HYBRID license & 3yr total hardware warranty,"Airtame Hub: Easy-to-use video conferencing for hybrid meetings.  Stable, secure calls, every time.Includes features of the Airtame 2 +conferencing.Includes 1 year Airtame Hybrid license.",1146,2690
-Airtame,AT-CD1-CORE-3Y,Airtame Hub with 3yr CORE license & 3yr total hardware warranty,"Airtame Hub with 3 year Airtame Core License. All the features of the Airtame 2 with faster processor but no conferencing. Use ""AT-HYBRID-1Y"" to upgrade license from Core to Hybrid.",1111,1880
+Airtame,AT-CD1-CORE-3Y,Airtame Hub with 3yr CORE license & 3yr total hardware warranty,Airtame Hub with 3 year Airtame Core License. All the features of the Airtame 2 with faster processor but no conferencing. Use "AT-HYBRID-1Y" to upgrade license from Core to Hybrid.,1111,1880
 Airtame,AT-CD1-PSU-AUS,Airtame Hub Power Supply-Australia,A power supply is not included with the purchase of an Airtame Hub. Built-in PoE+ is the standard power option for the device.,76,136
 Airtame,AT-DG3-HYBRID-3Y,Airtame 3 Hardware Inc 3 year Core Licence and Video Conferencing,"Airtame 3 hardware including a 3 year Hybrid license and 3 year warranty, for screen sharing, digital signage and video conferencing on Teams, Zoom, Google Meet & Webex",2210,4099
 Airtame,AT-DG3-CORE-3Y,Airtame 3 Hardware Inc 3 Year Core Licence ,"Airtame 3 hardware including a 3 year Core License and 3 year warranty, for screen sharing and digital signage, RCM Compliant for ANZ",1212,1989
@@ -126,7 +126,7 @@ Atlona,AT-LC-UC2UC-2M,AT-LC-UC2UC-2M,LinkConnect 2 Meter USB-C to USB-C Cable,43
 Atlona,AT-LC-UC2UC-5M,AT-LC-UC2UC-5M,LinkConnect 5 Meter USB-C to USB-C Cable,203,330
 Atlona,AT-OMNI-IR-TX,AT-OMNI-IR-TX,IR Emitter Cable for OmniStream,19,30
 Atlona,AT-PKT-3H,AT-PKT-3H,Pocket(TM) Series Architectural Cable Access Enclosure for Three Cables,237,386
-Atlona,AT-VCC-IR3-KIT,AT-VCC-IR3-KIT,Velocity Control Converter POE kit with¬†one AT-VCC and one IR cable with three independently assignable IR emitters,210,339
+Atlona,AT-VCC-IR3-KIT,AT-VCC-IR3-KIT,Velocity Control Converter POE kit with†one AT-VCC and one IR cable with three independently assignable IR emitters,210,339
 Atlona,AT-VCC-RELAY-KIT,AT-VCC-RELAY-KIT,Velocity Control Converter POE with  Contact Closure and Sensor Dongle for Velocity Gateway ,324,526
 Atlona,AT-VCC-RS232-KIT,AT-VCC-RS232-KIT,Velocity Control Converter POE with  RS232 Dongle for Velocity Gateway,250,406
 Atlona,AT-AD2,AT-AD2,OPTICAL/COAXIAL CONVERTER,140,226
@@ -162,15 +162,15 @@ Atlona,AT-VPS-RG-T1,AT-VPS-RG-T1,"Velocity Premier Services, Remote Gateway tier
 Atlona,AT-VPS-RG-T2,AT-VPS-RG-T2,"Velocity Premier Services, Remote Gateway tier 2, one year license for VGW-HW-10",1817,2945
 Atlona,AT-VPS-RG-T3,AT-VPS-RG-T3,"Velocity Premier Services, Remote Gateway tier 3, one year license for VGW-HW-20, VGW-SW",2726,4415
 Atlona,AT-VRL-SW,AT-VRL-SW,Atlona Velocity Room License for Software Gateway,261,426
-Atlona,AT-VSP-800-BL,AT-VSP-800-BL,"Velocity 8"" Scheduling Touch Panel - Black ",1170,1895
-Atlona,AT-VSP-800-WH,AT-VSP-800-WH,"Velocity 8"" Scheduling Touch Panel - White ",1170,1895
-Atlona,AT-VTP-1000VL-BL,AT-VTP-1000VL-BL,"Velocity System 10"" VESA Mount Touch Panel with LED (Black) includes Wall Mount Kit",2503,4055
-Atlona,AT-VTP-1000VL-WH,AT-VTP-1000VL-WH,"Velocity System 10"" VESA Mount Touch Panel with LED (White) includes Wall Mount Kit",2503,4055
-Atlona,AT-VTP-800-BL,AT-VTP-800-BL,"Velocity 8"" Touch Panel - Black",1079,1750
-Atlona,AT-VTP-800-WH,AT-VTP-800-WH,"Velocity 8"" Touch Panel - White",1079,1750
-Atlona,AT-VTPG-1000VL-BL,AT-VTPG-1000VL-BL,"Velocity System 10"" VESA Mount Touch Panel with Single Room Velocity Gateway LED (Black) includes Wall Mount Kit",3038,4920
-Atlona,AT-VTPG-1000VL-WH,AT-VTPG-1000VL-WH,"Velocity System 10"" VESA Mount Touch Panel with Single Room Velocity Gateway LED (White) includes Wall Mount Kit",3038,4920
-Atlona,AT-VTP-FMK-10-BL,AT-VTP-FMK-10-BL,"Velocity Flush Mount Kit for 10"" Panel - Black",409,665
+Atlona,AT-VSP-800-BL,AT-VSP-800-BL,Velocity 8" Scheduling Touch Panel - Black ,1170,1895
+Atlona,AT-VSP-800-WH,AT-VSP-800-WH,Velocity 8" Scheduling Touch Panel - White ,1170,1895
+Atlona,AT-VTP-1000VL-BL,AT-VTP-1000VL-BL,Velocity System 10" VESA Mount Touch Panel with LED (Black) includes Wall Mount Kit,2503,4055
+Atlona,AT-VTP-1000VL-WH,AT-VTP-1000VL-WH,Velocity System 10" VESA Mount Touch Panel with LED (White) includes Wall Mount Kit,2503,4055
+Atlona,AT-VTP-800-BL,AT-VTP-800-BL,Velocity 8" Touch Panel - Black,1079,1750
+Atlona,AT-VTP-800-WH,AT-VTP-800-WH,Velocity 8" Touch Panel - White,1079,1750
+Atlona,AT-VTPG-1000VL-BL,AT-VTPG-1000VL-BL,Velocity System 10" VESA Mount Touch Panel with Single Room Velocity Gateway LED (Black) includes Wall Mount Kit,3038,4920
+Atlona,AT-VTPG-1000VL-WH,AT-VTPG-1000VL-WH,Velocity System 10" VESA Mount Touch Panel with Single Room Velocity Gateway LED (White) includes Wall Mount Kit,3038,4920
+Atlona,AT-VTP-FMK-10-BL,AT-VTP-FMK-10-BL,Velocity Flush Mount Kit for 10" Panel - Black,409,665
 Atlona,AT-VTP-TMK,AT-VTP-TMK,Velocity Touch Panel Table Mount Kit - Black,316,510
 Atlona,AT-VTP-VTM,AT-VTP-VTM,Tabletop Mounting Kit for Velocity Control System Touch Panels,316,510
 Atlona,AT-CAP-FC110,AT-CAP-FC110,Captivate 4K ePTZ Auto-Framing Camera,625,1015
@@ -419,7 +419,7 @@ Avitech,PACIFICC-SHS,SDI (3G/HD/SD) and CVBS to DVI/HDMI converter with scaler,"
 - Audio monitoring via stereo phono jack with audio delay.
 - Monitor auto detection.
 - LCD module for in/out configuration and setting.",1735,2595
-Avitech,PACIFICC-AR,"Pacific C-A rack mount kit for mounting 1 and/or 2 units in a 19"" standard rack in the front or rea","Pacific C-A rack mount kit for mounting 1 and/or 2 units in a 19"" standard rack in the front or rear.",103,155
+Avitech,PACIFICC-AR,Pacific C-A rack mount kit for mounting 1 and/or 2 units in a 19" standard rack in the front or rea,Pacific C-A rack mount kit for mounting 1 and/or 2 units in a 19" standard rack in the front or rear.,103,155
 Avitech,RAINIERSUMMIT-2C,Rainier Summit 2RU chassis for Rainier Summit-BNC card with internal routing and cascading,"Rainier Summit 2RU chassis for Rainier Summit-BNC card with internal routing and cascading
 - 2 RU chassis takes up to 6 cards for a total of 24 images.
 - Any input module can be cascaded internally to any other module for building an array of display outputs with 4, 8, 12, 16, 20, and 24 images.",4343,6495
@@ -575,18 +575,18 @@ B-Tech,BT9903-B-V2,XL Heavy Duty Universal Flat Screen Wall Mount (VESA 1000 x 6
 B-Tech,BT9910-B,XL Heavy Duty Universal Flat Screen Wall Mount with Tilt (VESA 1000 x 600),Heavy Duty Universal Flat Screen Wall Mount with Tilt,219,360
 B-Tech,BT9910-B,XL Heavy Duty Universal Flat Screen Wall Mount with Tilt (VESA 1000 x 600),Heavy Duty Universal Flat Screen Wall Mount with Tilt,219,360
 B-Tech,BT8228-B,Heavy Duty Twin Cantilever Arm Flat Screen Wall Mount (VESA 800 x 600),"Heavy Duty Cantilever Swing Arm Mount up to 120"" screens, 125kg weight capacity vesa 300 x 200mm up to 800 x 600mm",797,1309
-B-Tech,BT8237-B,"Flat Screen Articulating Wall Mount (up to 75"")",While stocks last,257,425
+B-Tech,BT8237-B,Flat Screen Articulating Wall Mount (up to 75"),While stocks last,257,425
 B-Tech,BTV503-B,VENTRY - Flat Screen Wall Mount with Single Arm (VESA 200),VENTRY - Flat Screen Wall Mount with Single Arm (VESA 200),71,116
 B-Tech,BT8226-B,Ultra-slim Double Arm Flat Screen Wall Mount with Tilt & Swivel (VESA 600 x 400),Ultra-slim Double Arm Flat Screen Wall Mount with Tilt & Swivel (VESA 600 x 400),126,206
 B-Tech,BT7550-B,Rotational Flip Mount (VESA 400),Rotational Flip Mount,281,460
 B-Tech,BT7883-B,Flat Screen Wall Mount with Slide-Out AV Storage Tray (VESA 600 x 400),Flat Screen Wall Mount With Slide-Out AV Storage Tray - Blk ,493,810
 B-Tech,BT7885-B,Flat Screen Wall Mount With Pull-down AV Storage Tray (VESA 600 x 400),Flat Screen Wall Mount With Pull-down AV Storage Tray (VESA 600 x 400),616,1010
-B-Tech,BT8310-SP491-N,"49"" Screen Spacer for BT8310 / BT8311 (1077.6mm x 607.8mm)","49"" Screen Spacer for BT8310 / BT8311 (1077.6mm x 607.8mm)",81,135
-B-Tech,BT8310-SP551-N,"55"" Screen Spacer for BT8310 / BT8311 (1215mm x 686mm)","55"" Screen Spacer for BT8310 / BT8311 (1215mm x 686mm)",81,135
+B-Tech,BT8310-SP491-N,49" Screen Spacer for BT8310 / BT8311 (1077.6mm x 607.8mm),49" Screen Spacer for BT8310 / BT8311 (1077.6mm x 607.8mm),81,135
+B-Tech,BT8310-SP551-N,55" Screen Spacer for BT8310 / BT8311 (1215mm x 686mm),55" Screen Spacer for BT8310 / BT8311 (1215mm x 686mm),81,135
 B-Tech,BT8310XL-B,Universal Heavy Duty Pop-Out Wall Mount with Micro-Adjustment (VESA 600 x 400),Universal Heavy Duty Pop-Out Wall Mount with Micro-Adjustment (VESA 600 x 400),856,1405
 B-Tech,BT8312-B-V2,Slimline Soft-Open Full Service Videowall Mount with Micro-Adjustment (VESA 600 x 400),Slimline Soft-Open Full Service Videowall Mount,444,729
-B-Tech,BT8312-SP491-B,"49"" Screen Spacer for BT8312 (1077.6mm x 607.8mm)","49"" Screen Spacer for BT8312 (1077.6mm x 607.8mm)",91,150
-B-Tech,BT8312-SP551-B,"55"" Screen Spacer for BT8312 (1215mm x 686mm)","55"" Screen Spacer for BT8312 (1215mm x 686mm)",103,169
+B-Tech,BT8312-SP491-B,49" Screen Spacer for BT8312 (1077.6mm x 607.8mm),49" Screen Spacer for BT8312 (1077.6mm x 607.8mm),91,150
+B-Tech,BT8312-SP551-B,55" Screen Spacer for BT8312 (1215mm x 686mm),55" Screen Spacer for BT8312 (1215mm x 686mm),103,169
 B-Tech,BT8309-B-V2,Pop-Out Flat Screen Wall Mount with Micro-Adjustment (VESA 200)  ,Pop-Out Flat Screen Wall Mount with Micro-Adjustment (VESA 200)  ,397,655
 B-Tech,BT8310-LK,Anti-Release Kit for BT8310,Anti-Release Kit for BT8310,75,125
 B-Tech,BT8530-B,Interactive Flat Screen Trolley - Black(BK),Interactive Flat Screen Trolley - Black(BK),398,656
@@ -714,8 +714,8 @@ Barco,R9009653B,PDS-4K HDMI & SDI with Audio/DisplayPort Card,"Single/dual scree
 IN: 6x HDMI 2.0, 2x 12G-SDI, 2x DisplayPort 1.2 
 OUT: 4x HDMI 2.0 + 4x 12G-SDI",15376,24243.26235
 Barco,R9802040,DP 1.2 and Audio card,DP 1.2 and Audio card,2613,4119.538824
-Barco,R9871179,"Rear rack mount kit (8.5"")","Rear rack mount kit (8.5"")",243,382.7870588
-Barco,R9801820,"Rear rack mount kit (16.5"")","Rear rack mount kit (16.5"")",243,382.7870588
+Barco,R9871179,Rear rack mount kit (8.5"),Rear rack mount kit (8.5"),243,382.7870588
+Barco,R9801820,Rear rack mount kit (16.5"),Rear rack mount kit (16.5"),243,382.7870588
 Barco,R9011360BF,Encore3 Configuration,"Encore3 Chassis with Link and 6x Gen2 Cards, 1x 400G Expansion Link Card w/ 2x Link cables, 2x HDMI 2.0 Input , 1x DisplayPort 1.2 Input , 1x TriCombo Input , 1x TriCombo Output, 1x HDMI 2.0 Output",130178,205247.5247
 Barco,R9029203BF,E2 Gen2 Configuration,"Incl Gen2 Chassis, 2x HDMI 2.0 Input , 2x DisplayPort 1.2 Input , 4x TriCombo Input , 2x HDMI 2.0 Output , 1x TriCombo Output, 1x 4K MVR, 8 VPUs",130178,205247.5247
 Barco,R9020384BF,S3-4K Tri-Combo Gen2  Configuration, Last time Buy,62892,99160.43176
@@ -763,19 +763,19 @@ Barco,R9871285,Rugged expansion link Fiber 100 meter on Reel,"Requires fiber TX/
 This item is Non Cancellable/ Non Returnable",12359,19485.74941
 Barco,R9871289,Throwdown MTP to Opticalcon adapter,Converts rugged expansion link to MTP 24. Incl Jumper,2069,3262.82
 Barco,R9871287,4 Port Rack mount MTP to Opticicalcon adapters,Rack mountable converters for expansion link to MTP24. Incl. Jumpers,3561,5614.231765
-BenQ PDP,RP6504,"65"" IFP RP series","Pro Series 65"" IFP with Google EDLA",4772,9059
-BenQ PDP,RP7504,"75"" IFP RP series","Pro Series 75"" IFP with Google EDLA",6560,12545
-BenQ PDP,RP8604,"86"" IFP RP series","Pro Series 86"" IFP with Google EDLA",8634,16725
-BenQ PDP,RM6504,"65"" IFP RM series","Master Series 65"" IFP with Google EDLA",3552,6969
-BenQ PDP,RM7504,"75"" IFP RM series","Master Series 75"" IFP with Google EDLA",5024,9755
-BenQ PDP,RM8604,"86"" IFP RM series","Master Series 86"" IFP with Google EDLA",6723,13939
-BenQ PDP,RE6504,"65"" IFP RE series","Essential Series 65"" IFP with Google GMS",3073,5575
-BenQ PDP,RE7504,"75"" IFP RE series","Essential Series 75"" IFP with Google GMS",4163,8085
-BenQ PDP,RE8604,"86"" IFP RE series","Essential Series 86"" IFP with Google GMS",6016,11845
-BenQ PDP,RE6504FV,"65"" IFP REFV series","Essential Series 65"" IFP with Google EDLA w/built-in cam/NFC reader",3772,7385
-BenQ PDP,RE7504FV,"75"" IFP REFV series","Essential Series 75"" IFP with Google EDLA w/built-in cam/NFC reader",5285,10175
-BenQ PDP,RE8604FV,"86"" IFP REFV series","Essential Series 86"" IFP with Google EDLA w/built-in cam/NFC reader",7041,14355
-BenQ PDP,RE9804FV,"98"" IFP REFV series","Essential Series 98"" IFP with Google EDLA w/built-in cam/NFC reader",16260,21885
+BenQ PDP,RP6504,65" IFP RP series,Pro Series 65" IFP with Google EDLA,4772,9059
+BenQ PDP,RP7504,75" IFP RP series,Pro Series 75" IFP with Google EDLA,6560,12545
+BenQ PDP,RP8604,86" IFP RP series,Pro Series 86" IFP with Google EDLA,8634,16725
+BenQ PDP,RM6504,65" IFP RM series,Master Series 65" IFP with Google EDLA,3552,6969
+BenQ PDP,RM7504,75" IFP RM series,Master Series 75" IFP with Google EDLA,5024,9755
+BenQ PDP,RM8604,86" IFP RM series,Master Series 86" IFP with Google EDLA,6723,13939
+BenQ PDP,RE6504,65" IFP RE series,Essential Series 65" IFP with Google GMS,3073,5575
+BenQ PDP,RE7504,75" IFP RE series,Essential Series 75" IFP with Google GMS,4163,8085
+BenQ PDP,RE8604,86" IFP RE series,Essential Series 86" IFP with Google GMS,6016,11845
+BenQ PDP,RE6504FV,65" IFP REFV series,Essential Series 65" IFP with Google EDLA w/built-in cam/NFC reader,3772,7385
+BenQ PDP,RE7504FV,75" IFP REFV series,Essential Series 75" IFP with Google EDLA w/built-in cam/NFC reader,5285,10175
+BenQ PDP,RE8604FV,86" IFP REFV series,Essential Series 86" IFP with Google EDLA w/built-in cam/NFC reader,7041,14355
+BenQ PDP,RE9804FV,98" IFP REFV series,Essential Series 98" IFP with Google EDLA w/built-in cam/NFC reader,16260,21885
 BenQ PDP,5A.F9630.AA5,Slot in OPS,TEY41 OPS i5 8GB 256GB (Windows 11 trial),1526,2229
 BenQ PDP,5J.F5S11.212,Slot in OPS,TEY21 OPS i7 8GB 256GB (Windows 10 ENT trial),1778,2509
 BenQ PDP,5A.F8Y28.DE1,WiFi Dongle,WD02AT Wifi dongle for RM/RE04 series,87,139
@@ -795,18 +795,18 @@ BenQ PDP,5J.F1T14.008,X-SIGN CMS Software,X-Sign Manager Premium 1-year,136,275
 BenQ PDP,5J.F1T14.010,X-SIGN CMS Software,X-Sign Manager Premium 3-year,376,695
 BenQ PDP,5J.F1T14.013,X-SIGN CMS Software,X-Sign Manager Premium 5-year,627,1115
 BenQ PDP,5J.F1T14.002,X-SIGN CMS Software,X-Sign Standalone Premium,452,835
-BenQ LCD,PD3226G,"32"" 4K UHD P3 Designer Monitor with Thunderbolt 4","IPS, 4K UHD, 144Hz, DisplayHDR400, 400 nit, Nano Matte Panel, 95% DCI-P3, HDMI 2.1, UBS-C, Thunderbolt 4 with PD 90W, DP Alt Mode, Pantone Validated",2026,2645
-BenQ LCD,PD3225U,"32"" 4K UHD P3 Thunderbolt 3 Mac Compatible Designer Monitor","IPS, 4K UHD, DisplayHDR400, 98% DCI-P3, 10-bit, Anti-glare, HDMI 2.0, Thunderbolt 3, USB-C with PD 90W, DP 1.4, Pantone Validated",1962,2509
-BenQ LCD,PD2730S,"27"" 5K P3 Designer Monitor with Thunderbolt 4","IPS, 5K, 98% DCI-P3, DisplayHDR 400, Nano Matte Panel, HDMI 2.1, Thunderbolt 4 with PD 90W, DP Alt Mode, USB-C, DP 1.4, Pantone Validated",2132,2785
-BenQ LCD,PD2725U,"27"" 4K UHD P3 Thunderbolt 3 Mac Compatible Designer Monitor","IPS, 4K UHD, DisplayHDR400, 95% DCI-P3, 10-bit, Anti-glare, HDMI 2.0, Thunderbolt 3, USB-C with PD 90W, DP 1.4, Pantone Validated",1279,1669
-BenQ LCD,PD2706U,"27"" 4K UHD P3 Designer Monitor with USB-C and DisplayHDR 400","IPS, 4K UHD, DisplayHDR400, 95% DCI-P3, 10-bit, Anti-glare, HDMI 2.0, USB-C with PD 90W, DP 1.4, Pantone Validated",852,1115
-BenQ LCD,PD2706QN,"27"" 2K QHD P3 Designer Monitor with USB-C","IPS, 4K UHD, 95% DCI-P3, 100% sRGB, Nano Matte Panel, HDMI 2.0, USB-C, DP 1.4",671,875
-BenQ LCD,GW3290QT,"32"" 2K QHD USB-C Ergonomic Daisy Chain Eye-Care Monitor White","IPS, 2K QHD, 350 nit, 99% sRGB, Anti-Glare, HDMI 1.4, USB-C with PD 65W, DP 1.2,  Height Adjustable, Eye-care U Software Support",665,835
-BenQ LCD,GW2790QT,"27"" 2K QHD USB-C Ergonomic Daisy Chain Eye-Care Monitor White","IPS, 2K QHD, 350 nit, 99% sRGB, Anti-Glare, HDMI 1.4, USB-C with PD 65W, DP 1.2,  Height Adjustable, Eye-care U Software Support",510,639
-BenQ LCD,GW2786TC,"27"" 1080p FHD USB-C Daisy Chain Home Office Monitor White","IPS, FHD 1920x1080, 250 nit, 99% sRGB, Anti-Glare, HDMI 1.4, USB-C with PD 65W, DP 1.2,  Height Adjustable, Eye-care U Software Support",354,445
-BenQ LCD,GW2486TC,"23.8"" 1080p FHD USB-C Daisy Chain Home Office Monitor White","IPS, FHD 1920x1080, 250 nit, 99% sRGB, Anti-Glare, HDMI 1.4, USB-C with PD 65W, DP 1.2,  Height Adjustable, Eye-care U Software Support",321,405
-BenQ LCD,XL2746K - NZ,ZOWIE XL2746K TN 240Hz DyAc‚Å∫‚Ñ¢ 27 Inch Gaming Monitor for Esports,ZOWIE XL2746K TN 240Hz DyAc‚Å∫‚Ñ¢ 27 Inch Gaming Monitor for Esports,1113,1420
-BenQ LCD,XL2586X+ - NZ,ZOWIE XL2586X+ Fast TN 600Hz DyAc‚Å∫‚Ñ¢ Gaming Monitor for Esports,ZOWIE XL2586X+ Fast TN 600Hz DyAc‚Å∫‚Ñ¢ Gaming Monitor for Esports,1936,2475
+BenQ LCD,PD3226G,32" 4K UHD P3 Designer Monitor with Thunderbolt 4,"IPS, 4K UHD, 144Hz, DisplayHDR400, 400 nit, Nano Matte Panel, 95% DCI-P3, HDMI 2.1, UBS-C, Thunderbolt 4 with PD 90W, DP Alt Mode, Pantone Validated",2026,2645
+BenQ LCD,PD3225U,32" 4K UHD P3 Thunderbolt 3 Mac Compatible Designer Monitor,"IPS, 4K UHD, DisplayHDR400, 98% DCI-P3, 10-bit, Anti-glare, HDMI 2.0, Thunderbolt 3, USB-C with PD 90W, DP 1.4, Pantone Validated",1962,2509
+BenQ LCD,PD2730S,27" 5K P3 Designer Monitor with Thunderbolt 4,"IPS, 5K, 98% DCI-P3, DisplayHDR 400, Nano Matte Panel, HDMI 2.1, Thunderbolt 4 with PD 90W, DP Alt Mode, USB-C, DP 1.4, Pantone Validated",2132,2785
+BenQ LCD,PD2725U,27" 4K UHD P3 Thunderbolt 3 Mac Compatible Designer Monitor,"IPS, 4K UHD, DisplayHDR400, 95% DCI-P3, 10-bit, Anti-glare, HDMI 2.0, Thunderbolt 3, USB-C with PD 90W, DP 1.4, Pantone Validated",1279,1669
+BenQ LCD,PD2706U,27" 4K UHD P3 Designer Monitor with USB-C and DisplayHDR 400,"IPS, 4K UHD, DisplayHDR400, 95% DCI-P3, 10-bit, Anti-glare, HDMI 2.0, USB-C with PD 90W, DP 1.4, Pantone Validated",852,1115
+BenQ LCD,PD2706QN,27" 2K QHD P3 Designer Monitor with USB-C,"IPS, 4K UHD, 95% DCI-P3, 100% sRGB, Nano Matte Panel, HDMI 2.0, USB-C, DP 1.4",671,875
+BenQ LCD,GW3290QT,32" 2K QHD USB-C Ergonomic Daisy Chain Eye-Care Monitor White,"IPS, 2K QHD, 350 nit, 99% sRGB, Anti-Glare, HDMI 1.4, USB-C with PD 65W, DP 1.2,  Height Adjustable, Eye-care U Software Support",665,835
+BenQ LCD,GW2790QT,27" 2K QHD USB-C Ergonomic Daisy Chain Eye-Care Monitor White,"IPS, 2K QHD, 350 nit, 99% sRGB, Anti-Glare, HDMI 1.4, USB-C with PD 65W, DP 1.2,  Height Adjustable, Eye-care U Software Support",510,639
+BenQ LCD,GW2786TC,27" 1080p FHD USB-C Daisy Chain Home Office Monitor White,"IPS, FHD 1920x1080, 250 nit, 99% sRGB, Anti-Glare, HDMI 1.4, USB-C with PD 65W, DP 1.2,  Height Adjustable, Eye-care U Software Support",354,445
+BenQ LCD,GW2486TC,23.8" 1080p FHD USB-C Daisy Chain Home Office Monitor White,"IPS, FHD 1920x1080, 250 nit, 99% sRGB, Anti-Glare, HDMI 1.4, USB-C with PD 65W, DP 1.2,  Height Adjustable, Eye-care U Software Support",321,405
+BenQ LCD,XL2746K - NZ,ZOWIE XL2746K TN 240Hz DyAc?ô 27 Inch Gaming Monitor for Esports,ZOWIE XL2746K TN 240Hz DyAc?ô 27 Inch Gaming Monitor for Esports,1113,1420
+BenQ LCD,XL2586X+ - NZ,ZOWIE XL2586X+ Fast TN 600Hz DyAc?ô Gaming Monitor for Esports,ZOWIE XL2586X+ Fast TN 600Hz DyAc?ô Gaming Monitor for Esports,1936,2475
 BenQ LCD,XL2566X+ - NZ,ZOWIE XL2566X+ New Fast TN 400Hz DyAc 2 Gaming Monitor for Esports,ZOWIE XL2566X+ New Fast TN 400Hz DyAc 2 Gaming Monitor for Esports,1224,1565
 BenQ LCD,XL2546X+ - NZ,ZOWIE XL2546X+ New Fast TN 280Hz DyAc 2 Gaming Monitor for Esports,ZOWIE XL2546X+ New Fast TN 280Hz DyAc 2 Gaming Monitor for Esports,1002,1280
 BenQ LCD,XL2540K - NZ,ZOWIE XL2540K TN 240Hz 24.5 inch Gaming Monitor for Esports,ZOWIE XL2540K TN 240Hz 24.5 inch Gaming Monitor for Esports,534,680
@@ -824,9 +824,9 @@ BenQ Projectors,LH650,LH650 4000lms 1080p Laser Meeting Room Projector P/N: 9H.J
 BenQ Projectors,LH750,LH750 5000lms 1080p LED Conference Room Projector P/N: 9H.JSY77.14P,"LH750 5000lms 1080p LED Conference Room Projector - 2 x HDMI, 2x USB A, 1x AUDIO OUT, 1 x RS232",2321,3485
 BenQ Projectors,LU935,LU935 6000lms WUXGA Conference Room Projector P/N: 9H.JNN77.15P,"WUXGA- LASER- 6000 ANSI LUMENS - 2 x HDMI, 1 x HDBaseT, 1 x VGA, IP5X DUSTPROOF, 92% REC.709",3815,5995
 BenQ Projectors,LK935,LK935 5500 Lumen 4K Laser Conference Room Projector P/N: 9H.JS277.14P,"4K- LASER- 5500 ANSI LUMENS - 2 x HDMI, 1 x HDBaseT, IP5X DUSTPROOF, 92% REC.709",6528,9755
-BenQ Projectors,LU935ST,LU935ST Laser Projector with 5500 Lumens & Short Throw Lens P/N: 9H.JNC77.15P,"WUXGA- SHORT THROW- LASER- 5500 ANSI LUMENS-2 x HDMI, 1 x VGA, IP5X DUSTPROOF, 92% REC.709, GOLF MODE, 360¬∞ INSTALL",4373,6549
-BenQ Projectors,LK936ST,LK936ST 4K Short-Throw BlueCore Laser Projector P/N: 9H.JPG77.15P,"4K- SHORT THROW- LASER- 5100 ANSI LUMENS-2 x HDMI, 1 x Display Port, IP5X, GOLF MODE, 360¬∞ INSTALL",8283,12405
-Displax,TILE55PRO,"DISPLAX TILE PRO - 55""","DISPLAX TILE PRO - 55""",23913,36666
+BenQ Projectors,LU935ST,LU935ST Laser Projector with 5500 Lumens & Short Throw Lens P/N: 9H.JNC77.15P,"WUXGA- SHORT THROW- LASER- 5500 ANSI LUMENS-2 x HDMI, 1 x VGA, IP5X DUSTPROOF, 92% REC.709, GOLF MODE, 360∞ INSTALL",4373,6549
+BenQ Projectors,LK936ST,LK936ST 4K Short-Throw BlueCore Laser Projector P/N: 9H.JPG77.15P,"4K- SHORT THROW- LASER- 5100 ANSI LUMENS-2 x HDMI, 1 x Display Port, IP5X, GOLF MODE, 360∞ INSTALL",8283,12405
+Displax,TILE55PRO,DISPLAX TILE PRO - 55",DISPLAX TILE PRO - 55",23913,36666
 Displax,OVERLAY32,32 Inch Displax PCAP Overlay to suit LG UH5 Series,"DISPLAX MESH  - PCAP film, 10-point touches, 8ms response time, works up to 5mm glass thickness, Plug & Play on LG web OS",1409,2159
 Displax,OVERLAY43,43 Inch Displax PCAP Overlay to suit LG UH5 Series,"DISPLAX MESH  - PCAP film, 10-point touches, 8ms response time, works up to 5mm glass thickness, Plug & Play on LG web OS",1772,2719
 Displax,OVERLAY49,49 Inch Displax PCAP Overlay to suit LG UH5 Series,"DISPLAX MESH  - PCAP film, 10-point touches, 8ms response time, works up to 5mm glass thickness, Plug & Play on LG web OS",2801,4296
@@ -886,7 +886,7 @@ DTEN,DB7U1R475E,DTEN AI 75 inch Board,DTEN AI 75 inch Board,18638,30620
 DTEN,DBR2A27EC,"DTEN D7 X 27, Enterprise-Grade, AI-Ready Collaboration, Zoom Only","DTEN D7 X 27, Enterprise-Grade, AI-Ready Collaboration",3375,5546
 DTEN,DBR1455,D7X 55 Android,"3rd Generation Interactive LED 55"" Capacitive Touch Screen, 4K Camera, 15-Microphone Array & Speakers (Android OS) for Teams + Zoom. Includes Wall Mounting Hardware",6974,11459
 DTEN,DBR1475E,D7X 75 Android,"3rd Generation Interactive LED 75"" Capacitive Touch Screen, 4K Camera, 15-Microphone Array & Speakers (Android OS) for Teams + Zoom. Includes Wall Mounting Hardware",11626,19100
-DTEN,DB71475DSE-VC460-S1,"D7X Dual 75"" Windows","3rd Generation Dual Interactive LED 75"" Capacitive Touch Screen, 4K Camera, 15-Microphone Array & Speakers (Windows OS) for Zoom w/ Vue Pro Addon Cameras. Includes Wall Mounting Hardware",25580,42025
+DTEN,DB71475DSE-VC460-S1,D7X Dual 75" Windows,"3rd Generation Dual Interactive LED 75"" Capacitive Touch Screen, 4K Camera, 15-Microphone Array & Speakers (Windows OS) for Zoom w/ Vue Pro Addon Cameras. Includes Wall Mounting Hardware",25580,42025
 DTEN,DB71455,D7X 55 Windows,"3rd Generation Interactive LED 55"" Capacitive Touch Screen, 4K Camera, 15-Microphone Array & Speakers (Windows OS) for Zoom, Includes Wall Mounting Hardware",7750,12735
 DTEN,DB71475E,D7X 75 Windows,"3rd Generation Interactive LED 75"" Capacitive Touch Screen, 4K Camera, 15-Microphone Array & Speakers (Windows OS) for Zoom. Includes Wall Mounting Hardware",13176,21645
 DTEN,DBA0455,ONBOARD 55/ Interactive Whiteboard/NO Video Conferencing,"ON, Interactive LED 55 Capacitive Touch Screen, 4K Camera, 16-Microphone Array & Speakers (Android OS) , HD LED Interactive 27"", 3 Camera Array, 8-Microphone Array, Integrated Speakers, Interactive Whiteboard/NO Video Conferencing",4873,8006
@@ -907,21 +907,21 @@ DTEN,DAWLAP01EC,DTEN Relay Speakers (in pair),DTEN Relay Speakers (in pair),2107
 DTEN,DOBP1Y1-DCR200-Kit1S Service,DTEN Bar Small Room Kit Orbit - 2 Years Total,1 Year additional extension DTEN Bar Small Room Kit Orbit - 2 Years total,972,1596
 DTEN,DOBP1Y2-DCR200-Kit1S Service,DTEN Bar Small Room Kit Orbit - 3 Years Total,2 Years additional extension DTEN Bar Small Room Kit Orbit - 3 Years total,1644,2700
 DTEN,DOBP1Y2-DCR200-Kit1S Service x2,DTEN Bar Small Room Kit Orbit - 5 Years Total,4 Years additional extension DTEN Bar Small Room Kit Orbit - 5 Years total,2467,4056
-DTEN,DOBP1Y1-DB71455,"D7X 55"" Windows Orbit - 2 Years Total","1 Year additional extension D7X 55"" Windows Orbit - 2 Years Total",1345,2210
-DTEN,DOBP1Y2-DB71455,"D7X 55"" Windows Orbit - 3 Years Total","2 Years additional extension D7X 55"" Windows Orbit - 3 Years Total",2466,4049
-DTEN,DOBP1Y2-DB71455 x2,"D7X 55"" Windows Orbit - 5 Years Total","4 Years additional extension D7X 55"" Windows Orbit - 5 Years Total",3698,6075
-DTEN,DOBP1Y1-DB71475,"D7X 75"" Windows Orbit - 2 Years Total","1 Year additional extension D7X 75"" Windows Orbit - 2 Years Total",2286,3756
-DTEN,DOBP1Y2-DB71475,"D7X 75"" Windows Orbit - 3 Years Total","2 Years additional extension D7X 75"" Windows Orbit - 3 Years Total",4194,6889
-DTEN,DOBP1Y2-DB71475 x2,"D7X 75"" Windows Orbit - 5 Years Total","4 Years additional extension D7X 75"" Windows Orbit - 5 Years Total",6291,10335
-DTEN,DOBP1Y1-DB71475DS-VC460-S1,"D7X 75"" Dual Windows Orbit - 2 Years Total","1 Year additional extension D7X 75"" Dual Windows Orbit - 2 Years Total",4736,7780
-DTEN,DOBP1Y2-DB71475DS-VC460-S1,"D7X 75"" Dual Windows Orbit - 3 Years Total","2 Years additional extension D7X 75"" Dual Windows Orbit - 3 Years Total",8946,14696
-DTEN,DOBP1Y2-DB71475DS-VC460-S1 x2,"D7X 75"" Dual Windows Orbit - 5 Years Total","4 Years additional extension D7X 75"" Dual Windows Orbit - 5 Years Total",13418,22046
-DTEN,DOBP1Y1-DBR1455,"D7X 55"" Android Orbit - 2 Years Total","1 Year additional extension D7X 55"" Android Orbit - 2 Years Total",1210,1990
-DTEN,DOBP1Y2-DBR1455,"D7X 55"" Android Orbit - 3 Years Total","2 Years additional extension D7X 55"" Android Orbit - 3 Years Total",2220,3649
-DTEN,DOBP1Y2-DBR1455 x2,"D7X 55"" Android Orbit - 5 Years Total","4 Years additional extension D7X 55"" Android Orbit - 5 Years Total",3331,5475
-DTEN,DOBP1Y1-DBR1475,"D7X 75"" Android Orbit - 2 Years Total","1 Year additional extension D7X 75"" Android Orbit - 2 Years Total",2017,3316
-DTEN,DOBP1Y2-DBR1475,"D7X 75"" Android Orbit - 3 Years Total","2 Years additional extension D7X 75"" Android Orbit - 3 Years Total",3699,6076
-DTEN,DOBP1Y2-DBR1475 x2,"D7X 75"" Android Orbit - 5 Years Total","4 Years additional extension D7X 75"" Android Orbit - 5 Years Total",5549,9115
+DTEN,DOBP1Y1-DB71455,D7X 55" Windows Orbit - 2 Years Total,1 Year additional extension D7X 55" Windows Orbit - 2 Years Total,1345,2210
+DTEN,DOBP1Y2-DB71455,D7X 55" Windows Orbit - 3 Years Total,2 Years additional extension D7X 55" Windows Orbit - 3 Years Total,2466,4049
+DTEN,DOBP1Y2-DB71455 x2,D7X 55" Windows Orbit - 5 Years Total,4 Years additional extension D7X 55" Windows Orbit - 5 Years Total,3698,6075
+DTEN,DOBP1Y1-DB71475,D7X 75" Windows Orbit - 2 Years Total,1 Year additional extension D7X 75" Windows Orbit - 2 Years Total,2286,3756
+DTEN,DOBP1Y2-DB71475,D7X 75" Windows Orbit - 3 Years Total,2 Years additional extension D7X 75" Windows Orbit - 3 Years Total,4194,6889
+DTEN,DOBP1Y2-DB71475 x2,D7X 75" Windows Orbit - 5 Years Total,4 Years additional extension D7X 75" Windows Orbit - 5 Years Total,6291,10335
+DTEN,DOBP1Y1-DB71475DS-VC460-S1,D7X 75" Dual Windows Orbit - 2 Years Total,1 Year additional extension D7X 75" Dual Windows Orbit - 2 Years Total,4736,7780
+DTEN,DOBP1Y2-DB71475DS-VC460-S1,D7X 75" Dual Windows Orbit - 3 Years Total,2 Years additional extension D7X 75" Dual Windows Orbit - 3 Years Total,8946,14696
+DTEN,DOBP1Y2-DB71475DS-VC460-S1 x2,D7X 75" Dual Windows Orbit - 5 Years Total,4 Years additional extension D7X 75" Dual Windows Orbit - 5 Years Total,13418,22046
+DTEN,DOBP1Y1-DBR1455,D7X 55" Android Orbit - 2 Years Total,1 Year additional extension D7X 55" Android Orbit - 2 Years Total,1210,1990
+DTEN,DOBP1Y2-DBR1455,D7X 55" Android Orbit - 3 Years Total,2 Years additional extension D7X 55" Android Orbit - 3 Years Total,2220,3649
+DTEN,DOBP1Y2-DBR1455 x2,D7X 55" Android Orbit - 5 Years Total,4 Years additional extension D7X 55" Android Orbit - 5 Years Total,3331,5475
+DTEN,DOBP1Y1-DBR1475,D7X 75" Android Orbit - 2 Years Total,1 Year additional extension D7X 75" Android Orbit - 2 Years Total,2017,3316
+DTEN,DOBP1Y2-DBR1475,D7X 75" Android Orbit - 3 Years Total,2 Years additional extension D7X 75" Android Orbit - 3 Years Total,3699,6076
+DTEN,DOBP1Y2-DBR1475 x2,D7X 75" Android Orbit - 5 Years Total,4 Years additional extension D7X 75" Android Orbit - 5 Years Total,5549,9115
 DTEN,DOBP1Y1-DBR1455-WB,ONBoard Orbit - 2 Years Total,1 Year additional extension ONBoard Orbit - 2 Years Total,957,1575
 DTEN,DOBP1Y2-DBR1455-WB,ONBoard Orbit - 3 Years Total,2 Years additional extension ONBoard Orbit - 3 Years Total,1722,2829
 DTEN,DOBP1Y2-DBR1455-WB x2,ONBoard Orbit - 5 Years Total,4 Years additional extension ONBoard Orbit - 5 Years Total,2583,4246
@@ -1065,8 +1065,8 @@ Epson,ELPAP12,Streaming Media Player (SMP),Streaming Media Player (SMP),133,213
 Epson,ELPCC07W,Cable Cover for L800 series (White),Cable Cover for L800 series (White),21,34
 Epson,ELPCC07B,Cable Cover for L800 series (Black),Cable Cover for L800 series (Black),21,34
 Epson,ELPHD02,HDBaseT Connection & Control Box,HDBaseT Connection & Control Box,407,654
-Epson,ELPSC21B,"80"" Portable Tripod Projector Screen (16:9) ","80"" Portable Tripod Projector Screen (16:9) ",123,197
-Epson,ELPSC36,"  120"" UST ALR Projector Screen","  120"" UST ALR Projector Screen",1774,2850
+Epson,ELPSC21B,80" Portable Tripod Projector Screen (16:9) ,80" Portable Tripod Projector Screen (16:9) ,123,197
+Epson,ELPSC36,  120" UST ALR Projector Screen,  120" UST ALR Projector Screen,1774,2850
 Epson,ELPPN05A,Interactive Pen (Orange),Interactive Pen (Orange),60,96
 Epson,ELPPN05B,Interactive Pen (Blue),Interactive Pen (Blue),60,96
 Epson,ELPPS03,Interactive pen tips - Hard (6pk),Interactive pen tips - Hard (6pk),12,19
@@ -1256,8 +1256,8 @@ Just Add Power,MC-TX3,"MaxColor(TM) 4K60 4:4:4 Encoder w/ AES67, USB-C & HDMI Ou
 Just Add Power,MC-RX1,MaxColor(TM) 4K60 Decoder Dolby & HDR support,"MaxColor(TM) 4K60 4:4:4 Receiver; 36-Bit in & out, Dolby & HDR support",1334,2070
 Just Add Power,MC-RX2,"MaxColor(TM) 4K60 Decoder w/ SFP, USB-C, ARC","MaxColor(TM) 4K60 4:4:4 Receiver; 36-Bit, w/ SFP, USB-C, ARC",1503,2335
 MediaStar,769,MediaStar Single Slot Appliance Chassis with integral Power Supply Unit,MediaStar Single Slot Appliance Chassis with integral Power Supply Unit,986,1745
-MediaStar,769RMKD ,"MediaStar 1RU 19"" Rack Mount Kit for two 769 Chassis Units","MediaStar 1RU 19"" Rack Mount Kit for two 769 Chassis Units",122,216
-MediaStar,769RMKS ,"MediaStar 1RU 19"" Rack Mount Kit for one 769 Chassis Unit","MediaStar 1RU 19"" Rack Mount Kit for one 769 Chassis Unit",71,126
+MediaStar,769RMKD ,MediaStar 1RU 19" Rack Mount Kit for two 769 Chassis Units,MediaStar 1RU 19" Rack Mount Kit for two 769 Chassis Units,122,216
+MediaStar,769RMKS ,MediaStar 1RU 19" Rack Mount Kit for one 769 Chassis Unit,MediaStar 1RU 19" Rack Mount Kit for one 769 Chassis Unit,71,126
 MediaStar,770,MediaStar 9 Slot 3RU Chassis with Single PSU,MediaStar 9 Slot 3RU Chassis with Single PSU,2733,4835
 MediaStar,770DR,MediaStar 8 Slot 3RU Chassis with Dual Redundant PSU,MediaStar 8 Slot 3RU Chassis with Dual Redundant PSU,4475,7919
 MediaStar,770DRUG,MediaStar PSU Upgrade Kit to Convert 770 to 770-DR,MediaStar PSU Upgrade Kit to Convert 770 to 770-DR,2854,5049
@@ -1303,67 +1303,67 @@ Samsung,QE65T-L,"LH65QETELGCXXY 64.5"" Direct LED BLU, UHD 300cd/m2","64.5"" Dir
 Samsung,QE75T,"LH75QETEPGCXXY 74.5"" Direct LED BLU, UHD 300cd/m2","74.5"" Direct LED BLU, UHD 300cd/m2, RS232(in)/RJ45 control, IP5x Rating, 2x HDMI2.0, 1x USB, HDCP2.2, Audio In/Out, built in Quad Core media player (MagicInfo Lite), 4.1 G internal content storage, VESA 400 x 400 Landscape Only",2219,2550
 Samsung,QE85T,"LH85QETELGCXXY 84.5"" Direct LED BLU, UHD 300cd/m2","84.5"" Direct LED BLU, UHD 300cd/m2, RS232(in)/RJ45 control, IP5x Rating, 2x HDMI2.0, 1x USB, HDCP2.2, Audio In/Out, built in Quad Core media player (MagicInfo Lite), 4.1 G internal content storage, VESA 600 x 400, Landscape Only",3524,4056
 Samsung,QE98C,"LH98QECEDGCXXY 98"" Direct LED BLU, UHD 300cd/m2","98"" Direct LED BLU, UHD,  300cd/m2, RS232(in)/RJ45 control, IP5x Rating, 4x HDMI2.0, 2x USB, HDCP2.2, Tizen 6.5 OS, MagicInfo Lite, 8G internal content storage, VESA 600 x 400, Landscape Only, WiFi/Bluetooth",8457,9726
-Samsung,QH115FX,"115"" QHFX Professional Display","115"" UHD 4K, 1,000 nit, Landscape/Portrait, HDMI (3), DP (1), USB (2), RS232C/RJ45 Control, 60W CH, Super Sized Signage with Magic Info S10, VXT ready, Tizen 8.0, CA76 Quad Cores, Temperature Sensor, Ambient Sensor, Auto level, Wi-Fi & BT Embedded, Local Dimming, Workspace, Signange New home, SMARTVIEW +, Web-engine, Smart Calibration, HDR support, TEP & VXT support, SmartThings Pro support",28190,32420
-Samsung,WM55FX,"55"" Flip Pro WMF-X Interactive Display","55"" New Edge, 60Hz, 3,840 x 2,160 (Landscape), 450nits, 12/7,  HDMI (1), USB (1 basic, 2 with tray), USB-C (1 with tray), Touch input, RS232C RJ45, IR, 20 touch, Passive pen with magnet, BT/Wifi, 6.7ms response time, 26m touch latency, Anti glare, Anti fog, Anti-microbial coating, Gray white, Built in speakers (15W 2CH), Document viewer, NoteOn, Web browser, Image viewer, Smarview+, Videoplayer, Work Space etc, Tizen 9.0, 8GB/64GB",3171,3646
-Samsung,WM65FX,"65"" Flip Pro WMF-X Interactive Display","65"" New Edge, 60Hz, 3,840 x 2,160 (Landscape), 450nits, 12/7,  HDMI (1), USB (1 basic, 2 with tray), USB-C (1 with tray), Touch input, RS232C RJ45, IR, 20 touch, Passive pen with magnet, BT/Wifi, 6.7ms response time, 26m touch latency, Anti glare, Anti fog, Anti-microbial coating, Gray white, Built in speakers (15W 2CH), Document viewer, NoteOn, Web browser, Image viewer, Smarview+, Videoplayer, Work Space etc, Tizen 9.0, 8GB/64GB",3947,4539
-Samsung,WM75FX,"75"" Flip Pro WMF-X Interactive Display","75"" New Edge, 60Hz, 3,840 x 2,160 (Landscape), 450nits, 12/7,  HDMI (2), USB (3), USB-C (1), Touch input, RS232C RJ45, IR, 20 touch, Passive pen with magnet, BT/Wifi, 6.7ms response time, 26m touch latency, Anti glare, Anti fog, Anti-microbial coating, Gray white, Built in speakers (10W 4CH), Document viewer, NoteOn, Web browser, Image viewer, Smarview+, Videoplayer, Work Space etc, Tizen 9.0, 8GB/64GB",4933,5676
-Samsung,WM85FX,"85"" Flip Pro WMF-X Interactive Display","85"" New Edge, 60Hz, 3,840 x 2,160 (Landscape), 450nits, 12/7,  HDMI (2), USB (3), USB-C (1), Touch input, RS232C RJ45, IR, 20 touch, Passive pen with magnet, BT/Wifi, 6.7ms response time, 26m touch latency, Anti glare, Anti fog, Anti-microbial coating, Gray white, Built in speakers (10W 4CH), Document viewer, NoteOn, Web browser, Image viewer, Smarview+, Videoplayer, Work Space etc, Tizen 9.0, 8GB/64GB",6766,7780
-Samsung,BE43FX-H,"43"" BEF  Display","43""  Crystal processor 4K 300cd/m2, HDR10+, 3x HDMI, 1x USB, HDCP2.2, Analog Tuner, RJ45, WiFi & LAN, 20W built in speakers, Landscape Only, Samsung business TV App, Web browser, Youtube App support, Netflix, Amazon Prime, Tizen SmartTV",845,970
-Samsung,BE50FX-H,"50"" BEF  Display","50""  Crystal processor 4K 300cd/m2, HDR10+, 3x HDMI, 1x USB, HDCP2.2, Analog Tuner, RJ45, WiFi & LAN, 20W built in speakers, Landscape Only, Samsung business TV App, Web browser, Youtube App support, Netflix, Amazon Prime, Tizen SmartTV",986,1136
-Samsung,BE55FX-H,"55"" BEF  Display","55""  Crystal processor 4K 300cd/m2, HDR10+, 3x HDMI, 1x USB, HDCP2.2, Analog Tuner, RJ45, WiFi & LAN, 20W built in speakers, Landscape Only, Samsung business TV App, Web browser, Youtube App support, Netflix, Amazon Prime, Tizen SmartTV",1127,1295
-Samsung,BE65FX-H,"65"" BEF  Display","65""  Crystal processor 4K 300cd/m2, HDR10+, 3x HDMI, 1x USB, HDCP2.2, Analog Tuner, RJ45, WiFi & LAN, 20W built in speakers, Landscape Only, Samsung business TV App, Web browser, Youtube App support, Netflix, Amazon Prime, Tizen SmartTV",1620,1866
-Samsung,BE75FX-H,"75"" BEF  Display","75""  Crystal processor 4K 300cd/m2, HDR10+, 3x HDMI, 1x USB, HDCP2.2, Analog Tuner, RJ45, WiFi & LAN, 20W built in speakers, Landscape Only, Samsung business TV App, Web browser, Youtube App support, Netflix, Amazon Prime, Tizen SmartTV",2325,2676
-Samsung,BE85FX-H,"85"" BEF  Display","85""  Crystal processor 4K 300cd/m2, HDR10+, 3x HDMI, 1x USB, HDCP2.2, Analog Tuner, RJ45, WiFi & LAN, 20W built in speakers, Landscape Only, Samsung business TV App, Web browser, Youtube App support, Netflix, Amazon Prime, Tizen SmartTV",3734,4295
+Samsung,QH115FX,115" QHFX Professional Display,"115"" UHD 4K, 1,000 nit, Landscape/Portrait, HDMI (3), DP (1), USB (2), RS232C/RJ45 Control, 60W CH, Super Sized Signage with Magic Info S10, VXT ready, Tizen 8.0, CA76 Quad Cores, Temperature Sensor, Ambient Sensor, Auto level, Wi-Fi & BT Embedded, Local Dimming, Workspace, Signange New home, SMARTVIEW +, Web-engine, Smart Calibration, HDR support, TEP & VXT support, SmartThings Pro support",28190,32420
+Samsung,WM55FX,55" Flip Pro WMF-X Interactive Display,"55"" New Edge, 60Hz, 3,840 x 2,160 (Landscape), 450nits, 12/7,  HDMI (1), USB (1 basic, 2 with tray), USB-C (1 with tray), Touch input, RS232C RJ45, IR, 20 touch, Passive pen with magnet, BT/Wifi, 6.7ms response time, 26m touch latency, Anti glare, Anti fog, Anti-microbial coating, Gray white, Built in speakers (15W 2CH), Document viewer, NoteOn, Web browser, Image viewer, Smarview+, Videoplayer, Work Space etc, Tizen 9.0, 8GB/64GB",3171,3646
+Samsung,WM65FX,65" Flip Pro WMF-X Interactive Display,"65"" New Edge, 60Hz, 3,840 x 2,160 (Landscape), 450nits, 12/7,  HDMI (1), USB (1 basic, 2 with tray), USB-C (1 with tray), Touch input, RS232C RJ45, IR, 20 touch, Passive pen with magnet, BT/Wifi, 6.7ms response time, 26m touch latency, Anti glare, Anti fog, Anti-microbial coating, Gray white, Built in speakers (15W 2CH), Document viewer, NoteOn, Web browser, Image viewer, Smarview+, Videoplayer, Work Space etc, Tizen 9.0, 8GB/64GB",3947,4539
+Samsung,WM75FX,75" Flip Pro WMF-X Interactive Display,"75"" New Edge, 60Hz, 3,840 x 2,160 (Landscape), 450nits, 12/7,  HDMI (2), USB (3), USB-C (1), Touch input, RS232C RJ45, IR, 20 touch, Passive pen with magnet, BT/Wifi, 6.7ms response time, 26m touch latency, Anti glare, Anti fog, Anti-microbial coating, Gray white, Built in speakers (10W 4CH), Document viewer, NoteOn, Web browser, Image viewer, Smarview+, Videoplayer, Work Space etc, Tizen 9.0, 8GB/64GB",4933,5676
+Samsung,WM85FX,85" Flip Pro WMF-X Interactive Display,"85"" New Edge, 60Hz, 3,840 x 2,160 (Landscape), 450nits, 12/7,  HDMI (2), USB (3), USB-C (1), Touch input, RS232C RJ45, IR, 20 touch, Passive pen with magnet, BT/Wifi, 6.7ms response time, 26m touch latency, Anti glare, Anti fog, Anti-microbial coating, Gray white, Built in speakers (10W 4CH), Document viewer, NoteOn, Web browser, Image viewer, Smarview+, Videoplayer, Work Space etc, Tizen 9.0, 8GB/64GB",6766,7780
+Samsung,BE43FX-H,43" BEF  Display,"43""  Crystal processor 4K 300cd/m2, HDR10+, 3x HDMI, 1x USB, HDCP2.2, Analog Tuner, RJ45, WiFi & LAN, 20W built in speakers, Landscape Only, Samsung business TV App, Web browser, Youtube App support, Netflix, Amazon Prime, Tizen SmartTV",845,970
+Samsung,BE50FX-H,50" BEF  Display,"50""  Crystal processor 4K 300cd/m2, HDR10+, 3x HDMI, 1x USB, HDCP2.2, Analog Tuner, RJ45, WiFi & LAN, 20W built in speakers, Landscape Only, Samsung business TV App, Web browser, Youtube App support, Netflix, Amazon Prime, Tizen SmartTV",986,1136
+Samsung,BE55FX-H,55" BEF  Display,"55""  Crystal processor 4K 300cd/m2, HDR10+, 3x HDMI, 1x USB, HDCP2.2, Analog Tuner, RJ45, WiFi & LAN, 20W built in speakers, Landscape Only, Samsung business TV App, Web browser, Youtube App support, Netflix, Amazon Prime, Tizen SmartTV",1127,1295
+Samsung,BE65FX-H,65" BEF  Display,"65""  Crystal processor 4K 300cd/m2, HDR10+, 3x HDMI, 1x USB, HDCP2.2, Analog Tuner, RJ45, WiFi & LAN, 20W built in speakers, Landscape Only, Samsung business TV App, Web browser, Youtube App support, Netflix, Amazon Prime, Tizen SmartTV",1620,1866
+Samsung,BE75FX-H,75" BEF  Display,"75""  Crystal processor 4K 300cd/m2, HDR10+, 3x HDMI, 1x USB, HDCP2.2, Analog Tuner, RJ45, WiFi & LAN, 20W built in speakers, Landscape Only, Samsung business TV App, Web browser, Youtube App support, Netflix, Amazon Prime, Tizen SmartTV",2325,2676
+Samsung,BE85FX-H,85" BEF  Display,"85""  Crystal processor 4K 300cd/m2, HDR10+, 3x HDMI, 1x USB, HDCP2.2, Analog Tuner, RJ45, WiFi & LAN, 20W built in speakers, Landscape Only, Samsung business TV App, Web browser, Youtube App support, Netflix, Amazon Prime, Tizen SmartTV",3734,4295
 Samsung,QB24C,24' QBC Professional Display,"24"" FHD 250cd/m2, RS232/RJ45 control, WiFi embedded, IP5x, built in Quad Core media player (Magicinfo Support, Tizen  7.0), 1x HDMI, HDCP2.2, 8 G internal content storage, USB",741.3,1015
-Samsung,QB43C,"43"" QBC Professional Display","42.5"" UHD 350cd/m2, Built in Cable management,  Custom Home, Auto Level,  RS232/RJ45 control, WiFi & BT embedded, IP5x, built in media player (MagicInfo Support, Tizen  6.5), 3x HDMI2.0, 2 x USB,  2ch (10W Speakers), 8G storage, 802.1x(WPA2 Enterprise) ",1037.83,1420
-Samsung,QB50C,"50"" QBC Professional Display","49.5"" UHD 350cd/m2, Built in Cable management, Custom Home, Auto Level,  RS232/RJ45 control, WiFi & BT embedded, IP5x, built in media player (MagicInfo Support, Tizen  6.5), 3x HDMI2.0, 2 x USB,  2ch (10W Speakers), 8G storage, 802.1x(WPA2 Enterprise)",1245.39,1700
-Samsung,QB55C,"55"" QBC Professional Display","54.5"" UHD 350cd/m2, Built in Cable management, Custom Home, Auto Level,  RS232/RJ45 control, WiFi & BT embedded, IP5x, built in media player (MagicInfo Support, Tizen  6.5), 3x HDMI2.0, 2 x USB,  2ch (10W Speakers), 8G storage, 802.1x(WPA2 Enterprise)",1304.7,1786
-Samsung,QB65C,"65"" QBC Professional Display","64.5"" UHD 350cd/m2, Built in Cable management, Custom Home, Auto Level,  RS232/RJ45 control, WiFi & BT embedded, IP5x, built in media player (MagicInfo Support, Tizen  6.5), 3x HDMI2.0, 2 x USB,  2ch (10W Speakers), 8G storage, 802.1x(WPA2 Enterprise)",1630.87,2230
-Samsung,QB75C,"75"" QBC Professional Display","74.5"" UHD 350cd/m2, Built in Cable management,  Custom Home, Auto Level,  RS232/RJ45 control, WiFi & BT embedded, IP5x, built in media player (MagicInfo Support, Tizen  6.5), 3x HDMI2.0, 2 x USB,  2ch (10W Speakers), 8G storage, 802.1x(WPA2 Enterprise)",2609.39,3565
-Samsung,QB85C,"85"" QBC Professional Display","84.5"" UHD 350cd/m2, RS232/RJ45 control, WiFi embedded, IP5x, built in Quad Core media player (MagicInfo S6, Tizen SSSP 6.0), 2x HDMI2.0, 1x DVI-D, HDCP2.2, 4.1 G internal content storage, USB",4447.83,6080
-Samsung,QM32C,"32"" QMC Professional Display","32"" FHD 400cd/m2, RS232/RJ45 control, WiFi/BT embedded, IP5X dustproof, built in Quad Core media player (Magicinfo Support, Tizen 7.0), 2x HDMI2.0, 1x DP1.2, HDCP2.2, 8 G internal content storage",830.26,1135
-Samsung,QM43C,"43"" QMC Professional Display","42.5"" UHD 500cd/m2, Non-Glare, Built in Cable management, Custom Home, Auto Level,  RS232/RJ45 control, WiFi & BT embedded, IP5x, built in media player (MagicInfo Support, Tizen  6.5), 3x HDMI2.0, 2 x USB,  2ch (10W Speakers), 8G storage, 802.1x(WPA2 Enterprise)",1156.43,1579
-Samsung,QM50C,"50"" QMC Professional Display","49.5"" UHD 500cd/m2, Non-Glare, Built in Cable management, Custom Home, Auto Level,  RS232/RJ45 control, WiFi & BT embedded, IP5x, built in media player (MagicInfo Support, Tizen  6.5), 3x HDMI2.0, 2 x USB,  2ch (10W Speakers), 8G storage, 802.1x(WPA2 Enterprise) ",1364,1865
-Samsung,QM55C,"55"" QMC Professional Display","54.5"" UHD 500cd/m2, Non-Glare, Built in Cable management, Custom Home, Auto Level,  RS232/RJ45 control, WiFi & BT embedded, IP5x, built in media player (MagicInfo Support, Tizen  6.5), 3x HDMI2.0, 2 x USB,  2ch (10W Speakers), 8G storage, 802.1x(WPA2 Enterprise)",1482.61,2025
-Samsung,QM65C,"65"" QMC Professional Display","64.5"" UHD 500cd/m2, Non-Glare, Built in Cable management,  Custom Home, Auto Level,  RS232/RJ45 control, WiFi & BT embedded, IP5x, built in media player (MagicInfo Support, Tizen  6.5), 3x HDMI2.0, 2 x USB,  2ch (10W Speakers), 8G storage, 802.1x(WPA2 Enterprise)",1986.7,2715
-Samsung,QM75C,"75"" QMC Professional Display","74.5"" UHD 500cd/m2, Non-Glare, Built in Cable management, Custom Home, Auto Level,  RS232/RJ45 control, WiFi & BT embedded, IP5x, built in media player (MagicInfo Support, Tizen  6.5), 3x HDMI2.0, 2 x USB,  2ch (10W Speakers), 8G storage, 802.1x(WPA2 Enterprise)",3261.74,4459
-Samsung,QM85C,"85"" QMC Professional Display","84.5"" UHD 500cd/m2, RS232/RJ45 control, WiFi/BT embedded, IP5X dustproof, built in Quad Core media player (MagicInfo S6, Tizen SSSP 6.0), 2x HDMI2.0, 1x DVI-D, 1x DP1.2, HDCP2.2, HDMI2.0 loopout, 4.1 G internal content storage, USB (TBC)",5040.87,6890
-Samsung,QM98C,"98"" QMC Professional Display","98"" UHD 500cd/m2, RS232/RJ45 control, WiFi/BT embedded, IP5X dustproof, built in Quad Core media player (MagicInfo support, Tizen 7.0), 3x HDMI2.0, 1x DP1.2, HDCP2.2, 2x USB, 16G internal content storage",11860.87,16209
-Samsung,QH43C,"43"" QHC Professional Display","42.5"" 120Hz UHD 700cd/m2, Non-Glare, Built in Cable management, Custom Home, Auto Level,  RS232/RJ45 control, WiFi & BT embedded, IP5x, built in media player (MagicInfo Support, Tizen  6.5), 3x HDMI2.0, 2 x USB,  2ch (10W Speakers), 8G storage, 802.1x(WPA2 Enterprise)",1550,1786
-Samsung,QH50C,"50"" QHC Professional Display","49.5"" 120Hz UHD 700cd/m2, Non-Glare, Built in Cable management,  Custom Home, Auto Level,  RS232/RJ45 control, WiFi & BT embedded, IP5x, built in media player (MagicInfo Support, Tizen  6.5), 3x HDMI2.0, 2 x USB,  2ch (10W Speakers), 8G storage, 802.1x(WPA2 Enterprise)",1797,2066
-Samsung,QH55C,"55"" QHC Professional Display","54.5"" 120Hz UHD 700cd/m2, Non-Glare, Built in Cable management, Custom Home, Auto Level,  RS232/RJ45 control, WiFi & BT embedded, IP5x, built in media player (MagicInfo Support, Tizen  6.5), 3x HDMI2.0, 2 x USB,  2ch (10W Speakers), 8G storage, 802.1x(WPA2 Enterprise)",2079,2390
-Samsung,QH65C,"65"" QHC Professional Display","64.5"" 120Hz UHD 700cd/m2, Non-Glare, Built in Cable management,  Custom Home, Auto Level,  RS232/RJ45 control, WiFi & BT embedded, IP5x, built in media player (MagicInfo Support, Tizen  6.5), 3x HDMI2.0, 2 x USB,  2ch (10W Speakers), 8G storage, 802.1x(WPA2 Enterprise)",2819,3240
-Samsung,QH75C,"75"" QHC Professional Display","74.5"" 120Hz UHD 700cd/m2, Non-Glare, Built in Cable management,  Custom Home, Auto Level,  RS232/RJ45 control, WiFi & BT embedded, IP5x, built in media player (MagicInfo Support, Tizen  6.5), 3x HDMI2.0, 2 x USB,  2ch (10W Speakers), 8G storage, 802.1x(WPA2 Enterprise)",5145,5916
-Samsung,QB13C-T,"13"" QBC-T Interactive Display","13.2"" 60Hz FHD Touch Signage with Built-in Magicinfo S10, SSSP 10.0, VXT Ready, Tizen 7.0, IP5x, RS232C/RJ45, 1.3GHz Quad-core, HDMI 1.4 (1), Tyce C (USB 2.0) (2), 10 point touch, Landscape/portrait, 500 nit, Stero mini Jack, Wi-Fi & Bluetooth, Signange new home, Workspace, Custom Home, Upgradeable Web-engine, TEP support, VXT support, SmartThings Pro Support",987,1135
-Samsung,QB24C-T,"24"" QBC-T Interactive Display","23.8"" Full HD 250cd/m2, Slim & Light with Built-in MagicInfo S10, SSSP 10.0, Tizen 7.0, HDMI 1.4, USB, RS232/RJ45 control, WiFi & BT, IP5x rating, Centre Screen IR receiver, integrated capacitive touch screen, 8G internal memory",1269,1459
-Samsung,QM32R-T,"32"" QMC-T Interactive Display","31.5"" Edge LED BLU Full HD 300cd/m2, Slim & Light with Built-in MagicInfo S6, SSSP 6.0, RS232/RJ45 control, WiFi/BT, IP5x rating, Centre Screen IR receiver, HDMI loopout, integrated capacitive touch screen, 4.12G internal content storage, USB",2255,2595
-Samsung,QM43B-T,"43"" QMB-T Interactive Display","42.5"" Edge LED BLU UHD 400cd/m2 Anti Glare panel, Slim & Light with Built-in MagicInfo S10, SSSP 10.0, RS232/RJ45 control, WiFi, IP5x rating, Centre Screen IR receiver, integrated capacitive touch screen, 16G internal content storage, USB",3171,3646
-Samsung,QM55B-T,"55"" QMB-T Interactive Display","54.6"" Edge LED BLU UHD 400cd/m2 Anti Glare panel, Slim & Light with Built-in MagicInfo S10, SSSP 10.0, RS232/RJ45 control, WiFi, IP5x rating, Centre Screen IR receiver, integrated capacitive touch screen, 16G internal content storage, USB",3947,4539
+Samsung,QB43C,43" QBC Professional Display,"42.5"" UHD 350cd/m2, Built in Cable management,  Custom Home, Auto Level,  RS232/RJ45 control, WiFi & BT embedded, IP5x, built in media player (MagicInfo Support, Tizen  6.5), 3x HDMI2.0, 2 x USB,  2ch (10W Speakers), 8G storage, 802.1x(WPA2 Enterprise) ",1037.83,1420
+Samsung,QB50C,50" QBC Professional Display,"49.5"" UHD 350cd/m2, Built in Cable management, Custom Home, Auto Level,  RS232/RJ45 control, WiFi & BT embedded, IP5x, built in media player (MagicInfo Support, Tizen  6.5), 3x HDMI2.0, 2 x USB,  2ch (10W Speakers), 8G storage, 802.1x(WPA2 Enterprise)",1245.39,1700
+Samsung,QB55C,55" QBC Professional Display,"54.5"" UHD 350cd/m2, Built in Cable management, Custom Home, Auto Level,  RS232/RJ45 control, WiFi & BT embedded, IP5x, built in media player (MagicInfo Support, Tizen  6.5), 3x HDMI2.0, 2 x USB,  2ch (10W Speakers), 8G storage, 802.1x(WPA2 Enterprise)",1304.7,1786
+Samsung,QB65C,65" QBC Professional Display,"64.5"" UHD 350cd/m2, Built in Cable management, Custom Home, Auto Level,  RS232/RJ45 control, WiFi & BT embedded, IP5x, built in media player (MagicInfo Support, Tizen  6.5), 3x HDMI2.0, 2 x USB,  2ch (10W Speakers), 8G storage, 802.1x(WPA2 Enterprise)",1630.87,2230
+Samsung,QB75C,75" QBC Professional Display,"74.5"" UHD 350cd/m2, Built in Cable management,  Custom Home, Auto Level,  RS232/RJ45 control, WiFi & BT embedded, IP5x, built in media player (MagicInfo Support, Tizen  6.5), 3x HDMI2.0, 2 x USB,  2ch (10W Speakers), 8G storage, 802.1x(WPA2 Enterprise)",2609.39,3565
+Samsung,QB85C,85" QBC Professional Display,"84.5"" UHD 350cd/m2, RS232/RJ45 control, WiFi embedded, IP5x, built in Quad Core media player (MagicInfo S6, Tizen SSSP 6.0), 2x HDMI2.0, 1x DVI-D, HDCP2.2, 4.1 G internal content storage, USB",4447.83,6080
+Samsung,QM32C,32" QMC Professional Display,"32"" FHD 400cd/m2, RS232/RJ45 control, WiFi/BT embedded, IP5X dustproof, built in Quad Core media player (Magicinfo Support, Tizen 7.0), 2x HDMI2.0, 1x DP1.2, HDCP2.2, 8 G internal content storage",830.26,1135
+Samsung,QM43C,43" QMC Professional Display,"42.5"" UHD 500cd/m2, Non-Glare, Built in Cable management, Custom Home, Auto Level,  RS232/RJ45 control, WiFi & BT embedded, IP5x, built in media player (MagicInfo Support, Tizen  6.5), 3x HDMI2.0, 2 x USB,  2ch (10W Speakers), 8G storage, 802.1x(WPA2 Enterprise)",1156.43,1579
+Samsung,QM50C,50" QMC Professional Display,"49.5"" UHD 500cd/m2, Non-Glare, Built in Cable management, Custom Home, Auto Level,  RS232/RJ45 control, WiFi & BT embedded, IP5x, built in media player (MagicInfo Support, Tizen  6.5), 3x HDMI2.0, 2 x USB,  2ch (10W Speakers), 8G storage, 802.1x(WPA2 Enterprise) ",1364,1865
+Samsung,QM55C,55" QMC Professional Display,"54.5"" UHD 500cd/m2, Non-Glare, Built in Cable management, Custom Home, Auto Level,  RS232/RJ45 control, WiFi & BT embedded, IP5x, built in media player (MagicInfo Support, Tizen  6.5), 3x HDMI2.0, 2 x USB,  2ch (10W Speakers), 8G storage, 802.1x(WPA2 Enterprise)",1482.61,2025
+Samsung,QM65C,65" QMC Professional Display,"64.5"" UHD 500cd/m2, Non-Glare, Built in Cable management,  Custom Home, Auto Level,  RS232/RJ45 control, WiFi & BT embedded, IP5x, built in media player (MagicInfo Support, Tizen  6.5), 3x HDMI2.0, 2 x USB,  2ch (10W Speakers), 8G storage, 802.1x(WPA2 Enterprise)",1986.7,2715
+Samsung,QM75C,75" QMC Professional Display,"74.5"" UHD 500cd/m2, Non-Glare, Built in Cable management, Custom Home, Auto Level,  RS232/RJ45 control, WiFi & BT embedded, IP5x, built in media player (MagicInfo Support, Tizen  6.5), 3x HDMI2.0, 2 x USB,  2ch (10W Speakers), 8G storage, 802.1x(WPA2 Enterprise)",3261.74,4459
+Samsung,QM85C,85" QMC Professional Display,"84.5"" UHD 500cd/m2, RS232/RJ45 control, WiFi/BT embedded, IP5X dustproof, built in Quad Core media player (MagicInfo S6, Tizen SSSP 6.0), 2x HDMI2.0, 1x DVI-D, 1x DP1.2, HDCP2.2, HDMI2.0 loopout, 4.1 G internal content storage, USB (TBC)",5040.87,6890
+Samsung,QM98C,98" QMC Professional Display,"98"" UHD 500cd/m2, RS232/RJ45 control, WiFi/BT embedded, IP5X dustproof, built in Quad Core media player (MagicInfo support, Tizen 7.0), 3x HDMI2.0, 1x DP1.2, HDCP2.2, 2x USB, 16G internal content storage",11860.87,16209
+Samsung,QH43C,43" QHC Professional Display,"42.5"" 120Hz UHD 700cd/m2, Non-Glare, Built in Cable management, Custom Home, Auto Level,  RS232/RJ45 control, WiFi & BT embedded, IP5x, built in media player (MagicInfo Support, Tizen  6.5), 3x HDMI2.0, 2 x USB,  2ch (10W Speakers), 8G storage, 802.1x(WPA2 Enterprise)",1550,1786
+Samsung,QH50C,50" QHC Professional Display,"49.5"" 120Hz UHD 700cd/m2, Non-Glare, Built in Cable management,  Custom Home, Auto Level,  RS232/RJ45 control, WiFi & BT embedded, IP5x, built in media player (MagicInfo Support, Tizen  6.5), 3x HDMI2.0, 2 x USB,  2ch (10W Speakers), 8G storage, 802.1x(WPA2 Enterprise)",1797,2066
+Samsung,QH55C,55" QHC Professional Display,"54.5"" 120Hz UHD 700cd/m2, Non-Glare, Built in Cable management, Custom Home, Auto Level,  RS232/RJ45 control, WiFi & BT embedded, IP5x, built in media player (MagicInfo Support, Tizen  6.5), 3x HDMI2.0, 2 x USB,  2ch (10W Speakers), 8G storage, 802.1x(WPA2 Enterprise)",2079,2390
+Samsung,QH65C,65" QHC Professional Display,"64.5"" 120Hz UHD 700cd/m2, Non-Glare, Built in Cable management,  Custom Home, Auto Level,  RS232/RJ45 control, WiFi & BT embedded, IP5x, built in media player (MagicInfo Support, Tizen  6.5), 3x HDMI2.0, 2 x USB,  2ch (10W Speakers), 8G storage, 802.1x(WPA2 Enterprise)",2819,3240
+Samsung,QH75C,75" QHC Professional Display,"74.5"" 120Hz UHD 700cd/m2, Non-Glare, Built in Cable management,  Custom Home, Auto Level,  RS232/RJ45 control, WiFi & BT embedded, IP5x, built in media player (MagicInfo Support, Tizen  6.5), 3x HDMI2.0, 2 x USB,  2ch (10W Speakers), 8G storage, 802.1x(WPA2 Enterprise)",5145,5916
+Samsung,QB13C-T,13" QBC-T Interactive Display,"13.2"" 60Hz FHD Touch Signage with Built-in Magicinfo S10, SSSP 10.0, VXT Ready, Tizen 7.0, IP5x, RS232C/RJ45, 1.3GHz Quad-core, HDMI 1.4 (1), Tyce C (USB 2.0) (2), 10 point touch, Landscape/portrait, 500 nit, Stero mini Jack, Wi-Fi & Bluetooth, Signange new home, Workspace, Custom Home, Upgradeable Web-engine, TEP support, VXT support, SmartThings Pro Support",987,1135
+Samsung,QB24C-T,24" QBC-T Interactive Display,"23.8"" Full HD 250cd/m2, Slim & Light with Built-in MagicInfo S10, SSSP 10.0, Tizen 7.0, HDMI 1.4, USB, RS232/RJ45 control, WiFi & BT, IP5x rating, Centre Screen IR receiver, integrated capacitive touch screen, 8G internal memory",1269,1459
+Samsung,QM32R-T,32" QMC-T Interactive Display,"31.5"" Edge LED BLU Full HD 300cd/m2, Slim & Light with Built-in MagicInfo S6, SSSP 6.0, RS232/RJ45 control, WiFi/BT, IP5x rating, Centre Screen IR receiver, HDMI loopout, integrated capacitive touch screen, 4.12G internal content storage, USB",2255,2595
+Samsung,QM43B-T,43" QMB-T Interactive Display,"42.5"" Edge LED BLU UHD 400cd/m2 Anti Glare panel, Slim & Light with Built-in MagicInfo S10, SSSP 10.0, RS232/RJ45 control, WiFi, IP5x rating, Centre Screen IR receiver, integrated capacitive touch screen, 16G internal content storage, USB",3171,3646
+Samsung,QM55B-T,55" QMB-T Interactive Display,"54.6"" Edge LED BLU UHD 400cd/m2 Anti Glare panel, Slim & Light with Built-in MagicInfo S10, SSSP 10.0, RS232/RJ45 control, WiFi, IP5x rating, Centre Screen IR receiver, integrated capacitive touch screen, 16G internal content storage, USB",3947,4539
 Samsung,SH37C,37' Professional Stretch Display ,"37"" 1920x540 Resolution (16:4.5 Aspect Ratio), 60Hz Full HD 700cd/m2, RS232/RJ45 control, Built-in MagicInfo Player, Tizen 7.0, WiFi, DP 1.2, HDMI (2), HDCP 2.2, USB 2.0 (1), 400 x 200 VESA, Portrait / Landscape Installation",1938,2230
-Samsung,EM13DX,"13"" E-paper","13"" E-paper, Landscape / Potrait, 24/7, USB-C 2.0(1) data only, USB-C (1) Power only, RJ45 to USB type-C POE+ dongle compatible (not included in box), Wifi & BT, Tizen 8.0, 8GB  Storage, JPEG, JPG, PNG, BMP, Samsung E-paper Mobile App, VXT support, IP5x, 3 LED Indicator (RGB), Low Power WiFi",1409,1619
-Samsung,EM32DX-A,"32"" E-paper","32"" E-paper, Landscape / Potrait, 24/7, USB-C 2.0(1) data only, USB-C (1) Power only, RJ45 to USB type-C POE+ dongle compatible (not included in box), Wifi & BT, Tizen 8.0, 8GB  Storage, JPEG, JPG, PNG, BMP, Samsung E-paper Mobile App, VXT support, IP5x, 3 LED Indicator (RGB), Low Power WiFi",2431,2796
-Samsung,WA65FX-P,"65"" WAFX-P eboard Interactive Display","65"", Landscape, 3840 x 2160, 450nit, 8ms response time, Built in speakers (20W x 2CH), Woofer, HDMI (2), USB C (1), USB (5), Stereo mini jack (1), Eco sensor, RS232C/RJ45, Wifi & BT, IR Touch, 50 point touch, Passive Pen, Android 15 OS with EDLA Certified, Front connectivity, OPS I/F Support, Android Home Launcher, Playstore, Chrome, Youtube, Google Drive, Note app, Screenshare, Finder etc, Energy star",3665,4216
-Samsung,WA75FX-P,"75"" WAFX-P eboard Interactive Display","75"", Landscape, 3840 x 2160, 450nit, 8ms response time, Built in speakers (20W x 2CH), Woofer, HDMI (2), USB C (1), USB (5), Stereo mini jack (1), Eco sensor, RS232C/RJ45, Wifi & BT, IR Touch, 50 point touch, Passive Pen, Android 15 OS with EDLA Certified, Front connectivity, OPS I/F Support, Android Home Launcher, Playstore, Chrome, Youtube, Google Drive, Note app, Screenshare, Finder etc, Energy star",4369,5025
-Samsung,WA85XF-P,"86"" WAFX-P eboard Interactive Display","85"", Landscape, 3840 x 2160, 450nit, 8ms response time, Built in speakers (20W x 2CH), Woofer, HDMI (2), USB C (1), USB (5), Stereo mini jack (1), Eco sensor, RS232C/RJ45, Wifi & BT, IR Touch, 50 point touch, Passive Pen, Android 15 OS with EDLA Certified, Front connectivity, OPS I/F Support, Android Home Launcher, Playstore, Chrome, Youtube, Google Drive, Note app, Screenshare, Finder etc, Energy star",5990,6890
-Samsung,WM55B,"LH55WMBWBGCXXY Fl!p *55"" White/Grey 60Hz New Edge","*55"" 60Hz New Edge, 3,840 x 2,160 (Landscape) / 2,160 x 3,840 (Portrait), 4 Draw, Built in Speaker (10W x 2), HDMI 2, 'USB 1, WiFi/BT, Passive Pen with magnet, Acceleration sensor, RDP/VNC, Tizen 5.0 *TBC",3171,3646
-Samsung,WM65B,"LH65WMBWBGCXXY Fl!p 65"" White/Grey 60Hz New Edge ","*65"" 60Hz New Edge, 3,840 x 2,160 (Landscape) / 2,160 x 3,840 (Portrait), 4 Draw, Built in Speaker (10W x 2), HDMI 2, 'USB 1, Acceleration sensor, RS232C, LAN, WiFi/BT, Google Doc's and Office 365 connectivity, RDP/VNC, Tizen 5.0 *TBC",3947,4539
-Samsung,STN-WM55R,"STN-WM55RXEN 55"" Stand ","Trolley Stand for WM55R, VESA mount 400 X 400, Pivot Support (90 degrees) Rotation, (4-Wheels).",846,976
+Samsung,EM13DX,13" E-paper,"13"" E-paper, Landscape / Potrait, 24/7, USB-C 2.0(1) data only, USB-C (1) Power only, RJ45 to USB type-C POE+ dongle compatible (not included in box), Wifi & BT, Tizen 8.0, 8GB  Storage, JPEG, JPG, PNG, BMP, Samsung E-paper Mobile App, VXT support, IP5x, 3 LED Indicator (RGB), Low Power WiFi",1409,1619
+Samsung,EM32DX-A,32" E-paper,"32"" E-paper, Landscape / Potrait, 24/7, USB-C 2.0(1) data only, USB-C (1) Power only, RJ45 to USB type-C POE+ dongle compatible (not included in box), Wifi & BT, Tizen 8.0, 8GB  Storage, JPEG, JPG, PNG, BMP, Samsung E-paper Mobile App, VXT support, IP5x, 3 LED Indicator (RGB), Low Power WiFi",2431,2796
+Samsung,WA65FX-P,65" WAFX-P eboard Interactive Display,"65"", Landscape, 3840 x 2160, 450nit, 8ms response time, Built in speakers (20W x 2CH), Woofer, HDMI (2), USB C (1), USB (5), Stereo mini jack (1), Eco sensor, RS232C/RJ45, Wifi & BT, IR Touch, 50 point touch, Passive Pen, Android 15 OS with EDLA Certified, Front connectivity, OPS I/F Support, Android Home Launcher, Playstore, Chrome, Youtube, Google Drive, Note app, Screenshare, Finder etc, Energy star",3665,4216
+Samsung,WA75FX-P,75" WAFX-P eboard Interactive Display,"75"", Landscape, 3840 x 2160, 450nit, 8ms response time, Built in speakers (20W x 2CH), Woofer, HDMI (2), USB C (1), USB (5), Stereo mini jack (1), Eco sensor, RS232C/RJ45, Wifi & BT, IR Touch, 50 point touch, Passive Pen, Android 15 OS with EDLA Certified, Front connectivity, OPS I/F Support, Android Home Launcher, Playstore, Chrome, Youtube, Google Drive, Note app, Screenshare, Finder etc, Energy star",4369,5025
+Samsung,WA85XF-P,86" WAFX-P eboard Interactive Display,"85"", Landscape, 3840 x 2160, 450nit, 8ms response time, Built in speakers (20W x 2CH), Woofer, HDMI (2), USB C (1), USB (5), Stereo mini jack (1), Eco sensor, RS232C/RJ45, Wifi & BT, IR Touch, 50 point touch, Passive Pen, Android 15 OS with EDLA Certified, Front connectivity, OPS I/F Support, Android Home Launcher, Playstore, Chrome, Youtube, Google Drive, Note app, Screenshare, Finder etc, Energy star",5990,6890
+Samsung,WM55B,LH55WMBWBGCXXY Fl!p *55" White/Grey 60Hz New Edge,"*55"" 60Hz New Edge, 3,840 x 2,160 (Landscape) / 2,160 x 3,840 (Portrait), 4 Draw, Built in Speaker (10W x 2), HDMI 2, 'USB 1, WiFi/BT, Passive Pen with magnet, Acceleration sensor, RDP/VNC, Tizen 5.0 *TBC",3171,3646
+Samsung,WM65B,LH65WMBWBGCXXY Fl!p 65" White/Grey 60Hz New Edge ,"*65"" 60Hz New Edge, 3,840 x 2,160 (Landscape) / 2,160 x 3,840 (Portrait), 4 Draw, Built in Speaker (10W x 2), HDMI 2, 'USB 1, Acceleration sensor, RS232C, LAN, WiFi/BT, Google Doc's and Office 365 connectivity, RDP/VNC, Tizen 5.0 *TBC",3947,4539
+Samsung,STN-WM55R,STN-WM55RXEN 55" Stand ,"Trolley Stand for WM55R, VESA mount 400 X 400, Pivot Support (90 degrees) Rotation, (4-Wheels).",846,976
 Samsung,CY-TF65BBC,CY-TF65BBCXXY Fl!p Connection Tray,"Connection Tray - Providing NFC, USB (In and Out), Touch out, 3rd HDMI connection, Screen share (HDMI Out), Suites both 55"" & 65"" Screen Sizes",352,406
 Samsung,WM65RXXY,WMN-WM65RXXY Fl!p No Gap Wall Mount ,Slim design Wall Mount for WM65R - Landscape Only.,352,406
-Samsung,SM85HX,"85"" Virtual 3D Spatial Display","85"" Virtual 3D Spatial Display, 500nit, Potrait, 24/7, DP1.2 (1), HDMI 2.0 (3), USB 2.0 (2), Stero mini Jack, RS232C (in/out), RJ45, 10W ch, UHD Signage with Build-in MagicInfo S10, SSS10.0, Tizen 7.0, Virtual 32 Spatial Effect, 2nd Gen. B2B Design, Center IR, Wi-Fi & BT, Workspace, Upgradable Web-Engine, HDR Support, IP5x, Signage new hoe",26780,30796
-Samsung,QPDX-5K,"105"" QPDX Professional Display -  Workspace (Microsoft365/RDP)","105"" 5K 21:9, 500cd/m2, Built in Cable management, Custom Home, Workspace (Microsoft365/RDP),  RS232C/RJ45 control, WiFi & BT embedded, IP5x, built in media player (VXT, Tizen 8.0), 3xHDMI2.1, 2xUSB(A), 1xUSB(C),  4ch (10W Speakers), 16G storage, 802.1x(WPA2 Enterprise), even bezel 14.8mm, 48.1mm depth",17619,20260
+Samsung,SM85HX,85" Virtual 3D Spatial Display,"85"" Virtual 3D Spatial Display, 500nit, Potrait, 24/7, DP1.2 (1), HDMI 2.0 (3), USB 2.0 (2), Stero mini Jack, RS232C (in/out), RJ45, 10W ch, UHD Signage with Build-in MagicInfo S10, SSS10.0, Tizen 7.0, Virtual 32 Spatial Effect, 2nd Gen. B2B Design, Center IR, Wi-Fi & BT, Workspace, Upgradable Web-Engine, HDR Support, IP5x, Signage new hoe",26780,30796
+Samsung,QPDX-5K,105" QPDX Professional Display -  Workspace (Microsoft365/RDP),"105"" 5K 21:9, 500cd/m2, Built in Cable management, Custom Home, Workspace (Microsoft365/RDP),  RS232C/RJ45 control, WiFi & BT embedded, IP5x, built in media player (VXT, Tizen 8.0), 3xHDMI2.1, 2xUSB(A), 1xUSB(C),  4ch (10W Speakers), 16G storage, 802.1x(WPA2 Enterprise), even bezel 14.8mm, 48.1mm depth",17619,20260
 Samsung,VM46-BU,"LH46VMBUBGBXXY 45.9"" VW Display, Full HD Max 500cd/m2","45.9"" VW Display, Full HD Max 500cd/m2, Antiglare Haze, 3.5mm bezel-to-bezel, RS232 and RJ45 external control, supports UHD pass through via DP1.2 up to 5x5 config (SBB-SS08NL1/XY) for ideal FHD VW Signage Solution) TBC",1660.53,2270
 Samsung,VM55-BU,"LH55VMBUBGBXXY 54.6"" VW Display, Full HD Max 500cd/m2","54.6"" VW Display, Full HD Max 500cd/m2, Antiglare Haze, 3.5mm bezel-to-bezel, RS232 and RJ45 external control, supports UHD pass through via DP1.2 up to 5x5 config (SBB-SS08NL1/XY) for ideal FHD VW Signage Solution) TBC",2253.57,3080
 Samsung,VM55C-E,"LH55VMCEBGBXXY 54.6"" VW Display, Full HD Max 500cd/m2","54.6"" VW Display, Full HD Max 500cd/m2, Antiglare Haze, 1.74mm bezel-to-bezel, RS232 and RJ45 external control, supports UHD pass through via DP1.2 up to 5x5 config (SBB-SS08NL1/XY) for ideal FHD VW Signage Solution) Antiglare Haze, 1.74mm bezel-to-bezel, RS232 and RJ45 external control, supports UHD pass through via DP1.2 up to 5x5 config (SBB-SS08NL1/XY) for ideal FHD VW Signage Solution)",2965.22,4056
 Samsung,VH55C-E,"LH55VHCEBGBXXY 54.6"" VW Display, Full HD Max 700cd/m2","54.6"" VW Display, Full HD Max 700cd/m2, Antiglare Haze, 1.74mm bezel-to-bezel, RS232 and RJ45 external control, supports UHD pass through via DP1.2 up to 5x5 config (SBB-SS08NL1/XY) for ideal FHD VW Signage Solution)",3558.26,4865
 Samsung,VH55C-R,"LH55VHCRBGBXXY 54.6"" VW Display, Full HD Max 700cd/m2","54.6"" D-LED DID Full HD Max 700cd/m2, Antiglare Haze, 0.88mm bezel-to-bezel, RS232 and RJ45 external control, supports UHD pass through via DP1.2 up to 5x5 config (SBB-SS08NL1/XY) for ideal FHD VW Signage Solution)",4151.3,5676
-Samsung,OM46B,"LH46OMBEBGBXXY 45.9"" Window-Display FHD 4000cd/m2","45.9"" Window-Display version. Full HD 4000cd/m2, RS232/RJ45 control, polarised sunglasses viewable, WiFi embedded, built in Quad Core media player (MagicInfo S6, SSSP 6.0), 4.1G internal content storage, IP5X, Portrait/Landscape installation",3171,3646
-Samsung,OM55B,"LH55OMBEBGBXXY 54.6"" Window-Display FHD 4000cd/m2","54.6"" Window-Display version. Full HD 3000cd/m2, RS232/RJ45 control, polarised sunglasses viewable, WiFi embedded, built in Quad Core media player (MagicInfo S7, SSSP 7.0), 4.1G internal content storage, IP5X, Portrait/Landscape installation",3876,4459
-Samsung,OM75A,"LH75OMAEBGBXXY 74.5"" Window Display Version","74.5"" Window-Display version. UHD 4,000cd/m2, RS232/RJ45 control, IP5x rated, Portrait and Landscape support, polarised sunglasses viewable, Auto brightness control, WiFi embedded, built in Quad Core media player (MagicInfo S7, Tizen 5.0, SSSP7, 4.12G internal content storage",9162,10535
-Samsung,OM55N-DS,"LH55OMNDSGBXXY 54.6"" Dual sided Window-Display","54.6"" Dual sided Window-Display. Full HD, 3000 / 1000 cd/m2, RS232/RJ45 control, 2x HDMI 2.0, HDCP 2.2, 2x USB, IP5X, polarised sunglasses viewable, WiFi embedded, built in Quad Core media player (MagicInfo S6, SSSP 6.0), 4.1G internal content storage",8457,9726
-Samsung,OH46DX-W,"46"" OHDX-W Outdoor Display","45.9"" Outdoor IP56 Display, FHD 3,500 - 4,000 nit, RS232/RJ45 control, IK-10, Polarized Sunglasses Viewable, Brightness Sensor, Temperature Sensor, Landscape/Portrait, HDMI (2), USB (2), Built-in Magicinfo Player S10, TEP, SmartThings, VXT Player, Tizen 8.0, 1.7GHz Quad-Core CPU, WiFi inbox",5990,6890
-Samsung,OH55DX-W,"55"" OHDX-W Outdoor Display","54.6"" Outdoor IP56, FHD 3,500 - 4,000 nit, RS232/RJ45 control, IK-10, Polarized Sunglasses Veiewable, Brightness Sensor, Temperature Sensor, HDMI (2), USB (2), Power-box Integrated, Built-in Magicinfo Player S10, TEP. SmartThings, VXT Player, Tizen 8.0, 1.7GHz Quad-Core CPU, Wifi inbox",7047,8105
-Samsung,OH75A,"LH75OHAEBGBXXY 74.5"" Outdoor IP56 Display","74.5"" Outdoor IP56 Display. UHD 3,500cd/m2, RS232/RJ45 control, IK-10 level protection glass with 5T tempering, polarised sunglasses viewable, Auto brightness control, built in Quad Core media player (MagicInfo S7, Tizen 5.0, SSSP7, 4.12G internal content storage",25371,29176
+Samsung,OM46B,LH46OMBEBGBXXY 45.9" Window-Display FHD 4000cd/m2,"45.9"" Window-Display version. Full HD 4000cd/m2, RS232/RJ45 control, polarised sunglasses viewable, WiFi embedded, built in Quad Core media player (MagicInfo S6, SSSP 6.0), 4.1G internal content storage, IP5X, Portrait/Landscape installation",3171,3646
+Samsung,OM55B,LH55OMBEBGBXXY 54.6" Window-Display FHD 4000cd/m2,"54.6"" Window-Display version. Full HD 3000cd/m2, RS232/RJ45 control, polarised sunglasses viewable, WiFi embedded, built in Quad Core media player (MagicInfo S7, SSSP 7.0), 4.1G internal content storage, IP5X, Portrait/Landscape installation",3876,4459
+Samsung,OM75A,LH75OMAEBGBXXY 74.5" Window Display Version,"74.5"" Window-Display version. UHD 4,000cd/m2, RS232/RJ45 control, IP5x rated, Portrait and Landscape support, polarised sunglasses viewable, Auto brightness control, WiFi embedded, built in Quad Core media player (MagicInfo S7, Tizen 5.0, SSSP7, 4.12G internal content storage",9162,10535
+Samsung,OM55N-DS,LH55OMNDSGBXXY 54.6" Dual sided Window-Display,"54.6"" Dual sided Window-Display. Full HD, 3000 / 1000 cd/m2, RS232/RJ45 control, 2x HDMI 2.0, HDCP 2.2, 2x USB, IP5X, polarised sunglasses viewable, WiFi embedded, built in Quad Core media player (MagicInfo S6, SSSP 6.0), 4.1G internal content storage",8457,9726
+Samsung,OH46DX-W,46" OHDX-W Outdoor Display,"45.9"" Outdoor IP56 Display, FHD 3,500 - 4,000 nit, RS232/RJ45 control, IK-10, Polarized Sunglasses Viewable, Brightness Sensor, Temperature Sensor, Landscape/Portrait, HDMI (2), USB (2), Built-in Magicinfo Player S10, TEP, SmartThings, VXT Player, Tizen 8.0, 1.7GHz Quad-Core CPU, WiFi inbox",5990,6890
+Samsung,OH55DX-W,55" OHDX-W Outdoor Display,"54.6"" Outdoor IP56, FHD 3,500 - 4,000 nit, RS232/RJ45 control, IK-10, Polarized Sunglasses Veiewable, Brightness Sensor, Temperature Sensor, HDMI (2), USB (2), Power-box Integrated, Built-in Magicinfo Player S10, TEP. SmartThings, VXT Player, Tizen 8.0, 1.7GHz Quad-Core CPU, Wifi inbox",7047,8105
+Samsung,OH75A,LH75OHAEBGBXXY 74.5" Outdoor IP56 Display,"74.5"" Outdoor IP56 Display. UHD 3,500cd/m2, RS232/RJ45 control, IK-10 level protection glass with 5T tempering, polarised sunglasses viewable, Auto brightness control, built in Quad Core media player (MagicInfo S7, Tizen 5.0, SSSP7, 4.12G internal content storage",25371,29176
 Samsung,HG43U,"43"" HU8000F Crystal UHD 4K Hotel TV, LYNK Cloud, Google Cast, AirPlay, TEP, SmartThings Pro, AirSlim Design","43"" HU8000F Crystal UHD 4K Hotel TV, LYNK Cloud, Google Cast, AirPlay, TEP, SmartThings Pro, AirSlim Design",809,929
 Samsung,HG50U,"50"" HU8000F Crystal UHD 4K Hotel TV, LYNK Cloud, Google Cast, AirPlay, TEP, SmartThings Pro, AirSlim Design","50"" HU8000F Crystal UHD 4K Hotel TV, LYNK Cloud, Google Cast, AirPlay, TEP, SmartThings Pro, AirSlim Design",980,1129
 Samsung,HG55U,"55"" HU8000F Crystal UHD 4K Hotel TV, LYNK Cloud, Google Cast, AirPlay, TEP, SmartThings Pro, AirSlim Design","55"" HU8000F Crystal UHD 4K Hotel TV, LYNK Cloud, Google Cast, AirPlay, TEP, SmartThings Pro, AirSlim Design",1107,1275
@@ -1372,11 +1372,11 @@ Samsung,HG75U,"75"" HU8000F Crystal UHD 4K Hotel TV, LYNK Cloud, Google Cast, Ai
 Samsung,HG85U,"85"" HU8000F Crystal UHD 4K Hotel TV, LYNK Cloud, Google Cast, AirPlay, TEP, SmartThings Pro, AirSlim Design","85"" HU8000F Crystal UHD 4K Hotel TV, LYNK Cloud, Google Cast, AirPlay, TEP, SmartThings Pro, AirSlim Design",3665,4216
 Samsung,STN-WM55R,STN-WM55RXEN Stand for WM55R Flip,STN-WM55RXEN Stand for WM55R Flip,846,976
 Samsung,CY-PENRXEN,5 units of Samsung Flip Magnetic Pens compatible with all FLIP Interactive Boards,5 units of Samsung Flip Magnetic Pens compatible with all FLIP Interactive Boards,85,100
-Samsung,WMN-46VD/XY,WMN-46VD/XY Modular mount x/y/z axis adjustable,"Modular mount with x/y/z axis adjustable for 46"" videowall models",550,636
-Samsung,WMN-55VD/XY,WMN-55VD/XY Modular mount x/y/z axis adjustable,"Modular mount with x/y/z axis adjustable for 55"" videowall models",564,650
+Samsung,WMN-46VD/XY,WMN-46VD/XY Modular mount x/y/z axis adjustable,Modular mount with x/y/z axis adjustable for 46" videowall models,550,636
+Samsung,WMN-55VD/XY,WMN-55VD/XY Modular mount x/y/z axis adjustable,Modular mount with x/y/z axis adjustable for 55" videowall models,564,650
 Samsung,WMN4070SE/ZA,"Mount for QET/QBR/QMR/QHR 43,49,50,55","Mount for QET/QBR/QMR/QHR 43,49,50,55",211,246
 Samsung,STN-L4355F/EN,"STN-L4355F/EN Desk stand for QET/QBR/QMR/QHR 43,49,50,55 landscape only","Desk stand for QET/QBR/QMR/QHR 43,49,50,55 landscape only",141,165
-Samsung,BW-MIP70PA,"BW-MIP70PA""Unified"" Server Client-Access-Licence","""Unified"" Server Client-Access-Licence for MagicInfo Premium S 
+Samsung,BW-MIP70PA,BW-MIP70PA"Unified" Server Client-Access-Licence,"""Unified"" Server Client-Access-Licence for MagicInfo Premium S 
 - for the correct license please refer to the License Table
 **NEW UNIVERSAL LICENCE**",604,696
 Samsung,CYMILSSTS,CY-MILSSTS Server Client-Access-Licence Lite,Server Client-Access-Licence for MagicInfo Lite (for signage aplications only) - For compatability please refer to the License Table - QTY RANGE: 26+. NO CHARGE FOR 1-25 LICENCES,170,196
@@ -1529,8 +1529,8 @@ Vaddio,999-7271-009,RoboTRAK Replacement Lanyard,RoboTRAK Replacement Lanyard,16
 Vaddio,999-7272-009,RoboTRAK Replacement Extended Lanyard ,RoboTRAK Replacement Extended Lanyard ,1698,1966
 Vaddio,535-2000-044,RoboTRAK Double Decker Wall Mount,RoboTRAK Double Decker Wall Mount,434,621
 Vaddio,535-2000-045,Offset Drop-Down Ceiling Mount for RoboTRAK Double Decker Mount (World Wide),Offset Drop-Down Ceiling Mount for RoboTRAK Double Decker Mount (World Wide),434,621
-Vaddio,999-80000-027,"TeleTouch 27"" USB Touch-Screen Multiviewer","TeleTouch 27"" USB Touch-Screen Multiviewer",4389,6271
-Vaddio,999-5520-022,"TeleTouch 22"" HD Touch Screen LCD Monitor with Base","TeleTouch 22"" HD Touch Screen LCD Monitor with Base",3051,4358
+Vaddio,999-80000-027,TeleTouch 27" USB Touch-Screen Multiviewer,TeleTouch 27" USB Touch-Screen Multiviewer,4389,6271
+Vaddio,999-5520-022,TeleTouch 22" HD Touch Screen LCD Monitor with Base,TeleTouch 22" HD Touch Screen LCD Monitor with Base,3051,4358
 Vaddio,999-1111-000,PresenterPOD System,PresenterPOD System,1903,2719
 Vaddio,999-1511-000,StepVIEW Mat - Small Exposed,StepVIEW Mat - Small Exposed,1505,2150
 Vaddio,999-1512-000,StepVIEW Mat - Large Exposed,StepVIEW Mat - Large Exposed,1505,2150
@@ -1556,9 +1556,9 @@ Vaddio,999-85820-000,EasyIP CeilingMIC D [Dante] (Black) (Not for use with EasyI
 Vaddio,999-85810-000,EasyIP CeilingMIC D [Dante] (White) (Not for use with EasyIP Decoder),EasyIP CeilingMIC D [Dante] (White) (Not for use with EasyIP Decoder),1756,2508
 Vaddio,999-86300-000,EasyIP AMP D Worldwide,EasyIP AMP D Worldwide,820,1171
 Vaddio,999-86650-000,EasyIP Ceiling Speaker D [Dante] (White),EasyIP Ceiling Speaker D [Dante] (White),940,1343
-Vaddio,999-60600-000,EasyIP Tx/Rx¬†,EasyIP Tx/Rx¬†,1361,2035
+Vaddio,999-60600-000,EasyIP Tx/Rx†,EasyIP Tx/Rx†,1361,2035
 Vaddio,999-50909-000,Venture VideoBAR,Venture VideoBAR,1703,2545
-Vaddio,999-85909-000,Venture TableMIC¬†,Venture TableMIC¬†,505,755
+Vaddio,999-85909-000,Venture TableMIC†,Venture TableMIC†,505,755
 Vaddio,999-9990-009,ConferenceSHOT 10 (Silver/Black) AU/NZ,ConferenceSHOT 10 (Silver/Black) AU/NZ,7028.96,10194
 Vaddio,999-9990-009B,ConferenceSHOT 10 (Black) AU/NZ,ConferenceSHOT 10 (Black) AU/NZ,7028.96,10194
 Vaddio,999-9990-009W,ConferenceSHOT 10 (White) AU/NZ,ConferenceSHOT 10 (White) AU/NZ,7028.96,10194
@@ -1748,8 +1748,8 @@ Vaddio,999-2225-050,In-Ceiling Half-Recessed Enclosure for Vaddio HD-Series PTZ 
 Vaddio,998-2225-051,Recessed Installation Kit for IN-Ceiling Half-Recessed Enclosure (World Wide),Recessed Installation Kit for IN-Ceiling Half-Recessed Enclosure (World Wide),488,697
 Vaddio,999-82000-000,QuickCAT Suspended Ceiling Camera Mount (World Wide),QuickCAT Suspended Ceiling Camera Mount (World Wide),1165,1664
 Vaddio,999-82110-009,QuickCAT Mount / OneLINK HDMI for Vaddio/Sony/Panasonic(White),QuickCAT Mount / OneLINK HDMI for Vaddio/Sony/Panasonic(White),5065,7235
-Vaddio,999-82120-009,QuickCAT Mount / OneLINK HDMI for Cisco Precision 60/HD(White)¬†,QuickCAT Mount / OneLINK HDMI for Cisco Precision 60/HD(White)¬†,5065,7235
-Vaddio,999-82210-009,QuickCAT Mount / OneLINK Bridge for Vaddio/Sony/Panasonic(White)¬†,QuickCAT Mount / OneLINK Bridge for Vaddio/Sony/Panasonic(White)¬†,7778,11111
+Vaddio,999-82120-009,QuickCAT Mount / OneLINK HDMI for Cisco Precision 60/HD(White)†,QuickCAT Mount / OneLINK HDMI for Cisco Precision 60/HD(White)†,5065,7235
+Vaddio,999-82210-009,QuickCAT Mount / OneLINK Bridge for Vaddio/Sony/Panasonic(White)†,QuickCAT Mount / OneLINK Bridge for Vaddio/Sony/Panasonic(White)†,7778,11111
 Vaddio,999-82220-009,QuickCAT Mount / OneLINK Bridge for Cisco Precision 60/HD(White),QuickCAT Mount / OneLINK Bridge for Cisco Precision 60/HD(White),7778,11111
 Vaddio,535-2000-296,Off-Set Drop Down Mount for RoboSHOT & HD-Series PTZ Cameras,Off-Set Drop Down Mount for RoboSHOT & HD-Series PTZ Cameras,759,1084
 Vaddio,535-2000-294,Off-Set Drop Down Mount for OEM Cameras (World Wide),Off-Set Drop Down Mount for OEM Cameras (World Wide),932,1331
@@ -1758,15 +1758,15 @@ Vaddio,535-2000-291,Drop Down Mount for Small PTZ Cameras - Long (World Wide),Dr
 Vaddio,535-2000-292,Drop Down Mount for Large PTZ Cameras - Short (World Wide),Drop Down Mount for Large PTZ Cameras - Short (World Wide),690,985
 Vaddio,535-2000-293,Drop Down Mount for Large PTZ Cameras - Long (World Wide) ,Drop Down Mount for Large PTZ Cameras - Long (World Wide) ,759,1084
 Vaddio,535-2000-299,Drop Down Coupler Kit for Large/Small Platform Mounts (World Wide),Drop Down Coupler Kit for Large/Small Platform Mounts (World Wide),167,238
-Vaddio,535-2000-300,"Drop Down Drop Pipe Camera Adapter 1.5"" NPT Black","Drop Down Drop Pipe Camera Adapter 1.5"" NPT Black",146,208
-Vaddio,535-2000-300W,"Drop Down Drop Pipe Camera Adapter 1.5"" NPT White","Drop Down Drop Pipe Camera Adapter 1.5"" NPT White",146,208
+Vaddio,535-2000-300,Drop Down Drop Pipe Camera Adapter 1.5" NPT Black,Drop Down Drop Pipe Camera Adapter 1.5" NPT Black,146,208
+Vaddio,535-2000-300W,Drop Down Drop Pipe Camera Adapter 1.5" NPT White,Drop Down Drop Pipe Camera Adapter 1.5" NPT White,146,208
 Vaddio,535-2000-213,Universal Wall/Ceiling Mount (World Wide),Universal Wall/Ceiling Mount (World Wide),135,193
 Vaddio,535-2000-215,Long Expandable Wall/Ceiling Mount (World Wide),Long Expandable Wall/Ceiling Mount (World Wide),167,238
 Vaddio,998-9000-200,DomeVIEW HD Indoor Flush Mount Dome Enclosure for RoboSHOT & HD-Series PTZ Cameras,DomeVIEW HD Indoor Flush Mount Dome Enclosure for RoboSHOT & HD-Series PTZ Cameras,1728,2469
 Vaddio,998-9100-200,DomeVIEW HD Indoor Pendant Mount Dome Enclosure for RoboSHOT & HD-Series PTZ Cameras,DomeVIEW HD Indoor Pendant Mount Dome Enclosure for RoboSHOT & HD-Series PTZ Cameras,1728,2469
 Vaddio,998-9200-200,DomeVIEW HD Outdoor Pendant Dome Enclosure for RoboSHOT & HD-Series PTZ Cameras,DomeVIEW HD Outdoor Pendant Dome Enclosure for RoboSHOT & HD-Series PTZ Cameras,2078,2969
-Vaddio,998-9000-210,"12"" Clear Dome Accessory (dome only)","12"" Clear Dome Accessory (dome only)",211,301
-Vaddio,998-9000-220,"12"" Smoke Tinted Dome Accessory (dome only)","12"" Smoke Tinted Dome Accessory (dome only)",211,301
+Vaddio,998-9000-210,12" Clear Dome Accessory (dome only),12" Clear Dome Accessory (dome only),211,301
+Vaddio,998-9000-220,12" Smoke Tinted Dome Accessory (dome only),12" Smoke Tinted Dome Accessory (dome only),211,301
 Vaddio,998-9000-070,Flush Mount Dome and Bracket for Sony EVI-D70 PTZ,Flush Mount Dome and Bracket for Sony EVI-D70 PTZ,173,247
 Vaddio,998-9300-002,Ceiling Mounting Kit for Indoor Pendant Domes (World Wide),Ceiling Mounting Kit for Indoor Pendant Domes (World Wide),233,333
 Vaddio,998-9300-000,Wall Mounting Kit for Indoor and Outdoor Pendant Domes (World Wide),Wall Mounting Kit for Indoor and Outdoor Pendant Domes (World Wide),293,418
@@ -1806,7 +1806,7 @@ Vaddio,999-2225-220,IN-Wall Enclosure for LifeSize 10x,IN-Wall Enclosure for Lif
 Vaddio,999-2225-019,"IN-Wall Enclosure for Sony BRC-Z330, EVI-D80/D90/H100","IN-Wall Enclosure for Sony BRC-Z330, EVI-D80/D90/H100",579,828
 Vaddio,451-0400-055,PoE+ Midspan 10G Power Injector (Australia/New Zealand),PoE+ Midspan 10G Power Injector (Australia/New Zealand),369,262
 Vaddio,440-1370-148,48 Volt Power Supply (1.35 Amp) (Worldwide),48 Volt Power Supply (1.35 Amp) (Worldwide),184,489
-Vaddio,802-2620,36 Volt Power Supply (2.78 Amp)¬†,36 Volt Power Supply (2.78 Amp)¬†,343,236
+Vaddio,802-2620,36 Volt Power Supply (2.78 Amp)†,36 Volt Power Supply (2.78 Amp)†,343,236
 Vaddio,451-2000-024,24 Volt Power Supply (2.08 Amp) (Worldwide),24 Volt Power Supply (2.08 Amp) (Worldwide),165,568
 Vaddio,451-2750-018,18 Volt Power Supply (2.75 Amp) (Worldwide),18 Volt Power Supply (2.75 Amp) (Worldwide),165,236
 LG,43PK640S,LG 43 inch WebOS 25 Commercial TV 16/7,"43"", UHD, 16:9, 270 nits, 16/7, landscape, 2% haze, TV tuner, HDMI x2, AV, RS232C, RJ45, USB, Wi-Fi, Bluetooth, webOS signage, 3 year on-site warranty",707,975
@@ -1821,77 +1821,77 @@ LG,55UR640S,55 inch LG  WebOS 6.0 Commercial TV 16/7 (EOL - Clearance),"55"", UH
 LG,65UR640S,65 inch LG  WebOS 6.0 Commercial TV 16/7 (EOL - Clearance),"65"", UHD, 16:9, 400 nits, 16/7, landscape, 2% haze, TV tuner, HDMI x3, AV, RS232C, RJ45, USB, Wi-Fi, Bluetooth, webOS signage, 3 year on-site warranty",1105,1800
 LG,75UR640S,75 inch LG  WebOS 6.0 Commercial TV 16/7 (EOL - Clearance),"75"", UHD, 16:9, 330 nits, 16/7, landscape, 2% haze, TV tuner, HDMI x3, AV, RS232C, RJ45, USB, Wi-Fi, Bluetooth, webOS signage, 3 year on-site warranty",1817,2550
 LG,86UR640S,86 inch LG WebOS 6.0 Commercial TV 16/7 (EOL - Clearance),"86"", UHD, 16:9, 300 nits, 16/7, landscape, 2% haze, TV tuner, HDMI x3, AV, RS232C, RJ45, USB, Wi-Fi, Bluetooth, webOS signage, 3 year on-site warranty",2737,3900
-LG,32LN660HBSD,"LG 32"" Hospitality TV with Pro:Centric support","32"", HD, 16:9, 240 nits, Pro:Centric Smart, digital tuner, analog tuner, teletext, hotel mode, multi IR, HDMI x2, USB x2, RF, AV, RS232C, RJ45, Wi-Fi, Bluetooth, webOS TV signage, 3 year on-site warranty",467,645
-LG,43UK762H,"LG 43"" Hospitality TV with Pro:Centric support","43"", UHD, 16:9, 265 nits, Pro:Centric Smart, Google Cast built-in, digital tuner, analog tuner, teletext, hotel mode, multi IR, HDMI x2, USB x2, RF, RJ45 x2, Wi-Fi, Bluetooth, webOS TV signage, 3 year on-site warranty",707,975
-LG,50UK762H,"LG 50"" Hospitality TV with Pro:Centric support","50"", UHD, 16:9, 330 nits, Pro:Centric Smart, Google Cast built-in, digital tuner, analog tuner, teletext, hotel mode, multi IR, HDMI x2, USB x2, RF, RJ45 x2, Wi-Fi, Bluetooth, webOS TV signage, 3 year on-site warranty",891,1230
-LG,55UK762H,"LG 55"" Hospitality TV with Pro:Centric support","55"", UHD, 16:9, 330 nits, Pro:Centric Smart, Google Cast built-in, digital tuner, analog tuner, teletext, hotel mode, multi IR, HDMI x2, USB x2, RF, RJ45 x2, Wi-Fi, Bluetooth, webOS TV signage, 3 year on-site warranty",1141,1575
-LG,65UK762H,"LG 65"" Hospitality TV with Pro:Centric support","65"", UHD, 16:9, 330 nits, Pro:Centric Smart, Google Cast built-in, digital tuner, analog tuner, teletext, hotel mode, multi IR, HDMI x2, USB x2, RF, RJ45 x2, Wi-Fi, Bluetooth, webOS TV signage, 3 year on-site warranty",1413,1950
-LG,43UK767H,"LG 43"" Hospitality TV with Pro:Centric support","43"", UHD, 16:9, 350 nits, Pro:Centric Smart, Google Cast built-in, digital tuner, analog tuner, teletext, hotel mode, multi IR, HDMI x2, USB x1, RF, RJ45 x2, RS-232C,  Wi-Fi, Bluetooth, webOS TV signage, 3 year on-site warranty",707,1275
-LG,50UK767H,"LG 50"" Hospitality TV with Pro:Centric support","50"", UHD, 16:9, 350 nits, Pro:Centric Smart, Google Cast built-in, digital tuner, analog tuner, teletext, hotel mode, multi IR, HDMI x2, USB x1, RF, RJ45 x2, RS-232C,  Wi-Fi, Bluetooth, webOS TV signage, 3 year on-site warranty",891,1470
-LG,55UK767H,"LG 55"" Hospitality TV with Pro:Centric support","55"", UHD, 16:9, 350 nits, Pro:Centric Smart, Google Cast built-in, digital tuner, analog tuner, teletext, hotel mode, multi IR, HDMI x2, USB x1, RF, RJ45 x2, RS-232C,  Wi-Fi, Bluetooth, webOS TV signage, 3 year on-site warranty",1141,1650
-LG,65UK767H,"LG 65"" Hospitality TV with Pro:Centric support","65"", UHD, 16:9, 350 nits, Pro:Centric Smart, Google Cast built-in, digital tuner, analog tuner, teletext, hotel mode, multi IR, HDMI x2, USB x1, RF, RJ45 x2, RS-232C,  Wi-Fi, Bluetooth, webOS TV signage, 3 year on-site warranty",1413,2100
-LG,75UK767H,"LG 75"" Hospitality TV with Pro:Centric support","75"", UHD, 16:9, 350 nits, Pro:Centric Smart, Google Cast built-in, digital tuner, analog tuner, teletext, hotel mode, multi IR, HDMI x2, USB x1, RF, RJ45 x2, RS-232C,  Wi-Fi, Bluetooth, webOS TV signage, 3 year on-site warranty",2065,2850
+LG,32LN660HBSD,LG 32" Hospitality TV with Pro:Centric support,"32"", HD, 16:9, 240 nits, Pro:Centric Smart, digital tuner, analog tuner, teletext, hotel mode, multi IR, HDMI x2, USB x2, RF, AV, RS232C, RJ45, Wi-Fi, Bluetooth, webOS TV signage, 3 year on-site warranty",467,645
+LG,43UK762H,LG 43" Hospitality TV with Pro:Centric support,"43"", UHD, 16:9, 265 nits, Pro:Centric Smart, Google Cast built-in, digital tuner, analog tuner, teletext, hotel mode, multi IR, HDMI x2, USB x2, RF, RJ45 x2, Wi-Fi, Bluetooth, webOS TV signage, 3 year on-site warranty",707,975
+LG,50UK762H,LG 50" Hospitality TV with Pro:Centric support,"50"", UHD, 16:9, 330 nits, Pro:Centric Smart, Google Cast built-in, digital tuner, analog tuner, teletext, hotel mode, multi IR, HDMI x2, USB x2, RF, RJ45 x2, Wi-Fi, Bluetooth, webOS TV signage, 3 year on-site warranty",891,1230
+LG,55UK762H,LG 55" Hospitality TV with Pro:Centric support,"55"", UHD, 16:9, 330 nits, Pro:Centric Smart, Google Cast built-in, digital tuner, analog tuner, teletext, hotel mode, multi IR, HDMI x2, USB x2, RF, RJ45 x2, Wi-Fi, Bluetooth, webOS TV signage, 3 year on-site warranty",1141,1575
+LG,65UK762H,LG 65" Hospitality TV with Pro:Centric support,"65"", UHD, 16:9, 330 nits, Pro:Centric Smart, Google Cast built-in, digital tuner, analog tuner, teletext, hotel mode, multi IR, HDMI x2, USB x2, RF, RJ45 x2, Wi-Fi, Bluetooth, webOS TV signage, 3 year on-site warranty",1413,1950
+LG,43UK767H,LG 43" Hospitality TV with Pro:Centric support,"43"", UHD, 16:9, 350 nits, Pro:Centric Smart, Google Cast built-in, digital tuner, analog tuner, teletext, hotel mode, multi IR, HDMI x2, USB x1, RF, RJ45 x2, RS-232C,  Wi-Fi, Bluetooth, webOS TV signage, 3 year on-site warranty",707,1275
+LG,50UK767H,LG 50" Hospitality TV with Pro:Centric support,"50"", UHD, 16:9, 350 nits, Pro:Centric Smart, Google Cast built-in, digital tuner, analog tuner, teletext, hotel mode, multi IR, HDMI x2, USB x1, RF, RJ45 x2, RS-232C,  Wi-Fi, Bluetooth, webOS TV signage, 3 year on-site warranty",891,1470
+LG,55UK767H,LG 55" Hospitality TV with Pro:Centric support,"55"", UHD, 16:9, 350 nits, Pro:Centric Smart, Google Cast built-in, digital tuner, analog tuner, teletext, hotel mode, multi IR, HDMI x2, USB x1, RF, RJ45 x2, RS-232C,  Wi-Fi, Bluetooth, webOS TV signage, 3 year on-site warranty",1141,1650
+LG,65UK767H,LG 65" Hospitality TV with Pro:Centric support,"65"", UHD, 16:9, 350 nits, Pro:Centric Smart, Google Cast built-in, digital tuner, analog tuner, teletext, hotel mode, multi IR, HDMI x2, USB x1, RF, RJ45 x2, RS-232C,  Wi-Fi, Bluetooth, webOS TV signage, 3 year on-site warranty",1413,2100
+LG,75UK767H,LG 75" Hospitality TV with Pro:Centric support,"75"", UHD, 16:9, 350 nits, Pro:Centric Smart, Google Cast built-in, digital tuner, analog tuner, teletext, hotel mode, multi IR, HDMI x2, USB x1, RF, RJ45 x2, RS-232C,  Wi-Fi, Bluetooth, webOS TV signage, 3 year on-site warranty",2065,2850
 LG,PCS500R,LG Pro:Centric On-Premise Direct Server,"On-premise Pro:Centric Direct Server, create and remotely manage application content for hospitality TVs over RF or IP, edit channel maps, 8x 256-QAM channel outputs, IPv4 multi-cast, delivery of 3rd party applications, remote management via VPN, 64bit Intel i3 processor, 16GB RAM, 120GB SSD, expandable storage with M.2 NGFF or 2.5"" SSD, 1U 19"" rack space, Linux OS kernel 3.10, Java and HTML server applications, 1 year warranty",5000,6450
-LG,22SM3G,"LG 21.5"" webOS4.1 Standard DIgital Signage Monitor 16/7","22"", FHD, 16:9, 250 nits, 16/7, dual orientation, 25% haze, HDMI x2, RS232C, RJ45, IR, USB, Wi-Fi, Bluetooth, 8GB internal memory, webOS signage, 3 year on-site warranty",533,735
-LG,32SM5J,"LG 32"" webOS6.0 Standard DIgital Signage Monitor 24/7","32"", FHD, 16:9, 400 nits, 24/7, dual orientation, 1% haze, HDMI x3, RS232C, RJ45, IR, USB, Wi-Fi, Bluetooth, 8GB internal memory, webOS signage, 3 year on-site warranty",761,1050
-LG,43UL3Q,"LG 43"" webOS6.1 Standard DIgital Signage Monitor 16/7","43"", UHD, 16:9, 350 nits, 16/7, dual orientation, 1% haze, HDMI x3, RS-232C, RJ45, USB 2.0 x2, Wi-Fi, Bluetooth, 8GB internal memory, webOS 6.1, 3 year on-site warranty",978,1350
-LG,50UL3Q,"LG 50"" webOS6.1 Standard DIgital Signage Monitor16/7 ","50"", UHD, 16:9, 350 nits, 16/7, dual orientation, 1% haze, HDMI x3, RS-232C, RJ45, USB 2.0 x2, Wi-Fi, Bluetooth, 8GB internal memory, webOS 6.1, 3 year on-site warranty",1196,1650
-LG,55UL3Q,"LG 55"" webOS6.1 Standard DIgital Signage Monitor 16/7 ","55"", UHD, 16:9, 350 nits, 16/7, dual orientation, 1% haze, HDMI x3, RS-232C, RJ45, USB 2.0 x2, Wi-Fi, Bluetooth, 8GB internal memory, webOS 6.1, 3 year on-site warranty",1250,1725
-LG,65UL3Q,"LG 65"" webOS6.1 Standard DIgital Signage Monitor 16/7 ","65"", UHD, 16:9, 350 nits, 16/7, dual orientation, 1% haze, HDMI x3, RS-232C, RJ45, USB 2.0 x2, Wi-Fi, Bluetooth, 8GB internal memory, webOS 6.1, 3 year on-site warranty",1576,2175
-LG,75UL3Q,"LG 75"" webOS6.1 Standard DIgital Signage Monitor16/7 ","75"", UHD, 16:9, 350 nits, 16/7, dual orientation, 1% haze, HDMI x3, RS-232C, RJ45, USB 2.0 x2, Wi-Fi, Bluetooth, 8GB internal memory, webOS 6.1, 3 year on-site warranty",2391,3375
-LG,86UL3Q,"LG 86"" webOS6.1 Standard DIgital Signage Monitor 16/7 ","86"", UHD, 16:9, 350 nits, 16/7, dual orientation, 1% haze, HDMI x3, RS-232C, RJ45, USB 2.0 x2, Wi-Fi, Bluetooth, 8GB internal memory, webOS 6.1, 3 year on-site warranty",3804,5250
-LG,105BM5P,"105"" 21:9 Standard Digital Signage Monitor 16/7","105"", 5K, 21:9, 440 nits, 16/7, dual orientation, 25% haze, Android 13, HDMI x4, DP, RS232C, RJ45, USB3 x4, USB2 x3, Wi-Fi, Bluetooth, OPS, 64GB internal memory, 3 year on-site warranty",14674,20250
-LG,98UM5K,"98"" LG  webOS6.0 Standard DIgital Signage Monitor 16/7","98"", UHD, 16:9, 500 nits, 16/7, dual orientation, 25% haze, HDMI x3, DP, DVI-D, RS232C, RJ45, IR, USB, Wi-Fi, Bluetooth, 16GB internal memory, webOS signage, 3 year on-site warranty",6902,9525
-LG,110UM5K,"110"" LG  webOS6.0 Standard DIgital Signage Monitor 16/7","110"", UHD, 16:9, 500 nits, 16/7, landscape, 1% haze, 120Hz refresh rate, HDMI x3, DP, DVI-D, RS232C, RJ45, IR, USB, Wi-Fi, Bluetooth, 16GB internal memory, webOS signage, 3 year on-site warranty",17935,24750
-LG,43UH5Q,"43"" LG  webOS8.0 Standard DIgital Signage Monitor 24/7","43"", UHD, 16:9, 500 nits, 24/7, dual orientation, 25% haze, IP5x rated, carbon footprint certification, EPEAT bronze, HDMI x3, DP, RS-232C, RJ45, IR, USB, Wi-Fi, Bluetooth, 16GB internal memory, webOS signage, 3 year on-site warranty",1033,1425
-LG,49UH5Q,"49"" LG  webOS8.0 Standard DIgital Signage Monitor 24/7","49"", UHD, 16:9, 500 nits, 24/7, dual orientation, 25% haze, IP5x rated, carbon footprint certification, EPEAT bronze, HDMI x3, DP, RS-232C, RJ45, IR, USB, Wi-Fi, Bluetooth, 16GB internal memory, webOS signage, 3 year on-site warranty",1141,1575
-LG,55UH5Q,"55"" LG  webOS8.0 Standard DIgital Signage Monitor 24/7","55"", UHD, 16:9, 500 nits, 24/7, dual orientation, 25% haze, IP5x rated, carbon footprint certification, EPEAT bronze, HDMI x3, DP, RS-232C, RJ45, IR, USB, Wi-Fi, Bluetooth, 16GB internal memory, webOS signage, 3 year on-site warranty",1359,1875
-LG,65UH5Q,"65"" LG  webOS8.0 Standard DIgital Signage Monitor 24/7","65"", UHD, 16:9, 500 nits, 24/7, dual orientation, 25% haze, IP5x rated, carbon footprint certification, EPEAT bronze, HDMI x3, DP, RS-232C, RJ45, IR, USB, Wi-Fi, Bluetooth, 16GB internal memory, webOS signage, 3 year on-site warranty",1739,2400
+LG,22SM3G,LG 21.5" webOS4.1 Standard DIgital Signage Monitor 16/7,"22"", FHD, 16:9, 250 nits, 16/7, dual orientation, 25% haze, HDMI x2, RS232C, RJ45, IR, USB, Wi-Fi, Bluetooth, 8GB internal memory, webOS signage, 3 year on-site warranty",533,735
+LG,32SM5J,LG 32" webOS6.0 Standard DIgital Signage Monitor 24/7,"32"", FHD, 16:9, 400 nits, 24/7, dual orientation, 1% haze, HDMI x3, RS232C, RJ45, IR, USB, Wi-Fi, Bluetooth, 8GB internal memory, webOS signage, 3 year on-site warranty",761,1050
+LG,43UL3Q,LG 43" webOS6.1 Standard DIgital Signage Monitor 16/7,"43"", UHD, 16:9, 350 nits, 16/7, dual orientation, 1% haze, HDMI x3, RS-232C, RJ45, USB 2.0 x2, Wi-Fi, Bluetooth, 8GB internal memory, webOS 6.1, 3 year on-site warranty",978,1350
+LG,50UL3Q,LG 50" webOS6.1 Standard DIgital Signage Monitor16/7 ,"50"", UHD, 16:9, 350 nits, 16/7, dual orientation, 1% haze, HDMI x3, RS-232C, RJ45, USB 2.0 x2, Wi-Fi, Bluetooth, 8GB internal memory, webOS 6.1, 3 year on-site warranty",1196,1650
+LG,55UL3Q,LG 55" webOS6.1 Standard DIgital Signage Monitor 16/7 ,"55"", UHD, 16:9, 350 nits, 16/7, dual orientation, 1% haze, HDMI x3, RS-232C, RJ45, USB 2.0 x2, Wi-Fi, Bluetooth, 8GB internal memory, webOS 6.1, 3 year on-site warranty",1250,1725
+LG,65UL3Q,LG 65" webOS6.1 Standard DIgital Signage Monitor 16/7 ,"65"", UHD, 16:9, 350 nits, 16/7, dual orientation, 1% haze, HDMI x3, RS-232C, RJ45, USB 2.0 x2, Wi-Fi, Bluetooth, 8GB internal memory, webOS 6.1, 3 year on-site warranty",1576,2175
+LG,75UL3Q,LG 75" webOS6.1 Standard DIgital Signage Monitor16/7 ,"75"", UHD, 16:9, 350 nits, 16/7, dual orientation, 1% haze, HDMI x3, RS-232C, RJ45, USB 2.0 x2, Wi-Fi, Bluetooth, 8GB internal memory, webOS 6.1, 3 year on-site warranty",2391,3375
+LG,86UL3Q,LG 86" webOS6.1 Standard DIgital Signage Monitor 16/7 ,"86"", UHD, 16:9, 350 nits, 16/7, dual orientation, 1% haze, HDMI x3, RS-232C, RJ45, USB 2.0 x2, Wi-Fi, Bluetooth, 8GB internal memory, webOS 6.1, 3 year on-site warranty",3804,5250
+LG,105BM5P,105" 21:9 Standard Digital Signage Monitor 16/7,"105"", 5K, 21:9, 440 nits, 16/7, dual orientation, 25% haze, Android 13, HDMI x4, DP, RS232C, RJ45, USB3 x4, USB2 x3, Wi-Fi, Bluetooth, OPS, 64GB internal memory, 3 year on-site warranty",14674,20250
+LG,98UM5K,98" LG  webOS6.0 Standard DIgital Signage Monitor 16/7,"98"", UHD, 16:9, 500 nits, 16/7, dual orientation, 25% haze, HDMI x3, DP, DVI-D, RS232C, RJ45, IR, USB, Wi-Fi, Bluetooth, 16GB internal memory, webOS signage, 3 year on-site warranty",6902,9525
+LG,110UM5K,110" LG  webOS6.0 Standard DIgital Signage Monitor 16/7,"110"", UHD, 16:9, 500 nits, 16/7, landscape, 1% haze, 120Hz refresh rate, HDMI x3, DP, DVI-D, RS232C, RJ45, IR, USB, Wi-Fi, Bluetooth, 16GB internal memory, webOS signage, 3 year on-site warranty",17935,24750
+LG,43UH5Q,43" LG  webOS8.0 Standard DIgital Signage Monitor 24/7,"43"", UHD, 16:9, 500 nits, 24/7, dual orientation, 25% haze, IP5x rated, carbon footprint certification, EPEAT bronze, HDMI x3, DP, RS-232C, RJ45, IR, USB, Wi-Fi, Bluetooth, 16GB internal memory, webOS signage, 3 year on-site warranty",1033,1425
+LG,49UH5Q,49" LG  webOS8.0 Standard DIgital Signage Monitor 24/7,"49"", UHD, 16:9, 500 nits, 24/7, dual orientation, 25% haze, IP5x rated, carbon footprint certification, EPEAT bronze, HDMI x3, DP, RS-232C, RJ45, IR, USB, Wi-Fi, Bluetooth, 16GB internal memory, webOS signage, 3 year on-site warranty",1141,1575
+LG,55UH5Q,55" LG  webOS8.0 Standard DIgital Signage Monitor 24/7,"55"", UHD, 16:9, 500 nits, 24/7, dual orientation, 25% haze, IP5x rated, carbon footprint certification, EPEAT bronze, HDMI x3, DP, RS-232C, RJ45, IR, USB, Wi-Fi, Bluetooth, 16GB internal memory, webOS signage, 3 year on-site warranty",1359,1875
+LG,65UH5Q,65" LG  webOS8.0 Standard DIgital Signage Monitor 24/7,"65"", UHD, 16:9, 500 nits, 24/7, dual orientation, 25% haze, IP5x rated, carbon footprint certification, EPEAT bronze, HDMI x3, DP, RS-232C, RJ45, IR, USB, Wi-Fi, Bluetooth, 16GB internal memory, webOS signage, 3 year on-site warranty",1739,2400
 LG,75UH5N,75 LG  webOS8.0 Standard DIgital Signage Monitor 24/7 (EOL),"75"", UHD, 16:9, 500 nits, 24/7, dual orientation, 25% haze, IP5x rated, carbon footprint certification, EPEAT bronze, HDMI x3, DP, RS232C, RJ45, IR, USB, Wi-Fi, Bluetooth, 16GB internal memory, webOS signage, 3 year on-site warranty",3043,4725
 LG,86UH5N,86 LG  webOS8.0 Standard DIgital Signage Monitor 24/7 (EOL),"43"", UHD, 16:9, 500 nits, 24/7, dual orientation, 25% haze, IP5x rated, carbon footprint certification, EPEAT bronze, HDMI x3, DP, RS232C, RJ45, IR, USB, Wi-Fi, Bluetooth, 16GB internal memory, webOS signage, 3 year on-site warranty",4286,6450
-LG,98UH5J,"98"" LG  webOS6.0 Standard DIgital Signage Monitor 24/7","98"", UHD, 16:9, 500 nits, 24/7, dual orientation, 28% haze, IP5x rated, HDMI x3, DP, DVI-D, RS232C, RJ45, IR, USB, Wi-Fi, 16GB internal memory, webOS signage, 3 year on-site warranty",10870,15000
+LG,98UH5J,98" LG  webOS6.0 Standard DIgital Signage Monitor 24/7,"98"", UHD, 16:9, 500 nits, 24/7, dual orientation, 28% haze, IP5x rated, HDMI x3, DP, DVI-D, RS232C, RJ45, IR, USB, Wi-Fi, 16GB internal memory, webOS signage, 3 year on-site warranty",10870,15000
 LG,43UH7Q,43 LG  webOS6.0 Standard DIgital Signage Monitor 24/7,"43"", UHD, 16:9, 700 nits, 24/7, dual orientation, 25% haze, IP5x rated, HDMI x3, DP, DVI-D, RS232C, RJ45, IR, USB, Wi-Fi, Bluetooth, 16GB internal memory, webOS signage, 3 year on-site warranty",1196,1650
 LG,49UH7Q,49 LG  webOS6.0 Standard DIgital Signage Monitor 24/7,"49"", UHD, 16:9, 700 nits, 24/7, dual orientation, 28% haze, IP5x rated, carbon footprint certification, EPEAT bronze, HDMI x2, DP, RS232C, RJ45, IR, USB, Wi-Fi, Bluetooth, 16GB internal memory, webOS signage, 3 year on-site warranty",1413,1950
-LG,55UH7Q,"55"" LG  webOS6.0 Standard DIgital Signage Monitor 24/7","55"", UHD, 16:9, 700 nits, 24/7, dual orientation, 28% haze, IP5x rated, carbon footprint certification, EPEAT bronze, HDMI x2, DP, RS232C, RJ45, IR, USB, Wi-Fi, Bluetooth, 16GB internal memory, webOS signage, 3 year on-site warranty",1522,2100
-LG,65UH7Q,"65"" LG  webOS6.0 Standard DIgital Signage Monitor 24/7","65"", UHD, 16:9, 700 nits, 24/7, dual orientation, 28% haze, IP5x rated, carbon footprint certification, EPEAT bronze, HDMI x2, DP, RS232C, RJ45, IR, USB, Wi-Fi, Bluetooth, 16GB internal memory, webOS signage, 3 year on-site warranty",2065,2850
-LG,75UH7N,"75"" LG  webOS6.0 Standard DIgital Signage Monitor 24/7","75"", UHD, 16:9, 700 nits, 24/7, dual orientation, 25% haze, IP5x rated, carbon footprint certification, EPEAT bronze, HDMI x2, DP, RS232C, RJ45, IR, USB, Wi-Fi, Bluetooth, 16GB internal memory, webOS signage, 3 year on-site warranty",3804,5250
-LG,86UH7N,"85"" LG  webOS6.0 Standard DIgital Signage Monitor 24/7","86"", UHD, 16:9, 700 nits, 24/7, dual orientation, 25% haze, IP5x rated, carbon footprint certification, EPEAT bronze, HDMI x2, DP, RS232C, RJ45, IR, USB, Wi-Fi, Bluetooth, 16GB internal memory, webOS signage, 3 year on-site warranty",5217,7200
-LG,65TR3BQ,"65"" LG  No Android  Touch Panel","65"", UHD, 16:9, 350 nits, 16/7, landscape, 25% haze, up to 40 point touch, NO Android, HDMI x3, VGA, RS232C, RJ45, USB3 x4, USB2, USBC, Built in OPS Slot, 64GB internal memory, 3 year on-site warranty ",2174,0
-LG,75TR3BQ,"75"" LG  No Android  Touch Panel","75"", UHD, 16:9, 350 nits, 16/7, landscape, 25% haze, up to 40 point touch, NO Android, HDMI x3, VGA, RS232C, RJ45, USB3 x4, USB2, USBC, Built in OPS Slot, 64GB internal memory, 3 year on-site warranty ",2609,0
-LG,86TR3BQ,"86"" LG  No Android  Touch Panel","86"", UHD, 16:9, 350 nits, 16/7, landscape, 25% haze, up to 40 point touch, NO Android, HDMI x3, VGA, RS232C, RJ45, USB3 x4, USB2, USBC, Built in OPS Slot, 64GB internal memory, 3 year on-site warranty ",3478,0
-LG,55TR3DQ,"55"" LG  Android 14 (EDLA) Interactive Touch Panel","55"", UHD, 16:9, 400 nits, 16/7, landscape, 25% haze, Android 14 (EDLA), up to 50 point touch, up to 9 shared screens, screen only mode, HDMI x3, VGA, RS-232C, RJ45, USB Type-C (2), USB 3.0 Type-A (5), USB 2.0 Type-A, Wi-Fi, Bluetooth, OPS, 64GB internal memory, 3 year on-site warranty ",2391,3300
-LG,65TR3DQ,"65"" LG  Android 14 (EDLA) Interactive Touch Panel","65"", UHD, 16:9, 400 nits, 16/7, landscape, 25% haze, Android 14 (EDLA), up to 50 point touch, up to 9 shared screens, screen only mode, HDMI x3, VGA, RS-232C, RJ45, USB Type-C (2), USB 3.0 Type-A (5), USB 2.0 Type-A, Wi-Fi, Bluetooth, OPS, 64GB internal memory, 3 year on-site warranty ",2717,3750
-LG,75TR3DQ,"75"" LG  Android 14 (EDLA) Interactive Touch Panel","75"", UHD, 16:9, 400 nits, 16/7, landscape, 25% haze, Android 14 (EDLA), up to 50 point touch, up to 9 shared screens, screen only mode, HDMI x3, VGA, RS-232C, RJ45, USB Type-C (2), USB 3.0 Type-A (5), USB 2.0 Type-A, Wi-Fi, Bluetooth, OPS, 64GB internal memory, 3 year on-site warranty ",3587,4950
-LG,86TR3DQ,"86"" LG  Android 14 (EDLA) Interactive Touch Panel","86"", UHD, 16:9, 400 nits, 16/7, landscape, 25% haze, Android 14 (EDLA), up to 50 point touch, up to 9 shared screens, screen only mode, HDMI x3, VGA, RS-232C, RJ45, USB Type-C (2), USB 3.0 Type-A (5), USB 2.0 Type-A, Wi-Fi, Bluetooth, OPS, 64GB internal memory, 3 year on-site warranty ",4348,6000
-LG,98TR3DK,"98"" LG  Android 13 IDB DIgital Signage Monitor 16/7","98"", UHD, 16:9, 440 nits, 16/7, landscape, 25% haze, Android 13, Google EDLA certified, up to 40 point touch, up to 9 shared screens, screen only mode, HDMI x3, VGA, RS232C, RJ45, USB3 x4, USB2, USBC, Wi-Fi, Bluetooth, OPS, 64GB internal memory, 3 year on-site warranty ",10870,15000
-LG,75TR3DK,"75"" LG  Android 13 IDB DIgital Signage Monitor 16/7 (EOL - Clearance)","75"", UHD, 16:9, 400 nits, 16/7, landscape, 25% haze, Android 14 (EDLA), up to 50 point touch, up to 9 shared screens, screen only mode, HDMI x3, VGA, RS-232C, RJ45, USB Type-C (2), USB 3.0 Type-A (5), USB 2.0 Type-A, Wi-Fi, Bluetooth, OPS, 64GB internal memory, 3 year on-site warranty ",2737,4950
-LG,49XS4P,"49"" High Brightness Signage Window Facing","49"", FHD, 16:9, 4000 nits, 2500 nits (in quiet mode), 24/7, dual orientation, 3% haze, quarter wave plate, built-in fan, UL verified display anti-discoloration characteristics, HDMI x2, DP, RS232C, RJ45, IR, USB, Wi-Fi, Bluetooth, 16GB internal memory, webOS signage, 3 year on-site warranty",3152,4350
-LG,55XS4P,"55"" High Brightness Signage Window Facing","55"", FHD, 16:9, 4000 nits, 2500 nits (in quiet mode), 24/7, dual orientation, 3% haze, quarter wave plate, built-in fan, UL verified display anti-discoloration characteristics, HDMI x2, DP, RS232C, RJ45, IR, USB, Wi-Fi, Bluetooth, 16GB internal memory, webOS signage, 3 year on-site warranty",3804,5250
-LG,75XS4P,"75"" High Brightness Signage Window Facing","75"", FHD, 16:9, 4000 nits, 2500 nits (in quiet mode), 24/7, dual orientation, 3% haze, quarter wave plate, built-in fan, UL verified display anti-discoloration characteristics, HDMI x2, DP, RS232C, RJ45, IR, USB, Wi-Fi, Bluetooth, 16GB internal memory, webOS signage, 3 year on-site warranty",9783,13500
+LG,55UH7Q,55" LG  webOS6.0 Standard DIgital Signage Monitor 24/7,"55"", UHD, 16:9, 700 nits, 24/7, dual orientation, 28% haze, IP5x rated, carbon footprint certification, EPEAT bronze, HDMI x2, DP, RS232C, RJ45, IR, USB, Wi-Fi, Bluetooth, 16GB internal memory, webOS signage, 3 year on-site warranty",1522,2100
+LG,65UH7Q,65" LG  webOS6.0 Standard DIgital Signage Monitor 24/7,"65"", UHD, 16:9, 700 nits, 24/7, dual orientation, 28% haze, IP5x rated, carbon footprint certification, EPEAT bronze, HDMI x2, DP, RS232C, RJ45, IR, USB, Wi-Fi, Bluetooth, 16GB internal memory, webOS signage, 3 year on-site warranty",2065,2850
+LG,75UH7N,75" LG  webOS6.0 Standard DIgital Signage Monitor 24/7,"75"", UHD, 16:9, 700 nits, 24/7, dual orientation, 25% haze, IP5x rated, carbon footprint certification, EPEAT bronze, HDMI x2, DP, RS232C, RJ45, IR, USB, Wi-Fi, Bluetooth, 16GB internal memory, webOS signage, 3 year on-site warranty",3804,5250
+LG,86UH7N,85" LG  webOS6.0 Standard DIgital Signage Monitor 24/7,"86"", UHD, 16:9, 700 nits, 24/7, dual orientation, 25% haze, IP5x rated, carbon footprint certification, EPEAT bronze, HDMI x2, DP, RS232C, RJ45, IR, USB, Wi-Fi, Bluetooth, 16GB internal memory, webOS signage, 3 year on-site warranty",5217,7200
+LG,65TR3BQ,65" LG  No Android  Touch Panel,"65"", UHD, 16:9, 350 nits, 16/7, landscape, 25% haze, up to 40 point touch, NO Android, HDMI x3, VGA, RS232C, RJ45, USB3 x4, USB2, USBC, Built in OPS Slot, 64GB internal memory, 3 year on-site warranty ",2174,0
+LG,75TR3BQ,75" LG  No Android  Touch Panel,"75"", UHD, 16:9, 350 nits, 16/7, landscape, 25% haze, up to 40 point touch, NO Android, HDMI x3, VGA, RS232C, RJ45, USB3 x4, USB2, USBC, Built in OPS Slot, 64GB internal memory, 3 year on-site warranty ",2609,0
+LG,86TR3BQ,86" LG  No Android  Touch Panel,"86"", UHD, 16:9, 350 nits, 16/7, landscape, 25% haze, up to 40 point touch, NO Android, HDMI x3, VGA, RS232C, RJ45, USB3 x4, USB2, USBC, Built in OPS Slot, 64GB internal memory, 3 year on-site warranty ",3478,0
+LG,55TR3DQ,55" LG  Android 14 (EDLA) Interactive Touch Panel,"55"", UHD, 16:9, 400 nits, 16/7, landscape, 25% haze, Android 14 (EDLA), up to 50 point touch, up to 9 shared screens, screen only mode, HDMI x3, VGA, RS-232C, RJ45, USB Type-C (2), USB 3.0 Type-A (5), USB 2.0 Type-A, Wi-Fi, Bluetooth, OPS, 64GB internal memory, 3 year on-site warranty ",2391,3300
+LG,65TR3DQ,65" LG  Android 14 (EDLA) Interactive Touch Panel,"65"", UHD, 16:9, 400 nits, 16/7, landscape, 25% haze, Android 14 (EDLA), up to 50 point touch, up to 9 shared screens, screen only mode, HDMI x3, VGA, RS-232C, RJ45, USB Type-C (2), USB 3.0 Type-A (5), USB 2.0 Type-A, Wi-Fi, Bluetooth, OPS, 64GB internal memory, 3 year on-site warranty ",2717,3750
+LG,75TR3DQ,75" LG  Android 14 (EDLA) Interactive Touch Panel,"75"", UHD, 16:9, 400 nits, 16/7, landscape, 25% haze, Android 14 (EDLA), up to 50 point touch, up to 9 shared screens, screen only mode, HDMI x3, VGA, RS-232C, RJ45, USB Type-C (2), USB 3.0 Type-A (5), USB 2.0 Type-A, Wi-Fi, Bluetooth, OPS, 64GB internal memory, 3 year on-site warranty ",3587,4950
+LG,86TR3DQ,86" LG  Android 14 (EDLA) Interactive Touch Panel,"86"", UHD, 16:9, 400 nits, 16/7, landscape, 25% haze, Android 14 (EDLA), up to 50 point touch, up to 9 shared screens, screen only mode, HDMI x3, VGA, RS-232C, RJ45, USB Type-C (2), USB 3.0 Type-A (5), USB 2.0 Type-A, Wi-Fi, Bluetooth, OPS, 64GB internal memory, 3 year on-site warranty ",4348,6000
+LG,98TR3DK,98" LG  Android 13 IDB DIgital Signage Monitor 16/7,"98"", UHD, 16:9, 440 nits, 16/7, landscape, 25% haze, Android 13, Google EDLA certified, up to 40 point touch, up to 9 shared screens, screen only mode, HDMI x3, VGA, RS232C, RJ45, USB3 x4, USB2, USBC, Wi-Fi, Bluetooth, OPS, 64GB internal memory, 3 year on-site warranty ",10870,15000
+LG,75TR3DK,75" LG  Android 13 IDB DIgital Signage Monitor 16/7 (EOL - Clearance),"75"", UHD, 16:9, 400 nits, 16/7, landscape, 25% haze, Android 14 (EDLA), up to 50 point touch, up to 9 shared screens, screen only mode, HDMI x3, VGA, RS-232C, RJ45, USB Type-C (2), USB 3.0 Type-A (5), USB 2.0 Type-A, Wi-Fi, Bluetooth, OPS, 64GB internal memory, 3 year on-site warranty ",2737,4950
+LG,49XS4P,49" High Brightness Signage Window Facing,"49"", FHD, 16:9, 4000 nits, 2500 nits (in quiet mode), 24/7, dual orientation, 3% haze, quarter wave plate, built-in fan, UL verified display anti-discoloration characteristics, HDMI x2, DP, RS232C, RJ45, IR, USB, Wi-Fi, Bluetooth, 16GB internal memory, webOS signage, 3 year on-site warranty",3152,4350
+LG,55XS4P,55" High Brightness Signage Window Facing,"55"", FHD, 16:9, 4000 nits, 2500 nits (in quiet mode), 24/7, dual orientation, 3% haze, quarter wave plate, built-in fan, UL verified display anti-discoloration characteristics, HDMI x2, DP, RS232C, RJ45, IR, USB, Wi-Fi, Bluetooth, 16GB internal memory, webOS signage, 3 year on-site warranty",3804,5250
+LG,75XS4P,75" High Brightness Signage Window Facing,"75"", FHD, 16:9, 4000 nits, 2500 nits (in quiet mode), 24/7, dual orientation, 3% haze, quarter wave plate, built-in fan, UL verified display anti-discoloration characteristics, HDMI x2, DP, RS232C, RJ45, IR, USB, Wi-Fi, Bluetooth, 16GB internal memory, webOS signage, 3 year on-site warranty",9783,13500
 LG,WMB640S,Double sided dual orientation bracket,"Double sided dual orientation bracket for 75XS4G/75XS4P, internal facing side supports up to 65""",380,525
-LG,55XF3P,"55"" FHD High Brightness Open Frame Panel","55"", FHD, 16:9, 3000 nits, 24/7, dual orientation, 3% haze, quarter wave plate, UL verified display anti-discoloration characteristics, HDMI x2, DP, DVI-D, RS232C, RJ45, IR, USB, 8GB internal memory, webOS signage, 3 year on-site warranty",4348,6000
-LG,75XF3P,"75"" FHD High Brightness Open Frame Panel","75"", FHD, 16:9, 3000 nits, 24/7, dual orientation, 3% haze, quarter wave plate, UL verified display anti-discoloration characteristics, HDMI x2, DP, DVI-D, RS232C, RJ45, IR, USB, 8GB internal memory, webOS signage, 3 year on-site warranty",9783,13500
-LG,86XF3SK,"86"" FHD High Brightness Open Frame Panel","86"", FHD, 16:9, 3300 nits, 24/7, dual orientation, 3% haze, quarter wave plate, UL verified display anti-discoloration characteristics, HDMI x2, DP, DVI-D, RS232C, RJ45, IR, USB, 8GB internal memory, webOS signage, 3 year on-site warranty",34783,48000
-LG,86XF3CK,"86"" UHD High Brightness Open Frame Panel","86"", UHD, 16:9, 3300nit, dual orientation, webOS Open Frame Highbright Panel, 3 yrs on-site warranty",58696,81000
-LG,22XE1J,"22"" LG  webOS4.1 High brightness-Enclosure DIgital Signage Monitor 24/7","22"", FHD, 16:9, 1500 nits, 24/7, dual orientation, 25% haze, quarter wave plate, 3mm tempered glass, IP56, -30¬∞C to 50¬∞C operating temperature range, built-in fan, maximum 15¬∞ tilt down, HDMI, RS232C, RJ45, USB, Wi-Fi, Bluetooth, 16GB internal memory, webOS signage, 3 year on-site warranty",4130,5700
-LG,49XE3P,"49"" LG  webOS4.0 High brightness-Enclosure DIgital Signage Monitor 24/7","49"", FHD, 16:9, 3500 nits, 24/7, dual orientation, 3% haze, quarter wave plate, built-in fan, UL verified display anti-discoloration characteristics, IP56, IK10 protective glass, HDMI x2, DP, RS232C, RJ45, USB, Wi-Fi, Bluetooth, webOS signage, 3 year on-site warranty",5815,8025
-LG,55XE3P,"55"" LG  webOS4.0 High brightness-Enclosure DIgital Signage Monitor 24/7","55"", FHD, 16:9, 3500 nits, 24/7, dual orientation, 3% haze, quarter wave plate, built-in fan, UL verified display anti-discoloration characteristics, IP56, IK10 protective glass, HDMI x2, DP, RS232C, RJ45, USB, Wi-Fi, Bluetooth, webOS signage, 3 year on-site warranty",7065,9750
-LG,75XE3C,"75"" LG  webOS4.0 High brightness-Enclosure DIgital Signage Monitor 24/7","75"", FHD, 16:9, 3000 nits, 24/7, 3% haze, quarter wave plate, built-in fan, UL verified display anti-discoloration characteristics, IP56, IK10 protective glass, HDMI x2, DP, RS232C, RJ45, USB, Wi-Fi, Bluetooth, webOS signage, 3 year on-site warranty",23370,32250
-LG,86XE3FS,"86"" LG  webOS4.0 High brightness-Enclosure DIgital Signage Monitor 24/7","86"", UHD, 16:9, 3000 nits, 24/7, 3% haze, quarter wave plate, 11mm tempered glass, P2A certified, IP56, -30¬∞C to 50¬∞C operating temperature range, built-in fan, HDMI, DP, DVI-D, RS232C, RJ45, IR, USB, 8GB internal memory, webOS signage, 3 year on-site warranty",54348,75000
-LG,65EP5G,"65"" LG  webOS5.0 OLED Pro Monitor 12/7 (Moving Content Only)","65"", UHD, 16:9, 1000 / 900 / 500 / 180 nits (average picture level APL 3% / 10% / 25% / 100%), 16/7, landscape, UltraFine Display OLED Pro, 3yrs on-site warranty",6522,9000
-LG,30EW5TP,"30"" LG  webOS 7.5 OLED Transparent Touch  DIgital Signage Monitor 18/7 (Moving Content Only)","30"", HD, 16:9, 200/600 nits, 18/7, dual orientation, 120Hz refresh rate, 3% haze, 37% transparancy, 3mm tempered glass, P-Cap touch, HDMI, DP, RS232C, RJ45, IR, USB, touch USB, 16GB internal memory, webOS signage, 3 year on-site warranty",12500,17250
-LG,55EW5P,"55"" LG  webOS 7.5 OLED Transparent Open Frame DIgital Signage Monitor 18/7 (Moving Content Only)","55"", FHD, 16:9, 200/600 nits, 18/7, dual orientation, 120Hz refresh rate, 3% haze, 43% transparancy, 3mm tempered glass, HDMI, DP, RS232C, RJ45, IR, USB, 16GB internal memory, webOS signage, 3 year on-site warranty",16304,22500
-LG,37BH7N,"37"" LG  webOS 4.0 Ultra Stretch DIgital Signage Monitor 24/7","37"", FHD,  32:9, 700 nits, 24/7, dual orientation, 25% haze, HDMI x2, DP, RS232C, RJ45, IR, USB, Wi-Fi, Bluetooth, 16GB internal memory, webOS signage, 3 year on-site warranty",1576,2175
-LG,86BH5F,"86"" LG  webOS 4.1 Ultra Stretch DIgital Signage Monitor 24/7","86"", UHD,  32:9, 500 nits, 24/7, dual orientation, 3% haze, HDMI x3, DP, DVI-D, RS232C, RJ45, IR, USB, Wi-Fi, Bluetooth, 8GB internal memory, webOS signage, 3 year on-site warranty",5978,8250
-LG,27TNF3K,"27"" LG  webOS6.0 Touch DIgital Signage Monitor 24/7","27"", FHD, 16:9, 300 nits, 16/7, dual orientation, 25% haze, up to 10 point touch, maximum 45¬∞ tilt face up, HDMI x2, RS232C, RJ45, IR, USB, Touch USB, 8GB internal memory, webOS signage, 3 year on-site warranty",1304,1800
-LG,32TNF5P,"32"" LG  webOS6.0 Touch DIgital Signage Monitor 24/7","32"", FHD, Open Frame Touch, 16:9, 500 nits, 24/7, dual orientation, 25% haze, up to 10 point touch, maximum 45¬∞ tilt face up, HDMI x2, RS232C, RJ45, IR, USB, Touch USB, 8GB internal memory, webOS signage, 3 year on-site warranty",1630,2250
-LG,27KC3K,"27"" LG  Windows 10 IoT Enterprise (Compatible with Windows 11) Kiosk DIgital Signage Monitor 16/7","27"", FHD, 16:9, 300 nits, 16/7, portrait, advanced in-cell touch, thermal printer, barcode scanner, Intel Celeron Quad-Core N5105, 8GB RAM, 128GB SSD, Windows 10 IoT Enterprise, HDMI, VGA, RS232C x3, RJ45, USB x4, 3 year on-site warranty",4022,5550
-LG,27KC3PK-C,"27"" LG  Windows 10 IoT Enterprise (Compatible with Windows 11) Kiosk DIgital Signage Monitor 16/7","27"", FHD, 16:9, 300 nits, 16/7, portrait, advanced in-cell touch, thermal printer, barcode scanner, Intel Celeron Quad-Core N5105, 8GB RAM, 128GB SSD, Windows 10 IoT Enterprise, HDMI, VGA, RS232C x3, RJ45, USB x4, Audio Assistance, 3 year on-site warranty",3696,5100
-LG,49VL5PJ,"49"" LG  webOS 4.1 Video Wall DIgital Signage Monitor 24/7","49"", FHD, 16:9, 500 nits, 24/7, dual orientation, 3% haze, 3.5 mm bezel to bezel, HDMI x2, DP, DVI-D, RS232C, RJ45, IR, USB, 8GB internal memory, webOS signage, 3 year on-site warranty",1739,2400
-LG,55VL5PJ,"55"" LG  webOS 4.1 Video Wall DIgital Signage Monitor 24/7","55"", FHD, 16:9, 500 nits, 24/7, dual orientation, 3% haze, 3.5 mm bezel to bezel, HDMI x2, DP, DVI-D, RS232C, RJ45, IR, USB, 8GB internal memory, webOS signage, 3 year on-site warranty",2228,3075
-LG,55VM5J,"55"" LG  webOS 4.1 Video Wall DIgital Signage Monitor 24/7","55"", FHD, 16:9, 500 nits, 24/7, dual orientation, 28% haze, 1.74 mm bezel to bezel, HDMI x2, DP, DVI-D, RS232C, RJ45, IR, USB, 8GB internal memory, webOS signage, 3 year on-site warranty",2826,3250
-LG,55VSM5J-H,"55"" LG  webOS 4.1 Video Wall DIgital Signage Monitor 24/7","55"", FHD, 16:9, 500 nits, 24/7, dual orientation, 28% haze, 0.88mm bezel to bezel, HDMI x2, DP, DVI-D, RS232C, RJ45, IR, USB, 8GB internal memory, webOS signage, 3 year on-site warranty",3478,4800
-LG,55VSH7J,"55"" LG  webOS 4.1 Video Wall DIgital Signage Monitor 24/7","55"", FHD, 16:9, 700 nits, 24/7, dual orientation, 28% haze, 0.88 mm bezel to bezel, HDMI x2, DP, DVI-D, RS232C, RJ45, IR, USB, 8GB internal memory, webOS signage, 3 year on-site warranty",3967,5475
+LG,55XF3P,55" FHD High Brightness Open Frame Panel,"55"", FHD, 16:9, 3000 nits, 24/7, dual orientation, 3% haze, quarter wave plate, UL verified display anti-discoloration characteristics, HDMI x2, DP, DVI-D, RS232C, RJ45, IR, USB, 8GB internal memory, webOS signage, 3 year on-site warranty",4348,6000
+LG,75XF3P,75" FHD High Brightness Open Frame Panel,"75"", FHD, 16:9, 3000 nits, 24/7, dual orientation, 3% haze, quarter wave plate, UL verified display anti-discoloration characteristics, HDMI x2, DP, DVI-D, RS232C, RJ45, IR, USB, 8GB internal memory, webOS signage, 3 year on-site warranty",9783,13500
+LG,86XF3SK,86" FHD High Brightness Open Frame Panel,"86"", FHD, 16:9, 3300 nits, 24/7, dual orientation, 3% haze, quarter wave plate, UL verified display anti-discoloration characteristics, HDMI x2, DP, DVI-D, RS232C, RJ45, IR, USB, 8GB internal memory, webOS signage, 3 year on-site warranty",34783,48000
+LG,86XF3CK,86" UHD High Brightness Open Frame Panel,"86"", UHD, 16:9, 3300nit, dual orientation, webOS Open Frame Highbright Panel, 3 yrs on-site warranty",58696,81000
+LG,22XE1J,22" LG  webOS4.1 High brightness-Enclosure DIgital Signage Monitor 24/7,"22"", FHD, 16:9, 1500 nits, 24/7, dual orientation, 25% haze, quarter wave plate, 3mm tempered glass, IP56, -30∞C to 50∞C operating temperature range, built-in fan, maximum 15∞ tilt down, HDMI, RS232C, RJ45, USB, Wi-Fi, Bluetooth, 16GB internal memory, webOS signage, 3 year on-site warranty",4130,5700
+LG,49XE3P,49" LG  webOS4.0 High brightness-Enclosure DIgital Signage Monitor 24/7,"49"", FHD, 16:9, 3500 nits, 24/7, dual orientation, 3% haze, quarter wave plate, built-in fan, UL verified display anti-discoloration characteristics, IP56, IK10 protective glass, HDMI x2, DP, RS232C, RJ45, USB, Wi-Fi, Bluetooth, webOS signage, 3 year on-site warranty",5815,8025
+LG,55XE3P,55" LG  webOS4.0 High brightness-Enclosure DIgital Signage Monitor 24/7,"55"", FHD, 16:9, 3500 nits, 24/7, dual orientation, 3% haze, quarter wave plate, built-in fan, UL verified display anti-discoloration characteristics, IP56, IK10 protective glass, HDMI x2, DP, RS232C, RJ45, USB, Wi-Fi, Bluetooth, webOS signage, 3 year on-site warranty",7065,9750
+LG,75XE3C,75" LG  webOS4.0 High brightness-Enclosure DIgital Signage Monitor 24/7,"75"", FHD, 16:9, 3000 nits, 24/7, 3% haze, quarter wave plate, built-in fan, UL verified display anti-discoloration characteristics, IP56, IK10 protective glass, HDMI x2, DP, RS232C, RJ45, USB, Wi-Fi, Bluetooth, webOS signage, 3 year on-site warranty",23370,32250
+LG,86XE3FS,86" LG  webOS4.0 High brightness-Enclosure DIgital Signage Monitor 24/7,"86"", UHD, 16:9, 3000 nits, 24/7, 3% haze, quarter wave plate, 11mm tempered glass, P2A certified, IP56, -30∞C to 50∞C operating temperature range, built-in fan, HDMI, DP, DVI-D, RS232C, RJ45, IR, USB, 8GB internal memory, webOS signage, 3 year on-site warranty",54348,75000
+LG,65EP5G,65" LG  webOS5.0 OLED Pro Monitor 12/7 (Moving Content Only),"65"", UHD, 16:9, 1000 / 900 / 500 / 180 nits (average picture level APL 3% / 10% / 25% / 100%), 16/7, landscape, UltraFine Display OLED Pro, 3yrs on-site warranty",6522,9000
+LG,30EW5TP,30" LG  webOS 7.5 OLED Transparent Touch  DIgital Signage Monitor 18/7 (Moving Content Only),"30"", HD, 16:9, 200/600 nits, 18/7, dual orientation, 120Hz refresh rate, 3% haze, 37% transparancy, 3mm tempered glass, P-Cap touch, HDMI, DP, RS232C, RJ45, IR, USB, touch USB, 16GB internal memory, webOS signage, 3 year on-site warranty",12500,17250
+LG,55EW5P,55" LG  webOS 7.5 OLED Transparent Open Frame DIgital Signage Monitor 18/7 (Moving Content Only),"55"", FHD, 16:9, 200/600 nits, 18/7, dual orientation, 120Hz refresh rate, 3% haze, 43% transparancy, 3mm tempered glass, HDMI, DP, RS232C, RJ45, IR, USB, 16GB internal memory, webOS signage, 3 year on-site warranty",16304,22500
+LG,37BH7N,37" LG  webOS 4.0 Ultra Stretch DIgital Signage Monitor 24/7,"37"", FHD,  32:9, 700 nits, 24/7, dual orientation, 25% haze, HDMI x2, DP, RS232C, RJ45, IR, USB, Wi-Fi, Bluetooth, 16GB internal memory, webOS signage, 3 year on-site warranty",1576,2175
+LG,86BH5F,86" LG  webOS 4.1 Ultra Stretch DIgital Signage Monitor 24/7,"86"", UHD,  32:9, 500 nits, 24/7, dual orientation, 3% haze, HDMI x3, DP, DVI-D, RS232C, RJ45, IR, USB, Wi-Fi, Bluetooth, 8GB internal memory, webOS signage, 3 year on-site warranty",5978,8250
+LG,27TNF3K,27" LG  webOS6.0 Touch DIgital Signage Monitor 24/7,"27"", FHD, 16:9, 300 nits, 16/7, dual orientation, 25% haze, up to 10 point touch, maximum 45∞ tilt face up, HDMI x2, RS232C, RJ45, IR, USB, Touch USB, 8GB internal memory, webOS signage, 3 year on-site warranty",1304,1800
+LG,32TNF5P,32" LG  webOS6.0 Touch DIgital Signage Monitor 24/7,"32"", FHD, Open Frame Touch, 16:9, 500 nits, 24/7, dual orientation, 25% haze, up to 10 point touch, maximum 45∞ tilt face up, HDMI x2, RS232C, RJ45, IR, USB, Touch USB, 8GB internal memory, webOS signage, 3 year on-site warranty",1630,2250
+LG,27KC3K,27" LG  Windows 10 IoT Enterprise (Compatible with Windows 11) Kiosk DIgital Signage Monitor 16/7,"27"", FHD, 16:9, 300 nits, 16/7, portrait, advanced in-cell touch, thermal printer, barcode scanner, Intel Celeron Quad-Core N5105, 8GB RAM, 128GB SSD, Windows 10 IoT Enterprise, HDMI, VGA, RS232C x3, RJ45, USB x4, 3 year on-site warranty",4022,5550
+LG,27KC3PK-C,27" LG  Windows 10 IoT Enterprise (Compatible with Windows 11) Kiosk DIgital Signage Monitor 16/7,"27"", FHD, 16:9, 300 nits, 16/7, portrait, advanced in-cell touch, thermal printer, barcode scanner, Intel Celeron Quad-Core N5105, 8GB RAM, 128GB SSD, Windows 10 IoT Enterprise, HDMI, VGA, RS232C x3, RJ45, USB x4, Audio Assistance, 3 year on-site warranty",3696,5100
+LG,49VL5PJ,49" LG  webOS 4.1 Video Wall DIgital Signage Monitor 24/7,"49"", FHD, 16:9, 500 nits, 24/7, dual orientation, 3% haze, 3.5 mm bezel to bezel, HDMI x2, DP, DVI-D, RS232C, RJ45, IR, USB, 8GB internal memory, webOS signage, 3 year on-site warranty",1739,2400
+LG,55VL5PJ,55" LG  webOS 4.1 Video Wall DIgital Signage Monitor 24/7,"55"", FHD, 16:9, 500 nits, 24/7, dual orientation, 3% haze, 3.5 mm bezel to bezel, HDMI x2, DP, DVI-D, RS232C, RJ45, IR, USB, 8GB internal memory, webOS signage, 3 year on-site warranty",2228,3075
+LG,55VM5J,55" LG  webOS 4.1 Video Wall DIgital Signage Monitor 24/7,"55"", FHD, 16:9, 500 nits, 24/7, dual orientation, 28% haze, 1.74 mm bezel to bezel, HDMI x2, DP, DVI-D, RS232C, RJ45, IR, USB, 8GB internal memory, webOS signage, 3 year on-site warranty",2826,3250
+LG,55VSM5J-H,55" LG  webOS 4.1 Video Wall DIgital Signage Monitor 24/7,"55"", FHD, 16:9, 500 nits, 24/7, dual orientation, 28% haze, 0.88mm bezel to bezel, HDMI x2, DP, DVI-D, RS232C, RJ45, IR, USB, 8GB internal memory, webOS signage, 3 year on-site warranty",3478,4800
+LG,55VSH7J,55" LG  webOS 4.1 Video Wall DIgital Signage Monitor 24/7,"55"", FHD, 16:9, 700 nits, 24/7, dual orientation, 28% haze, 0.88 mm bezel to bezel, HDMI x2, DP, DVI-D, RS232C, RJ45, IR, USB, 8GB internal memory, webOS signage, 3 year on-site warranty",3967,5475
 LG,WP601,WebOS Media Player,"UHD, multi video tags, up to four input multi screen PBP, main screen and sub screen PIP, HDMI x2, DP, RS232C, RJ45, IR, USB x2, webOS signage player, 1 year warranty",380,525
 Mersive,SP8000E1,Solstice Pod Gen3 Unlimited Enterprise with 1 year Solstice Subscription,Solstice Pod Gen3 Unlimited Enterprise with 1 year Solstice Subscription,1661,2610
 Mersive,SP8000E3,Solstice Pod Gen3 Unlimited Enterprise with 3 year Solstice Subscription,Solstice Pod Gen3 Unlimited Enterprise with 3 year Solstice Subscription,2113,3320
@@ -1922,67 +1922,67 @@ Mersive,EDUAL,Active Learning for education (Price per device). EDUCATION CUSTOM
 Mersive,EDUCONFERENCE,Enables your pod to utilise the conferencing feature (Price per device). EDUCATION CUSTOMERS ONLY,Enables your pod to utilise the conferencing feature (Price per device). EDUCATION CUSTOMERS ONLY,465,730
 Mersive,EDUUPUNLTDPERP,Upgrade from an Unlimited Enterprise annual offering to Hardware license for software and maintenance (Price per device). EDUCATION CUSTOMERS ONLY,Upgrade from an Unlimited Enterprise annual offering to Hardware license for software and maintenance (Price per device). EDUCATION CUSTOMERS ONLY,1005,1580
 Mersive,EDUCLOUDPRO,"Access to full cloud management suite: Analytics, Proactive Monitoring. EDUCATION CUSTOMERS ONLY","Access to full cloud management suite: Analytics, Proactive Monitoring. EDUCATION CUSTOMERS ONLY",232,365
-Sony,FW98BZ53L,"98"" 4K HDR Professional Display","98"", 780 Nits, 4K HDR Professional Display, featuring unique DBNG Premium. ",12636.75,20999
-Sony,FW75BZ40L,"75"" 4K HDR Professional Display","75"", 700 Nits, 4K HDR Professional Display, featuring unique DBNG Premium.",3610.070158,5999
-Sony,FW65BZ40L,"65"" 4K HDR Professional Display","65"", 700 Nits, 4K HDR Professional Display, featuring unique DBNG Premium.",2647.224308,4399
-Sony,FW55BZ40L,"55"" 4K HDR Professional Display","55"", 700 Nits, 4K HDR Professional Display, featuring unique DBNG Premium.",2105.623518,3499
-Sony,FW98BZ30L,"98"" Core 4K HDR Professional Display","98"", 440 Nits, Core 4K HDR Professional Display equipped with Pro Mode, designed for 27/7 operation and portriat/tlit installation.",7822.520751,12999
-Sony,FW75BZ30L,"75"" Core 4K HDR Professional Display","75"", 440 Nits, Core 4K HDR Professional Display equipped with Pro Mode, designed for 27/7 operation and portriat/tlit installation.",2406.512846,3999
-Sony,FW65BZ30L,"65"" Core 4K HDR Professional Display","65"", 440 Nits, Core 4K HDR Professional Display equipped with Pro Mode, designed for 27/7 operation and portriat/tlit installation.",1804.73419,2999
-Sony,FW55BZ30L,"55"" Core 4K HDR Professional Display","55"", 440 Nits, Core 4K HDR Professional Display equipped with Pro Mode, designed for 27/7 operation and portriat/tlit installation.",1383.48913,2299
-Sony,FW50BZ30L,"50"" Core 4K HDR Professional Display","50"", 400 Nits, Core 4K HDR Professional Display equipped with Pro Mode, designed for 27/7 operation and portriat/tlit installation.",1263.133399,2099
-Sony,FW32BZ30J,"32"" Core 4K HDR Professional Display","32"", 400 Nits, Core 4K HDR Professional Display equipped with Pro Mode, designed for 27/7 operation and portriat/tlit installation.",932.1551383,1549
-Sony,FW75EZ20L,"75"" Professional Display rated for 16/7 Operation","75"", 350 Nits, Professional Display rated for 16/7 Operation with Essential Professional Functions.",1864.912055,3099
-Sony,FW65EZ20L,"65"" Professional Display rated for 16/7 Operation","65"", 350 Nits, Professional Display rated for 16/7 Operation with Essential Professional Functions.",1383.48913,2299
-Sony,FW55EZ20L,"55"" Professional Display rated for 16/7 Operation","55"", 350 Nits, Professional Display rated for 16/7 Operation with Essential Professional Functions. ",1142.777668,1899
-Sony,FW50EZ20L,"50"" Professional Display rated for 16/7 Operation","50"", 350 Nits, Professional Display rated for 16/7 Operation with Essential Professional Functions. ",962.2440711,1599
-Sony,FW43EZ20L,"43"" Professional Display rated for 16/7 Operation","43"", 350 Nits, Professional Display rated for 16/7 Operation with Essential Professional Functions. ",902.0662055,1499
-Sony,FW85BZ40P,"85"" 4K HDR Professional Display","85"", 700 nit, 4K HDR Professional Display with Unique DBNG Premium & IP5X Dust Resistance",4332.204545,7199
-Sony,FW75BZ40P,"75"" 4K HDR Professional Display","75"", 700 nit, 4K HDR Professional Display with Unique DBNG Premium & IP5X Dust Resistance",3730.425889,6199
-Sony,FW65BZ40P,"65"" 4K HDR Professional Display","65"", 700 nit, 4K HDR Professional Display with Unique DBNG Premium & IP5X Dust Resistance",2767.58004,4599
-Sony,FW55BZ40P,"55"" 4K HDR Professional Display","55"", 700 nit, 4K HDR Professional Display with Unique DBNG Premium & IP5X Dust Resistance",2225.979249,3699
-Sony,FW85BZ35P,"85"" 4K HDR Professional Display ","85"", 500 nit, 4K HDR Professional Display with DBNG Standard enhanced with IP5X Dust Resistances.",3850.781621,6399
-Sony,FW75BZ35P,"75"" 4K HDR Professional Display","75"", 500 nit, 4K HDR Professional Display with DBNG Standard enhanced with IP5X Dust Resistances.",3188.825099,5299
-Sony,FW65BZ35P,"65"" 4K HDR Professional Display","65"", 500 nit, 4K HDR Professional Display with DBNG Standard enhanced with IP5X Dust Resistance",2346.33498,3899
-Sony,FW55BZ35P,"55"" 4K HDR Professional Display","55"", 500 nit, 4K HDR Professional Display with DBNG Standard enhanced with IP5X Dust Resistance",1864.912055,3099
-Sony,FW50BZ35P,"50"" 4K HDR Professional Display ","50"", 500 nit, 4K HDR Professional Display with DBNG Standard enhanced with IP5X Dust Resistance",1624.200593,2699
-Sony,FW43BZ35P,"43"" 4K HDR Professional Display ","43"", 500 nit, 4K HDR Professional Display with DBNG Standard enhanced with IP5X Dust Resistance",1503.844862,2499
-Sony,FW85BZ30P,"85"" Core 4K HDR Professional Display ","85"", 400 nit, Core 4K HDR Professional Display equipped with DBNG Standard, designed for 24/7 operation and portrait/tilt installation. ",3610.070158,5999
-Sony,FW75BZ30P,"75"" Core 4K HDR Professional Display ","75"", 400 nit,Core 4K HDR Professional Display equipped with DBNG Standard, designed for 24/7 operation and portrait/tilt installation.",2587.046443,4299
-Sony,FW65BZ30P,"65"" Core 4K HDR Professional Display ","65"", 400 nit, Core 4K HDR Professional Display equipped with DBNG Standard, designed for 24/7 operation and portrait/tilt installation. ",1985.267787,3299
-Sony,FW55BZ30P,"55"" Core 4K HDR Professional Display ","55"", 400 nit, Core 4K HDR Professional Display equipped with DBNG Standard, designed for 24/7 operation and portrait/tilt installation. ",1624.200593,2699
-Sony,FW50BZ30P,"50"" Core 4K HDR Professional Display ","50"", 400 nit, Core 4K HDR Professional Display equipped with DBNG Standard, designed for 24/7 operation and portrait/tilt installation. ",1503.844862,2499
-Sony,FW43BZ30P,"43"" Core 4K HDR Professional Display ","43"", 400 nit, Core 4K HDR Professional Display equipped with DBNG Standard, designed for 24/7 operation and portrait/tilt installation. ",1383.48913,2299
-Sony,FWD85XR70,"85"" 4K Mini QLED Google TV Professional Display ","85"", 787 Nits, 4K Mini QLED Google TV Professional Display with Cognitive Processor XR.",3910.959486,6499
-Sony,FWD75XR70,"75"" 4K Mini QLED Google TV Professional Display ","75"", 787 Nits, 4K Mini QLED Google TV Professional Display with Cognitive Processor XR.",3309.18083,5499
-Sony,FWD65XR70,"65"" 4K Mini QLED Google TV Professional Display ","65"", 787 Nits, 4K Mini QLED Google TV Professional Display with Cognitive Processor XR.",2406.512846,3999
-Sony,FWD55XR70,"55"" 4K Mini QLED Google TV Professional Display ","55"", 787 Nits, 4K Mini QLED Google TV Professional Display with Cognitive Processor XR.",2105.623518,3499
-Sony,FWD65XR80M2,"65"" 4K OLED Google TV Professional Display","65"", 4K OLED Google TV Professional Display with Cognitive Processor XR.",4512.738142,7499
-Sony,FWD55XR80M2,"55"" 4K OLED Google TV Professional Display","55"", 4K OLED Google TV Professional Display with Cognitive Processor XR.",3610.070158,5999
-Sony,FWD85S30,"85"" 4K Direct LED Professional Display ","85"", 450 Nits, 4K Direct LED Google TV Professional Display with 4K HDR Processor X1.",2406.512846,3999
-Sony,FWD75S30,"75"" 4K Direct LED Professional Display ","75"", 450 Nits, 4K Direct LED Google TV Professional Display with 4K HDR Processor X1.",1925.089921,3199
-Sony,FWD55S30,"55"" 4K Direct LED Professional Display ","55"", 450 Nits, 4K Direct LED Google TV Professional Display with 4K HDR Processor X1.",1082.599802,1799
-Sony,FWD100XR30M2,"100"" 4K QFHD Commercial LED ","100"", 450 nits, 4K QFHD, Commercial LED with Cognative Processor XR. ",4211.848814,6999
-Sony,FWD85XR30M2,"85"" 4K QFHD Commercial LED ","85"", 450 nits, 4K QFHD, Commercial LED with Cognative Processor XR. ",2887.935771,4799
-Sony,FWD75XR30M2,"75"" 4K QFHD Commercial LED ","75"", 450 nits, 4K QFHD, Commercial LED with Cognative Processor XR. ",2225.979249,3699
-Sony,FWD65XR30M2,"65"" 4K QFHD Commercial LED ","65"", 450 nits, 4K QFHD, Commercial LED with Cognative Processor XR. ",1744.556324,2899
-Sony,FWD55XR30M2,"55"" 4K QFHD Commercial LED ","55"", 450 nits, 4K QFHD, Commercial LED with Cognative Processor XR. ",1443.666996,2399
-Sony,FWD50XR30M2,"50"" 4K QFHD Commercial LED ","50"", 450 nits, 4K QFHD, Commercial LED with Cognative Processor XR. ",1202.955534,1999
-Sony,FWD43XR30M2,"43"" 4K QFHD Commercial LED ","43"", 450 nits, 4K QFHD, Commercial LED with Cognative Processor XR. ",1082.599802,1799
-Sony,FWD32W830K,"32"" WXGA Direct LED Display ","32"" WXGA Google TV Direct LED Display with X-Reality PRO and HDR.",420.6432806,699
+Sony,FW98BZ53L,98" 4K HDR Professional Display,"98"", 780 Nits, 4K HDR Professional Display, featuring unique DBNG Premium. ",12636.75,20999
+Sony,FW75BZ40L,75" 4K HDR Professional Display,"75"", 700 Nits, 4K HDR Professional Display, featuring unique DBNG Premium.",3610.070158,5999
+Sony,FW65BZ40L,65" 4K HDR Professional Display,"65"", 700 Nits, 4K HDR Professional Display, featuring unique DBNG Premium.",2647.224308,4399
+Sony,FW55BZ40L,55" 4K HDR Professional Display,"55"", 700 Nits, 4K HDR Professional Display, featuring unique DBNG Premium.",2105.623518,3499
+Sony,FW98BZ30L,98" Core 4K HDR Professional Display,"98"", 440 Nits, Core 4K HDR Professional Display equipped with Pro Mode, designed for 27/7 operation and portriat/tlit installation.",7822.520751,12999
+Sony,FW75BZ30L,75" Core 4K HDR Professional Display,"75"", 440 Nits, Core 4K HDR Professional Display equipped with Pro Mode, designed for 27/7 operation and portriat/tlit installation.",2406.512846,3999
+Sony,FW65BZ30L,65" Core 4K HDR Professional Display,"65"", 440 Nits, Core 4K HDR Professional Display equipped with Pro Mode, designed for 27/7 operation and portriat/tlit installation.",1804.73419,2999
+Sony,FW55BZ30L,55" Core 4K HDR Professional Display,"55"", 440 Nits, Core 4K HDR Professional Display equipped with Pro Mode, designed for 27/7 operation and portriat/tlit installation.",1383.48913,2299
+Sony,FW50BZ30L,50" Core 4K HDR Professional Display,"50"", 400 Nits, Core 4K HDR Professional Display equipped with Pro Mode, designed for 27/7 operation and portriat/tlit installation.",1263.133399,2099
+Sony,FW32BZ30J,32" Core 4K HDR Professional Display,"32"", 400 Nits, Core 4K HDR Professional Display equipped with Pro Mode, designed for 27/7 operation and portriat/tlit installation.",932.1551383,1549
+Sony,FW75EZ20L,75" Professional Display rated for 16/7 Operation,"75"", 350 Nits, Professional Display rated for 16/7 Operation with Essential Professional Functions.",1864.912055,3099
+Sony,FW65EZ20L,65" Professional Display rated for 16/7 Operation,"65"", 350 Nits, Professional Display rated for 16/7 Operation with Essential Professional Functions.",1383.48913,2299
+Sony,FW55EZ20L,55" Professional Display rated for 16/7 Operation,"55"", 350 Nits, Professional Display rated for 16/7 Operation with Essential Professional Functions. ",1142.777668,1899
+Sony,FW50EZ20L,50" Professional Display rated for 16/7 Operation,"50"", 350 Nits, Professional Display rated for 16/7 Operation with Essential Professional Functions. ",962.2440711,1599
+Sony,FW43EZ20L,43" Professional Display rated for 16/7 Operation,"43"", 350 Nits, Professional Display rated for 16/7 Operation with Essential Professional Functions. ",902.0662055,1499
+Sony,FW85BZ40P,85" 4K HDR Professional Display,"85"", 700 nit, 4K HDR Professional Display with Unique DBNG Premium & IP5X Dust Resistance",4332.204545,7199
+Sony,FW75BZ40P,75" 4K HDR Professional Display,"75"", 700 nit, 4K HDR Professional Display with Unique DBNG Premium & IP5X Dust Resistance",3730.425889,6199
+Sony,FW65BZ40P,65" 4K HDR Professional Display,"65"", 700 nit, 4K HDR Professional Display with Unique DBNG Premium & IP5X Dust Resistance",2767.58004,4599
+Sony,FW55BZ40P,55" 4K HDR Professional Display,"55"", 700 nit, 4K HDR Professional Display with Unique DBNG Premium & IP5X Dust Resistance",2225.979249,3699
+Sony,FW85BZ35P,85" 4K HDR Professional Display ,"85"", 500 nit, 4K HDR Professional Display with DBNG Standard enhanced with IP5X Dust Resistances.",3850.781621,6399
+Sony,FW75BZ35P,75" 4K HDR Professional Display,"75"", 500 nit, 4K HDR Professional Display with DBNG Standard enhanced with IP5X Dust Resistances.",3188.825099,5299
+Sony,FW65BZ35P,65" 4K HDR Professional Display,"65"", 500 nit, 4K HDR Professional Display with DBNG Standard enhanced with IP5X Dust Resistance",2346.33498,3899
+Sony,FW55BZ35P,55" 4K HDR Professional Display,"55"", 500 nit, 4K HDR Professional Display with DBNG Standard enhanced with IP5X Dust Resistance",1864.912055,3099
+Sony,FW50BZ35P,50" 4K HDR Professional Display ,"50"", 500 nit, 4K HDR Professional Display with DBNG Standard enhanced with IP5X Dust Resistance",1624.200593,2699
+Sony,FW43BZ35P,43" 4K HDR Professional Display ,"43"", 500 nit, 4K HDR Professional Display with DBNG Standard enhanced with IP5X Dust Resistance",1503.844862,2499
+Sony,FW85BZ30P,85" Core 4K HDR Professional Display ,"85"", 400 nit, Core 4K HDR Professional Display equipped with DBNG Standard, designed for 24/7 operation and portrait/tilt installation. ",3610.070158,5999
+Sony,FW75BZ30P,75" Core 4K HDR Professional Display ,"75"", 400 nit,Core 4K HDR Professional Display equipped with DBNG Standard, designed for 24/7 operation and portrait/tilt installation.",2587.046443,4299
+Sony,FW65BZ30P,65" Core 4K HDR Professional Display ,"65"", 400 nit, Core 4K HDR Professional Display equipped with DBNG Standard, designed for 24/7 operation and portrait/tilt installation. ",1985.267787,3299
+Sony,FW55BZ30P,55" Core 4K HDR Professional Display ,"55"", 400 nit, Core 4K HDR Professional Display equipped with DBNG Standard, designed for 24/7 operation and portrait/tilt installation. ",1624.200593,2699
+Sony,FW50BZ30P,50" Core 4K HDR Professional Display ,"50"", 400 nit, Core 4K HDR Professional Display equipped with DBNG Standard, designed for 24/7 operation and portrait/tilt installation. ",1503.844862,2499
+Sony,FW43BZ30P,43" Core 4K HDR Professional Display ,"43"", 400 nit, Core 4K HDR Professional Display equipped with DBNG Standard, designed for 24/7 operation and portrait/tilt installation. ",1383.48913,2299
+Sony,FWD85XR70,85" 4K Mini QLED Google TV Professional Display ,"85"", 787 Nits, 4K Mini QLED Google TV Professional Display with Cognitive Processor XR.",3910.959486,6499
+Sony,FWD75XR70,75" 4K Mini QLED Google TV Professional Display ,"75"", 787 Nits, 4K Mini QLED Google TV Professional Display with Cognitive Processor XR.",3309.18083,5499
+Sony,FWD65XR70,65" 4K Mini QLED Google TV Professional Display ,"65"", 787 Nits, 4K Mini QLED Google TV Professional Display with Cognitive Processor XR.",2406.512846,3999
+Sony,FWD55XR70,55" 4K Mini QLED Google TV Professional Display ,"55"", 787 Nits, 4K Mini QLED Google TV Professional Display with Cognitive Processor XR.",2105.623518,3499
+Sony,FWD65XR80M2,65" 4K OLED Google TV Professional Display,"65"", 4K OLED Google TV Professional Display with Cognitive Processor XR.",4512.738142,7499
+Sony,FWD55XR80M2,55" 4K OLED Google TV Professional Display,"55"", 4K OLED Google TV Professional Display with Cognitive Processor XR.",3610.070158,5999
+Sony,FWD85S30,85" 4K Direct LED Professional Display ,"85"", 450 Nits, 4K Direct LED Google TV Professional Display with 4K HDR Processor X1.",2406.512846,3999
+Sony,FWD75S30,75" 4K Direct LED Professional Display ,"75"", 450 Nits, 4K Direct LED Google TV Professional Display with 4K HDR Processor X1.",1925.089921,3199
+Sony,FWD55S30,55" 4K Direct LED Professional Display ,"55"", 450 Nits, 4K Direct LED Google TV Professional Display with 4K HDR Processor X1.",1082.599802,1799
+Sony,FWD100XR30M2,100" 4K QFHD Commercial LED ,"100"", 450 nits, 4K QFHD, Commercial LED with Cognative Processor XR. ",4211.848814,6999
+Sony,FWD85XR30M2,85" 4K QFHD Commercial LED ,"85"", 450 nits, 4K QFHD, Commercial LED with Cognative Processor XR. ",2887.935771,4799
+Sony,FWD75XR30M2,75" 4K QFHD Commercial LED ,"75"", 450 nits, 4K QFHD, Commercial LED with Cognative Processor XR. ",2225.979249,3699
+Sony,FWD65XR30M2,65" 4K QFHD Commercial LED ,"65"", 450 nits, 4K QFHD, Commercial LED with Cognative Processor XR. ",1744.556324,2899
+Sony,FWD55XR30M2,55" 4K QFHD Commercial LED ,"55"", 450 nits, 4K QFHD, Commercial LED with Cognative Processor XR. ",1443.666996,2399
+Sony,FWD50XR30M2,50" 4K QFHD Commercial LED ,"50"", 450 nits, 4K QFHD, Commercial LED with Cognative Processor XR. ",1202.955534,1999
+Sony,FWD43XR30M2,43" 4K QFHD Commercial LED ,"43"", 450 nits, 4K QFHD, Commercial LED with Cognative Processor XR. ",1082.599802,1799
+Sony,FWD32W830K,32" WXGA Direct LED Display ,32" WXGA Google TV Direct LED Display with X-Reality PRO and HDR.,420.6432806,699
 Sony,FWD98XR50,98' 4K Mini LED Google TV Professional Display ,"98"", 787 Nits, 4K Mini LED Google TV Professional Display with Cognitive Processor XR.",6017.184783,9999
-Sony,FWD85XR50,"85"" 4K Mini LED Google TV Professional Display ","85"", 787 Nits, 4K Mini LED Google TV Professional Display with Cognitive Processor XR.",3610.070158,5999
-Sony,FWD75XR50,"75"" 4K Mini LED Google TV Professional Display ","75"", 787 Nits, 4K Mini LED Google TV Professional Display with Cognitive Processor XR.",2707.402174,4499
-Sony,FWD65XR50,"65"" 4K Mini LED Google TV Professional Display ","65"", 787 Nits, 4K Mini LED Google TV Professional Display with Cognitive Processor XR.",2105.623518,3499
-Sony,FWD55XR50,"55"" 4K Mini LED Google TV Professional Display ","55"", 787 Nits, 4K Mini LED Google TV Professional Display with Cognitive Processor XR.",1804.73419,2999
-Sony,FWD85XR90M2,"85"" 4K QFHD Mini LED Google TV Professional Display ","85"", 4K QFHD Mini LED Google TV Professional Display with Cognative Processor XR.",6618.963439,10999
-Sony,FWD75XR90M2,"75"" 4K QFHD Mini LED Google TV Professional Display ","75"", 4K QFHD Mini LED Google TV Professional Display with Cognative Processor XR.",5415.406126,8999
-Sony,FWD65XR90M2,"65"" 4K QFHD Mini LED Google TV Professional Display ","65"", 4K QFHD Mini LED Google TV Professional Display with Cognative Processor XR.",4211.848814,6999
-Sony,FWD85XR70M2,"85"" 4K True RGB LED Google TV Professional Display","85"", 787 Nits, 4K True RGB LED Google TV Professional Display with XR Processor",4813.62747,7999
-Sony,FWD75XR70M2,"75"" 4K True RGB LED Google TV Professional Display","75"", 787 Nits, 4K True RGB LED Google TV Professional Display with XR Processor",4091.493083,6799
-Sony,FWD65XR70M2,"65"" 4K True RGB LED Google TV Professional Display","65"", 787 Nits, 4K True RGB LED Google TV Professional Display with XR Processor",3429.536561,5699
-Sony,FWD55XR70M2,"55"" 4K True RGB LED Google TV Professional Display","55"", 787 Nits, 4K True RGB LED Google TV Professional Display with XR Processor",2707.402174,4499
-Sony,FWD50XR70M2,"50"" 4K True RGB LED Google TV Professional Display","50"", 787 Nits, 4K True RGB LED Google TV Professional Display with XR Processor",2406.512846,3999
+Sony,FWD85XR50,85" 4K Mini LED Google TV Professional Display ,"85"", 787 Nits, 4K Mini LED Google TV Professional Display with Cognitive Processor XR.",3610.070158,5999
+Sony,FWD75XR50,75" 4K Mini LED Google TV Professional Display ,"75"", 787 Nits, 4K Mini LED Google TV Professional Display with Cognitive Processor XR.",2707.402174,4499
+Sony,FWD65XR50,65" 4K Mini LED Google TV Professional Display ,"65"", 787 Nits, 4K Mini LED Google TV Professional Display with Cognitive Processor XR.",2105.623518,3499
+Sony,FWD55XR50,55" 4K Mini LED Google TV Professional Display ,"55"", 787 Nits, 4K Mini LED Google TV Professional Display with Cognitive Processor XR.",1804.73419,2999
+Sony,FWD85XR90M2,85" 4K QFHD Mini LED Google TV Professional Display ,"85"", 4K QFHD Mini LED Google TV Professional Display with Cognative Processor XR.",6618.963439,10999
+Sony,FWD75XR90M2,75" 4K QFHD Mini LED Google TV Professional Display ,"75"", 4K QFHD Mini LED Google TV Professional Display with Cognative Processor XR.",5415.406126,8999
+Sony,FWD65XR90M2,65" 4K QFHD Mini LED Google TV Professional Display ,"65"", 4K QFHD Mini LED Google TV Professional Display with Cognative Processor XR.",4211.848814,6999
+Sony,FWD85XR70M2,85" 4K True RGB LED Google TV Professional Display,"85"", 787 Nits, 4K True RGB LED Google TV Professional Display with XR Processor",4813.62747,7999
+Sony,FWD75XR70M2,75" 4K True RGB LED Google TV Professional Display,"75"", 787 Nits, 4K True RGB LED Google TV Professional Display with XR Processor",4091.493083,6799
+Sony,FWD65XR70M2,65" 4K True RGB LED Google TV Professional Display,"65"", 787 Nits, 4K True RGB LED Google TV Professional Display with XR Processor",3429.536561,5699
+Sony,FWD55XR70M2,55" 4K True RGB LED Google TV Professional Display,"55"", 787 Nits, 4K True RGB LED Google TV Professional Display with XR Processor",2707.402174,4499
+Sony,FWD50XR70M2,50" 4K True RGB LED Google TV Professional Display,"50"", 787 Nits, 4K True RGB LED Google TV Professional Display with XR Processor",2406.512846,3999
 Sony,VPLFHZ131LB,"13,000 lm, Laser Light Source Projector - Black","13,000 lm, 3LCD System, Laser Light Source Projector - Black",22115.26667,32699
 Sony,VPLFHZ131LW,"13,000 lm, Laser Light Source Projector - White ","13,000 lm, 3LCD System, Laser Light Source Projector - White ",22115.26667,32699
 Sony,VPLFHZ91LW,"9,000 lm, Laser Light Source Projector - White ","9,000 lm, 3LCD System, Laser Light Source Projector - White ",15419.61111,22799
@@ -2027,17 +2027,17 @@ Sony,MAS-A100,Beamforming Ceiling Microphone,Beamforming Ceiling Microphone with
 Jupiter,PANA34,"PANA 34 Display: 
 34"" PANA LCD 21:92","PANA 34 Display: 34"" diagonal 21:9 desktop touch enabled conferencing platform. 3440x1440, 165Hz, sub 1ms response, 10 points of touch, ergonomic articulating stand, 8 mic array, integrated 25W speakers, 4K camera, full USB -C hub & connectivity. Comes standard with pen.  In Stock now.",1721,2575
 Jupiter,PANA81D,"PANA 81 Display: 
-81"" PANA LCD 21:92","PANA 81 Display: 81"" PANA LCD display only model. Supports both landscape and portrait orientations. Includes a 3 meter (9.84ft) power cable. Mounts sold separately.",10866,16245
+81"" PANA LCD 21:92",PANA 81 Display: 81" PANA LCD display only model. Supports both landscape and portrait orientations. Includes a 3 meter (9.84ft) power cable. Mounts sold separately.,10866,16245
 Jupiter,PANA81T,"PANA 81 Touchscreen: 
-81"" PANA LCD 21:92","PANA 81 Touchscreen: 81"" PANA LCD touchscreen model. Supports landscape orientation only. Includes a 3 meter (9.84ft) power cable. Mounts and video cables sold separately.  In Stock now.",12677,18950
+81"" PANA LCD 21:92",PANA 81 Touchscreen: 81" PANA LCD touchscreen model. Supports landscape orientation only. Includes a 3 meter (9.84ft) power cable. Mounts and video cables sold separately.  In Stock now.,12677,18950
 Jupiter,PANA105D,"PANA 105 Display: 
-105"" PANA LCD 21:92","PANA 105 Display: 105"" PANA LCD display only model. Supports both landscape and portrait orientations. Includes a 3 meter (9.84ft) power cable. Mounts sold separately.",21734,32490
+105"" PANA LCD 21:92",PANA 105 Display: 105" PANA LCD display only model. Supports both landscape and portrait orientations. Includes a 3 meter (9.84ft) power cable. Mounts sold separately.,21734,32490
 Jupiter,PANA105T,"PANA 105 Touchscreen: 
-105"" PANA LCD 21:92","PANA 105 Touchscreen: 105"" PANA LCD touchscreen model. Supports landscape orientation only. Includes a 3 meter (9.84ft) power cable. Mounts and video cables sold separately.  In Stock now.",23545,35200
+105"" PANA LCD 21:92",PANA 105 Touchscreen: 105" PANA LCD touchscreen model. Supports landscape orientation only. Includes a 3 meter (9.84ft) power cable. Mounts and video cables sold separately.  In Stock now.,23545,35200
 Jupiter,PANA81X,"PANA.X 81"" 21:9 5K120 LCD, QDOT Mini-LED Backlit","PANA.X 81"" 21:9 5K120 LCD, QDOT Mini-LED Backlit, Supports both landscape and portrait orientations. Includes a 3 meter (9.84ft) power cable. Mounts sold separately.",18111,27075
 Jupiter,PANA105X,"PANA.X 105"" 21:9 5K120 LCD, QDOT Mini-LED Backlit","PANA.X 105"" 21:9 5K120 LCD, QDOT Mini-LED Backlit, Supports both landscape and portrait orientations. Includes a 3 meter (9.84ft) power cable. Mounts sold separately.",36225,54155
 Jupiter,PANA105XT,"PANA.X 105"" Touchscreen 21:9 5K120 LCD, QDOT Mini-LED Backlit","PANA.X 105"" Touchscreen 21:9 5K120 LCD, QDOT Mini-LED Backlit, Supports both landscape and portrait orientations. Includes a 3 meter (9.84ft) power cable. Mounts sold separately.",39847,59570
-Jupiter,PANA92CT,"PANA 92"" Conference Room Touchscreen 5K LCD 21:9","PANA 92"" Conference Room Touchscreen 5K LCD 21:9. Supports landscape orientation only. Includes a 3 meter (9.84ft) power cable. Mounts and video cables sold separately.",21506,32150
+Jupiter,PANA92CT,PANA 92" Conference Room Touchscreen 5K LCD 21:9,PANA 92" Conference Room Touchscreen 5K LCD 21:9. Supports landscape orientation only. Includes a 3 meter (9.84ft) power cable. Mounts and video cables sold separately.,21506,32150
 Jupiter,3-630-013-00,Pana OPS (Optional),Pana OPS (Optional),2217,3315
 Jupiter,4-625-010-00,Pana Pen (Optional),Pana Pen (Optional),315,470
 Jupiter,CRS-5K,Canvas Conference Room System,CRS-5K: Canvas Conference Room System with 1x5K (PANA display) output or 4x1K outputs (Optional),11185,16720
@@ -2207,14 +2207,14 @@ Plumb adjust to keep display in line with the wall.
 Latch to secure mount in home position.
 Compatible with Fusion Extra-Large Micro-adjustable Fixed and Tilt mounts for installation of 80""+ displays (up to 250 lb / 113 kg).
 Minimum Depth: Retracted depth without mount: 1.56"" (39 mm).",747,1145
-Chief,TS110SU,"TS110SU Small Single Swing Arm Wall Display Mount - 10"" Extension","A lightweight, low-profile full-motion wall mount for TVs 10-40"".
+Chief,TS110SU,TS110SU Small Single Swing Arm Wall Display Mount - 10" Extension,"A lightweight, low-profile full-motion wall mount for TVs 10-40"".
 
 Ultra Low Profile Sleek design collapses to 1.5"" (38 mm), providingan ultra-low profile for all types of TVs, including LED, LCD and Plasma.
 Extends up to 10"" (254 mm) Full extension maximizes viewing potential.
 Centris low-profile tilt Provides up to 12 degrees of effortless fingertip tilt toachieve optimal viewing angles.
 Integrated Cable Management Enclosed, tool-free cable cover makes it easy to route power and signal cables, and connect to the wall for a seamless installation.
 Arms can be positioned on the right or left when in the home position.",174,266
-Chief,TS525TU,"TS525TU Large Dual Swing Arm Wall Display Mount - 25"" Extension","A lightweight, low-profile full-motion wall display mount for TVs 42-75"". Easily installs with one person by mounting the top rail and sliding on the assembly.",857,1315
+Chief,TS525TU,TS525TU Large Dual Swing Arm Wall Display Mount - 25" Extension,"A lightweight, low-profile full-motion wall display mount for TVs 42-75"". Easily installs with one person by mounting the top rail and sliding on the assembly.",857,1315
 Chief,RPMAU,"RPMAU Elite Universal Projector Mount with Keyed Locking, Black","Focusing on speed of installation, these universal elite mounts are packed with easy-to-use features that save time and maximize projector security.
 Available in three locking options: RPMA, RPMB, RPMC
 Microzone Adjustments make projector registration fast and precise (including flush mount installations)
@@ -2233,12 +2233,12 @@ Mounting pattern range: VESA 100 x 100 mm - 600 x 400 mm.
 APPLICATION RECOMMENDED: Ideal for hospitality applications",174,266
 Chief,FHB5147,FHB5147 Universal Flat Panel Mount Hardware Kit,The FHB5147 flat panel mount hardware kit includes an assortment of M8 screws and spacers to expand compatibility for your CHIEF mount.,22,36
 Chief,FHB5196,FHB5196 Universal Flat Panel Mount Hardware Kit,"The FHB5196 Universal Flat Panel Mount Hardware kit includes M8 screws and spacers and a set of 4"" vertical offset mounting adapter brackets to fasten and align large format displays with a high or low VESA hole pattern to Chief mounts.  For example, the Samsung QMR, QBR, QHR, QET, and QBN series (among others).",181,280
-Chief,CMA115,"CMA115 6"" Flat Square Ceiling Plate","A ceiling plate is a cost effective solution for simple installations.
+Chief,CMA115,CMA115 6" Flat Square Ceiling Plate,"A ceiling plate is a cost effective solution for simple installations.
 
 Attractive solution for basic installations
 Fast and easy installation
 Use this flat ceiling plate with any adjustable or fixed column",87,135
-Chief,CMA330,"CMA330 8"" Offset Ceiling Plate Threaded",Flexible mounting option for various types of equipment One-way clamp mechanism and quick-release lever for easy installation Includes 10 cable locks Secures equipment via flexible wire rope 3 mm or 5mm diameter,93,146
+Chief,CMA330,CMA330 8" Offset Ceiling Plate Threaded,Flexible mounting option for various types of equipment One-way clamp mechanism and quick-release lever for easy installation Includes 10 cable locks Secures equipment via flexible wire rope 3 mm or 5mm diameter,93,146
 Chief,CMA395,"CMA395 Angled Ceiling Adapter, Black",Perfect for projector installations on an angled ceiling.,93,146
 Chief,CMA395W,"CMA395W Angled Ceiling Adapter, White",Perfect for projector installations on an angled ceiling.,93,146
 Chief,CMS115,"CMS115 6"" Speed Connect Ceiling Plate, Black","A ceiling plate is a cost effective solution for simple installations.
@@ -2324,7 +2324,7 @@ Professional Appearance
 Grooves in outer surface of column provide an aesthetic appearance and also act as drill guides
 Multiple Length Options
 Ships in pre-cut lengths with 3 pre-drilled thru holes in each column end",288,440
-Chief,CPA262,CPA262 Pin Connection CPA to Male NPT Adapter Accessory ,"Use the CPA262 coupler to transition from a CPA pin connection column to a 1.5"" NPT female threaded connection.",81,125
+Chief,CPA262,CPA262 Pin Connection CPA to Male NPT Adapter Accessory ,Use the CPA262 coupler to transition from a CPA pin connection column to a 1.5" NPT female threaded connection.,81,125
 Chief,CPA263,CPA263 Pin Connection CPA Connector Coupler,Use the CPA263 to join two CPA columns.,85,129
 Chief,CMS003,"CMS003 Fixed Pole 3"", Black","This Speed-Connect Fixed Extension Column lowers projector to the desired height.
 Aluminium extension column features easy installation and maximum strength
@@ -2452,7 +2452,7 @@ Integrated Security
 Ships with a custom hardware kit that can be hung from mount rails if installing in stages
 Easy Open box with less waste to throw away",1796,2756
 Chief,AS3LD,AS3LD Tempo Flat Panel Wall Mount,"Tempo Flat Panel Wall Mount. System Install on any wall and neatly store AV devices with simple, unparalleled service accessories. ",1141,1750
-Chief,CMA101,"CMA101 5"" Designer Ceiling Plate","A ceiling plate is a cost effective solution for simple installations.
+Chief,CMA101,CMA101 5" Designer Ceiling Plate,"A ceiling plate is a cost effective solution for simple installations.
 Attractive solution for basic installations
 Fast and easy installation",35,56
 Chief,CMA106,CMA106 Ceiling Junction Plate,"The junction box ceiling plate is designed to suspend a projector between ceiling joists.
@@ -2647,7 +2647,7 @@ Chief,CMA110,"CMA110 8"" Flat Ceiling Plate, Black","A ceiling plate is a cost e
 Attractive solution for basic installations
 Fast and easy installation
 Use this flat ceiling plate with any adjustable or fixed column",104,159
-Chief,CMA152,"CMA152 1.5"" Threaded Pipe Coupler",This threaded pipe coupler attaches two 1.5 NPT threaded columns together for added length.,63,96
+Chief,CMA152,CMA152 1.5" Threaded Pipe Coupler,This threaded pipe coupler attaches two 1.5 NPT threaded columns together for added length.,63,96
 Chief,CMA273,CMA273 Extension Column Threaded End Cap,"This end cap covers the end of an extension column for a clean look.
 
 Threaded end cap connects to any 1.5"" NPT extension column,
@@ -2663,7 +2663,7 @@ Chief,CMA278,CMA278 Black Vinyl Cap For Threaded Poles,"This end cap slides over
 Covers the end of extension columns for a clean appearance
 Pre-cut for routing cables through cover
 Ten caps per kit",56,86
-Chief,CMA470,"CMA470 Plenum Ceiling Box 5.3"" x 14"" x 7.8""","The above-tile storage enclosure for Chiefs suspended ceiling kits is designed to provide convenient storage for your cables and equipment.
+Chief,CMA470,CMA470 Plenum Ceiling Box 5.3" x 14" x 7.8","The above-tile storage enclosure for Chiefs suspended ceiling kits is designed to provide convenient storage for your cables and equipment.
 
 Hinged door for easy access
 Includes support for two dual-gang surface-mount electrical boxes
@@ -2864,7 +2864,7 @@ Chief,FCADA,FCADA Fusion Depth Adaptor,"Add depth from the wall for Fusion MTMS1
 
 Can adjust depth between 3.25, 4.0 and 4.75"" (83, 102 and 121 mm)
 Only compatible with MTMS1U and STMS1U",226,346
-Chief,FCK016,"FCK016 16"" Mount Connector",Use the FCK to connect multiple Fusion mounts together. Compatible with all Fusion products.,87,135
+Chief,FCK016,FCK016 16" Mount Connector,Use the FCK to connect multiple Fusion mounts together. Compatible with all Fusion products.,87,135
 Chief,FHB5037,FHB5037 Fusion and Thinstall Hardware Kit,"Converts 400 mm vertical pattern to 600 mm vertical pattern with M8 screws, no offset.
 
 FHB3XXX, FHB5XXX and FHB7XXX Includes screws and spacers specific to the TV being installed
@@ -2947,7 +2947,7 @@ Compatible with all Chief carts and stands, swing arm mounts and ceiling mounts 
 TAA Compliant
 Maximum Screen Heights are: 41.2 with P series products, 38.5 with M series products",249,380
 Chief,AVSFSS,AVSFSS Tempo Flat Panel Floor Support System,The Tempo Flat Panel Floor-to-Wall System uses the floor instead of the wall to support displays. This eliminates the need for wall inspection and remediation for time and cost savings across large rollouts while maintaining a low profile.,2489,3815
-Chief,CMA105,"CMA105 4"" Flat Ceiling Plate Black","A ceiling plate is a cost effective solution for simple installations.
+Chief,CMA105,CMA105 4" Flat Ceiling Plate Black,"A ceiling plate is a cost effective solution for simple installations.
 Attractive solution for basic installations
 Fast and easy installation",69,106
 Chief,CMA270,"CMA270 Coupler to Connect 2 Threaded Poles, Black","A threaded pipe coupler that connects two 1.5"" NPT threaded columns together for added length.
@@ -3080,7 +3080,7 @@ Screen can be installed in portrait or landscape orientation (MAC400 accessory c
 Integrated cable management with flexible covers to hide cables out of sight for a fast, clean installation
 Lockable rear wheels provide added stability
 Compact, angled base makes corner positioning easy",1142,1749
-Chief,MPAUB,"MPAUB Medium Cart Manual Adjustable, Black","This mobile Fusion AV cart incorporates rounded edges and sleek features to give the cart a softer professional feel while supporting stretch displays in portrait configuration. The height can be adjusted by one person via hand or 1/2"" hex bit on a power drill.",1784,2735
+Chief,MPAUB,"MPAUB Medium Cart Manual Adjustable, Black",This mobile Fusion AV cart incorporates rounded edges and sleek features to give the cart a softer professional feel while supporting stretch displays in portrait configuration. The height can be adjusted by one person via hand or 1/2" hex bit on a power drill.,1784,2735
 Chief,MPD1U,MPD1U Medium Dynamic Height Adjustable Cart ,"Ideal for interactive applications, Fusion mounts with dynamic height adjust capability create better accessibility to technology in the boardroom and the classroom. The height adjustable box provides ultra-smooth and fast vertical travel with almost no effort.
 
 Easy to install. Easy to adjust. 
@@ -3150,8 +3150,8 @@ with the same footprint as the XPAUB, but with the addition of magnetic covers a
 Perfect for Extra-Large and touch panel displays as well as dual monitor video conferencing using an Accessory.
 
 Provide aesthetic covering to the rear side of the displays, components and mount using the Chief Fusion Universal Back Covers.",3099,4750
-Chief,XVAUB,XVAUB Extra-Large Fusion Video Conferencing Cart,"This mobile Fusion AV Cart incorporates rounded edges and sleek features to give the cart a softer professional feel that fits well in corporate and classroom environments. The height can be adjusted by one person via a 1/2"" hex bit on a power drill without removing the screen.",4227,6479
-Chief,PDRUB,"PDRUB Large Flat Panel Swing Arm Wall Mount, 37"" (94cm) Extension","Large Flat Panel Swing Arm Wall Mount - 37"" Extension. This swing arm mount allows for perfect flat panel TV placement and ensures ideal viewing from any angle.",1419,2176
+Chief,XVAUB,XVAUB Extra-Large Fusion Video Conferencing Cart,This mobile Fusion AV Cart incorporates rounded edges and sleek features to give the cart a softer professional feel that fits well in corporate and classroom environments. The height can be adjusted by one person via a 1/2" hex bit on a power drill without removing the screen.,4227,6479
+Chief,PDRUB,"PDRUB Large Flat Panel Swing Arm Wall Mount, 37"" (94cm) Extension",Large Flat Panel Swing Arm Wall Mount - 37" Extension. This swing arm mount allows for perfect flat panel TV placement and ensures ideal viewing from any angle.,1419,2176
 Chief,TA500,TA500 Large Thinstall In-Wall Swing Arm Accessory for TS525TU and TS325TU,"Designed to take an already thin swing arm to a zero depth design.
 
 Does not impact the functionality of the Thinstall arm.  Will still allow the height adjustment of the mount.
@@ -3160,18 +3160,18 @@ Compatible with:
 
 TS525TU
 TS325TU",486,745
-Chief,TS118SU,"TS118SU Small Single Swing Arm Wall Display Mount - 18"" (45.7cm) Extension","A lightweight, low-profile full-motion wall mount for TVs 10-40"".",227,349
-Chief,TS218SU,"TS218SU Medium Single Swing Arm Wall Display Mount - 18"" (45.7cm) Extension","A lightweight, low-profile full-motion wall mount for TVs 32-55"". 
+Chief,TS118SU,TS118SU Small Single Swing Arm Wall Display Mount - 18" (45.7cm) Extension,"A lightweight, low-profile full-motion wall mount for TVs 10-40"".",227,349
+Chief,TS218SU,TS218SU Medium Single Swing Arm Wall Display Mount - 18" (45.7cm) Extension,"A lightweight, low-profile full-motion wall mount for TVs 32-55"". 
 
 VESA Mounting Pattern: 100 x 100_ 200 x 100_ 200 x 200_ 300 x 200_ 300 x 300_ 400 x 200 and 400 x 400mm",415,635
-Chief,TS318SU,"TS318SU Medium Single Swing Arm Wall Display Mount - 18"" (45.7cm) Extension","A lightweight, low-profile full-motion wall display mount for TVs 32-65"". ",540,830
-Chief,TS318TU,"TS318TU Medium Dual Swing Arm Wall Mount - 18"" (45.7cm) (45 cm) Extension. ","A lightweight, low-profile full-motion wall display mount for TVs 32-65"". Easily installs with one person by mounting the top rail and sliding on the assembly.
+Chief,TS318SU,TS318SU Medium Single Swing Arm Wall Display Mount - 18" (45.7cm) Extension,"A lightweight, low-profile full-motion wall display mount for TVs 32-65"". ",540,830
+Chief,TS318TU,TS318TU Medium Dual Swing Arm Wall Mount - 18" (45.7cm) (45 cm) Extension. ,"A lightweight, low-profile full-motion wall display mount for TVs 32-65"". Easily installs with one person by mounting the top rail and sliding on the assembly.
 
 In-wall installation available when TA501 purchased with mount.",633,970
-Chief,TS325TU,"TS325TU Medium Dual Swing Arm Wall Display Mount - 25"" Extension","A lightweight, low-profile full-motion wall display mount for TVs 32-65"". Easily installs with one person by mounting the top rail and sliding on the assembly.
+Chief,TS325TU,TS325TU Medium Dual Swing Arm Wall Display Mount - 25" Extension,"A lightweight, low-profile full-motion wall display mount for TVs 32-65"". Easily installs with one person by mounting the top rail and sliding on the assembly.
 
 In-wall installation available when TA500 purchased with mount.",686,1050
-Chief,PG4AW,"PG3A Large Projector Cage Int Dim 11.36"" (91.4cm) x 25"" x 24.9"" (22.8cm) White","A top security solution that fully encloses the projector mount in a locked steel cage to prevent theft, as well as recreational damage.
+Chief,PG4AW,PG3A Large Projector Cage Int Dim 11.36" (91.4cm) x 25" x 24.9" (22.8cm) White,"A top security solution that fully encloses the projector mount in a locked steel cage to prevent theft, as well as recreational damage.
 PG1-PG3 are only compatible with RPA & RPM Series. 
 PG4 is compatible with the VCM and VCT series.",1978,3036
 Chief,RLT3,RLT3 Large Fit Tilt Display Wall Mount,"The Fit series RLT3 is a large tilt display wall mount for 43"" to 86"" typical display sizes and supports mounting patterns up to 915 x 450 mm. This next-generation design features 0.75"" (19 mm) post-installation leveling, robust wall plate design supporting up to 200 lbs (90.7 kg), 2"" (51 mm) low-profile depth, up to 12 degrees tilt, and UL and TUV safety standard approvals. ",242,369
@@ -3289,7 +3289,7 @@ Chief,CMA362,CMA362 C-Clamp,"A universal clamp for a variety of structures and t
 Clamps to any structure up to 2.75"" (70 mm) OD (including 2"" x 4"" structures) and includes an opening for 1.5"" NPT extension column.
 Provides quick, versatile installation of presentation equipment and allows cable routing through the column.
 Great for mounting equipment in exhibit booths.",187,286
-Chief,CMA370,"CMA370 Accessory Kit Adapts Ceiling Plates to 1.63""","Adapts Chiefs ceiling plates to 1.63"" (41 mm) wide. Includes four 0.38"" (10 mm) diameter channel nuts with springs and attachment bolts",33,50
+Chief,CMA370,CMA370 Accessory Kit Adapts Ceiling Plates to 1.63",Adapts Chiefs ceiling plates to 1.63" (41 mm) wide. Includes four 0.38" (10 mm) diameter channel nuts with springs and attachment bolts,33,50
 Chief,CMA440,"CMA440 Above Tile Suspended Kit, 8"" X 24"" (60.9cm)","The easiest to install, most economic mounting kit available for suspended ceilings.
 Installs above ceiling tile
 Comes with 10 ft (304.8 cm) safety cable, 20 ft (609.6 cm) strand wire, two outlet knockouts, four turnbuckles, wood eye bolts, concrete anchors and chrome ring
@@ -3301,8 +3301,8 @@ Finishing ring visually enhances suspended ceiling installations by covering the
 Hinged for New of retrofit installations
 ID of finish ring is 2.44"" (62 mm)",27,39
 Chief,LSB100,LSB100 Lateral Shift Bracket,"Provides 3 (76 mm) right/left lateral adjustment to centre the lens. Compatible with RPA Series mounts. For RPM Elite Series with Q-lock feature, use the LSB101.",73,110
-Chief,LSB101,LSB101 Lateral Shift Bracket For RPMA Mount,"The LSB101 lateral shift bracket provides 3"" (76 mm) of right/left or front/back adjustment for Chief RPMA mount.",73,110
-Chief,PG1A,"PG1A Large Projector Cage Int Dim 7.5"" x 20"" x 20.4"" Black","A top security solution that fully encloses the projector mount in a locked steel cage to prevent theft, as well as recreational damage.
+Chief,LSB101,LSB101 Lateral Shift Bracket For RPMA Mount,The LSB101 lateral shift bracket provides 3" (76 mm) of right/left or front/back adjustment for Chief RPMA mount.,73,110
+Chief,PG1A,PG1A Large Projector Cage Int Dim 7.5" x 20" x 20.4" Black,"A top security solution that fully encloses the projector mount in a locked steel cage to prevent theft, as well as recreational damage.
 
 Directly compatible with RPA & RPM, projector mounts
 Also attaches to 1"" & 1.5"" NPT diameter poles for use with RSM, & RSA projector mounts
@@ -3314,17 +3314,17 @@ Hinged door for easy access
 Accommodates roll, pitch and yaw adjustments
 Locks with security screws
 Additional security available with optional padlocks",702,1075
-Chief,PG2A,"PG2A Small Projector Cage Int Dims 7.5"" x 16"" x 16"" Black","A top security solution that fully encloses the projector mount in a locked steel cage to prevent theft, as well as recreational damage.
+Chief,PG2A,PG2A Small Projector Cage Int Dims 7.5" x 16" x 16" Black,"A top security solution that fully encloses the projector mount in a locked steel cage to prevent theft, as well as recreational damage.
 PG1-PG3 are only compatible with RPA & RPM Series.",614,939
-Chief,PG2AW,"PG2AW Small Projector Cage Int Dims 7.5"" x 16"" x 16"" White","A top security solution that fully encloses the projector mount in a locked steel cage to prevent theft, as well as recreational damage.
+Chief,PG2AW,PG2AW Small Projector Cage Int Dims 7.5" x 16" x 16" White,"A top security solution that fully encloses the projector mount in a locked steel cage to prevent theft, as well as recreational damage.
 PG1-PG3 are only compatible with RPA & RPM Series.",614,939
-Chief,PG3A,"PG3A Large Projector Cage Int Dim 11.36"" (91.4cm) x 25"" x 24.9"" (22.8cm) Black","A top security solution that fully encloses the projector mount in a locked steel cage to prevent theft, as well as recreational damage.
+Chief,PG3A,PG3A Large Projector Cage Int Dim 11.36" (91.4cm) x 25" x 24.9" (22.8cm) Black,"A top security solution that fully encloses the projector mount in a locked steel cage to prevent theft, as well as recreational damage.
 PG1-PG3 are only compatible with RPA & RPM Series. 
 PG4 is compatible with the VCM and VCT series.",1056,1619
 Chief,WMA1S,"WMA1S Heavy Duty Wall Mount Accessory, Single Stud",The WMA1S is a heavy duty wall mount Accessory for mounting projector or flat panels in single stud or concrete applications. Great for when ceiling mounting is not a option.,242,369
 Chief,WMA2S,"WMA2S Heavy Duty Wall Mount Accessory, Dual Stud",The WMA2S is a heavy duty wall mount Accessory for mounting projector or flat panels in dual stud or concrete applications. Great for when ceiling mounting is not a option.,330,506
 Chief,CMA345,CMA345 Shock Minimiser Ceiling Plate,A ceiling plate that minimizes the transfer of shock and extreme vibration for projector ceiling installations. Flexible neoprene rubber joint minimizes shock and vibration. Offset provides cable exit when mounting to a flat surface,288,440
-Chief,CMA700,"CMA700 6"" Flat Ceiling Plate with Adjustable 12"" (30.4cm)-18"" (45.7cm) Pole","This Installation Kit contains all the accessories you need for a complete structural ceiling installation, in one easy-to order, cost-effective kit.
+Chief,CMA700,CMA700 6" Flat Ceiling Plate with Adjustable 12" (30.4cm)-18" (45.7cm) Pole,"This Installation Kit contains all the accessories you need for a complete structural ceiling installation, in one easy-to order, cost-effective kit.
 Includes 6"" x 6"" ceiling plate and adjustable extension column that spans 12"" (30.4cm)-18"" (45.7cm) (305-457 mm)
 Uses 1.5"" NPT",209,319
 Chief,CPA330,"CPA330 Pin Connection Offset Ceiling Plate
@@ -3615,8 +3615,8 @@ Compatible with all Chief CPA columns, accessories , projector & flat panel moun
 Trigger style clamp allows for one person install 
 Safe working load of 250 lbs (113.4 kg)
 External Cable management accessories available (CMA274)",192,295
-Chief,LW55UBP,"LW55UBP Impact On-Wall Portrait 55"" Kiosk Black","The Impact On-Wall Kiosk brings New flexibility to the digital signage enclosure market while maintaining a sleek aesthetic to complement a variety of environments. A depth-adjustable exterior frame allows for a variety of displays to be used. Reversible hinges help to avoid installation and service obstructions, and the exclusive design keeps the display mounted to the frame when opened, providing unparalleled service and maintenance accessories.",2721,4175
-Chief,LW55UWP,"LW55UWP Impact On-Wall Portrait 55"" Kiosk White","The Impact On-Wall Kiosk brings New flexibility to the digital signage enclosure market while maintaining a sleek aesthetic to complement a variety of environments. A depth-adjustable exterior frame allows for a variety of displays to be used. Reversible hinges help to avoid installation and service obstructions, and the exclusive design keeps the display mounted to the frame when opened, providing unparalleled service and maintenance accessories.",2721,4175
+Chief,LW55UBP,LW55UBP Impact On-Wall Portrait 55" Kiosk Black,"The Impact On-Wall Kiosk brings New flexibility to the digital signage enclosure market while maintaining a sleek aesthetic to complement a variety of environments. A depth-adjustable exterior frame allows for a variety of displays to be used. Reversible hinges help to avoid installation and service obstructions, and the exclusive design keeps the display mounted to the frame when opened, providing unparalleled service and maintenance accessories.",2721,4175
+Chief,LW55UWP,LW55UWP Impact On-Wall Portrait 55" Kiosk White,"The Impact On-Wall Kiosk brings New flexibility to the digital signage enclosure market while maintaining a sleek aesthetic to complement a variety of environments. A depth-adjustable exterior frame allows for a variety of displays to be used. Reversible hinges help to avoid installation and service obstructions, and the exclusive design keeps the display mounted to the frame when opened, providing unparalleled service and maintenance accessories.",2721,4175
 Chief,FMSECAP,FMSECAP Fusion Horizontal Row End Cap,End cap for a row of extrusion.,30,45
 Chief,FMSH84,"FMSH84 Menu-Board Extrusion, 84"" (213.3cm)","FMSH84 Menu-Board Extrusion, 84"" (213.3cm)",387,595
 Chief,FMSITL,FMSITL Fusion Large Tilt Interface,"The FMSITL Large Tilt Interface connects displays to the extrusion.
@@ -3715,7 +3715,7 @@ Adds 14"" of length to the LVM, LBM, & LCM mounts
 Allows LVM, LBM, & LCM to handle up to 60"" (152.4cm) displays and 800 mm wide mounting patterns
 Easy to add on to any LVM, LBM, & LCM mounts",264,406
 Chief,FCK000,FCK000 Fusion Connector Union,Use the FCK to connect multiple Fusion mounts together. Compatible with all Fusion products.,42,65
-Chief,FCK008,"FCK008 8"" Mount Connector",Use the FCK to connect multiple Fusion mounts together. Compatible with all Fusion products.,70,109
+Chief,FCK008,FCK008 8" Mount Connector,Use the FCK to connect multiple Fusion mounts together. Compatible with all Fusion products.,70,109
 Chief,K1D120B,"K1D120B Kontour K1D Dynamic Desk Clamp Mount, 1 Monitor","The enhanced KontourK1D Dynamic Height-adjustable Desk Clamp Mounts are the perfect monitor mount solutions for the office, healthcare facilities or home. Best-in-class weight capacity range makes specification simple!
 
 Key enhancements have been made to Chief's patented CentrisExtreme Tilt technology for the ultimate in effortless fingertip monitor positioning. Kontour monitor mounts float your displays in the optimal ergonomic position above your work surface to create a more productive and comfortable work space.
@@ -3951,17 +3951,17 @@ Datapath,LTSC21H2NBPS,LTSC Windows 10 21H2 license for non-Datapath systems with
 Jupiter,PANA34,"PANA 34 Display: 
 34"" PANA LCD 21:92","PANA 34 Display: 34"" diagonal 21:9 desktop touch enabled conferencing platform. 3440x1440, 165Hz, sub 1ms response, 10 points of touch, ergonomic articulating stand, 8 mic array, integrated 25W speakers, 4K camera, full USB -C hub & connectivity. Comes standard with pen.  In Stock now.",1721,2575
 Jupiter,PANA81D,"PANA 81 Display: 
-81"" PANA LCD 21:92","PANA 81 Display: 81"" PANA LCD display only model. Supports both landscape and portrait orientations. Includes a 3 meter (9.84ft) power cable. Mounts sold separately.",10866,16245
+81"" PANA LCD 21:92",PANA 81 Display: 81" PANA LCD display only model. Supports both landscape and portrait orientations. Includes a 3 meter (9.84ft) power cable. Mounts sold separately.,10866,16245
 Jupiter,PANA81T,"PANA 81 Touchscreen: 
-81"" PANA LCD 21:92","PANA 81 Touchscreen: 81"" PANA LCD touchscreen model. Supports landscape orientation only. Includes a 3 meter (9.84ft) power cable. Mounts and video cables sold separately.  In Stock now.",12677,18950
+81"" PANA LCD 21:92",PANA 81 Touchscreen: 81" PANA LCD touchscreen model. Supports landscape orientation only. Includes a 3 meter (9.84ft) power cable. Mounts and video cables sold separately.  In Stock now.,12677,18950
 Jupiter,PANA105D,"PANA 105 Display: 
-105"" PANA LCD 21:92","PANA 105 Display: 105"" PANA LCD display only model. Supports both landscape and portrait orientations. Includes a 3 meter (9.84ft) power cable. Mounts sold separately.",21734,32490
+105"" PANA LCD 21:92",PANA 105 Display: 105" PANA LCD display only model. Supports both landscape and portrait orientations. Includes a 3 meter (9.84ft) power cable. Mounts sold separately.,21734,32490
 Jupiter,PANA105T,"PANA 105 Touchscreen: 
-105"" PANA LCD 21:92","PANA 105 Touchscreen: 105"" PANA LCD touchscreen model. Supports landscape orientation only. Includes a 3 meter (9.84ft) power cable. Mounts and video cables sold separately.  In Stock now.",23545,35200
+105"" PANA LCD 21:92",PANA 105 Touchscreen: 105" PANA LCD touchscreen model. Supports landscape orientation only. Includes a 3 meter (9.84ft) power cable. Mounts and video cables sold separately.  In Stock now.,23545,35200
 Jupiter,PANA81X,"PANA.X 81"" 21:9 5K120 LCD, QDOT Mini-LED Backlit","PANA.X 81"" 21:9 5K120 LCD, QDOT Mini-LED Backlit, Supports both landscape and portrait orientations. Includes a 3 meter (9.84ft) power cable. Mounts sold separately.",18111,27075
 Jupiter,PANA105X,"PANA.X 105"" 21:9 5K120 LCD, QDOT Mini-LED Backlit","PANA.X 105"" 21:9 5K120 LCD, QDOT Mini-LED Backlit, Supports both landscape and portrait orientations. Includes a 3 meter (9.84ft) power cable. Mounts sold separately.",36225,54155
 Jupiter,PANA105XT,"PANA.X 105"" Touchscreen 21:9 5K120 LCD, QDOT Mini-LED Backlit","PANA.X 105"" Touchscreen 21:9 5K120 LCD, QDOT Mini-LED Backlit, Supports both landscape and portrait orientations. Includes a 3 meter (9.84ft) power cable. Mounts sold separately.",39847,59570
-Jupiter,PANA92CT,"PANA 92"" Conference Room Touchscreen 5K LCD 21:9","PANA 92"" Conference Room Touchscreen 5K LCD 21:9. Supports landscape orientation only. Includes a 3 meter (9.84ft) power cable. Mounts and video cables sold separately.",21506,32150
+Jupiter,PANA92CT,PANA 92" Conference Room Touchscreen 5K LCD 21:9,PANA 92" Conference Room Touchscreen 5K LCD 21:9. Supports landscape orientation only. Includes a 3 meter (9.84ft) power cable. Mounts and video cables sold separately.,21506,32150
 Jupiter,3-630-013-00,Pana OPS (Optional),Pana OPS (Optional),2217,3315
 Jupiter,4-625-010-00,Pana Pen (Optional),Pana Pen (Optional),315,470
 Jupiter,CRS-5K,Canvas Conference Room System,CRS-5K: Canvas Conference Room System with 1x5K (PANA display) output or 4x1K outputs (Optional),11185,16720
@@ -4313,7 +4313,7 @@ Lindy,73436,USB Charging Station 6 Port 160W,USB Charging Station 6 Port 160W,26
 Lindy,37255,"7.5m 8K60Hz HDMI Cable, Black Line","7.5m 8K60Hz HDMI Cable, Black Line",38.16423214,60
 NowSignage,NS001,NowSignage - 1YR Licence (1-50 licences),NowSignage Standard 1 Year License. Price per license per endpoint (1-50 licences),279,535
 NowSignage,NS003,NowSignage - 3YR Licence (1-50 licences),NowSignage Standard 3 Year License. Price per license per endpoint (1-50 licences),780,1495
-BrightSign,AU335,BrightSign AU335 - Audio Player,"Distributes quality high bandwidth, 24-bit audio including Dolby Atmos¬Æ, Dolby Audio‚Ñ¢ and PCM audio to ARC/eARC soundbars & AV receivers",280,420
+BrightSign,AU335,BrightSign AU335 - Audio Player,"Distributes quality high bandwidth, 24-bit audio including Dolby AtmosÆ, Dolby Audioô and PCM audio to ARC/eARC soundbars & AV receivers",280,420
 BrightSign,HD1026,BrightSign HD1026 Mainstream Ineractive Player,"BrightSignOS enabled media player. Single UHD video decode. USB-A, GPIO, 3.5mm Serial, 3.5mm IR IO, and Analog/SPDIF Audio output. microSD storage options. WiFi and Cellular connectivity options",1018,1520
 BrightSign,HD226,BrightSign HD226 Mainstream Interactive Player,"BrightSignOS enabled media player. Single UHD video decode. GPIO, Analog/SPDIF Audio output. microSD storage options. WiFi and Cellular connectivity options",849,1270
 BrightSign,LS425,BrightSign LS425 Entry Level Player,"BrightSignOS enabled media player. Single Full HD video decode. USB-C, Analog/SPDIF Audio output. microSD storage options",509,760
