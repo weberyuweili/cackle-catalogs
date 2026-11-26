@@ -129,7 +129,7 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 80004425,Mobling Samsung S26 Folio Wallet Case Black,59.95,26.07,320,,9420311523967
 80004430,Mobling Samsung S26+ 3m Eco Drop Case Clear,59.95,26.07,309,,9420311523943
 80004435,Mobling Samsung S26+ Folio Wallet Case Black,59.95,26.07,210,,9420311523974
-80004440,Mobling Samsung S26 Ultra 3m Eco Drop Case Clear,59.95,26.07,635,,9420311523950
+80004440,Mobling Samsung S26 Ultra 3m Eco Drop Case Clear,59.95,26.07,435,,9420311523950
 80004445,Mobling Samsung S26 Ultra Folio Wallet Case Black,59.95,26.07,0,,9420311523981
 80004470,Mobling Samsung A17/A18 1m Eco Drop Case Clear,39.95,17.39,177,,9420311524056
 80004485,Mobling iPhone 17e/16e/15/14 Folio Wallet Case Black,59.95,26.07,0,,9420311524124
@@ -322,7 +322,7 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 90058085,Samsung A35 Smart View Wallet Case White,69.00,42.00,0,EF-ZA356CWEGWW,8806095546605
 90058090,Samsung A35 Smart View Wallet Case Lavender,69.00,42.00,0,EF-ZA356CVEGWW,8806095546612
 90058095,Samsung A35 Silicone Case Black,39.00,23.74,157,EF-PA356TBEGWW,8806095542508
-90058100,Samsung A35 Silicone Case Light Blue,39.00,23.74,38,EF-PA356TLEGWW,8806095542478
+90058100,Samsung A35 Silicone Case Light Blue,39.00,23.74,37,EF-PA356TLEGWW,8806095542478
 90058105,Samsung A35 Silicone Case Lime,39.00,23.74,0,EF-PA356TMEGWW,8806095542461
 90058110,Samsung A35 Card Slot Case Black,29.00,17.65,0,EF-OA356TBEGWW,8806095542492
 90058115,Samsung A35 Card Slot Case Lime,29.00,17.65,0,EF-OA356TMEGWW,8806095542485
@@ -512,7 +512,7 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 90066875,Samsung Z Fold7 Carbon Shield Back Cover Black,139.00,78.57,49,EF-XF966SBEGWW,8806097469179
 90066905,Samsung Z Fold7 Clear Grip Back Cover Clear,69.00,39.00,12,EF-QF966CTEGWW,8806097469209
 90066920,Samsung Z Fold7 Clear Magnet Case Clear,79.00,44.65,31,GP-FFF966YCATW,4897138060497
-90066925,Samsung Z Fold7 Capella Magnet Case Frost Black,129.00,72.91,28,GP-FPF966PGBTW,8800283303582
+90066925,Samsung Z Fold7 Capella Magnet Case Frost Black,129.00,72.91,27,GP-FPF966PGBTW,8800283303582
 90066930,Samsung Z Fold7 ThinFit Magnet Case Black,129.00,72.91,0,GP-FPF966PGABW,8800283303506
 90066935,Samsung Z Flip7 FE Silicone Case with Ring Black,69.00,39.00,4,EF-PF741TBEGWW,8806097503705
 90067595,Zagg iPhone 17 Pro/18 Pro Santa Cruz Snap Jet Black,69.95,36.28,0,702320851,840390377937
@@ -905,6 +905,7 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 90067185,Otterbox iPhone Air React Clear,59.95,24.60,0,77-99278,840434730124
 90067190,Otterbox iPhone Air React Pink,59.95,24.60,0,77-98614,840434715923
 90067195,Otterbox iPhone Air React Stardust,59.95,24.60,0,77-99279,840434730148
+90067215,Otterbox iPhone 17 React Pink,59.95,24.60,3,77-98594,840434715527
 90067225,Otterbox iPh 17 Pro Max/18 PM React Black/Clear,59.95,24.60,0,77-98651,840434716661
 90067230,Otterbox iPh 17 Pro Max/18 PM React Black,59.95,24.60,0,77-99290,840434730421
 90067235,Otterbox iPh 17 Pro Max/18 PM React Clear,59.95,24.60,0,77-99282,840434730209
@@ -1022,6 +1023,8 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 90076485,Zagg iPhone 18 Pro/17 Pro Rainier Snap Kickstand + CCB Black/Clear,109.95,62.15,121,702322327,840390392831
 90076865,Zagg iPhone 18 Pro Max/17 PM Rainier Snap Kickstand + CCB Black/Clear,109.95,62.15,43,702322328,840390392848
 90077580,Otterbox iPhone Duo Defender Pro XT Black,149.95,84.60,237,77-001000,840434775286
+90077630,Otterbox iPhone 18 Pro Defender Pro Purple,129.95,67.80,0,77-000955,840434774876
+90077635,Otterbox iPhone 18 Pro Defender Pro Black,129.95,67.80,0,77-000938,840434774722
 90077645,Otterbox iPhone 18 Pro/17 Pro Defender Pro XT Clear/Black,129.95,67.80,554,77-000978,840434775088
 90077690,Otterbox iPhone 18 Pro/17 Pro Lumen Black,89.95,46.93,94,77-001170,840434776931
 90077705,Otterbox iPhone 18 Pro/17 Pro Lumen Clear Clear,89.95,46.93,288,77-001114,840434776399
@@ -1029,6 +1032,8 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 90077755,Otterbox iPhone 18 Pro/17 Pro Symmetry Stand Clear/Purple,109.95,57.40,190,77-001218,840434777419
 90077760,Otterbox iPhone 18 Pro/17 Pro Symmetry Stand Clear/Black,109.95,57.40,262,77-001206,840434777297
 90077765,Otterbox iPhone 18 Pro/17 Pro Symmetry Stand Clear/Blue,109.95,57.40,180,77-001212,840434777358
+90077795,Otterbox iPhone 18 Pro Max Defender Pro Purple,129.95,67.80,0,77-000975,840434775057
+90077800,Otterbox iPhone 18 Pro Max Defender Pro Black,129.95,67.80,0,77-000958,840434774906
 90077810,Otterbox iPh 18 Pro Max/17 PM Defender Pro XT Clear/Black,129.95,67.80,335,77-000989,840434775187
 90077855,Otterbox iPh 18 Pro Max/17 PM Lumen Black,89.95,46.93,176,77-001176,840434776993
 90077870,Otterbox iPh 18 Pro Max/17 PM Lumen Clear Clear,89.95,46.93,146,77-001142,840434776672
@@ -1288,9 +1293,9 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 90072190,Zagg Samsung S26+ Glass Elite Screen Protector Clear,49.95,23.86,30,200121078,840390380371
 90072195,Zagg Samsung S26 Ultra Glass Elite Screen Protector Clear,49.95,23.86,122,200121079,840390380388
 90072210,Zagg Samsung S26 Ultra Glass XTR Screen Protector Clear,69.95,33.45,463,200121087,840390380463
-90072230,Zagg Samsung S26 Glass+ ISIM Screen Protector Clear - 5pk,34.95,15.96,134,200121553,840390385116
+90072230,Zagg Samsung S26 Glass+ ISIM Screen Protector Clear - 5pk,34.95,15.96,130,200121553,840390385116
 90072235,Zagg Samsung S26+ Glass+ ISIM Screen Protector Clear - 5pk,34.95,15.96,590,200121554,840390385123
-90072240,Zagg Samsung S26 Ultra Glass+ ISIM Screen Protector Clear - 5pk,34.95,15.96,2014,200121555,840390385130
+90072240,Zagg Samsung S26 Ultra Glass+ ISIM Screen Protector Clear - 5pk,34.95,15.96,2010,200121555,840390385130
 90072245,Zagg Samsung S26 XTR ISIM Screen Protector Clear - 5pk,69.95,31.96,15,200121583,840390385406
 90072260,Zagg iPhone 17 Pro Max/18 PM Glass+ Screen Protector Clear,29.95,11.20,2,200118703,840390356741
 90072265,Zagg iPhone 17 Pro/18 Pro Glass+ Screen Protector Clear,29.95,11.20,0,200118702,840390356734
@@ -1358,7 +1363,7 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 90063555,Zagg Samsung S24FE Lens Protector - Black Ring Clear,34.95,21.27,0,200116584,840390334312
 90066505,Zagg Samsung Flip7 Camera Rings Black,29.95,15.63,0,200119739,840390366856
 90066530,Zagg Samsung Fold7 Camera Rings Black,29.95,15.63,0,200119741,840390366870
-90067535,Zagg iPhone 17 Glass Camera Rings Black,29.95,18.23,121,200118678,840390356499
+90067535,Zagg iPhone 17 Glass Camera Rings Black,29.95,18.23,120,200118678,840390356499
 90067555,Zagg iPhone Air Glass Camera Rings Black,29.95,18.23,0,200118679,840390356505
 90067575,Zagg iPhone 17 Pro/Pro Max Glass Camera Rings Black,29.95,18.23,1,200118680,840390356512
 90072170,Zagg Samsung S26 Glass Elite Camera Rings Black,34.95,22.34,101,200121129,840390380876
@@ -1373,7 +1378,7 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 90068290,Creative Live!Cam 4K Webcam Black,149.95,95.19,17,73VF099000000,5390660196706
 90024915,Creative Pebble 2.0 Speaker USB - Black,54.95,34.88,61,51MF1680AA000,054651192027
 90024920,Creative Pebble 2.0 Speaker USB - White,54.95,34.88,45,51MF1680AA001,054651192133
-90027660,Creative Pebble Plus 2.1 Speaker USB Black,99.95,60.84,53,51MF0480AA000,054651192454
+90027660,Creative Pebble Plus 2.1 Speaker USB Black,99.95,60.84,52,51MF0480AA000,054651192454
 90032875,Creative Pebble V2 USB-C Powered Speaker Black,69.95,44.40,31,51MF1695AA000,54651192935
 90052105,Creative Katana V2X Gaming Soundbar with Subwoofer Black,559.95,355.45,0,51MF8400AA001,054651195387
 90071460,Soundcore Select 4 Go Bluetooth Speaker Black,59.00,33.35,8,A31X1012,194644249007
@@ -1493,7 +1498,7 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 90043235,Samsung Charging Wireless Duo 15W Black,149.00,97.17,0,EP-P5400TBEGAU,8806092978720
 90043240,Samsung Charging Wireless Single Pad 15W Black,99.00,64.57,0,EP-P2400TBEGAU,8806092978652
 90043265,Samsung Charging Fast Car Charger Duo 40W Black,49.00,31.96,0,EP-L4020NBEGWW,8806094000764
-90055620,Samsung 25W Charger Type C (no cable) Compact Black,35.00,22.83,2233,EP-T2510NBEGAU,8806094912135
+90055620,Samsung 25W Charger Type C (no cable) Compact Black,35.00,22.83,2083,EP-T2510NBEGAU,8806094912135
 90055625,Samsung 25W Compact Charger Type C (no cable) White,35.00,22.83,0,EP-T2510NWEGAU,8806094912098
 90058328,Samsung Charging Dual Car Charger MicroUSB Black,49.95,30.40,2,113017,8806088426402
 90058965,Samsung 45W Charger With Cable Black,74.00,48.26,180,EP-T4511XBEGAU,8806095611921
@@ -1560,7 +1565,7 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 90076175,Mophie 5K Snap+ Mag Powerstation Mini Rose Gold,69.95,39.51,0,401120520,840390374578
 90076180,Mophie 20K Powerbank Power Boost Pro 1C2A Black,89.95,46.95,3,401121037,840390379948
 90076245,Mophie 20k Powerbank Power Boost PD 1C2A 15W/12W White,89.95,50.85,2,401121046,840390380036
-90077050,Mophie 10k Powerbank Power Boost PD 1C1A 15W/12W Black,69.95,36.50,5,401121036,840390379931
+90077050,Mophie 10k Powerbank Power Boost PD 1C1A 15W/12W Black,69.95,36.50,0,401121036,840390379931
 90077180,Mophie 10k Powerstation Plus 30W USB C, 18W LTG Black,119.95,67.70,11,401114384,840390312136
 90024291,Emtec MicroSD Memory Card 16GB Class 10 With SD Adapter Gold,12.99,6.48,0,ECMSDM16GHC10GP,3126170112910
 90024392,Emtec MicroSD Memory Card 32GB Class 10 With SD Adapter Gold,29.95,19.01,1539,ECMSDM32GHC10GP,3126170112941
@@ -1675,7 +1680,7 @@ Item Code,Item Description,RRP,Unit Price,Stock on Hand,Supplier Stock Code,GTIN
 90069770,Zagg Samsung A07/A08 Bundle Case and Screen Protector Clear,59.95,31.50,27,700521063,840390380227
 90069775,Zagg Samsung A17/A18 Bundle Case and Screen Protector Clear,59.95,31.50,17,700520701,840390376466
 90069780,Zagg Samsung S25 FE Bundle Case and Screen Protector Clear,59.95,31.50,0,700520702,840390376473
-90072120,Zagg Samsung S26 Ultra Premium 3-in-1 Bundle Clear,129.95,67.80,106,700521546,840390385048
+90072120,Zagg Samsung S26 Ultra Premium 3-in-1 Bundle Clear,129.95,67.80,23,700521546,840390385048
 90072135,Zagg Samsung S26 Ultra Premium Smart Bundle Clear,259.00,153.71,31,700621549,840390385079
 90073890,Zagg Samsung A27 Bundle Case and Screen Protector Clear,59.95,31.80,190,700521887,840390388476
 90078280,Zagg iPhone 18 Pro Premium Protect Bundle Clear,129.95,62.17,123,700522741,840390396662
